@@ -1,0 +1,8 @@
+[
+    {
+        "name": "",
+        "type": "",
+        "enabled": true,
+        "morph": "{EntityData:{AbsorptionAmount:0.0f,ForgeCaps:{\"llibrary:extendedentitydatacapability\":{\"Ice And Fire - Siren Property Tracker\":{CharmedBySiren:0b,SirenID:0},\"Ice And Fire - Frozen Property Tracker\":{TicksUntilUnfrozen:0,IsFrozen:0b},\"Ice and Fire - Player Property Tracker\":{DismountedDragon:0b,GauntletDamage:0,DreadPortalZ:0,DreadPortalY:0,DreadPortalX:0},\"Ice And Fire - Chain Property Tracker\":{ConnectedEntities:[]},\"Ice And Fire - Stone Property Tracker\":{StoneBreakLvl:0,TurnedToStone:0b}}},PersistenceRequired:1b,UpdateBlocked:0b},Settings:{Hands:1b,HP:25,Hostile:1b},Name:\"medieval_craft:yelow_archers\"}"
+    }
+]
