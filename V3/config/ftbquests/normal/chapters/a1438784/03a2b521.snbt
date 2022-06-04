@@ -31,10 +31,5 @@
 		type: "item",
 		item: "atum:khnumite",
 		count: 2
-	},
-	{
-		uid: "98c03e5c",
-		type: "item",
-		item: "chancecubes:chance_cube"
 	}]
 }

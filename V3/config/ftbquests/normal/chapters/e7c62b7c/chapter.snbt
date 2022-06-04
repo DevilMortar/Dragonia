@@ -1,0 +1,15 @@
+{
+	title: "Legendary Quest",
+	icon: {
+		id: "twilightforest:fiery_sword",
+		tag: {
+			ench: [{
+				lvl: 2s,
+				id: 20
+			}]
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

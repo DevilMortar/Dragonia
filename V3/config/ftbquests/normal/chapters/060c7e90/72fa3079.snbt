@@ -1,18 +1,18 @@
 {
-	x: 3.0d,
-	y: -2.0d,
+	x: -2.5d,
+	y: 0.0d,
 	dependencies: [
-		"01c57f91"
+		"aa64e1f7"
 	],
 	tasks: [{
-		uid: "1fc12c9c",
+		uid: "e0ed1553",
 		type: "item",
 		items: [{
-			item: "tropicraft:azurite"
+			item: "t3s4ebw:magic_seed"
 		}]
 	}],
 	rewards: [{
-		uid: "0aa40508",
+		uid: "e5e0453e",
 		type: "ftbmoney:money",
 		ftb_money: 40L
 	}]

@@ -22,10 +22,5 @@
 		type: "item",
 		item: "minecraft:ender_pearl",
 		count: 3
-	},
-	{
-		uid: "4045198a",
-		type: "item",
-		item: "chancecubes:chance_cube"
 	}]
 }

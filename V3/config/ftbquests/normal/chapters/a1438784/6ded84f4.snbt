@@ -11,13 +11,6 @@
 		value: 10L
 	}],
 	rewards: [{
-		uid: "11bef3f4",
-		type: "item",
-		team_reward: false,
-		item: "chancecubes:chance_cube",
-		random_bonus: 3
-	},
-	{
 		uid: "e259ed95",
 		type: "ftbmoney:money",
 		ftb_money: 100L

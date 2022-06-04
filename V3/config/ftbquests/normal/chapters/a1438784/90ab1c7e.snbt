@@ -34,10 +34,5 @@
 		type: "item",
 		item: "atum:coin_gold",
 		count: 5
-	},
-	{
-		uid: "ee6e7681",
-		type: "item",
-		item: "chancecubes:chance_cube"
 	}]
 }

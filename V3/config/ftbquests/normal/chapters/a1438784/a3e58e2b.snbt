@@ -17,11 +17,6 @@
 		ftb_money: 50L
 	},
 	{
-		uid: "6ce37af3",
-		type: "item",
-		item: "chancecubes:chance_cube"
-	},
-	{
 		uid: "2c2492a9",
 		type: "item",
 		item: "minecraft:gold_ingot",
