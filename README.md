@@ -14,7 +14,7 @@ Dragonia is an 1.12.2 modpack for Minecraft, based on the [Minecraft Forge](http
 
 ## ➜ Universe and Lore
 
-In a fantasy world where war rages and dragons roar, a few brave humans attempt to restore peace and rebuild a place where death is no longer to be feared. 
+In a fantasy world where war rage and dragons roar, a few brave humans attempt to restore peace and rebuild a place where death is no longer to be feared. 
 Explore vast, rich and varied biomes, visit dungeons and mysterious places, fight many hostile creatures, tame creatures of all types, found your empire and become the most powerful lord of Dragonia.
 
 ## ➜ Installation
