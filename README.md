@@ -1,10 +1,10 @@
 # Dragonia
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)](#introduction)
 
-# Introduction
+## Introduction
 Dragonia is an 1.12.2 modpack for Minecraft, based on the [Minecraft Forge](https://minecraftforge.net/) modding API. It is a collection of mods that are designed to be used together. 
 
-# ➜ Features
+## ➜ Features
 - Fantasy/Medieval
 - Epic Combat
 - Exploration
@@ -12,18 +12,18 @@ Dragonia is an 1.12.2 modpack for Minecraft, based on the [Minecraft Forge](http
 - Magic
 - Automation
 
-# ➜ Universe and Lore
+## ➜ Universe and Lore
 
 In a fantasy world where war rages and dragons roar, a few brave humans attempt to restore peace and rebuild a place where death is no longer to be feared. 
 Explore vast, rich and varied biomes, visit dungeons and mysterious places, fight many hostile creatures, tame creatures of all types, found your empire and become the most powerful lord of Dragonia.
 
-# ➜ Installation
+## ➜ Installation
 
-## Requirements
+### Requirements
 
 To use Dragonia, you need to have the [Minecraft Forge](https://minecraftforge.net/) modding API installed. Go to the [Minecraft Forge](https://minecraftforge.net/) website and download the [latest version](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) for 1.12.2.
 
-## Installation
+### Installation
 Dragonia modpack is pretty simple to install. Follow the instructions below.
 
 1. Download the [latest version](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) for 1.12.2.
@@ -39,7 +39,7 @@ Dragonia modpack is pretty simple to install. Follow the instructions below.
 11. Launch Minecraft launcher. You will see the forge version in the bottom left corner. Select it and click on "Play".
 12. Dragonia is now installed and ready to use !
 
-# ➜ Author
+## ➜ Authors
 
 | [<img alt="Mathias CITRINI" src="https://avatars.githubusercontent.com/u/29785323?v=4" width="100">](https://github.com/DevilMortar) | [<img alt="Corentin THIBAUD" src="https://avatars.githubusercontent.com/u/74668473?v=4" width="100">](https://github.com/corentinthibaud) | [<img alt="Rémi VASSOILLE" src="https://avatars.githubusercontent.com/u/78744690?v=4" width="100">](https://github.com/Remi-Vassoille) |
 :------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
