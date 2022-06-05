@@ -23,21 +23,22 @@ Explore vast, rich and varied biomes, visit dungeons and mysterious places, figh
 
 To use Dragonia, you need to have the [Minecraft Forge](https://minecraftforge.net/) modding API installed. Go to the [Minecraft Forge](https://minecraftforge.net/) website and download the [latest version](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) for 1.12.2.
 
-### Installation
-Dragonia modpack is pretty simple to install. Follow the instructions below.
-
 1. Download the [latest version](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) for 1.12.2.
 2. Execute by right-clicking on the downloaded file and selecting "Run as administrator". 
 3. Choose "client version" and the path where to install forge, and then click on "Install". Wait until the installation is complete.
 4. Launch Minecraft launcher. You will see the forge version in the bottom left corner. Select it and click on "Play".
 5. After the game is launched entirely, shut down the game.
-6. Now press the key `Win+R` to open the "Execute" dialog. Type `%appdata%` and select the `.minecraft` folder.
-7. Delete `mods`, `configs` and `bin` from the .minecraft folder.
-8. Download the latest version of Dragonia modpack.
-9. Extract the contents of the zip file to the .minecraft folder.
-10. Drag and drop all the content into the .minecraft folder.
-11. Launch Minecraft launcher. You will see the forge version in the bottom left corner. Select it and click on "Play".
-12. Dragonia is now installed and ready to use !
+
+### Installation
+Dragonia modpack is pretty simple to install. Follow the instructions below.
+
+1. Now press the key `Win+R` to open the "Execute" dialog. Type `%appdata%` and select the `.minecraft` folder.
+2. Delete `mods`, `configs` and `bin` from the .minecraft folder.
+3. Download the latest version of Dragonia modpack.
+4. Extract the contents of the zip file to the .minecraft folder.
+5. Drag and drop all the content into the .minecraft folder.
+6. Launch Minecraft launcher. You will see the forge version in the bottom left corner. Select it and click on "Play".
+7. Dragonia is now installed and ready to use !
 
 ## ➜ Authors
 
