@@ -28,6 +28,7 @@ To use Dragonia, you need to have the [Minecraft Forge](https://minecraftforge.n
 3. Choose "client version" and the path where to install forge, and then click on "Install". Wait until the installation is complete.
 4. Launch Minecraft launcher. You will see the forge version in the bottom left corner. Select it and click on "Play".
 5. After the game is launched entirely, shut down the game.
+6. Forge is now installed !
 
 ### Installation
 Dragonia modpack is pretty simple to install. Follow the instructions below.
