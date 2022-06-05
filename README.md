@@ -1,7 +1,7 @@
 # Dragonia
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)](#introduction)
 
-## Introduction
+## ➜ Introduction
 Dragonia is an 1.12.2 modpack for Minecraft, based on the [Minecraft Forge](https://minecraftforge.net/) modding API. It is a collection of mods that are designed to be used together. 
 
 ## ➜ Features
