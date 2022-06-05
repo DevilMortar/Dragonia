@@ -28,7 +28,7 @@ Dragonia modpack is pretty simple to install. Follow the instructions below.
 
 1. Download the [latest version](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) for 1.12.2.
 2. Execute by right-clicking on the downloaded file and selecting "Run as administrator". 
-3. Choose "client version" and the path where install forge, and then click on "Install". Wait until the installation is complete.
+3. Choose "client version" and the path where to install forge, and then click on "Install". Wait until the installation is complete.
 4. Launch Minecraft launcher. You will see the forge version in the bottom left corner. Select it and click on "Play".
 5. After the game is launched entirely, shut down the game.
 6. Now press the key `Win+R` to open the "Execute" dialog. Type `%appdata%` and select the `.minecraft` folder.
