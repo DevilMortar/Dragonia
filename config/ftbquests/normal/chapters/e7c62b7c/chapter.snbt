@@ -1,14 +1,6 @@
 {
 	title: "Legendary Quest",
-	icon: {
-		id: "twilightforest:fiery_sword",
-		tag: {
-			ench: [{
-				lvl: 2s,
-				id: 20
-			}]
-		}
-	},
+	icon: "iceandfire:dragonbone_sword_fire",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

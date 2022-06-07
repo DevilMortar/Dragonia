@@ -1,6 +1,6 @@
 {
 	title: "Marathon Runner",
-	icon: "uniquecrops:bootsleague",
+	icon: "harvestcraft:hardenedleatherbootsitem",
 	x: -0.5d,
 	y: -0.5d,
 	description: "Level I",
