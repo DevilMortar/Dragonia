@@ -30,6 +30,10 @@ To use Dragonia, you need to have the [Minecraft Forge](https://minecraftforge.n
 5. After the game is launched entirely, shut down the game.
 6. Forge is now installed !
 
+### Optimization
+
+To improve your game experience, go to the minecraft launcher and click on `Configurations`. Click on the `...` at the left of the forge version. Click on `edit`, then `more options`, and replace the launching arguments by `-Xmx8G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M`.
+
 ### Installation
 Dragonia modpack is pretty simple to install. Follow the instructions below.
 
