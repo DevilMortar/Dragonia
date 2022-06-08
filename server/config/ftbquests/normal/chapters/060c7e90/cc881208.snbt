@@ -1,0 +1,15 @@
+{
+	title: "BookMaster",
+	x: -1.0d,
+	y: 3.5d,
+	dependencies: [
+		"12500436"
+	],
+	tasks: [{
+		uid: "c65d256c",
+		type: "item",
+		items: [{
+			item: "ebwizardry:oak_bookshelf"
+		}]
+	}]
+}
