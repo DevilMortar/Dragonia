@@ -1,16 +1,16 @@
 {
   "levels": [
     11,
-    17,
-    29,
-    37,
-    41
+    12,
+    13,
+    14,
+    15
   ],
   "prerequisites": [
     "levelup:stealth"
   ],
   "column": 3,
   "row": 1,
-  "enabled": true,
-  "active": true
+  "enabled": false,
+  "active": false
 }

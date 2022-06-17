@@ -1,0 +1,21 @@
+{
+	x: 1.0d,
+	y: 4.0d,
+	description: "Level 2",
+	dependencies: [
+		"916d0cbf"
+	],
+	tasks: [{
+		uid: "03174875",
+		type: "stat",
+		title: "Berserker",
+		icon: "heroicarmory:gowbladeofchaos",
+		stat: "stat.damageDealt",
+		value: 200000
+	}],
+	rewards: [{
+		uid: "f8dae963",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

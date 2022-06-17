@@ -1,6 +1,6 @@
 {
 	x: 4.0d,
-	y: -0.5d,
+	y: 2.5d,
 	description: "Level 1",
 	tasks: [{
 		uid: "eeddf517",

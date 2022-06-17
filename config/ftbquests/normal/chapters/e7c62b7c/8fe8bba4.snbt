@@ -1,8 +1,8 @@
 {
 	title: "Marathon Runner",
 	icon: "harvestcraft:hardenedleatherbootsitem",
-	x: -0.5d,
-	y: -0.5d,
+	x: -2.0d,
+	y: 2.5d,
 	description: "Level I",
 	tasks: [{
 		uid: "dd2c7c17",

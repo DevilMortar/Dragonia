@@ -1,10 +1,10 @@
 {
   "levels": [
     15,
-    25,
+    20,
+    30,
     35,
-    45,
-    60
+    40
   ],
   "prerequisites": [
     "levelup:stonecutting"

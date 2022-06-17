@@ -1,0 +1,26 @@
+{
+	x: -0.5d,
+	y: 4.0d,
+	dependencies: [
+		"8fe8bba4",
+		"916d0cbf"
+	],
+	tasks: [{
+		uid: "1ddd11ec",
+		type: "stat",
+		title: "Boing, Boing ...",
+		icon: {
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "magmaslime"
+			}
+		},
+		stat: "stat.jump",
+		value: 1000000
+	}],
+	rewards: [{
+		uid: "33fde242",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

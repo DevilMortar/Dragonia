@@ -1,0 +1,21 @@
+{
+	title: "Survivor",
+	icon: "quark:diamond_heart",
+	x: 2.5d,
+	y: 2.5d,
+	description: "Level II",
+	dependencies: [
+		"2585845e"
+	],
+	tasks: [{
+		uid: "66b60d8e",
+		type: "stat",
+		stat: "stat.timeSinceDeath",
+		value: 300000
+	}],
+	rewards: [{
+		uid: "13aed3c0",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

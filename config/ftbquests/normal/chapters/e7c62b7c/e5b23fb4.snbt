@@ -1,0 +1,22 @@
+{
+	title: "Marathon Runner",
+	icon: "thaumcraft:traveller_boots",
+	x: -0.5d,
+	y: 2.5d,
+	description: "Level 2",
+	dependencies: [
+		"8fe8bba4"
+	],
+	tasks: [{
+		uid: "01912a3d",
+		type: "stat",
+		icon: "thaumcraft:traveller_boots",
+		stat: "stat.walkOneCm",
+		value: 5000000
+	}],
+	rewards: [{
+		uid: "7961b096",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

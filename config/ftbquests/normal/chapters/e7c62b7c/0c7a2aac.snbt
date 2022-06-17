@@ -1,0 +1,21 @@
+{
+	x: 1.0d,
+	y: 1.0d,
+	description: "Level 1",
+	dependencies: [
+		"e1468243"
+	],
+	tasks: [{
+		uid: "74d20830",
+		type: "stat",
+		title: "Prime Killer",
+		icon: "heroicarmory:lozgildedsword",
+		stat: "stat.mobKills",
+		value: 3000
+	}],
+	rewards: [{
+		uid: "969efa7d",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

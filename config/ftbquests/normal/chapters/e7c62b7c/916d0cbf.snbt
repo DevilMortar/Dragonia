@@ -1,0 +1,19 @@
+{
+	x: 1.0d,
+	y: 5.5d,
+	description: "Level 1",
+	tasks: [{
+		uid: "3e78a9a1",
+		type: "stat",
+		title: "Berserker",
+		icon: "heroicarmory:gowbladeofchaos",
+		disable_toast: true,
+		stat: "stat.damageDealt",
+		value: 50000
+	}],
+	rewards: [{
+		uid: "7e544933",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

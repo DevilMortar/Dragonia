@@ -1,0 +1,37 @@
+{
+	title: "The Walking Dead",
+	icon: "thaumcraft:brain",
+	x: 0.5d,
+	y: 0.5d,
+	shape: "pentagon",
+	description: "Kill zombies and earn gifts !",
+	can_repeat: true,
+	size: 3.0d,
+	optional: true,
+	tasks: [{
+		uid: "9b08fa5b",
+		type: "kill",
+		title: "Kill 10 zombies",
+		icon: "thaumcraft:brain",
+		entity: "minecraft:zombie",
+		value: 10L
+	}],
+	rewards: [{
+		uid: "62b7b9de",
+		type: "ftbmoney:money",
+		ftb_money: 10L,
+		random_bonus: 10
+	},
+	{
+		uid: "3586ce97",
+		type: "loot",
+		title: "Zombie Box",
+		icon: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "warrior"
+			}
+		},
+		table: 17
+	}]
+}

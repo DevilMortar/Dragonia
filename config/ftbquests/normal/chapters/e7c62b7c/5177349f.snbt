@@ -1,0 +1,21 @@
+{
+	x: 2.5d,
+	y: 1.0d,
+	dependencies: [
+		"e1468243",
+		"2585845e"
+	],
+	tasks: [{
+		uid: "078f3150",
+		type: "stat",
+		title: "Time Played",
+		icon: "sereneseasons:season_clock",
+		stat: "stat.playOneMinute",
+		value: 10000000
+	}],
+	rewards: [{
+		uid: "9effad18",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

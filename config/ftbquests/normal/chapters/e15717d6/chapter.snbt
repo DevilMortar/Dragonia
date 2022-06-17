@@ -1,0 +1,6 @@
+{
+	title: "Tinker Construct",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

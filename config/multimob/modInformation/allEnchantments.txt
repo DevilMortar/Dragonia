@@ -149,10 +149,10 @@ charm:homing
 charm:magnetic
 vtweaks:lumbering
 vtweaks:imperishable
+vt:vigor
 vt:veteran
 vt:nimble
 vt:siphon
-vt:vigor
 vt:homing
 aquaculture:appealing
 aquaculture:magnetic

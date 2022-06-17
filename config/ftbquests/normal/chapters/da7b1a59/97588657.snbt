@@ -1,0 +1,28 @@
+{
+	disable_toast: true,
+	x: 1.5d,
+	y: 0.0d,
+	shape: "gear",
+	can_repeat: true,
+	tasks: [{
+		uid: "5703eed9",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:coin",
+			tag: {
+				metal: "silver"
+			}
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "1613d3ba",
+		type: "item",
+		item: {
+			id: "ancientwarfarenpc:coin",
+			tag: {
+				metal: "gold"
+			}
+		}
+	}]
+}

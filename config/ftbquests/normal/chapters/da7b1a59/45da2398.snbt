@@ -1,0 +1,22 @@
+{
+	disable_toast: true,
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	can_repeat: true,
+	tasks: [{
+		uid: "d48e387e",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:coin",
+			tag: {
+				metal: "gold"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "1efdc9b9",
+		type: "ftbmoney:money",
+		ftb_money: 1L
+	}]
+}

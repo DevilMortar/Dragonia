@@ -1,6 +1,11 @@
 {
-	title: "Farmer Quest",
-	icon: "minecraft:wheat",
+	title: "Bank",
+	icon: {
+		id: "ancientwarfarenpc:coin",
+		tag: {
+			metal: "gold"
+		}
+	},
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

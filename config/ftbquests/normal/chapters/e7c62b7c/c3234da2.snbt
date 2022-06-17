@@ -1,0 +1,45 @@
+{
+	x: 1.0d,
+	y: 2.5d,
+	dependencies: [
+		"9623c3c8",
+		"b567dc74",
+		"6cecde69",
+		"0c7a2aac",
+		"e5b23fb4",
+		"af7a8465"
+	],
+	tasks: [{
+		uid: "e012c26b",
+		type: "stat",
+		title: "Master",
+		icon: "heroicarmory:lozdemisesword",
+		stat: "stat.mobKills",
+		value: 10000
+	},
+	{
+		uid: "8e2ed32c",
+		type: "stat",
+		icon: "thaumcraft:traveller_boots",
+		stat: "stat.walkOneCm",
+		value: 10000000
+	},
+	{
+		uid: "5f3ab64c",
+		type: "stat",
+		icon: "quark:diamond_heart",
+		stat: "stat.timeSinceDeath",
+		value: 1000000
+	},
+	{
+		uid: "36bd7f07",
+		type: "stat",
+		stat: "stat.damageDealt",
+		value: 500000
+	}],
+	rewards: [{
+		uid: "7f815040",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}
