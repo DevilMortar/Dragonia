@@ -1,6 +1,6 @@
 {
   "name": "lobber",
-  "creatureType": "brute",
+  "creatureType": "golem",
   "groups": [
     "inferno"
   ],
@@ -46,6 +46,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#330011",
   "eggForeColor": "#FF5500",
   "subspecies": [
@@ -113,7 +114,8 @@
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 1,
-      "variant": 3
+      "variant": 3,
+      "bonusAmount": false
     }
   ],
   "sizeScale": 1,

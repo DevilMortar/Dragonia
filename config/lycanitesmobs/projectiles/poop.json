@@ -31,5 +31,9 @@
   "pierceBlocks": false,
   "glow": false,
   "rollSpeed": 2,
+  "particleCount": 1,
+  "particleType": "fallingdust",
+  "waterParticleType": "bubble",
+  "animationFrames": 4,
   "chargeFertilizer": true
 }

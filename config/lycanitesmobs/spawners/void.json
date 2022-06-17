@@ -6,7 +6,7 @@
   "mobCountMin": 1,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
-  "ignoreLightLevel": true,
+  "ignoreLightLevel": false,
   "conditions": [],
   "triggers": [
     {

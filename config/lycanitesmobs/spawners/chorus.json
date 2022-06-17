@@ -18,7 +18,7 @@
         "minecraft:chorus_plant",
         "minecraft:chorus_flower"
       ],
-      "chance": 0.2
+      "chance": 0.05
     }
   ],
   "locations": [

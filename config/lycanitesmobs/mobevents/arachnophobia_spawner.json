@@ -49,10 +49,6 @@
     {
       "mobId": "lycanitesmobs:tarantula",
       "weight": 8
-    },
-    {
-      "mobId": "lycanitesmobs:trite",
-      "weight": 8
     }
   ]
 }

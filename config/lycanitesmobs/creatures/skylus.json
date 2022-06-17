@@ -42,7 +42,7 @@
   "health": 20,
   "defense": 1,
   "armor": 0,
-  "speed": 16,
+  "speed": 28,
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
@@ -51,6 +51,7 @@
   "pierce": 1,
   "sight": 32,
   "knockbackResistance": 0.5,
+  "bagSize": 5,
   "eggBackColor": "#FFCCDD",
   "eggForeColor": "#BB2299",
   "subspecies": [

@@ -129,12 +129,9 @@
       "dungeonBoss": true,
       "mobDrops": [
         {
-          "item": "lycanitesmobs:poopscepter",
-          "amountMultiplier": false
-        },
-        {
           "item": "lycanitesmobs:soulstone_plant",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
@@ -158,7 +155,8 @@
         },
         {
           "item": "lycanitesmobs:soulstone_avian",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
@@ -175,17 +173,14 @@
       "dungeonBoss": true,
       "mobDrops": [
         {
-          "item": "lycanitesmobs:arcanelaserstormscepter",
-          "amountMultiplier": false
-        },
-        {
           "item": "minecraft:diamond",
           "minAmount": 50,
           "amountMultiplier": false
         },
         {
           "item": "lycanitesmobs:soulstone_aberration",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     }

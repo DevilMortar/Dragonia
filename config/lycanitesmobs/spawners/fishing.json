@@ -17,7 +17,7 @@
   ],
   "locations": [
     {
-      "type": "random",
+      "type": "block",
       "rangeMin": [
         0,
         0,
@@ -31,7 +31,6 @@
       "sorting": "near",
       "limit": 1,
       "blocks": [
-        "minecraft:air",
         "minecraft:water"
       ],
       "listType": "whitelist",

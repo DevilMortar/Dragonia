@@ -25,5 +25,6 @@
   "ripper": true,
   "pierceBlocks": false,
   "glow": true,
-  "rollSpeed": 4
+  "rollSpeed": 4,
+  "animationFrames": 4
 }

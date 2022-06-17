@@ -120,7 +120,7 @@
       "mobId": "lycanitesmobs:crusk",
       "weight": 1,
       "variant": 1,
-      "mobNameTag": "Graboid",
+      "mobNameTag": "Gilded Greatworm",
       "mobSizeScale": 3,
       "naturalDespawn": "false",
       "mobLevel": 25,
@@ -130,12 +130,9 @@
       "dungeonBoss": true,
       "mobDrops": [
         {
-          "item": "lycanitesmobs:scorchfirescepter",
-          "amountMultiplier": false
-        },
-        {
           "item": "lycanitesmobs:soulstone_worm",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
@@ -153,28 +150,25 @@
       "dungeonBoss": true,
       "mobDrops": [
         {
-          "item": "lycanitesmobs:clinkscythe",
-          "amountMultiplier": false
-        },
-        {
           "item": "minecraft:diamond",
           "minAmount": 10,
           "amountMultiplier": false
         },
         {
           "item": "lycanitesmobs:soulstone_imp",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
     {
-      "mobId": "lycanitesmobs:ignibus",
+      "mobId": "lycanitesmobs:zoataur",
       "weight": 1,
       "variant": 1,
-      "mobSizeScale": 1.1,
-      "mobNameTag": "The Tyrant Dragon",
+      "mobSizeScale": 2,
+      "mobNameTag": "The Guardian Dragon",
       "naturalDespawn": "false",
-      "mobLevel": 5,
+      "mobLevel": 25,
       "spawnAsBoss": true,
       "dungeonLevelMin": 5,
       "dungeonBoss": true,
@@ -185,12 +179,9 @@
           "amountMultiplier": false
         },
         {
-          "item": "lycanitesmobs:magmascepter",
-          "amountMultiplier": false
-        },
-        {
           "item": "lycanitesmobs:soulstone_dragon",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     }

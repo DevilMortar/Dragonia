@@ -134,7 +134,8 @@
         },
         {
           "item": "lycanitesmobs:soulstone_imp",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
@@ -152,17 +153,14 @@
       "dungeonBoss": true,
       "mobDrops": [
         {
-          "item": "lycanitesmobs:spectralboltscepter",
-          "amountMultiplier": false
-        },
-        {
           "item": "minecraft:diamond",
           "minAmount": 10,
           "amountMultiplier": false
         },
         {
           "item": "lycanitesmobs:soulstone_aberration",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
@@ -189,11 +187,13 @@
         },
         {
           "item": "lycanitesmobs:soulstone_undead",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         },
         {
           "item": "lycanitesmobs:soulstone_arthropod",
-          "amountMultiplier": false
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     }
