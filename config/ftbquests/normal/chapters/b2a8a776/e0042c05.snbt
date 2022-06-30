@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 299.0d,
+	description: "{id:\"spartanfire:mace_dragonbone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "17955e5e",
+		type: "item",
+		items: [{
+			item: "spartanfire:mace_dragonbone"
+		}],
+		consume_items: true
+	}]
+}

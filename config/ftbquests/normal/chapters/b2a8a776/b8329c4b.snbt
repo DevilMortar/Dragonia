@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 286.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"quark:long_haste\"},Damage:0s}",
+	tasks: [{
+		uid: "1312c7c6",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "quark:long_haste"
+			}
+		}],
+		consume_items: true
+	}]
+}

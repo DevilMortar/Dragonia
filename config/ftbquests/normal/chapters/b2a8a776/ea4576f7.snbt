@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 214.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"jungle_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "bb53bc74",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "jungle_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

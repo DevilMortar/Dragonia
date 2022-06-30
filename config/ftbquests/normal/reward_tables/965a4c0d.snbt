@@ -1,0 +1,29 @@
+{
+	title: "Miner's dream",
+	icon: "tombstone:crafting_ingredient 1 2",
+	loot_size: 5,
+	rewards: [{
+		item: "minecraft:diamond"
+	},
+	{
+		item: "minecraft:gold_ingot"
+	},
+	{
+		item: "minecraft:iron_ingot"
+	},
+	{
+		item: "minecraft:emerald"
+	},
+	{
+		item: "minecraft:cobblestone"
+	}],
+	loot_crate: {
+		string_id: "miner_s_dream",
+		color: 16777215,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
+}

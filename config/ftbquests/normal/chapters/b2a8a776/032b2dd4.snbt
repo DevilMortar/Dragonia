@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:potion_ring\",Count:1b,tag:{Potion:\"minecraft:regeneration\"},Damage:0s}",
+	tasks: [{
+		uid: "c1593ab1",
+		type: "item",
+		items: [{
+			id: "extraalchemy:potion_ring",
+			tag: {
+				Potion: "minecraft:regeneration"
+			}
+		}],
+		consume_items: true
+	}]
+}

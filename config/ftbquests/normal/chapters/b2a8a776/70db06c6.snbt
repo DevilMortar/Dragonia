@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 366.0d,
+	description: "{id:\"quark:world_stone_bricks\",Count:1b,Damage:7s}",
+	tasks: [{
+		uid: "d85123cf",
+		type: "item",
+		items: [{
+			item: "quark:world_stone_bricks 1 7"
+		}],
+		consume_items: true
+	}]
+}

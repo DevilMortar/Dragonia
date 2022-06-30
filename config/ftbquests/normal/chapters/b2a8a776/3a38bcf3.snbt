@@ -1,0 +1,21 @@
+{
+	x: 24.0d,
+	y: 264.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{effects:[{duration:750,potency:0,name:\"minecraft:hunger\"}],hasPotion:1b},Damage:0s}",
+	tasks: [{
+		uid: "bc431664",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				effects: [{
+					duration: 750,
+					potency: 0,
+					name: "minecraft:hunger"
+				}],
+				hasPotion: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

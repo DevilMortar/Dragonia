@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 172.0d,
+	description: "{id:\"dungeontactics:bomb_frag_cluster\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c253e916",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bomb_frag_cluster"
+		}],
+		consume_items: true
+	}]
+}

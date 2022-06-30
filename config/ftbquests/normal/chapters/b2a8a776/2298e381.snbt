@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 358.0d,
+	description: "{id:\"harvestcraft:carrotcake\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d7ff894a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:carrotcake"
+		}],
+		consume_items: true
+	}]
+}

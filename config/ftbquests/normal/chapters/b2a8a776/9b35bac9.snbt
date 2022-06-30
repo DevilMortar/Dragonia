@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 95.0d,
+	description: "{id:\"atum:cracked_brick_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5e008a9e",
+		type: "item",
+		items: [{
+			item: "atum:cracked_brick_wall"
+		}],
+		consume_items: true
+	}]
+}

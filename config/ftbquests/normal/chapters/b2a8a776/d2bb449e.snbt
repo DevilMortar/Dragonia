@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 374.0d,
+	description: "{id:\"quark:leaf_carpet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0e489c08",
+		type: "item",
+		items: [{
+			item: "quark:leaf_carpet"
+		}],
+		consume_items: true
+	}]
+}

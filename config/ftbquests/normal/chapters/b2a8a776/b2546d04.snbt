@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:essencefire\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "afc68f63",
+		type: "item",
+		items: [{
+			item: "mocreatures:essencefire"
+		}],
+		consume_items: true
+	}]
+}

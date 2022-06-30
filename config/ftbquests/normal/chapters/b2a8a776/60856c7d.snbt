@@ -1,0 +1,67 @@
+{
+	x: 21.0d,
+	y: 244.0d,
+	description: "{id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:1037,HarvestLevel:3,Attack:5.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:1037,HarvestLevel:3,Attack:5.6f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"unnatural\",color:-946192,level:1},{identifier:\"crumbling\",color:-946192,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"unnatural\",\"crumbling\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "6d0c82b1",
+		type: "item",
+		items: [{
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.8f,
+					FreeModifiers: 3,
+					Durability: 1037,
+					HarvestLevel: 3,
+					Attack: 5.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.8f,
+					FreeModifiers: 3,
+					Durability: 1037,
+					HarvestLevel: 3,
+					Attack: 5.6f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"knightslime",
+						"knightslime",
+						"knightslime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "unnatural",
+					color: -946192,
+					level: 1
+				},
+				{
+					identifier: "crumbling",
+					color: -946192,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"unnatural",
+					"crumbling",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

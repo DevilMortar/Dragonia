@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 62.0d,
+	description: "{id:\"betternether:stalagnate_planks_slab_half\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "89ff6e17",
+		type: "item",
+		items: [{
+			item: "betternether:stalagnate_planks_slab_half"
+		}],
+		consume_items: true
+	}]
+}

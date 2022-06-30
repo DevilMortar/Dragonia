@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 19.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"charm:ender_sight\"},Damage:0s}",
+	tasks: [{
+		uid: "f73e0620",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "charm:ender_sight"
+			}
+		}],
+		consume_items: true
+	}]
+}

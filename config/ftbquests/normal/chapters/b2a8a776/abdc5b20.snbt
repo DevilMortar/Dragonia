@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 345.0d,
+	description: "{id:\"harvestcraft:sunflowerwheatrollsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3b0bd29f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:sunflowerwheatrollsitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 292.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"potioncore:strong_slow_fall\"},Damage:0s}",
+	tasks: [{
+		uid: "036db07e",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "potioncore:strong_slow_fall"
+			}
+		}],
+		consume_items: true
+	}]
+}

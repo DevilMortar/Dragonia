@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 190.0d,
+	description: "{id:\"iceandfire:deathworm_yellow_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0620e451",
+		type: "item",
+		items: [{
+			item: "iceandfire:deathworm_yellow_helmet"
+		}],
+		consume_items: true
+	}]
+}

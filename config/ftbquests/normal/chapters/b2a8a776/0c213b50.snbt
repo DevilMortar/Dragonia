@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 49.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:wither\"},Damage:0s}",
+	tasks: [{
+		uid: "94c71901",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:wither"
+			}
+		}],
+		consume_items: true
+	}]
+}

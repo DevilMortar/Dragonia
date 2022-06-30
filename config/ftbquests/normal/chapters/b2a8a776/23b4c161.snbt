@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 62.0d,
+	description: "{id:\"betternether:netherrack_moss\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02f1f7c5",
+		type: "item",
+		items: [{
+			item: "betternether:netherrack_moss"
+		}],
+		consume_items: true
+	}]
+}

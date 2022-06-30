@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 17.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:strong_vulnerable\"},Damage:0s}",
+	tasks: [{
+		uid: "fabef62b",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:strong_vulnerable"
+			}
+		}],
+		consume_items: true
+	}]
+}

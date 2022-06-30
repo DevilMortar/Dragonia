@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 327.0d,
+	description: "{id:\"charm:record_calm1\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ed491a57",
+		type: "item",
+		items: [{
+			item: "charm:record_calm1"
+		}],
+		consume_items: true
+	}]
+}

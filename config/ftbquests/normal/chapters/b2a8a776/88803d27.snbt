@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 164.0d,
+	description: "{id:\"thaumcraft:void_robe_helm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b59184b7",
+		type: "item",
+		items: [{
+			item: "thaumcraft:void_robe_helm"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 67.0d,
+	description: "{id:\"biomesoplenty:cherry_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "34f8fcdd",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:cherry_stairs"
+		}],
+		consume_items: true
+	}]
+}

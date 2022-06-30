@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 269.0d,
+	description: "{id:\"roughtweaks:salve\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "43d7ba1d",
+		type: "item",
+		items: [{
+			item: "roughtweaks:salve"
+		}],
+		consume_items: true
+	}]
+}

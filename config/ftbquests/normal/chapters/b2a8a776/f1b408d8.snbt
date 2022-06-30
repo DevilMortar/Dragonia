@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 302.0d,
+	description: "{id:\"spartanfire:javelin_jungle_venom\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f89c644c",
+		type: "item",
+		items: [{
+			item: "spartanfire:javelin_jungle_venom"
+		}],
+		consume_items: true
+	}]
+}

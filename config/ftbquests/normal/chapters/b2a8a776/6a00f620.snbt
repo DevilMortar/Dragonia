@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:dungeon_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f0bc989e",
+		type: "item",
+		items: [{
+			item: "dungeontactics:dungeon_glass"
+		}],
+		consume_items: true
+	}]
+}

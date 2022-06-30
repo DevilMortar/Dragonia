@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 86.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"netherex:entity/pigtificate/pigtificate_brewer\"},Damage:0s}",
+	tasks: [{
+		uid: "7c29b5de",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "netherex:entity/pigtificate/pigtificate_brewer"
+			}
+		}],
+		consume_items: true
+	}]
+}

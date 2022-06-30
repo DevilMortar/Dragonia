@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 149.0d,
+	description: "{id:\"atum:loot_ruby_broach\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "824b51d6",
+		type: "item",
+		items: [{
+			item: "atum:loot_ruby_broach"
+		}],
+		consume_items: true
+	}]
+}

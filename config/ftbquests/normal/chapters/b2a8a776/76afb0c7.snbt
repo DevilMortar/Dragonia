@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 419.0d,
+	description: "{id:\"chisel:endstone2\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "82bcac57",
+		type: "item",
+		items: [{
+			item: "chisel:endstone2 1 6"
+		}],
+		consume_items: true
+	}]
+}

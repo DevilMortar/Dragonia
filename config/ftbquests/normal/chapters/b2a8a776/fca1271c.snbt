@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 370.0d,
+	description: "{id:\"quark:iron_ladder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "26a14ff8",
+		type: "item",
+		items: [{
+			item: "quark:iron_ladder"
+		}],
+		consume_items: true
+	}]
+}

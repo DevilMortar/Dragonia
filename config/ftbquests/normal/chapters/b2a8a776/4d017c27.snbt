@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:charm_famine\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7a1c379e",
+		type: "item",
+		items: [{
+			item: "dungeontactics:charm_famine"
+		}],
+		consume_items: true
+	}]
+}

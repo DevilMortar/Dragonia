@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 385.0d,
+	description: "{id:\"chisel:bookshelf_darkoak\",Count:1b,Damage:9s}",
+	tasks: [{
+		uid: "47b4950f",
+		type: "item",
+		items: [{
+			item: "chisel:bookshelf_darkoak 1 9"
+		}],
+		consume_items: true
+	}]
+}

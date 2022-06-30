@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 19.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"quark:resilience\"},Damage:0s}",
+	tasks: [{
+		uid: "ef29acc1",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "quark:resilience"
+			}
+		}],
+		consume_items: true
+	}]
+}

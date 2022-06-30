@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:crop_stake\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dc920624",
+		type: "item",
+		items: [{
+			item: "rustic:crop_stake"
+		}],
+		consume_items: true
+	}]
+}

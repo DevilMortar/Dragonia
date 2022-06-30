@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 80.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"zettaimagic:gameplay/imbuement_altar/ruined_spell_book_fire\"},Damage:0s}",
+	tasks: [{
+		uid: "6bb2d89a",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "zettaimagic:gameplay/imbuement_altar/ruined_spell_book_fire"
+			}
+		}],
+		consume_items: true
+	}]
+}

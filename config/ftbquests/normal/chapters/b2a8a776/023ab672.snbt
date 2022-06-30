@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 352.0d,
+	description: "{id:\"harvestcraft:theatreboxitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dc1343a3",
+		type: "item",
+		items: [{
+			item: "harvestcraft:theatreboxitem"
+		}],
+		consume_items: true
+	}]
+}

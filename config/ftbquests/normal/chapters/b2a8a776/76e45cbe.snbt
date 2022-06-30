@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 88.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"zettaimagic:gameplay/imbuement_altar/ruined_spell_book_ice\"},Damage:0s}",
+	tasks: [{
+		uid: "bf294a46",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "zettaimagic:gameplay/imbuement_altar/ruined_spell_book_ice"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 299.0d,
+	description: "{id:\"spartanfire:battleaxe_dragonbone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f4b1859d",
+		type: "item",
+		items: [{
+			item: "spartanfire:battleaxe_dragonbone"
+		}],
+		consume_items: true
+	}]
+}

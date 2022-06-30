@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 82.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"ancientspellcraft:entities/void_creeper\"},Damage:0s}",
+	tasks: [{
+		uid: "39ad7d79",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "ancientspellcraft:entities/void_creeper"
+			}
+		}],
+		consume_items: true
+	}]
+}

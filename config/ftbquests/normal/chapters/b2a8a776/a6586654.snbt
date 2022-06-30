@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:ring_evoker\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6da18cc0",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_evoker"
+		}],
+		consume_items: true
+	}]
+}

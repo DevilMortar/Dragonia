@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 332.0d,
+	description: "{id:\"harvestcraft:chickpeaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e362ff9e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:chickpeaitem"
+		}],
+		consume_items: true
+	}]
+}

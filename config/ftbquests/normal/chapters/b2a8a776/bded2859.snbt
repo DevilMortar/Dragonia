@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 345.0d,
+	description: "{id:\"harvestcraft:applejellyitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eeb70bb3",
+		type: "item",
+		items: [{
+			item: "harvestcraft:applejellyitem"
+		}],
+		consume_items: true
+	}]
+}

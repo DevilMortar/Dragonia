@@ -1,0 +1,74 @@
+{
+	x: 3.0d,
+	y: 249.0d,
+	description: "{id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,DrawSpeed:0.65f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:1218,HarvestLevel:4,Attack:8.72f,Range:1.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,DrawSpeed:0.65f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:1218,HarvestLevel:4,Attack:8.72f,Range:1.2f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"insatiable\",color:-6202120,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"coldblooded\",\"insatiable\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4c3c7fbc",
+		type: "item",
+		items: [{
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.02f,
+					DrawSpeed: 0.65f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.0f,
+					Durability: 1218,
+					HarvestLevel: 4,
+					Attack: 8.72f,
+					Range: 1.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.02f,
+					DrawSpeed: 0.65f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.0f,
+					Durability: 1218,
+					HarvestLevel: 4,
+					Attack: 8.72f,
+					Range: 1.2f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"launcher"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"manyullyn",
+						"manyullyn",
+						"manyullyn",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "coldblooded",
+					color: -6202120,
+					level: 1
+				},
+				{
+					identifier: "insatiable",
+					color: -6202120,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"coldblooded",
+					"insatiable",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

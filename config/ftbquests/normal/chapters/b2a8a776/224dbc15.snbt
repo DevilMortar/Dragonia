@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 375.0d,
+	description: "{id:\"quark:stone_diorite_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "00d7678c",
+		type: "item",
+		items: [{
+			item: "quark:stone_diorite_stairs"
+		}],
+		consume_items: true
+	}]
+}

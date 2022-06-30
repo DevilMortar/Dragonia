@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 216.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"knightslime\"},Damage:0s}",
+	tasks: [{
+		uid: "f3a4c41b",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "knightslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

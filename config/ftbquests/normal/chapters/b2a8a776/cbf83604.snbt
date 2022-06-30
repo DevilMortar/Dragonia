@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 349.0d,
+	description: "{id:\"harvestcraft:sundayroastitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "73ff32c2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:sundayroastitem"
+		}],
+		consume_items: true
+	}]
+}

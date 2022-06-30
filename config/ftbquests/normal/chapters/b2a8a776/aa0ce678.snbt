@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 112.0d,
+	description: "{id:\"ebwizardry:warlock_robe_earth\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f080ace",
+		type: "item",
+		items: [{
+			item: "ebwizardry:warlock_robe_earth"
+		}],
+		consume_items: true
+	}]
+}

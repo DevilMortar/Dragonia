@@ -1,0 +1,64 @@
+{
+	x: 25.0d,
+	y: 246.0d,
+	description: "{id:\"tconstruct:battlesign\",Count:1b,tag:{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:1510,HarvestLevel:0,Attack:0.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:1510,HarvestLevel:0,Attack:0.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"sponge\",\"sponge\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"squeaky\",color:-3486642,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"squeaky\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "dbf8e88d",
+		type: "item",
+		items: [{
+			id: "tconstruct:battlesign",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 33s
+				}],
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.02f,
+					FreeModifiers: 3,
+					Durability: 1510,
+					HarvestLevel: 0,
+					Attack: 0.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.02f,
+					FreeModifiers: 3,
+					Durability: 1510,
+					HarvestLevel: 0,
+					Attack: 0.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"sponge",
+						"sponge"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "squeaky",
+					color: -3486642,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"squeaky",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

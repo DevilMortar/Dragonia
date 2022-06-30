@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 171.0d,
+	description: "{id:\"dungeontactics:diamond_knife\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "53178b9c",
+		type: "item",
+		items: [{
+			item: "dungeontactics:diamond_knife"
+		}],
+		consume_items: true
+	}]
+}

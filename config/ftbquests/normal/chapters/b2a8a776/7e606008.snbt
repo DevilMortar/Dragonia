@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 52.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"charm:coffee\"},Damage:0s}",
+	tasks: [{
+		uid: "535144bb",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "charm:coffee"
+			}
+		}],
+		consume_items: true
+	}]
+}

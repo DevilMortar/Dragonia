@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 89.0d,
+	description: "{id:\"rustic:candle_silver\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0c3ad948",
+		type: "item",
+		items: [{
+			item: "rustic:candle_silver"
+		}],
+		consume_items: true
+	}]
+}

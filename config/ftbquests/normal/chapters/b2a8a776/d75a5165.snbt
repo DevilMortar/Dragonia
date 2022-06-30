@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 254.0d,
+	description: "{id:\"tconstruct:clay_cast\",Count:1b,tag:{PartType:\"tconstruct:binding\"},Damage:0s}",
+	tasks: [{
+		uid: "82c2962d",
+		type: "item",
+		items: [{
+			id: "tconstruct:clay_cast",
+			tag: {
+				PartType: "tconstruct:binding"
+			}
+		}],
+		consume_items: true
+	}]
+}

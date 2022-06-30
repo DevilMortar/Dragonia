@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 136.0d,
+	description: "{id:\"ancientwarfarestructure:structure_builder_ticked\",Count:1b,tag:{structureName:\"BridgeEmpireCoverdChasm83Blockspan\"},Damage:0s}",
+	tasks: [{
+		uid: "85cb796a",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:structure_builder_ticked",
+			tag: {
+				structureName: "BridgeEmpireCoverdChasm83Blockspan"
+			}
+		}],
+		consume_items: true
+	}]
+}

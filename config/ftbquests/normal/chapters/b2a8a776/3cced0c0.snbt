@@ -1,0 +1,18 @@
+{
+	x: 18.0d,
+	y: 195.0d,
+	description: "{ForgeCaps:{Parent:{id:\"mod\"}},id:\"itemfilters:filter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dc9ab641",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					id: "mod"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		consume_items: true
+	}]
+}

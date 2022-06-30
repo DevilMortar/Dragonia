@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 78.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/skeleton\"},Damage:0s}",
+	tasks: [{
+		uid: "91dabde6",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/skeleton"
+			}
+		}],
+		consume_items: true
+	}]
+}

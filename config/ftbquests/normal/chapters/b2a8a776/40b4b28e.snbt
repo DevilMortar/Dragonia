@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 319.0d,
+	description: "{id:\"xpbook:xp_tome\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7a6e8ef7",
+		type: "item",
+		items: [{
+			item: "xpbook:xp_tome"
+		}],
+		consume_items: true
+	}]
+}

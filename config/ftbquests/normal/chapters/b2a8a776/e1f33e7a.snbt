@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 364.0d,
+	description: "{id:\"quark:jungle_pressure_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4e191e6a",
+		type: "item",
+		items: [{
+			item: "quark:jungle_pressure_plate"
+		}],
+		consume_items: true
+	}]
+}

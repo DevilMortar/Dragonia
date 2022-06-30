@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:lozgildedsword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2278feaf",
+		type: "item",
+		items: [{
+			item: "heroicarmory:lozgildedsword"
+		}],
+		consume_items: true
+	}]
+}

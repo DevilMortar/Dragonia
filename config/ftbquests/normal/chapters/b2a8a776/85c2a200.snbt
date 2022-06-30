@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 419.0d,
+	description: "{id:\"chisel:lavastone1\",Count:1b,Damage:12s}",
+	tasks: [{
+		uid: "3693a5df",
+		type: "item",
+		items: [{
+			item: "chisel:lavastone1 1 12"
+		}],
+		consume_items: true
+	}]
+}

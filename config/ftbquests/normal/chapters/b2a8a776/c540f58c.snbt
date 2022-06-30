@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 319.0d,
+	description: "{id:\"zettaimagic:wadvanced_glove\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c0dab4db",
+		type: "item",
+		items: [{
+			item: "zettaimagic:wadvanced_glove"
+		}],
+		consume_items: true
+	}]
+}

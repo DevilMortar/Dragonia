@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 156.0d,
+	description: "{id:\"bibliocraft:seat\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "5e53d229",
+		type: "item",
+		items: [{
+			item: "bibliocraft:seat 1 1"
+		}],
+		consume_items: true
+	}]
+}

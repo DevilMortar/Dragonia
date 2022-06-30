@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 68.0d,
+	description: "{id:\"biomesoplenty:willow_fence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "51a5b00d",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:willow_fence"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 86.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/zombie_villager\"},Damage:0s}",
+	tasks: [{
+		uid: "04b3eb0a",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/zombie_villager"
+			}
+		}],
+		consume_items: true
+	}]
+}

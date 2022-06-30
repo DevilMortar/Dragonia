@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 75.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ancientspellcraft:subsets/ancientspellcraft_books_and_scrolls\"},Damage:0s}",
+	tasks: [{
+		uid: "864c9e00",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ancientspellcraft:subsets/ancientspellcraft_books_and_scrolls"
+			}
+		}],
+		consume_items: true
+	}]
+}

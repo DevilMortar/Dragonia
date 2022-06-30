@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 314.0d,
+	description: "{id:\"tcomplement:steel_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6529208b",
+		type: "item",
+		items: [{
+			item: "tcomplement:steel_helmet"
+		}],
+		consume_items: true
+	}]
+}

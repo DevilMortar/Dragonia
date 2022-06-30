@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 205.0d,
+	description: "{id:\"naturescompass:naturescompass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "718a2461",
+		type: "item",
+		items: [{
+			item: "naturescompass:naturescompass"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 16.0d,
+	y: 122.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",npcType:\"trader\"},Damage:0s}",
+	tasks: [{
+		uid: "119be348",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				npcType: "trader"
+			}
+		}],
+		consume_items: true
+	}]
+}

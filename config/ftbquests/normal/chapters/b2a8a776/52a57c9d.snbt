@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 159.0d,
+	description: "{id:\"bibliocraft:framingboard\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3b83da4a",
+		type: "item",
+		items: [{
+			item: "bibliocraft:framingboard"
+		}],
+		consume_items: true
+	}]
+}

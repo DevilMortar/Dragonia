@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 271.0d,
+	description: "{id:\"spartanweaponry:spear_diamond\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c700622b",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:spear_diamond"
+		}],
+		consume_items: true
+	}]
+}

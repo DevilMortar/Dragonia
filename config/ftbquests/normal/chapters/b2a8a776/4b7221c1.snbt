@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 56.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:haste\"},Damage:0s}",
+	tasks: [{
+		uid: "f6586740",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:haste"
+			}
+		}],
+		consume_items: true
+	}]
+}

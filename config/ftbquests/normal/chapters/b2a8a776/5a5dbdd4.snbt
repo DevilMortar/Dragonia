@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 184.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"netherex:dispersal\"},Damage:0s}",
+	tasks: [{
+		uid: "538b52c9",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "netherex:dispersal"
+			}
+		}],
+		consume_items: true
+	}]
+}

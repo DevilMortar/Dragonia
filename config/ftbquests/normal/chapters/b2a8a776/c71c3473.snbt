@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 213.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"obsidian\"},Damage:0s}",
+	tasks: [{
+		uid: "cf6ae9b7",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "obsidian"
+			}
+		}],
+		consume_items: true
+	}]
+}

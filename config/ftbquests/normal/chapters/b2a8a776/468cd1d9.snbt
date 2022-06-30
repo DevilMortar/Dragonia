@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 89.0d,
+	description: "{id:\"rustic:chair_jungle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6082dc03",
+		type: "item",
+		items: [{
+			item: "rustic:chair_jungle"
+		}],
+		consume_items: true
+	}]
+}

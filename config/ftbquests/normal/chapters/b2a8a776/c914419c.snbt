@@ -1,0 +1,57 @@
+{
+	x: 8.0d,
+	y: 133.0d,
+	description: "{id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:2.5f,FreeModifiers:3,Durability:153,Defense:19.4f},Stats:{Toughness:2.5f,FreeModifiers:3,Durability:153,Defense:19.4f},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"magmaslime\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"autoforge_armor\",color:-27123,level:1},{identifier:\"superhot_armor\",color:-27123,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"autoforge_armor\",\"superhot_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "a3d034c5",
+		type: "item",
+		items: [{
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 2.5f,
+					FreeModifiers: 3,
+					Durability: 153,
+					Defense: 19.4f
+				},
+				Stats: {
+					Toughness: 2.5f,
+					FreeModifiers: 3,
+					Durability: 153,
+					Defense: 19.4f
+				},
+				TinkerData: {
+					Materials: [
+						"magmaslime",
+						"magmaslime",
+						"magmaslime"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "autoforge_armor",
+					color: -27123,
+					level: 1
+				},
+				{
+					identifier: "superhot_armor",
+					color: -27123,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"autoforge_armor",
+					"superhot_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 172.0d,
+	description: "{id:\"dungeontactics:stone_shield\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8001f1a8",
+		type: "item",
+		items: [{
+			item: "dungeontactics:stone_shield"
+		}],
+		consume_items: true
+	}]
+}

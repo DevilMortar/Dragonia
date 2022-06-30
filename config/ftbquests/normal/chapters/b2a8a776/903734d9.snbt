@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 57.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:invert\"},Damage:0s}",
+	tasks: [{
+		uid: "105af25e",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:invert"
+			}
+		}],
+		consume_items: true
+	}]
+}

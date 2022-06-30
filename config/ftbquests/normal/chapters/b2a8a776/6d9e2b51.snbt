@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 170.0d,
+	description: "{id:\"dungeontactics:bone_glaive\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "508858ea",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bone_glaive"
+		}],
+		consume_items: true
+	}]
+}

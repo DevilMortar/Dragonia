@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 424.0d,
+	description: "{id:\"chisel:ironpane\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3687679a",
+		type: "item",
+		items: [{
+			item: "chisel:ironpane"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 345.0d,
+	description: "{id:\"harvestcraft:melonyogurtitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "862bbbed",
+		type: "item",
+		items: [{
+			item: "harvestcraft:melonyogurtitem"
+		}],
+		consume_items: true
+	}]
+}

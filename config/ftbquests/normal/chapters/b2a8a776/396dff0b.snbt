@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 192.0d,
+	description: "{id:\"iceandfire:amphithere_feather\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0d1bc883",
+		type: "item",
+		items: [{
+			item: "iceandfire:amphithere_feather"
+		}],
+		consume_items: true
+	}]
+}

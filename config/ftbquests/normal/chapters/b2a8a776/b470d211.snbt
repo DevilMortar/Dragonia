@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 71.0d,
+	description: "{id:\"biomesoplenty:bramble_plant\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3731deed",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:bramble_plant"
+		}],
+		consume_items: true
+	}]
+}

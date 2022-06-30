@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 88.0d,
+	description: "{id:\"reccomplex:inventory_generation_component_tag\",Count:1b,tag:{itemCollectionKey:\"FireShrine\"},Damage:0s}",
+	tasks: [{
+		uid: "a9e9d6be",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_component_tag",
+			tag: {
+				itemCollectionKey: "FireShrine"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 149.0d,
+	description: "{id:\"atum:limestone_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "54520ae3",
+		type: "item",
+		items: [{
+			item: "atum:limestone_sword"
+		}],
+		consume_items: true
+	}]
+}

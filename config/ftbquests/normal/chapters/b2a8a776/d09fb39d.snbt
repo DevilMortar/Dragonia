@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 38.0d,
+	description: "{id:\"minecraft:armor_stand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "61e95d73",
+		type: "item",
+		items: [{
+			item: "minecraft:armor_stand"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:atnothung\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3a6f28bb",
+		type: "item",
+		items: [{
+			item: "heroicarmory:atnothung"
+		}],
+		consume_items: true
+	}]
+}

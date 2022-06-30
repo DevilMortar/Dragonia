@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 150.0d,
+	description: "{id:\"atum:stoneguard_club\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b531c99a",
+		type: "item",
+		items: [{
+			item: "atum:stoneguard_club"
+		}],
+		consume_items: true
+	}]
+}

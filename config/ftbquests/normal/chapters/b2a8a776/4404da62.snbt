@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 329.0d,
+	description: "{id:\"harvestcraft:oatsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "adaf2756",
+		type: "item",
+		items: [{
+			item: "harvestcraft:oatsitem"
+		}],
+		consume_items: true
+	}]
+}

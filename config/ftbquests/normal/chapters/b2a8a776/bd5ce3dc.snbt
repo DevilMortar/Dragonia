@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 305.0d,
+	description: "{id:\"spartanshields:shield_riot_enderio\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f7d1d2e4",
+		type: "item",
+		items: [{
+			item: "spartanshields:shield_riot_enderio"
+		}],
+		consume_items: true
+	}]
+}

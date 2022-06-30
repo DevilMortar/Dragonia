@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:essenceundead\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8b5a3745",
+		type: "item",
+		items: [{
+			item: "mocreatures:essenceundead"
+		}],
+		consume_items: true
+	}]
+}

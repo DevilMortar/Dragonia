@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 141.0d,
+	description: "{id:\"ancientwarfarestructure:tribal_stool\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "db197144",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:tribal_stool"
+		}],
+		consume_items: true
+	}]
+}

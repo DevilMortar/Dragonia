@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 89.0d,
+	description: "{id:\"rustic:clay_wall_diag\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1d8f1145",
+		type: "item",
+		items: [{
+			item: "rustic:clay_wall_diag"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:fish_tunnel_cooked\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "76e6ac6e",
+		type: "item",
+		items: [{
+			item: "dungeontactics:fish_tunnel_cooked"
+		}],
+		consume_items: true
+	}]
+}

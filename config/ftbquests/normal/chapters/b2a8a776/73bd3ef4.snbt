@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 203.0d,
+	description: "{id:\"heroicarmory:nhmagicbane\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a0753611",
+		type: "item",
+		items: [{
+			item: "heroicarmory:nhmagicbane"
+		}],
+		consume_items: true
+	}]
+}

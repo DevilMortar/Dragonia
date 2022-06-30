@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 164.0d,
+	description: "{id:\"thaumcraft:void_robe_legs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3672a8ed",
+		type: "item",
+		items: [{
+			item: "thaumcraft:void_robe_legs"
+		}],
+		consume_items: true
+	}]
+}

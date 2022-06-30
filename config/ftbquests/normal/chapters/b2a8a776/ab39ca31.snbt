@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 163.0d,
+	description: "{id:\"thaumcraft:turret\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c7c53499",
+		type: "item",
+		items: [{
+			item: "thaumcraft:turret"
+		}],
+		consume_items: true
+	}]
+}

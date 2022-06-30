@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 369.0d,
+	description: "{id:\"quark:duskbound_block_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "773e43d5",
+		type: "item",
+		items: [{
+			item: "quark:duskbound_block_wall"
+		}],
+		consume_items: true
+	}]
+}

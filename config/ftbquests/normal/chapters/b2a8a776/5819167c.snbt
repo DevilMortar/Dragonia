@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 253.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"tconstruct:shard\"},Damage:0s}",
+	tasks: [{
+		uid: "ff10b1e6",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:shard"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 325.0d,
+	description: "{id:\"aether_legacy:regeneration_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2f560ad9",
+		type: "item",
+		items: [{
+			item: "aether_legacy:regeneration_stone"
+		}],
+		consume_items: true
+	}]
+}

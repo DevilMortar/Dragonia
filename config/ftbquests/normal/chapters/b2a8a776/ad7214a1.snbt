@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 165.0d,
+	description: "{id:\"thaumcraft:crimson_praetor_legs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "48507de5",
+		type: "item",
+		items: [{
+			item: "thaumcraft:crimson_praetor_legs"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 82.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"ancientspellcraft:inject/as_library_ruins_bookshelf\"},Damage:0s}",
+	tasks: [{
+		uid: "0f4529e1",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "ancientspellcraft:inject/as_library_ruins_bookshelf"
+			}
+		}],
+		consume_items: true
+	}]
+}

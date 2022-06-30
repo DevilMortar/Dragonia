@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:ring_leeching\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "be551c6b",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_leeching"
+		}],
+		consume_items: true
+	}]
+}

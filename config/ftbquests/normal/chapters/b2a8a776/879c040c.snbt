@@ -1,0 +1,74 @@
+{
+	x: 32.0d,
+	y: 247.0d,
+	description: "{id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:2408,HarvestLevel:4,Attack:25.099998f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:2408,HarvestLevel:4,Attack:25.099998f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"dragonsteel_ice\",\"dragonsteel_ice\",\"dragonsteel_ice\",\"dragonsteel_ice\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"sharp\",color:-4463363,level:1},{identifier:\"frost2\",color:-4463363,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"sharp\",\"frost2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "e7b4f802",
+		type: "item",
+		items: [{
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 2408,
+					HarvestLevel: 4,
+					Attack: 25.099998f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 2408,
+					HarvestLevel: 4,
+					Attack: 25.099998f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dragonsteel_ice",
+						"dragonsteel_ice",
+						"dragonsteel_ice",
+						"dragonsteel_ice"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "sharp",
+					color: -4463363,
+					level: 1
+				},
+				{
+					identifier: "frost2",
+					color: -4463363,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"sharp",
+					"frost2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

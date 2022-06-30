@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 326.0d,
+	description: "{id:\"charm:cake_invisibility\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2224a99b",
+		type: "item",
+		items: [{
+			item: "charm:cake_invisibility"
+		}],
+		consume_items: true
+	}]
+}

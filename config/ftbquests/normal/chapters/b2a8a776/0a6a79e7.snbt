@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 316.0d,
+	description: "{id:\"toroquest:reinforced_diamond_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cdb64071",
+		type: "item",
+		items: [{
+			item: "toroquest:reinforced_diamond_helmet"
+		}],
+		consume_items: true
+	}]
+}

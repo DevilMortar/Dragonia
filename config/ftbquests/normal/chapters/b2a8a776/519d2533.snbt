@@ -1,0 +1,18 @@
+{
+	x: 27.0d,
+	y: 125.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"minossian\",npcType:\"faction.soldier\"},Damage:0s}",
+	tasks: [{
+		uid: "6e09b883",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "minossian",
+				npcType: "faction.soldier"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 214.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"firewood\"},Damage:0s}",
+	tasks: [{
+		uid: "2dc48fa3",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "firewood"
+			}
+		}],
+		consume_items: true
+	}]
+}

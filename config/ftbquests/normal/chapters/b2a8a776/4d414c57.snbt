@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 95.0d,
+	description: "{id:\"atum:alabaster_tiled_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "59a7ab47",
+		type: "item",
+		items: [{
+			item: "atum:alabaster_tiled_stairs"
+		}],
+		consume_items: true
+	}]
+}

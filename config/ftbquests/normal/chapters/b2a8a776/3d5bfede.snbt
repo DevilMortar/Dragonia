@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 331.0d,
+	description: "{id:\"harvestcraft:lettuceseeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6956fe68",
+		type: "item",
+		items: [{
+			item: "harvestcraft:lettuceseeditem"
+		}],
+		consume_items: true
+	}]
+}

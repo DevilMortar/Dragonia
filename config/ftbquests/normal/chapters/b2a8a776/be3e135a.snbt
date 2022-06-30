@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 228.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"cactus\"},Damage:0s}",
+	tasks: [{
+		uid: "3dd281ff",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "cactus"
+			}
+		}],
+		consume_items: true
+	}]
+}

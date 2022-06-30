@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 166.0d,
+	description: "{id:\"disenchanter:experience_jar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "28b5f331",
+		type: "item",
+		items: [{
+			item: "disenchanter:experience_jar"
+		}],
+		consume_items: true
+	}]
+}

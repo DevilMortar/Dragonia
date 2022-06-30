@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 90.0d,
+	description: "{id:\"rustic:silver_lantern\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b102bd02",
+		type: "item",
+		items: [{
+			item: "rustic:silver_lantern"
+		}],
+		consume_items: true
+	}]
+}

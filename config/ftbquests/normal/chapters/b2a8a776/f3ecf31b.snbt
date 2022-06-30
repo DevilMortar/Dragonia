@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 94.0d,
+	description: "{id:\"atum:dirty_bone_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b12855ef",
+		type: "item",
+		items: [{
+			item: "atum:dirty_bone_block"
+		}],
+		consume_items: true
+	}]
+}

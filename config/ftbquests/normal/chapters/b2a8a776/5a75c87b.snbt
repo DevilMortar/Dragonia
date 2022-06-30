@@ -1,0 +1,51 @@
+{
+	x: 9.0d,
+	y: 140.0d,
+	description: "{id:\"conarm:leggings\",Count:1b,tag:{StatsOriginal:{Toughness:0.5f,FreeModifiers:3,Durability:225,Defense:17.5f},Stats:{Toughness:0.5f,FreeModifiers:3,Durability:225,Defense:17.5f},TinkerData:{Materials:[\"firewood\",\"firewood\",\"firewood\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"combustible_armor\",color:-3386624,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"combustible_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "7025fbbf",
+		type: "item",
+		items: [{
+			id: "conarm:leggings",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.5f,
+					FreeModifiers: 3,
+					Durability: 225,
+					Defense: 17.5f
+				},
+				Stats: {
+					Toughness: 0.5f,
+					FreeModifiers: 3,
+					Durability: 225,
+					Defense: 17.5f
+				},
+				TinkerData: {
+					Materials: [
+						"firewood",
+						"firewood",
+						"firewood"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "combustible_armor",
+					color: -3386624,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"combustible_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

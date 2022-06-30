@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 337.0d,
+	description: "{id:\"harvestcraft:waterfilter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8ac68360",
+		type: "item",
+		items: [{
+			item: "harvestcraft:waterfilter"
+		}],
+		consume_items: true
+	}]
+}

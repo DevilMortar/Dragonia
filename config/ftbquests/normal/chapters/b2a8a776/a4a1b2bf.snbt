@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 326.0d,
+	description: "{id:\"apotheosis:fishing_rod_book\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d9d2d946",
+		type: "item",
+		items: [{
+			item: "apotheosis:fishing_rod_book"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 17.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:cure\"},Damage:0s}",
+	tasks: [{
+		uid: "ac7ef68b",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:cure"
+			}
+		}],
+		consume_items: true
+	}]
+}

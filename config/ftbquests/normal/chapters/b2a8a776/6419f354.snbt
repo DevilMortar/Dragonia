@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 10.0d,
+	description: "{id:\"minecraft:golden_chestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6c6f6656",
+		type: "item",
+		items: [{
+			item: "minecraft:golden_chestplate"
+		}],
+		consume_items: true
+	}]
+}

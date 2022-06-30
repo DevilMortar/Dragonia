@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 315.0d,
+	description: "{id:\"tcomplement:scorched_stairs_brick_square\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "07a6f4cd",
+		type: "item",
+		items: [{
+			item: "tcomplement:scorched_stairs_brick_square"
+		}],
+		consume_items: true
+	}]
+}

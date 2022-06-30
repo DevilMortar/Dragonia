@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 202.0d,
+	description: "{id:\"heroicarmory:terrariastarfury\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e0a69453",
+		type: "item",
+		items: [{
+			item: "heroicarmory:terrariastarfury"
+		}],
+		consume_items: true
+	}]
+}

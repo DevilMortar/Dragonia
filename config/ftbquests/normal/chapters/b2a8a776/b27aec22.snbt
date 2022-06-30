@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 284.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:climb\"},Damage:0s}",
+	tasks: [{
+		uid: "8167bf7e",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:climb"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 340.0d,
+	description: "{id:\"harvestcraft:spagettiandmeatballsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "48212926",
+		type: "item",
+		items: [{
+			item: "harvestcraft:spagettiandmeatballsitem"
+		}],
+		consume_items: true
+	}]
+}

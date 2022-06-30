@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 387.0d,
+	description: "{id:\"chisel:futura\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "6b1969d4",
+		type: "item",
+		items: [{
+			item: "chisel:futura 1 4"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 348.0d,
+	description: "{id:\"harvestcraft:mapleoatmealitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2444a5b5",
+		type: "item",
+		items: [{
+			item: "harvestcraft:mapleoatmealitem"
+		}],
+		consume_items: true
+	}]
+}

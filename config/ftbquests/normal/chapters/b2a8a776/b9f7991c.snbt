@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:amber_brick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "801e4da0",
+		type: "item",
+		items: [{
+			item: "thaumcraft:amber_brick"
+		}],
+		consume_items: true
+	}]
+}

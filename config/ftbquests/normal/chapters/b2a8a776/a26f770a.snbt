@@ -1,0 +1,18 @@
+{
+	x: 30.0d,
+	y: 130.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"wizardly\",npcType:\"faction.bard\"},Damage:0s}",
+	tasks: [{
+		uid: "baa146c3",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "wizardly",
+				npcType: "faction.bard"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 76.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ebwizardry:subsets/wand_upgrades\"},Damage:0s}",
+	tasks: [{
+		uid: "58c434dd",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ebwizardry:subsets/wand_upgrades"
+			}
+		}],
+		consume_items: true
+	}]
+}

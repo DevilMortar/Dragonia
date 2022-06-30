@@ -1,0 +1,18 @@
+{
+	x: 12.0d,
+	y: 166.0d,
+	description: "{id:\"disenchanter:experience_jar\",Count:1b,tag:{ExperienceCapacity:1024,StoredExperience:1024,Overload:1b},Damage:0s}",
+	tasks: [{
+		uid: "a903a17e",
+		type: "item",
+		items: [{
+			id: "disenchanter:experience_jar",
+			tag: {
+				ExperienceCapacity: 1024,
+				StoredExperience: 1024,
+				Overload: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

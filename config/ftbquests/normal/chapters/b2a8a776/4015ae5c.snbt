@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 313.0d,
+	description: "{id:\"thaumicaugmentation:eldritch_lock_key\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "390dc631",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:eldritch_lock_key 1 2"
+		}],
+		consume_items: true
+	}]
+}

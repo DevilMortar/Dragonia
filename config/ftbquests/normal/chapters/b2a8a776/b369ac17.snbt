@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:amuletpegasusfull\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ab627335",
+		type: "item",
+		items: [{
+			item: "mocreatures:amuletpegasusfull"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 332.0d,
+	description: "{id:\"harvestcraft:gigapickleseeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "09253d7d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:gigapickleseeditem"
+		}],
+		consume_items: true
+	}]
+}

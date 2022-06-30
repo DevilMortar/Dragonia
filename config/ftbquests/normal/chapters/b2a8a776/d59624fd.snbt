@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 335.0d,
+	description: "{id:\"harvestcraft:coconutitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3821ad10",
+		type: "item",
+		items: [{
+			item: "harvestcraft:coconutitem"
+		}],
+		consume_items: true
+	}]
+}

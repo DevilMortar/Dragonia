@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 180.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:charged_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "c38c0484",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:charged_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

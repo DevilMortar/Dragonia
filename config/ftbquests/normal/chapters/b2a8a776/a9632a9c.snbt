@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 314.0d,
+	description: "{id:\"tcomplement:high_oven_controller\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6bdc4e1a",
+		type: "item",
+		items: [{
+			item: "tcomplement:high_oven_controller"
+		}],
+		consume_items: true
+	}]
+}

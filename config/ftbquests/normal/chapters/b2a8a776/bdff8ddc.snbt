@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 320.0d,
+	description: "{id:\"zettaimagic:pact_summon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e4dc4a4d",
+		type: "item",
+		items: [{
+			item: "zettaimagic:pact_summon"
+		}],
+		consume_items: true
+	}]
+}

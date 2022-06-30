@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 373.0d,
+	description: "{id:\"quark:red_sandstone_bricks_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a6fdbcf2",
+		type: "item",
+		items: [{
+			item: "quark:red_sandstone_bricks_slab"
+		}],
+		consume_items: true
+	}]
+}

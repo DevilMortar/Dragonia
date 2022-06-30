@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 288.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"extraalchemy:gravity_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "a89c0908",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "extraalchemy:gravity_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

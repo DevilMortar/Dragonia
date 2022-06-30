@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 366.0d,
+	description: "{id:\"quark:snow_bricks_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b9c19c7e",
+		type: "item",
+		items: [{
+			item: "quark:snow_bricks_wall"
+		}],
+		consume_items: true
+	}]
+}

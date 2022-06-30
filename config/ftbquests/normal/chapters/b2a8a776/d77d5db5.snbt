@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 143.0d,
+	description: "{id:\"ancientwarfarestructure:block_info_clicker\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6566bbc3",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:block_info_clicker"
+		}],
+		consume_items: true
+	}]
+}

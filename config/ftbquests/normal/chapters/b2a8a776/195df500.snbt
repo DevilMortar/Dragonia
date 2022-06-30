@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:obsidian_gloves\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "66c6d586",
+		type: "item",
+		items: [{
+			item: "aether_legacy:obsidian_gloves"
+		}],
+		consume_items: true
+	}]
+}

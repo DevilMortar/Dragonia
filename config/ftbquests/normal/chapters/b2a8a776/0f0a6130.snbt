@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 203.0d,
+	description: "{id:\"heroicarmory:swmacewindulightsaber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "918affbb",
+		type: "item",
+		items: [{
+			item: "heroicarmory:swmacewindulightsaber"
+		}],
+		consume_items: true
+	}]
+}

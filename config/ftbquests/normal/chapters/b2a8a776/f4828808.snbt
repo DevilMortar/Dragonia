@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 46.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"minecraft:invisibility\"},Damage:0s}",
+	tasks: [{
+		uid: "37173702",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "minecraft:invisibility"
+			}
+		}],
+		consume_items: true
+	}]
+}

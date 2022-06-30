@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 313.0d,
+	description: "{id:\"tcomplement:melter\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "2fdbdc79",
+		type: "item",
+		items: [{
+			item: "tcomplement:melter 1 8"
+		}],
+		consume_items: true
+	}]
+}

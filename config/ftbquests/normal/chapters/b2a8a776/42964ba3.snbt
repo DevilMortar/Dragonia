@@ -1,0 +1,18 @@
+{
+	x: 1.0d,
+	y: 28.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"toroquest:toroquest_village_lord\"}},Damage:0s}",
+	tasks: [{
+		uid: "c54e945b",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "toroquest:toroquest_village_lord"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

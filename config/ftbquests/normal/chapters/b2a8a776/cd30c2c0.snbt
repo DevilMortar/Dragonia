@@ -1,0 +1,63 @@
+{
+	x: 13.0d,
+	y: 238.0d,
+	description: "{id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.5f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "12e5345c",
+		type: "item",
+		items: [{
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.0f,
+					FreeModifiers: 3,
+					Durability: 75,
+					HarvestLevel: 0,
+					Attack: 2.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.0f,
+					FreeModifiers: 3,
+					Durability: 75,
+					HarvestLevel: 0,
+					Attack: 2.5f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"wood",
+						"wood"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

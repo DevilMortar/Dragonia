@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 63.0d,
+	description: "{id:\"betternether:quartz_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fe78badd",
+		type: "item",
+		items: [{
+			item: "betternether:quartz_glass"
+		}],
+		consume_items: true
+	}]
+}

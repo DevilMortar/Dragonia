@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 258.0d,
+	description: "{id:\"xreliquary:hero_medallion\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9d9ee79c",
+		type: "item",
+		items: [{
+			item: "xreliquary:hero_medallion"
+		}],
+		consume_items: true
+	}]
+}

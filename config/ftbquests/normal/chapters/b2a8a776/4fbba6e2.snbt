@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 205.0d,
+	description: "{id:\"netherex:icy_netherrack_path\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b5f38453",
+		type: "item",
+		items: [{
+			item: "netherex:icy_netherrack_path"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 215.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"flint\"},Damage:0s}",
+	tasks: [{
+		uid: "87d086cb",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "flint"
+			}
+		}],
+		consume_items: true
+	}]
+}

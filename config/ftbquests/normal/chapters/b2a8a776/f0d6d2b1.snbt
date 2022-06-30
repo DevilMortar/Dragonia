@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 327.0d,
+	description: "{id:\"charm:crate_sealed\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "f178196d",
+		type: "item",
+		items: [{
+			item: "charm:crate_sealed 1 2"
+		}],
+		consume_items: true
+	}]
+}

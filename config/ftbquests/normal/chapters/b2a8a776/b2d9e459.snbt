@@ -1,0 +1,18 @@
+{
+	x: 34.0d,
+	y: 310.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"biomesoplenty:maple_woods\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "54830f2a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "biomesoplenty:maple_woods"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

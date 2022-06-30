@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 75.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"aether_legacy:entities/sheepuff/black\"},Damage:0s}",
+	tasks: [{
+		uid: "b15d693a",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "aether_legacy:entities/sheepuff/black"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 195.0d,
+	description: "{id:\"ftbquests:reward_collector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "028bffdc",
+		type: "item",
+		items: [{
+			item: "ftbquests:reward_collector"
+		}],
+		consume_items: true
+	}]
+}

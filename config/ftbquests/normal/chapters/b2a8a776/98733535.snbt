@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 68.0d,
+	description: "{id:\"biomesoplenty:palm_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dd48b997",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:palm_stairs"
+		}],
+		consume_items: true
+	}]
+}

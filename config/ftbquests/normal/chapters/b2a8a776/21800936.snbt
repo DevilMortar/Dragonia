@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 363.0d,
+	description: "{id:\"quark:colored_flowerpot_blue\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "46553439",
+		type: "item",
+		items: [{
+			item: "quark:colored_flowerpot_blue"
+		}],
+		consume_items: true
+	}]
+}

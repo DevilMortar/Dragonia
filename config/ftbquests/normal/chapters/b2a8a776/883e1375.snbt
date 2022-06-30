@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 300.0d,
+	description: "{id:\"spartanfire:halberd_jungle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "42b4f9fa",
+		type: "item",
+		items: [{
+			item: "spartanfire:halberd_jungle"
+		}],
+		consume_items: true
+	}]
+}

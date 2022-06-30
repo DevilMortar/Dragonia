@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 108.0d,
+	description: "{id:\"ebwizardry:advanced_earth_wand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "502ddd77",
+		type: "item",
+		items: [{
+			item: "ebwizardry:advanced_earth_wand"
+		}],
+		consume_items: true
+	}]
+}

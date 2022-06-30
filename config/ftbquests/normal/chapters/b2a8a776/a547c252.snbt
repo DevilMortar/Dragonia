@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 159.0d,
+	description: "{id:\"bibliocraft:handdrill\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e695d014",
+		type: "item",
+		items: [{
+			item: "bibliocraft:handdrill"
+		}],
+		consume_items: true
+	}]
+}

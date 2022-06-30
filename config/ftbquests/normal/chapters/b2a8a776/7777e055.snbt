@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 51.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:strong_magic_inhibition\"},Damage:0s}",
+	tasks: [{
+		uid: "9d6323f8",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:strong_magic_inhibition"
+			}
+		}],
+		consume_items: true
+	}]
+}

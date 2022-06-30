@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 219.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"flint\"},Damage:0s}",
+	tasks: [{
+		uid: "615f5b26",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "flint"
+			}
+		}],
+		consume_items: true
+	}]
+}

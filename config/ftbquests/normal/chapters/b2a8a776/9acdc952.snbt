@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 348.0d,
+	description: "{id:\"harvestcraft:chickengumboitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d1dd6fff",
+		type: "item",
+		items: [{
+			item: "harvestcraft:chickengumboitem"
+		}],
+		consume_items: true
+	}]
+}

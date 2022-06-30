@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:ice_pendant\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "93750fea",
+		type: "item",
+		items: [{
+			item: "aether_legacy:ice_pendant"
+		}],
+		consume_items: true
+	}]
+}

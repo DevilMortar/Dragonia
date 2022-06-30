@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 255.0d,
+	description: "{id:\"tconstruct:brownstone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e3e3d67d",
+		type: "item",
+		items: [{
+			item: "tconstruct:brownstone"
+		}],
+		consume_items: true
+	}]
+}

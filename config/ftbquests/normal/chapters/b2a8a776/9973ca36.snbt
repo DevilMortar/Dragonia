@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 215.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"dragonsteel_ice\"},Damage:0s}",
+	tasks: [{
+		uid: "f21224dd",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "dragonsteel_ice"
+			}
+		}],
+		consume_items: true
+	}]
+}

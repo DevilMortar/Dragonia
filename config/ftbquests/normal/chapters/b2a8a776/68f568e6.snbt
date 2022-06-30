@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 97.0d,
+	description: "{id:\"atum:ceramic_stairs_green\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7ac4394d",
+		type: "item",
+		items: [{
+			item: "atum:ceramic_stairs_green"
+		}],
+		consume_items: true
+	}]
+}

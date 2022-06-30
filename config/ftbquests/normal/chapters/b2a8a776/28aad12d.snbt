@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 140.0d,
+	description: "{id:\"ancientwarfarestructure:table\",Count:1b,tag:{variant:\"dark_oak\"},Damage:0s}",
+	tasks: [{
+		uid: "7208dabd",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:table",
+			tag: {
+				variant: "dark_oak"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 141.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"wood\"},Damage:0s}",
+	tasks: [{
+		uid: "26376e3a",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "wood"
+			}
+		}],
+		consume_items: true
+	}]
+}

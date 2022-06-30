@@ -1,0 +1,57 @@
+{
+	x: 13.0d,
+	y: 140.0d,
+	description: "{id:\"conarm:leggings\",Count:1b,tag:{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:370,Defense:2.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:370,Defense:2.0f},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"slimey_green_armor\",color:-8206221,level:1},{identifier:\"bouncy_armor\",color:-8206221,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"slimey_green_armor\",\"bouncy_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "0de6e8ed",
+		type: "item",
+		items: [{
+			id: "conarm:leggings",
+			tag: {
+				StatsOriginal: {
+					Toughness: 2.0f,
+					FreeModifiers: 3,
+					Durability: 370,
+					Defense: 2.0f
+				},
+				Stats: {
+					Toughness: 2.0f,
+					FreeModifiers: 3,
+					Durability: 370,
+					Defense: 2.0f
+				},
+				TinkerData: {
+					Materials: [
+						"slime",
+						"slime",
+						"slime"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "slimey_green_armor",
+					color: -8206221,
+					level: 1
+				},
+				{
+					identifier: "bouncy_armor",
+					color: -8206221,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"slimey_green_armor",
+					"bouncy_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

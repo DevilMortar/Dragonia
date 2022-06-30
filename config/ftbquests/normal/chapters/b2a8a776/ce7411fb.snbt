@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 111.0d,
+	description: "{id:\"ebwizardry:battlemage_helmet_necromancy\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "31909dce",
+		type: "item",
+		items: [{
+			item: "ebwizardry:battlemage_helmet_necromancy"
+		}],
+		consume_items: true
+	}]
+}

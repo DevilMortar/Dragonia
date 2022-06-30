@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 364.0d,
+	description: "{id:\"quark:reed_block_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d7a8a277",
+		type: "item",
+		items: [{
+			item: "quark:reed_block_slab"
+		}],
+		consume_items: true
+	}]
+}

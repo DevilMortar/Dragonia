@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:bag_potion\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d02cd488",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bag_potion"
+		}],
+		consume_items: true
+	}]
+}

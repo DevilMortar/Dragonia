@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 329.0d,
+	description: "{id:\"harvestcraft:cantaloupeseeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0b22c13a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cantaloupeseeditem"
+		}],
+		consume_items: true
+	}]
+}

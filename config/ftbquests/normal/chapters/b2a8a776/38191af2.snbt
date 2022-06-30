@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 82.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"aether_legacy:entities/valkyrie\"},Damage:0s}",
+	tasks: [{
+		uid: "1573927b",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "aether_legacy:entities/valkyrie"
+			}
+		}],
+		consume_items: true
+	}]
+}

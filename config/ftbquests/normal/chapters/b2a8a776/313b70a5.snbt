@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 330.0d,
+	description: "{id:\"harvestcraft:coffeeseeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ad0fc685",
+		type: "item",
+		items: [{
+			item: "harvestcraft:coffeeseeditem"
+		}],
+		consume_items: true
+	}]
+}

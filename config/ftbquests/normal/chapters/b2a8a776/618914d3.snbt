@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 214.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"knightslime\"},Damage:0s}",
+	tasks: [{
+		uid: "fa8a00d2",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "knightslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

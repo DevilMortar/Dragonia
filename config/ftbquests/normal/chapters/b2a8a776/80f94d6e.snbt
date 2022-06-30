@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 77.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:chests/village_blacksmith\"},Damage:0s}",
+	tasks: [{
+		uid: "6e4cba1e",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:chests/village_blacksmith"
+			}
+		}],
+		consume_items: true
+	}]
+}

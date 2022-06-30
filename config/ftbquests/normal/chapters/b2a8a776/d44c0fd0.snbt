@@ -1,0 +1,18 @@
+{
+	x: 7.0d,
+	y: 123.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"gnome\",npcType:\"faction.cavalry\"},Damage:0s}",
+	tasks: [{
+		uid: "a0da6821",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "gnome",
+				npcType: "faction.cavalry"
+			}
+		}],
+		consume_items: true
+	}]
+}

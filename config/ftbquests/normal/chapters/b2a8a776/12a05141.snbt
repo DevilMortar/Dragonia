@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 140.0d,
+	description: "{id:\"conarm:resist_mat_proj\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "184e0b11",
+		type: "item",
+		items: [{
+			item: "conarm:resist_mat_proj"
+		}],
+		consume_items: true
+	}]
+}

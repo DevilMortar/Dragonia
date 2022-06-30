@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 85.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/mushroom_cow\"},Damage:0s}",
+	tasks: [{
+		uid: "1e14d409",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/mushroom_cow"
+			}
+		}],
+		consume_items: true
+	}]
+}

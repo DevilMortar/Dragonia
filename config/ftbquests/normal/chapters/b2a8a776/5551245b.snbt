@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 98.0d,
+	description: "{id:\"atum:thin_crystal_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "942667cb",
+		type: "item",
+		items: [{
+			item: "atum:thin_crystal_glass"
+		}],
+		consume_items: true
+	}]
+}

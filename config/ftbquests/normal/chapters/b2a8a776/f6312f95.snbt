@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 225.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"prismarine\"},Damage:0s}",
+	tasks: [{
+		uid: "ef371351",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "prismarine"
+			}
+		}],
+		consume_items: true
+	}]
+}

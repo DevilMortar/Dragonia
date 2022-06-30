@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 111.0d,
+	description: "{id:\"ebwizardry:battlemage_boots_sorcery\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c7f74bea",
+		type: "item",
+		items: [{
+			item: "ebwizardry:battlemage_boots_sorcery"
+		}],
+		consume_items: true
+	}]
+}

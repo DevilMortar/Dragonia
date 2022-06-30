@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 196.0d,
+	description: "{id:\"ftbquests:lootcrate\",Count:1b,tag:{type:\"farmer\"},Damage:0s}",
+	tasks: [{
+		uid: "c8e99122",
+		type: "item",
+		items: [{
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "farmer"
+			}
+		}],
+		consume_items: true
+	}]
+}

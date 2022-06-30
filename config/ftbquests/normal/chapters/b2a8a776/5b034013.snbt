@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 75.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ancientspellcraft:chests/dungeon_additions\"},Damage:0s}",
+	tasks: [{
+		uid: "97c87cdf",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ancientspellcraft:chests/dungeon_additions"
+			}
+		}],
+		consume_items: true
+	}]
+}

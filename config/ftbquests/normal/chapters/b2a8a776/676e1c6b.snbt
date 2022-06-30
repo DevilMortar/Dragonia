@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:potion_ring\",Count:1b,tag:{Potion:\"minecraft:swiftness\"},Damage:0s}",
+	tasks: [{
+		uid: "5dadfa9b",
+		type: "item",
+		items: [{
+			id: "extraalchemy:potion_ring",
+			tag: {
+				Potion: "minecraft:swiftness"
+			}
+		}],
+		consume_items: true
+	}]
+}

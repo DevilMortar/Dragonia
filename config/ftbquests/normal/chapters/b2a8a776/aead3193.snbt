@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 16.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:long_resistance\"},Damage:0s}",
+	tasks: [{
+		uid: "7d1a64be",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:long_resistance"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 28.0d,
+	y: 92.0d,
+	description: "{id:\"rustic:elixir\",Count:1b,tag:{ElixirEffects:[{Effect:\"minecraft:speed\",Duration:3600,Amplifier:0}]},Damage:0s}",
+	tasks: [{
+		uid: "9c0e2d23",
+		type: "item",
+		items: [{
+			id: "rustic:elixir",
+			tag: {
+				ElixirEffects: [{
+					Effect: "minecraft:speed",
+					Duration: 3600,
+					Amplifier: 0
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

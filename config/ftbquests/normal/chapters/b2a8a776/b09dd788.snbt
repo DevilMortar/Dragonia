@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:museliitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aca92d97",
+		type: "item",
+		items: [{
+			item: "harvestcraft:museliitem"
+		}],
+		consume_items: true
+	}]
+}

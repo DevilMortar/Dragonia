@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 189.0d,
+	description: "{id:\"iceandfire:fire_dragon_heart\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e395f3b6",
+		type: "item",
+		items: [{
+			item: "iceandfire:fire_dragon_heart"
+		}],
+		consume_items: true
+	}]
+}

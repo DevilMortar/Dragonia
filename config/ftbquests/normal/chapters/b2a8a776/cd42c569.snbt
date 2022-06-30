@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 321.0d,
+	description: "{id:\"aether_legacy:dungeon_block\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "8cba3cce",
+		type: "item",
+		items: [{
+			item: "aether_legacy:dungeon_block 1 4"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:flaming_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a784a8e9",
+		type: "item",
+		items: [{
+			item: "aether_legacy:flaming_sword"
+		}],
+		consume_items: true
+	}]
+}

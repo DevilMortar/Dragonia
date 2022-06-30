@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 54.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"extraalchemy:magnetism_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "177ab5a9",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "extraalchemy:magnetism_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

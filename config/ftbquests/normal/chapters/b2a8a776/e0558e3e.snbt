@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 44.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"potioncore:magic_focus\"},Damage:0s}",
+	tasks: [{
+		uid: "872d2341",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "potioncore:magic_focus"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 25.0d,
+	y: 308.0d,
+	description: "{ForgeCaps:{Parent:{augment:{},energy:{energy:0L}}},id:\"thaumicaugmentation:augment_caster_rift_energy_storage\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "250e5955",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					augment: {},
+					energy: {
+						energy: 0L
+					}
+				}
+			},
+			id: "thaumicaugmentation:augment_caster_rift_energy_storage"
+		}],
+		consume_items: true
+	}]
+}

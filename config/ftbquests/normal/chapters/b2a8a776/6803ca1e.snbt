@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 196.0d,
+	description: "{id:\"ftbquests:lootcrate\",Count:1b,tag:{type:\"warrior\"},Damage:0s}",
+	tasks: [{
+		uid: "797b855e",
+		type: "item",
+		items: [{
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "warrior"
+			}
+		}],
+		consume_items: true
+	}]
+}

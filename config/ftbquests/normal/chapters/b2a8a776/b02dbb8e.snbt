@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 76.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ebwizardry:gameplay/fishing/junk_additions\"},Damage:0s}",
+	tasks: [{
+		uid: "21e68794",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ebwizardry:gameplay/fishing/junk_additions"
+			}
+		}],
+		consume_items: true
+	}]
+}

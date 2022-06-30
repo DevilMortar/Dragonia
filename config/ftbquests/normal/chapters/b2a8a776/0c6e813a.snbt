@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 19.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"quark:long_danger_sight\"},Damage:0s}",
+	tasks: [{
+		uid: "c87511b1",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "quark:long_danger_sight"
+			}
+		}],
+		consume_items: true
+	}]
+}

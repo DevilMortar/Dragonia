@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:silversword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4a2849a8",
+		type: "item",
+		items: [{
+			item: "mocreatures:silversword"
+		}],
+		consume_items: true
+	}]
+}

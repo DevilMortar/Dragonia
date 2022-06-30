@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 115.0d,
+	description: "{id:\"ancientspellcraft:ring_range\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "af5d31a6",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:ring_range"
+		}],
+		consume_items: true
+	}]
+}

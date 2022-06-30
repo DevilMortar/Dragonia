@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 206.0d,
+	description: "{id:\"netherex:urn_of_sorrow\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "88e62740",
+		type: "item",
+		items: [{
+			item: "netherex:urn_of_sorrow"
+		}],
+		consume_items: true
+	}]
+}

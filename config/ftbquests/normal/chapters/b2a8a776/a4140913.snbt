@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 150.0d,
+	description: "{id:\"atum:atums_homecoming\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8f8cb0bc",
+		type: "item",
+		items: [{
+			item: "atum:atums_homecoming"
+		}],
+		consume_items: true
+	}]
+}

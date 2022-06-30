@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 95.0d,
+	description: "{id:\"atum:porphyry\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0e2151e2",
+		type: "item",
+		items: [{
+			item: "atum:porphyry"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 25.0d,
+	y: 264.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{effects:[{duration:500,potency:0,name:\"minecraft:invisibility\"}],hasPotion:1b},Damage:0s}",
+	tasks: [{
+		uid: "f7c091a5",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				effects: [{
+					duration: 500,
+					potency: 0,
+					name: "minecraft:invisibility"
+				}],
+				hasPotion: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

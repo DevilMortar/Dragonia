@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:taint_soil\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d322e7bc",
+		type: "item",
+		items: [{
+			item: "thaumcraft:taint_soil"
+		}],
+		consume_items: true
+	}]
+}

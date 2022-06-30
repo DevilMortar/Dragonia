@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 201.0d,
+	description: "{id:\"heroicarmory:terrariaebonwoodsword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "afba42f1",
+		type: "item",
+		items: [{
+			item: "heroicarmory:terrariaebonwoodsword"
+		}],
+		consume_items: true
+	}]
+}

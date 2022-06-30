@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 297.0d,
+	description: "{id:\"spartanweaponry:throwing_axe_electrum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f7b52798",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:throwing_axe_electrum"
+		}],
+		consume_items: true
+	}]
+}

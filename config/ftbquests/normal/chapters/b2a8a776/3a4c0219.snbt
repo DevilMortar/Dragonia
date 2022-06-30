@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 14.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extraalchemy:combustion_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "e0823133",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extraalchemy:combustion_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

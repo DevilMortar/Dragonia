@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 87.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"primitivemobs:entities/special/treasure_slime\"},Damage:0s}",
+	tasks: [{
+		uid: "8d612679",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "primitivemobs:entities/special/treasure_slime"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 322.0d,
+	description: "{id:\"aether_legacy:angelic_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "86b4f772",
+		type: "item",
+		items: [{
+			item: "aether_legacy:angelic_stairs"
+		}],
+		consume_items: true
+	}]
+}

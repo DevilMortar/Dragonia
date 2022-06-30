@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 152.0d,
+	description: "{id:\"akashictome:tome\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e2d52522",
+		type: "item",
+		items: [{
+			item: "akashictome:tome"
+		}],
+		consume_items: true
+	}]
+}

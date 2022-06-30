@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 70.0d,
+	description: "{id:\"biomesoplenty:plant_1\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "850a59b8",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:plant_1 1 3"
+		}],
+		consume_items: true
+	}]
+}

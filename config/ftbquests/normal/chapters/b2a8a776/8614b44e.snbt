@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 218.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"flint\"},Damage:0s}",
+	tasks: [{
+		uid: "1ad3be23",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "flint"
+			}
+		}],
+		consume_items: true
+	}]
+}

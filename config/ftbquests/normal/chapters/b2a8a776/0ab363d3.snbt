@@ -1,0 +1,57 @@
+{
+	x: 36.0d,
+	y: 135.0d,
+	description: "{id:\"conarm:chestplate\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:98,Defense:5.3f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:98,Defense:5.3f},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"aridiculous_armor\",color:-4698289,level:1},{identifier:\"infernal_armor\",color:-4698289,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"aridiculous_armor\",\"infernal_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "274e8c1e",
+		type: "item",
+		items: [{
+			id: "conarm:chestplate",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 98,
+					Defense: 5.3f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 98,
+					Defense: 5.3f
+				},
+				TinkerData: {
+					Materials: [
+						"netherrack",
+						"netherrack",
+						"netherrack"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "aridiculous_armor",
+					color: -4698289,
+					level: 1
+				},
+				{
+					identifier: "infernal_armor",
+					color: -4698289,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"aridiculous_armor",
+					"infernal_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

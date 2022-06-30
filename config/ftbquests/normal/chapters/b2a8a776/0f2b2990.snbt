@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 152.0d,
+	description: "{id:\"atum:camel_cooked\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2858c59a",
+		type: "item",
+		items: [{
+			item: "atum:camel_cooked"
+		}],
+		consume_items: true
+	}]
+}

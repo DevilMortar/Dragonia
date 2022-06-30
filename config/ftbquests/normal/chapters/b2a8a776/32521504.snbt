@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 108.0d,
+	description: "{id:\"ebwizardry:range_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1975f6dc",
+		type: "item",
+		items: [{
+			item: "ebwizardry:range_upgrade"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 55.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"extraalchemy:gravity_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "bbbfada6",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "extraalchemy:gravity_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

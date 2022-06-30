@@ -1,0 +1,63 @@
+{
+	x: 28.0d,
+	y: 238.0d,
+	description: "{id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:1224,HarvestLevel:0,Attack:2.3f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:1224,HarvestLevel:0,Attack:2.3f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"slimey_blue\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b7c2e1b6",
+		type: "item",
+		items: [{
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.03f,
+					FreeModifiers: 3,
+					Durability: 1224,
+					HarvestLevel: 0,
+					Attack: 2.3f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.03f,
+					FreeModifiers: 3,
+					Durability: 1224,
+					HarvestLevel: 0,
+					Attack: 2.3f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"blueslime",
+						"blueslime",
+						"blueslime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "slimey_blue",
+					color: -9123641,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"slimey_blue",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

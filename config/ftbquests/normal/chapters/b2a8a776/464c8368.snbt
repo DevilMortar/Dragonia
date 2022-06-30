@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 426.0d,
+	description: "{id:\"tcomplement:chisel_head\",Count:1b,tag:{Material:\"dragonbone\"},Damage:0s}",
+	tasks: [{
+		uid: "2e94e4f3",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel_head",
+			tag: {
+				Material: "dragonbone"
+			}
+		}],
+		consume_items: true
+	}]
+}

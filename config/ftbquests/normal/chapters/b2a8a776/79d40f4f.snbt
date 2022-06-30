@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 354.0d,
+	description: "{id:\"harvestcraft:stuffingitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1cbb35e6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:stuffingitem"
+		}],
+		consume_items: true
+	}]
+}

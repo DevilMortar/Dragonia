@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:gourmetvenisonpattyitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7610d118",
+		type: "item",
+		items: [{
+			item: "harvestcraft:gourmetvenisonpattyitem"
+		}],
+		consume_items: true
+	}]
+}

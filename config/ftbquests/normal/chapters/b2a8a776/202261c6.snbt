@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 346.0d,
+	description: "{id:\"harvestcraft:starfruitjellysandwichitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "de3226c0",
+		type: "item",
+		items: [{
+			item: "harvestcraft:starfruitjellysandwichitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 182.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"potioncore:broken_magic_shield\"},Damage:0s}",
+	tasks: [{
+		uid: "002c6df7",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "potioncore:broken_magic_shield"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 205.0d,
+	description: "{id:\"ancientwarfarestructure:coffin\",Count:1b,tag:{variant:1},Damage:0s}",
+	tasks: [{
+		uid: "14fae7cf",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:coffin",
+			tag: {
+				variant: 1
+			}
+		}],
+		consume_items: true
+	}]
+}

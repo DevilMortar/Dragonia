@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 362.0d,
+	description: "{id:\"vt:pedestal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7f0231c9",
+		type: "item",
+		items: [{
+			item: "vt:pedestal"
+		}],
+		consume_items: true
+	}]
+}

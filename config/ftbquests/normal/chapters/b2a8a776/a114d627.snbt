@@ -1,0 +1,18 @@
+{
+	x: 20.0d,
+	y: 125.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"good\",npcType:\"faction.soldier\"},Damage:0s}",
+	tasks: [{
+		uid: "97122ce0",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "good",
+				npcType: "faction.soldier"
+			}
+		}],
+		consume_items: true
+	}]
+}

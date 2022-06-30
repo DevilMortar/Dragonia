@@ -1,0 +1,51 @@
+{
+	x: 20.0d,
+	y: 140.0d,
+	description: "{id:\"conarm:leggings\",Count:1b,tag:{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:381,Defense:17.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:381,Defense:17.0f},TinkerData:{Materials:[\"silver\",\"silver\",\"silver\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"blessed_armor\",color:-3019530,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"blessed_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "036d874e",
+		type: "item",
+		items: [{
+			id: "conarm:leggings",
+			tag: {
+				StatsOriginal: {
+					Toughness: 2.0f,
+					FreeModifiers: 3,
+					Durability: 381,
+					Defense: 17.0f
+				},
+				Stats: {
+					Toughness: 2.0f,
+					FreeModifiers: 3,
+					Durability: 381,
+					Defense: 17.0f
+				},
+				TinkerData: {
+					Materials: [
+						"silver",
+						"silver",
+						"silver"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "blessed_armor",
+					color: -3019530,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"blessed_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 51.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:strong_slow_fall\"},Damage:0s}",
+	tasks: [{
+		uid: "d36eaacf",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:strong_slow_fall"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 78.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:gameplay/fishing\"},Damage:0s}",
+	tasks: [{
+		uid: "92fe3eec",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:gameplay/fishing"
+			}
+		}],
+		consume_items: true
+	}]
+}

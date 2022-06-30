@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 257.0d,
+	description: "{id:\"randomloot:pickaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f42e4307",
+		type: "item",
+		items: [{
+			item: "randomloot:pickaxe"
+		}],
+		consume_items: true
+	}]
+}

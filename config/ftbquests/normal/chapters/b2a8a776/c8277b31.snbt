@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:furlegs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "29c35cee",
+		type: "item",
+		items: [{
+			item: "mocreatures:furlegs"
+		}],
+		consume_items: true
+	}]
+}

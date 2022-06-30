@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 148.0d,
+	description: "{id:\"atum:loot_sapphire_necklace\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eb5580e6",
+		type: "item",
+		items: [{
+			item: "atum:loot_sapphire_necklace"
+		}],
+		consume_items: true
+	}]
+}

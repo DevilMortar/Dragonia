@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:golden_pendant\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e0b4d549",
+		type: "item",
+		items: [{
+			item: "aether_legacy:golden_pendant"
+		}],
+		consume_items: true
+	}]
+}

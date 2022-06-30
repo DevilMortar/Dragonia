@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 184.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"potioncore:spin\"},Damage:0s}",
+	tasks: [{
+		uid: "b9114fa1",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "potioncore:spin"
+			}
+		}],
+		consume_items: true
+	}]
+}

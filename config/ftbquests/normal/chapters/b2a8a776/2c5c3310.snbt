@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"quark:long_danger_sight\"},Damage:0s}",
+	tasks: [{
+		uid: "40f7bc0f",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "quark:long_danger_sight"
+			}
+		}],
+		consume_items: true
+	}]
+}

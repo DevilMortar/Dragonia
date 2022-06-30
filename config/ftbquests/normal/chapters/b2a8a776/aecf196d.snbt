@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 372.0d,
+	description: "{id:\"quark:jasper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "594b7fe0",
+		type: "item",
+		items: [{
+			item: "quark:jasper"
+		}],
+		consume_items: true
+	}]
+}

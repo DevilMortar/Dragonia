@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 340.0d,
+	description: "{id:\"harvestcraft:potatocakesitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5d50312e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:potatocakesitem"
+		}],
+		consume_items: true
+	}]
+}

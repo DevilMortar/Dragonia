@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 63.0d,
+	description: "{id:\"betternether:cincinnasite_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "410e336b",
+		type: "item",
+		items: [{
+			item: "betternether:cincinnasite_stairs"
+		}],
+		consume_items: true
+	}]
+}

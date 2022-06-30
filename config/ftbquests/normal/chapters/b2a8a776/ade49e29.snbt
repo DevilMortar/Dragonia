@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 89.0d,
+	description: "{id:\"rustic:diorite_pillar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "73fc2940",
+		type: "item",
+		items: [{
+			item: "rustic:diorite_pillar"
+		}],
+		consume_items: true
+	}]
+}

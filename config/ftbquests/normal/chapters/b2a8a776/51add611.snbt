@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 46.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"charm:decay\"},Damage:0s}",
+	tasks: [{
+		uid: "e8b476fe",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "charm:decay"
+			}
+		}],
+		consume_items: true
+	}]
+}

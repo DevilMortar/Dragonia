@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 353.0d,
+	description: "{id:\"harvestcraft:friedgreentomatoesitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f5b5cfbe",
+		type: "item",
+		items: [{
+			item: "harvestcraft:friedgreentomatoesitem"
+		}],
+		consume_items: true
+	}]
+}

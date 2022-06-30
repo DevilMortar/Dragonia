@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 182.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"potioncore:love\"},Damage:0s}",
+	tasks: [{
+		uid: "bf8a7e2c",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "potioncore:love"
+			}
+		}],
+		consume_items: true
+	}]
+}

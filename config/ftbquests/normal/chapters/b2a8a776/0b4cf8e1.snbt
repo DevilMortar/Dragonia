@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 373.0d,
+	description: "{id:\"quark:stonebrick_mossy_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d0fab016",
+		type: "item",
+		items: [{
+			item: "quark:stonebrick_mossy_stairs"
+		}],
+		consume_items: true
+	}]
+}

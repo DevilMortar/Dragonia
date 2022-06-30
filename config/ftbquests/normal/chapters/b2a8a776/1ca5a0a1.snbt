@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 93.0d,
+	description: "{id:\"atum:coal_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e2adb0f5",
+		type: "item",
+		items: [{
+			item: "atum:coal_ore"
+		}],
+		consume_items: true
+	}]
+}

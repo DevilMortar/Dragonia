@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:toast\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dc215a1f",
+		type: "item",
+		items: [{
+			item: "dungeontactics:toast"
+		}],
+		consume_items: true
+	}]
+}

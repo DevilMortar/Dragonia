@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 148.0d,
+	description: "{id:\"ancientwarfarevehicle:ammo_ballista_bolt_flame\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3f362fdc",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:ammo_ballista_bolt_flame"
+		}],
+		consume_items: true
+	}]
+}

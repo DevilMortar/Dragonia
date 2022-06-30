@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 149.0d,
+	description: "{id:\"atum:loot_diamond_scepter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3fb12cba",
+		type: "item",
+		items: [{
+			item: "atum:loot_diamond_scepter"
+		}],
+		consume_items: true
+	}]
+}

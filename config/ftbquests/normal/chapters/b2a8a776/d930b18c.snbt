@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 186.0d,
+	description: "{id:\"iceandfire:sapphire_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ca6649e6",
+		type: "item",
+		items: [{
+			item: "iceandfire:sapphire_ore"
+		}],
+		consume_items: true
+	}]
+}

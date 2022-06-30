@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"dragonsteel_ice\"},Damage:0s}",
+	tasks: [{
+		uid: "ebe8ddae",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "dragonsteel_ice"
+			}
+		}],
+		consume_items: true
+	}]
+}

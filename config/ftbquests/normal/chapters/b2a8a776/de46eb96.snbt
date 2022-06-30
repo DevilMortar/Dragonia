@@ -1,0 +1,20 @@
+{
+	x: 25.0d,
+	y: 263.0d,
+	description: "{id:\"xreliquary:potion_essence\",Count:1b,tag:{effects:[{duration:750,potency:0,name:\"minecraft:poison\"}]},Damage:0s}",
+	tasks: [{
+		uid: "28ac1f6f",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion_essence",
+			tag: {
+				effects: [{
+					duration: 750,
+					potency: 0,
+					name: "minecraft:poison"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

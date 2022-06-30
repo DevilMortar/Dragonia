@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 209.0d,
+	description: "{id:\"tconstruct:firewood_slab\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "7c49243e",
+		type: "item",
+		items: [{
+			item: "tconstruct:firewood_slab 1 1"
+		}],
+		consume_items: true
+	}]
+}

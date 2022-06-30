@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 145.0d,
+	description: "{id:\"ancientwarfarevehicle:rocket_charge\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dadc3b0d",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:rocket_charge"
+		}],
+		consume_items: true
+	}]
+}

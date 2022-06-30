@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 181.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"potioncore:blindness\"},Damage:0s}",
+	tasks: [{
+		uid: "6ef6892b",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "potioncore:blindness"
+			}
+		}],
+		consume_items: true
+	}]
+}

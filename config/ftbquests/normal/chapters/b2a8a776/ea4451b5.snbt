@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 196.0d,
+	description: "{id:\"heroicarmory:lozultimatesword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8a6bef2e",
+		type: "item",
+		items: [{
+			item: "heroicarmory:lozultimatesword"
+		}],
+		consume_items: true
+	}]
+}

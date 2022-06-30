@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 45.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"mowziesmobs:long_poison_resist\"},Damage:0s}",
+	tasks: [{
+		uid: "422a2dd8",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "mowziesmobs:long_poison_resist"
+			}
+		}],
+		consume_items: true
+	}]
+}

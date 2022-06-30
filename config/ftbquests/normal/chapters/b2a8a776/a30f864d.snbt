@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 94.0d,
+	description: "{id:\"atum:limestone_furnace\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3e219a60",
+		type: "item",
+		items: [{
+			item: "atum:limestone_furnace"
+		}],
+		consume_items: true
+	}]
+}

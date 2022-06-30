@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 303.0d,
+	description: "{id:\"spartanfire:greatsword_fire_dragonsteel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d69354d8",
+		type: "item",
+		items: [{
+			item: "spartanfire:greatsword_fire_dragonsteel"
+		}],
+		consume_items: true
+	}]
+}

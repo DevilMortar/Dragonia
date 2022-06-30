@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 358.0d,
+	description: "{id:\"harvestcraft:crawfishetoufeeitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a3f926df",
+		type: "item",
+		items: [{
+			item: "harvestcraft:crawfishetoufeeitem"
+		}],
+		consume_items: true
+	}]
+}

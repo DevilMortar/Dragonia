@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 297.0d,
+	description: "{id:\"spartanweaponry:mace_platinum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e3cc0387",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:mace_platinum"
+		}],
+		consume_items: true
+	}]
+}

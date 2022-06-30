@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 120.0d,
+	description: "{id:\"ancientwarfarenpc:wooden_command_baton\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "57760f9b",
+		type: "item",
+		items: [{
+			item: "ancientwarfarenpc:wooden_command_baton"
+		}],
+		consume_items: true
+	}]
+}

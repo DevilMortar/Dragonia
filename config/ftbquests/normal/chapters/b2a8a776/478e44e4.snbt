@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:turkeyraw\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6ec2f09b",
+		type: "item",
+		items: [{
+			item: "mocreatures:turkeyraw"
+		}],
+		consume_items: true
+	}]
+}

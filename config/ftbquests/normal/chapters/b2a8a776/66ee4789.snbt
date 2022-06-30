@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 171.0d,
+	description: "{id:\"dungeontactics:bone_knife\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f3f2d5dc",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bone_knife"
+		}],
+		consume_items: true
+	}]
+}

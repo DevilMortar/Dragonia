@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 285.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:curse\"},Damage:0s}",
+	tasks: [{
+		uid: "df988fd5",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:curse"
+			}
+		}],
+		consume_items: true
+	}]
+}

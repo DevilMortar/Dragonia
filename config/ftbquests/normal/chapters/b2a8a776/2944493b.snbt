@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:endlapis_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "647e625a",
+		type: "item",
+		items: [{
+			item: "dungeontactics:endlapis_ore"
+		}],
+		consume_items: true
+	}]
+}

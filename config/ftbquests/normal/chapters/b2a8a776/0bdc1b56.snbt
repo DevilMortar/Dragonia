@@ -1,0 +1,19 @@
+{
+	x: 23.0d,
+	y: 370.0d,
+	description: "{id:\"quark:ancient_tome\",Count:1b,tag:{StoredEnchantments:[{lvl:3s,id:21}]},Damage:0s}",
+	tasks: [{
+		uid: "2a1f936f",
+		type: "item",
+		items: [{
+			id: "quark:ancient_tome",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 3s,
+					id: 21
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

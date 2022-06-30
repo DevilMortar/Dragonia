@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 108.0d,
+	description: "{id:\"ebwizardry:apprentice_sorcery_wand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1f10d31c",
+		type: "item",
+		items: [{
+			item: "ebwizardry:apprentice_sorcery_wand"
+		}],
+		consume_items: true
+	}]
+}

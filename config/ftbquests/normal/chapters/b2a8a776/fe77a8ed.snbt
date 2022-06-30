@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 93.0d,
+	description: "{id:\"atum:spinning_wheel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "09e819dd",
+		type: "item",
+		items: [{
+			item: "atum:spinning_wheel"
+		}],
+		consume_items: true
+	}]
+}

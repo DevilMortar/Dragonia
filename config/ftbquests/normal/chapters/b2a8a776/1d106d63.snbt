@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:briochebunitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9c03d70f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:briochebunitem"
+		}],
+		consume_items: true
+	}]
+}

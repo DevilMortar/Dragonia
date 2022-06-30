@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 184.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"mowziesmobs:poison_resist\"},Damage:0s}",
+	tasks: [{
+		uid: "4ba5f238",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "mowziesmobs:poison_resist"
+			}
+		}],
+		consume_items: true
+	}]
+}

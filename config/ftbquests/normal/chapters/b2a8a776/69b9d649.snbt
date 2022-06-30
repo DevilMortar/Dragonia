@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 325.0d,
+	description: "{id:\"aether_legacy:skyroot_button\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e55e7714",
+		type: "item",
+		items: [{
+			item: "aether_legacy:skyroot_button"
+		}],
+		consume_items: true
+	}]
+}

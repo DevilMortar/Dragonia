@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 88.0d,
+	description: "{id:\"reccomplex:inventory_generation_component_tag\",Count:1b,tag:{itemCollectionKey:\"WheatFieldMillTools\"},Damage:0s}",
+	tasks: [{
+		uid: "19b2bbf6",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_component_tag",
+			tag: {
+				itemCollectionKey: "WheatFieldMillTools"
+			}
+		}],
+		consume_items: true
+	}]
+}

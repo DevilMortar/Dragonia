@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:gooseberrysmoothieitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1c05ce43",
+		type: "item",
+		items: [{
+			item: "harvestcraft:gooseberrysmoothieitem"
+		}],
+		consume_items: true
+	}]
+}

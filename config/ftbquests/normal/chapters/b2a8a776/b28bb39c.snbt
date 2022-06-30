@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 425.0d,
+	description: "{id:\"tcomplement:chisel_head\",Count:1b,tag:{Material:\"flint\"},Damage:0s}",
+	tasks: [{
+		uid: "dac932ab",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel_head",
+			tag: {
+				Material: "flint"
+			}
+		}],
+		consume_items: true
+	}]
+}

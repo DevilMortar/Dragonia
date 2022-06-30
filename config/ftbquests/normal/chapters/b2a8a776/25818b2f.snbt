@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 229.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"dragonsteel_ice\"},Damage:0s}",
+	tasks: [{
+		uid: "ddfa697b",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "dragonsteel_ice"
+			}
+		}],
+		consume_items: true
+	}]
+}

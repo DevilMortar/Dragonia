@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 214.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"weezer\"},Damage:0s}",
+	tasks: [{
+		uid: "dd052efc",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "weezer"
+			}
+		}],
+		consume_items: true
+	}]
+}

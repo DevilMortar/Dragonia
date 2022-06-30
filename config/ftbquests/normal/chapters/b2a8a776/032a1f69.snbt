@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 98.0d,
+	description: "{id:\"atum:thin_crystal_magenta_stained_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "10149b18",
+		type: "item",
+		items: [{
+			item: "atum:thin_crystal_magenta_stained_glass"
+		}],
+		consume_items: true
+	}]
+}

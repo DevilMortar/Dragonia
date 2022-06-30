@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 353.0d,
+	description: "{id:\"harvestcraft:surfandturfitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "29dc4f4c",
+		type: "item",
+		items: [{
+			item: "harvestcraft:surfandturfitem"
+		}],
+		consume_items: true
+	}]
+}

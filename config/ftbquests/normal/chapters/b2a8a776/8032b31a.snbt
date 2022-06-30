@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 409.0d,
+	description: "{id:\"chisel:netherbrick\",Count:1b,Damage:14s}",
+	tasks: [{
+		uid: "9b21947b",
+		type: "item",
+		items: [{
+			item: "chisel:netherbrick 1 14"
+		}],
+		consume_items: true
+	}]
+}

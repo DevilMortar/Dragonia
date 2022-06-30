@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:glowing_jelly\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1d3ab7e1",
+		type: "item",
+		items: [{
+			item: "mowziesmobs:glowing_jelly"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 43.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"potioncore:strong_extension\"},Damage:0s}",
+	tasks: [{
+		uid: "0a5843da",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "potioncore:strong_extension"
+			}
+		}],
+		consume_items: true
+	}]
+}

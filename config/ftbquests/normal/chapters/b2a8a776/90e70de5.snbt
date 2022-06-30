@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 331.0d,
+	description: "{id:\"harvestcraft:tomatoitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d3f2015f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:tomatoitem"
+		}],
+		consume_items: true
+	}]
+}

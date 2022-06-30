@@ -1,0 +1,21 @@
+{
+	x: 10.0d,
+	y: 260.0d,
+	description: "{id:\"xreliquary:bullet\",Count:1b,tag:{effects:[{duration:500,potency:1,name:\"minecraft:mining_fatigue\"}]},Damage:1s}",
+	tasks: [{
+		uid: "9f1c4e42",
+		type: "item",
+		items: [{
+			id: "xreliquary:bullet",
+			tag: {
+				effects: [{
+					duration: 500,
+					potency: 1,
+					name: "minecraft:mining_fatigue"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:smelter_void\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a5257138",
+		type: "item",
+		items: [{
+			item: "thaumcraft:smelter_void"
+		}],
+		consume_items: true
+	}]
+}

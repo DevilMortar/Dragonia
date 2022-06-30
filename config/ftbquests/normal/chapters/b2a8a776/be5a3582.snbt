@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:lozgreatfairysword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "93891cd5",
+		type: "item",
+		items: [{
+			item: "heroicarmory:lozgreatfairysword"
+		}],
+		consume_items: true
+	}]
+}

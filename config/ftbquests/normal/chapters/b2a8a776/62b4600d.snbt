@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 48.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"extraalchemy:learning_long\"},Damage:0s}",
+	tasks: [{
+		uid: "de683e6f",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "extraalchemy:learning_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

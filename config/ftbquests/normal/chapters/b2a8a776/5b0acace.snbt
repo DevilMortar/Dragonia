@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 193.0d,
+	description: "{id:\"iceandfire:armor_green_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aacd3269",
+		type: "item",
+		items: [{
+			item: "iceandfire:armor_green_boots"
+		}],
+		consume_items: true
+	}]
+}

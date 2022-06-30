@@ -1,0 +1,19 @@
+{
+	x: 30.0d,
+	y: 161.0d,
+	description: "{id:\"thaumcraft:crystal_essence\",Count:1b,tag:{Aspects:[{amount:1,key:\"alkimia\"}]},Damage:0s}",
+	tasks: [{
+		uid: "a0f7261c",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "alkimia"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

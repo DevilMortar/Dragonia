@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 172.0d,
+	description: "{id:\"dungeontactics:sharp_stick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fe9f8c17",
+		type: "item",
+		items: [{
+			item: "dungeontactics:sharp_stick"
+		}],
+		consume_items: true
+	}]
+}

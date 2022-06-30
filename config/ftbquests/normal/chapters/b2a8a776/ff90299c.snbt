@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 114.0d,
+	description: "{id:\"ebwizardry:charm_flight\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ee45197b",
+		type: "item",
+		items: [{
+			item: "ebwizardry:charm_flight"
+		}],
+		consume_items: true
+	}]
+}

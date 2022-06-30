@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 356.0d,
+	description: "{id:\"harvestcraft:baconwrappedchiliitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7e0daf5a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:baconwrappedchiliitem"
+		}],
+		consume_items: true
+	}]
+}

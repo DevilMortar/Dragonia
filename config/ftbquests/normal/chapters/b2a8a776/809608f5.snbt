@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 352.0d,
+	description: "{id:\"harvestcraft:honeyglazedcarrotsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c93516f0",
+		type: "item",
+		items: [{
+			item: "harvestcraft:honeyglazedcarrotsitem"
+		}],
+		consume_items: true
+	}]
+}

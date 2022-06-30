@@ -1,0 +1,22 @@
+{
+	x: 20.0d,
+	y: 258.0d,
+	description: "{ForgeCaps:{Parent:{Size:4,TotalAmounts:[0],Items:[]}},id:\"xreliquary:harvest_rod\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "66501c51",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 4,
+					TotalAmounts: [
+						0
+					],
+					Items: []
+				}
+			},
+			id: "xreliquary:harvest_rod"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:amulet_channeling\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "64ae983c",
+		type: "item",
+		items: [{
+			item: "ebwizardry:amulet_channeling"
+		}],
+		consume_items: true
+	}]
+}

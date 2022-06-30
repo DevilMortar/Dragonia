@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 339.0d,
+	description: "{id:\"harvestcraft:mashedpotatoesitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "88cee1e2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:mashedpotatoesitem"
+		}],
+		consume_items: true
+	}]
+}

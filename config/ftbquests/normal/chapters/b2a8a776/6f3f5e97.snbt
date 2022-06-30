@@ -1,0 +1,74 @@
+{
+	x: 10.0d,
+	y: 250.0d,
+	description: "{id:\"tconstruct:arrow\",Count:1b,tag:{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:1050,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:1050,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"tool\",\"projectile\",\"no_melee\"]},TinkerData:{Materials:[\"wood\",\"sponge\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"squeaky\",color:-3486642,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"squeaky\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b9bdb670",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 33s
+				}],
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.02f,
+					FreeModifiers: 3,
+					Durability: 1050,
+					HarvestLevel: 0,
+					Attack: 2.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.02f,
+					FreeModifiers: 3,
+					Durability: 1050,
+					HarvestLevel: 0,
+					Attack: 2.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"projectile",
+						"no_melee"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"sponge",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "squeaky",
+					color: -3486642,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"squeaky",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

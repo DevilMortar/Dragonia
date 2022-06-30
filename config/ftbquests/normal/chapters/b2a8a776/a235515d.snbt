@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 146.0d,
+	description: "{id:\"ancientwarfarevehicle:fine_iron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c4cc50ea",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:fine_iron"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 150.0d,
+	description: "{id:\"atum:seths_sting\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "abc666fa",
+		type: "item",
+		items: [{
+			item: "atum:seths_sting"
+		}],
+		consume_items: true
+	}]
+}

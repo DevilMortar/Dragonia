@@ -1,0 +1,17 @@
+{
+	x: 8.0d,
+	y: 107.0d,
+	description: "{id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"ichor\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "710fa3ee",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "ichor",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

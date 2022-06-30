@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 165.0d,
+	description: "{id:\"thaumcraft:creative_flux_sponge\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b9537161",
+		type: "item",
+		items: [{
+			item: "thaumcraft:creative_flux_sponge"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 31.0d,
+	y: 264.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{effects:[{duration:2250,potency:1,name:\"minecraft:speed\"}],hasPotion:1b},Damage:0s}",
+	tasks: [{
+		uid: "a3971adb",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				effects: [{
+					duration: 2250,
+					potency: 1,
+					name: "minecraft:speed"
+				}],
+				hasPotion: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

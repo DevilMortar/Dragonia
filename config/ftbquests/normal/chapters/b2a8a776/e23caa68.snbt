@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 163.0d,
+	description: "{id:\"thaumcraft:resonator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "75b00dcb",
+		type: "item",
+		items: [{
+			item: "thaumcraft:resonator"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 271.0d,
+	description: "{id:\"spartanweaponry:caestus\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c13b8a6b",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:caestus"
+		}],
+		consume_items: true
+	}]
+}

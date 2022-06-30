@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 258.0d,
+	description: "{id:\"xreliquary:ice_magus_rod\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8007ced2",
+		type: "item",
+		items: [{
+			item: "xreliquary:ice_magus_rod"
+		}],
+		consume_items: true
+	}]
+}

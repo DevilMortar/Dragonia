@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 116.0d,
+	description: "{id:\"ancientwarfare:research_note\",Count:1b,tag:{researchName:\"ballistics\"},Damage:0s}",
+	tasks: [{
+		uid: "73fc22b6",
+		type: "item",
+		items: [{
+			id: "ancientwarfare:research_note",
+			tag: {
+				researchName: "ballistics"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 14.0d,
+	y: 313.0d,
+	description: "{ForgeCaps:{Parent:{}},id:\"thaumicaugmentation:impulse_cannon_augment\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "73c5a639",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "thaumicaugmentation:impulse_cannon_augment",
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

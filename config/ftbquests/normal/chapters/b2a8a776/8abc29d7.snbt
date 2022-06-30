@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 229.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"knightslime\"},Damage:0s}",
+	tasks: [{
+		uid: "6272305d",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "knightslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

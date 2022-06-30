@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 203.0d,
+	description: "{id:\"megaloot:weaponcase_epic\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7602376d",
+		type: "item",
+		items: [{
+			item: "megaloot:weaponcase_epic"
+		}],
+		consume_items: true
+	}]
+}

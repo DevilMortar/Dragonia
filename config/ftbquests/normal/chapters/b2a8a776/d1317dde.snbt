@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 101.0d,
+	description: "{id:\"thaumcraft:stone_arcane_brick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cbc8dc80",
+		type: "item",
+		items: [{
+			item: "thaumcraft:stone_arcane_brick"
+		}],
+		consume_items: true
+	}]
+}

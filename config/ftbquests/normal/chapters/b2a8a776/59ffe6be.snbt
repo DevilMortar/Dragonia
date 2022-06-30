@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 174.0d,
+	description: "{id:\"dungeontactics:magic_scroll\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5f571c07",
+		type: "item",
+		items: [{
+			item: "dungeontactics:magic_scroll"
+		}],
+		consume_items: true
+	}]
+}

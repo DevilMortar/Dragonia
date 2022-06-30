@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:strong_archery\"},Damage:0s}",
+	tasks: [{
+		uid: "3e25b9a7",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:strong_archery"
+			}
+		}],
+		consume_items: true
+	}]
+}

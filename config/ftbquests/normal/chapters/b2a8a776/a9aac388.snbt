@@ -1,0 +1,74 @@
+{
+	x: 31.0d,
+	y: 247.0d,
+	description: "{id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:2408,HarvestLevel:4,Attack:25.099998f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:2408,HarvestLevel:4,Attack:25.099998f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"dragonsteel_fire\",\"dragonsteel_fire\",\"dragonsteel_fire\",\"dragonsteel_fire\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"sharp\",color:-3359804,level:1},{identifier:\"flame2\",color:-3359804,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"sharp\",\"flame2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "e8c933f1",
+		type: "item",
+		items: [{
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 2408,
+					HarvestLevel: 4,
+					Attack: 25.099998f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 2408,
+					HarvestLevel: 4,
+					Attack: 25.099998f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dragonsteel_fire",
+						"dragonsteel_fire",
+						"dragonsteel_fire",
+						"dragonsteel_fire"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "sharp",
+					color: -3359804,
+					level: 1
+				},
+				{
+					identifier: "flame2",
+					color: -3359804,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"sharp",
+					"flame2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

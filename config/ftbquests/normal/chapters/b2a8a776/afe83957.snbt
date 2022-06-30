@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 365.0d,
+	description: "{id:\"quark:variant_leaves\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6e3cf17f",
+		type: "item",
+		items: [{
+			item: "quark:variant_leaves"
+		}],
+		consume_items: true
+	}]
+}

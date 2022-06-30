@@ -1,0 +1,76 @@
+{
+	x: 8.0d,
+	y: 250.0d,
+	description: "{id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:420,HarvestLevel:3,Attack:5.23f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:420,HarvestLevel:3,Attack:5.23f},Special:{Categories:[\"tool\",\"projectile\",\"no_melee\"]},TinkerData:{Materials:[\"wood\",\"endstone\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"alien\",color:-2041712,level:1},{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"alien\",\"enderference\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "8d6f28ac",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.23f,
+					FreeModifiers: 3,
+					Durability: 420,
+					HarvestLevel: 3,
+					Attack: 5.23f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.23f,
+					FreeModifiers: 3,
+					Durability: 420,
+					HarvestLevel: 3,
+					Attack: 5.23f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"projectile",
+						"no_melee"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"endstone",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "alien",
+					color: -2041712,
+					level: 1
+				},
+				{
+					identifier: "enderference",
+					color: -2041712,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"alien",
+					"enderference",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

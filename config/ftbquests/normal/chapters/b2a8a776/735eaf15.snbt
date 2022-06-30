@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 85.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/sheep/black\"},Damage:0s}",
+	tasks: [{
+		uid: "53c89c28",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/sheep/black"
+			}
+		}],
+		consume_items: true
+	}]
+}

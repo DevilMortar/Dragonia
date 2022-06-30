@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 39.0d,
+	description: "{id:\"minecraft:golden_horse_armor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f8c51fa1",
+		type: "item",
+		items: [{
+			item: "minecraft:golden_horse_armor"
+		}],
+		consume_items: true
+	}]
+}

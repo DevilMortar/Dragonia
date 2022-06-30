@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 74.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"Unholy\"},Damage:0s}",
+	tasks: [{
+		uid: "c27bd754",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "Unholy"
+			}
+		}],
+		consume_items: true
+	}]
+}

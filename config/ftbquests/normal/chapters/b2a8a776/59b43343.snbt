@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 329.0d,
+	description: "{id:\"moremobss:poisonousdagger\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7e583bf2",
+		type: "item",
+		items: [{
+			item: "moremobss:poisonousdagger"
+		}],
+		consume_items: true
+	}]
+}

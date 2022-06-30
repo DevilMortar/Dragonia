@@ -1,0 +1,18 @@
+{
+	x: 37.0d,
+	y: 312.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"minecraft:mutated_redwood_taiga\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "604a805b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "minecraft:mutated_redwood_taiga"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

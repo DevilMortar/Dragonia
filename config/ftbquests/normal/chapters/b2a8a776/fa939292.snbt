@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 363.0d,
+	description: "{id:\"quark:custom_bookshelf\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "15bf996f",
+		type: "item",
+		items: [{
+			item: "quark:custom_bookshelf 1 4"
+		}],
+		consume_items: true
+	}]
+}

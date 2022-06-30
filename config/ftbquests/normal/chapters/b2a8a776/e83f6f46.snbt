@@ -1,0 +1,22 @@
+{
+	x: 11.0d,
+	y: 266.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{effects:[{duration:1000,potency:1,name:\"minecraft:weakness\"}],hasPotion:1b,splash:1b},Damage:0s}",
+	tasks: [{
+		uid: "daeb8fc5",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				effects: [{
+					duration: 1000,
+					potency: 1,
+					name: "minecraft:weakness"
+				}],
+				hasPotion: 1b,
+				splash: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

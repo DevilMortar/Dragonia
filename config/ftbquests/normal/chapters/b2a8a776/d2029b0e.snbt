@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 74.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"aether_legacy:entities/aerbunny\"},Damage:0s}",
+	tasks: [{
+		uid: "ca7a3f29",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "aether_legacy:entities/aerbunny"
+			}
+		}],
+		consume_items: true
+	}]
+}

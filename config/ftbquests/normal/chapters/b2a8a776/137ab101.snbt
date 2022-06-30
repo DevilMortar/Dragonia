@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 346.0d,
+	description: "{id:\"harvestcraft:rootbeersodaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ade5ce6f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:rootbeersodaitem"
+		}],
+		consume_items: true
+	}]
+}

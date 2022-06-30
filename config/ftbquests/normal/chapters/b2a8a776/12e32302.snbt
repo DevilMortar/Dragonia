@@ -1,0 +1,17 @@
+{
+	x: 27.0d,
+	y: 305.0d,
+	description: "{id:\"storagedrawers:basicdrawers\",Count:1b,tag:{material:\"acacia\"},Damage:3s}",
+	tasks: [{
+		uid: "a74e322a",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "acacia"
+			},
+			Damage: 3s
+		}],
+		consume_items: true
+	}]
+}

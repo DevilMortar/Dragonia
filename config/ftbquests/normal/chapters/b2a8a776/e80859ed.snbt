@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 228.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"desert_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "29c5fc05",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "desert_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

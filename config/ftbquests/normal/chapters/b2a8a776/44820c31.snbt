@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 79.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"netherex:entity/mogus/red_mogus\"},Damage:0s}",
+	tasks: [{
+		uid: "16d10dd2",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "netherex:entity/mogus/red_mogus"
+			}
+		}],
+		consume_items: true
+	}]
+}

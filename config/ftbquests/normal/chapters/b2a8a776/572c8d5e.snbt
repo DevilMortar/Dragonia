@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 361.0d,
+	description: "{id:\"harvestcraft:perchrawitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "acc47ce2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:perchrawitem"
+		}],
+		consume_items: true
+	}]
+}

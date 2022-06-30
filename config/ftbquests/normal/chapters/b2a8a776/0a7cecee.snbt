@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 325.0d,
+	description: "{id:\"aether_legacy:aether_tune\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e539788e",
+		type: "item",
+		items: [{
+			item: "aether_legacy:aether_tune"
+		}],
+		consume_items: true
+	}]
+}

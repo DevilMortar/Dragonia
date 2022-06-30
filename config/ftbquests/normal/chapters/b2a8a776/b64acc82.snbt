@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 351.0d,
+	description: "{id:\"harvestcraft:noodlesitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "42606942",
+		type: "item",
+		items: [{
+			item: "harvestcraft:noodlesitem"
+		}],
+		consume_items: true
+	}]
+}

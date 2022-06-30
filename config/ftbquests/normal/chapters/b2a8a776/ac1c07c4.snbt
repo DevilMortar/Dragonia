@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 84.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/chicken\"},Damage:0s}",
+	tasks: [{
+		uid: "1e1f4aef",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/chicken"
+			}
+		}],
+		consume_items: true
+	}]
+}

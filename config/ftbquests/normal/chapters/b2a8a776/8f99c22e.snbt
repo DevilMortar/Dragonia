@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:tube_restrict\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2bc075a5",
+		type: "item",
+		items: [{
+			item: "thaumcraft:tube_restrict"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 199.0d,
+	description: "{id:\"heroicarmory:rsgranitelongsword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8d2db222",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rsgranitelongsword"
+		}],
+		consume_items: true
+	}]
+}

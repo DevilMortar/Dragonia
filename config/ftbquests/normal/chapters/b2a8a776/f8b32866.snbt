@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 320.0d,
+	description: "{id:\"zettaimagic:r_light\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4037bb3b",
+		type: "item",
+		items: [{
+			item: "zettaimagic:r_light"
+		}],
+		consume_items: true
+	}]
+}

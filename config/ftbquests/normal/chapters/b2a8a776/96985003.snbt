@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 376.0d,
+	description: "{id:\"quark:quartz_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e4a422a3",
+		type: "item",
+		items: [{
+			item: "quark:quartz_wall"
+		}],
+		consume_items: true
+	}]
+}

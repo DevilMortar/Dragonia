@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 295.0d,
+	description: "{id:\"spartanweaponry:saber_steel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f1d759e2",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:saber_steel"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 331.0d,
+	description: "{id:\"harvestcraft:whitemushroomitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e6a09f9c",
+		type: "item",
+		items: [{
+			item: "harvestcraft:whitemushroomitem"
+		}],
+		consume_items: true
+	}]
+}

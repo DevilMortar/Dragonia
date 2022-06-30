@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 80.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"primitivemobs:entities/mother_spider\"},Damage:0s}",
+	tasks: [{
+		uid: "b425bfbc",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "primitivemobs:entities/mother_spider"
+			}
+		}],
+		consume_items: true
+	}]
+}

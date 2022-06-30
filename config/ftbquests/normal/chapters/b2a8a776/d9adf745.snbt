@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 9.0d,
+	description: "{id:\"minecraft:diamond_axe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a3b27f78",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_axe"
+		}],
+		consume_items: true
+	}]
+}

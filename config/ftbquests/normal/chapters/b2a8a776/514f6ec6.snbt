@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 200.0d,
+	description: "{id:\"heroicarmory:rsbarrelchestanchor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b28d25ba",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rsbarrelchestanchor"
+		}],
+		consume_items: true
+	}]
+}

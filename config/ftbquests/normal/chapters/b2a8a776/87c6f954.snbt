@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 198.0d,
+	description: "{id:\"heroicarmory:scomegasword2p\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fa019b19",
+		type: "item",
+		items: [{
+			item: "heroicarmory:scomegasword2p"
+		}],
+		consume_items: true
+	}]
+}

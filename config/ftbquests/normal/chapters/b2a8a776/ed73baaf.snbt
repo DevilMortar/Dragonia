@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:stairs_silverwood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0936e9d6",
+		type: "item",
+		items: [{
+			item: "thaumcraft:stairs_silverwood"
+		}],
+		consume_items: true
+	}]
+}

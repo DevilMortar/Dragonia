@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 273.0d,
+	description: "{id:\"spartanweaponry:arrow_explosive\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3df77006",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:arrow_explosive"
+		}],
+		consume_items: true
+	}]
+}

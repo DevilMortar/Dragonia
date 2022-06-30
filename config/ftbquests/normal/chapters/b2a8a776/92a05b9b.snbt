@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 372.0d,
+	description: "{id:\"quark:biome_cobblestone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0fb3e746",
+		type: "item",
+		items: [{
+			item: "quark:biome_cobblestone"
+		}],
+		consume_items: true
+	}]
+}

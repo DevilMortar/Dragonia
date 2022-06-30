@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 202.0d,
+	description: "{id:\"heroicarmory:terrariapurplephaseblade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5628b392",
+		type: "item",
+		items: [{
+			item: "heroicarmory:terrariapurplephaseblade"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,57 @@
+{
+	x: 5.0d,
+	y: 140.0d,
+	description: "{id:\"conarm:leggings\",Count:1b,tag:{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:66,Defense:18.8f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:66,Defense:18.8f},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"aquaspeed_armor\",color:-8462660,level:1},{identifier:\"rough_armor\",color:-8462660,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"aquaspeed_armor\",\"rough_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "2c295253",
+		type: "item",
+		items: [{
+			id: "conarm:leggings",
+			tag: {
+				StatsOriginal: {
+					Toughness: 2.0f,
+					FreeModifiers: 3,
+					Durability: 66,
+					Defense: 18.8f
+				},
+				Stats: {
+					Toughness: 2.0f,
+					FreeModifiers: 3,
+					Durability: 66,
+					Defense: 18.8f
+				},
+				TinkerData: {
+					Materials: [
+						"prismarine",
+						"prismarine",
+						"prismarine"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "aquaspeed_armor",
+					color: -8462660,
+					level: 1
+				},
+				{
+					identifier: "rough_armor",
+					color: -8462660,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"aquaspeed_armor",
+					"rough_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

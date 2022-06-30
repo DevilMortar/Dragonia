@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 150.0d,
+	description: "{id:\"atum:stoneguard_khopesh\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "82f54fa4",
+		type: "item",
+		items: [{
+			item: "atum:stoneguard_khopesh"
+		}],
+		consume_items: true
+	}]
+}

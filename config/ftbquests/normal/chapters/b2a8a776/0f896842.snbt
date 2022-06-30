@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 163.0d,
+	description: "{id:\"thaumcraft:sanity_soap\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7d18f62a",
+		type: "item",
+		items: [{
+			item: "thaumcraft:sanity_soap"
+		}],
+		consume_items: true
+	}]
+}

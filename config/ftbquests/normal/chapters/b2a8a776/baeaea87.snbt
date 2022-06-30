@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 78.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/sheep/pink\"},Damage:0s}",
+	tasks: [{
+		uid: "96e68b82",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/sheep/pink"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 319.0d,
+	description: "{id:\"waystones:warp_scroll\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1a1832d7",
+		type: "item",
+		items: [{
+			item: "waystones:warp_scroll"
+		}],
+		consume_items: true
+	}]
+}

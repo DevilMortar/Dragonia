@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 222.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"netherrack\"},Damage:0s}",
+	tasks: [{
+		uid: "7d12cdbe",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "netherrack"
+			}
+		}],
+		consume_items: true
+	}]
+}

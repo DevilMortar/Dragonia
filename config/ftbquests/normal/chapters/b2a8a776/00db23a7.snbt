@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 408.0d,
+	description: "{id:\"chisel:planks-acacia\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "aef626a9",
+		type: "item",
+		items: [{
+			item: "chisel:planks-acacia 1 3"
+		}],
+		consume_items: true
+	}]
+}

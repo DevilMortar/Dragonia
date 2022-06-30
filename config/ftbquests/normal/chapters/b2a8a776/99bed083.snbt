@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 104.0d,
+	description: "{id:\"thaumcraft:inlay\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "53f709e6",
+		type: "item",
+		items: [{
+			item: "thaumcraft:inlay"
+		}],
+		consume_items: true
+	}]
+}

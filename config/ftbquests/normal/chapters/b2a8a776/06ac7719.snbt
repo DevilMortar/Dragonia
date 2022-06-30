@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 329.0d,
+	description: "{id:\"harvestcraft:barleyseeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4b008f50",
+		type: "item",
+		items: [{
+			item: "harvestcraft:barleyseeditem"
+		}],
+		consume_items: true
+	}]
+}

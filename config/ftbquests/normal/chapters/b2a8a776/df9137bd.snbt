@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 281.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"extraalchemy:pacifism_long\"},Damage:0s}",
+	tasks: [{
+		uid: "e5377c68",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "extraalchemy:pacifism_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

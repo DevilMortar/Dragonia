@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 40.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"minecraft:long_slowness\"},Damage:0s}",
+	tasks: [{
+		uid: "e2ae141a",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:long_slowness"
+			}
+		}],
+		consume_items: true
+	}]
+}

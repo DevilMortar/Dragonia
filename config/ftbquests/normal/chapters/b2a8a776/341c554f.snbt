@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 46.0d,
+	description: "{id:\"minecraft:spectral_arrow\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0d253275",
+		type: "item",
+		items: [{
+			item: "minecraft:spectral_arrow"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 112.0d,
+	description: "{id:\"ebwizardry:ring_storm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f3e9521c",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_storm"
+		}],
+		consume_items: true
+	}]
+}

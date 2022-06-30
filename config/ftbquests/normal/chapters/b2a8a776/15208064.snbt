@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:powered_bars\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a4dbfb54",
+		type: "item",
+		items: [{
+			item: "dungeontactics:powered_bars"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:stone_porous\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "95477474",
+		type: "item",
+		items: [{
+			item: "thaumcraft:stone_porous"
+		}],
+		consume_items: true
+	}]
+}

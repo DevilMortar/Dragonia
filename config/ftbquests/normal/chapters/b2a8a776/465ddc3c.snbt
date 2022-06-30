@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 64.0d,
+	description: "{id:\"betternether:chest_of_drawers\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6bc9a3e3",
+		type: "item",
+		items: [{
+			item: "betternether:chest_of_drawers"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 214.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"endstone\"},Damage:0s}",
+	tasks: [{
+		uid: "a910fb35",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "endstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

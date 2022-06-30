@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 17.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:teleport_spawn\"},Damage:0s}",
+	tasks: [{
+		uid: "8861c43c",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:teleport_spawn"
+			}
+		}],
+		consume_items: true
+	}]
+}

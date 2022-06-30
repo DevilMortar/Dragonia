@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 52.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:long_spin\"},Damage:0s}",
+	tasks: [{
+		uid: "e66be6ac",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:long_spin"
+			}
+		}],
+		consume_items: true
+	}]
+}

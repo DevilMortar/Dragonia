@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 145.0d,
+	description: "{id:\"ancientwarfarevehicle:cluster_charge\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2003103f",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:cluster_charge"
+		}],
+		consume_items: true
+	}]
+}

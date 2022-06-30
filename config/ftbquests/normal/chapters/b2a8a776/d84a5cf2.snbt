@@ -1,0 +1,18 @@
+{
+	x: 12.0d,
+	y: 25.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"mocreatures:jellyfish\"}},Damage:0s}",
+	tasks: [{
+		uid: "0d316f66",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "mocreatures:jellyfish"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

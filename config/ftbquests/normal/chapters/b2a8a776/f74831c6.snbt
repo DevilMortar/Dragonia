@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 60.0d,
+	description: "{id:\"aquaculture:neptunium_leggings\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6eb71981",
+		type: "item",
+		items: [{
+			item: "aquaculture:neptunium_leggings"
+		}],
+		consume_items: true
+	}]
+}

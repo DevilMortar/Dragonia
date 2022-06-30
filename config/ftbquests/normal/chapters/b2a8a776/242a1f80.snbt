@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 333.0d,
+	description: "{id:\"harvestcraft:sisalitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "435976ab",
+		type: "item",
+		items: [{
+			item: "harvestcraft:sisalitem"
+		}],
+		consume_items: true
+	}]
+}

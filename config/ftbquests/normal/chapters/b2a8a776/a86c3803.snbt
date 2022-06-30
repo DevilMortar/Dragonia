@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 151.0d,
+	description: "{id:\"atum:linen_bandage\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "31447b7b",
+		type: "item",
+		items: [{
+			item: "atum:linen_bandage"
+		}],
+		consume_items: true
+	}]
+}

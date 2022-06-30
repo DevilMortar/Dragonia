@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 224.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"stone\"},Damage:0s}",
+	tasks: [{
+		uid: "bdc124f8",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "stone"
+			}
+		}],
+		consume_items: true
+	}]
+}

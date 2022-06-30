@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 69.0d,
+	description: "{id:\"biomesoplenty:eucalyptus_fence_gate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a2df1fdb",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:eucalyptus_fence_gate"
+		}],
+		consume_items: true
+	}]
+}

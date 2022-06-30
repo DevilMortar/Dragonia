@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 222.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"desert_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "1589dd7a",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "desert_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

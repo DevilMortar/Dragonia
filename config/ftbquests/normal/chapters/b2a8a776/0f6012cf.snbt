@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 344.0d,
+	description: "{id:\"harvestcraft:frosteddonutitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "95283a33",
+		type: "item",
+		items: [{
+			item: "harvestcraft:frosteddonutitem"
+		}],
+		consume_items: true
+	}]
+}

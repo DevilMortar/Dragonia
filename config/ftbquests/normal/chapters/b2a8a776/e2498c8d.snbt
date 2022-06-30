@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 226.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"weezer\"},Damage:0s}",
+	tasks: [{
+		uid: "c14c08cc",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "weezer"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 196.0d,
+	description: "{id:\"ftbquests:lootcrate\",Count:1b,tag:{type:\"survivor\"},Damage:0s}",
+	tasks: [{
+		uid: "3719ee1f",
+		type: "item",
+		items: [{
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "survivor"
+			}
+		}],
+		consume_items: true
+	}]
+}

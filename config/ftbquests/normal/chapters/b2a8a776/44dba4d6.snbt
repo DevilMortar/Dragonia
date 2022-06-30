@@ -1,0 +1,74 @@
+{
+	x: 22.0d,
+	y: 247.0d,
+	description: "{id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:286,HarvestLevel:1,Attack:6.8999996f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:286,HarvestLevel:1,Attack:6.8999996f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"hellish\",color:-4698289,level:1},{identifier:\"aridiculous\",color:-4698289,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"hellish\",\"aridiculous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "5c5fca14",
+		type: "item",
+		items: [{
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.5f,
+					FreeModifiers: 3,
+					Durability: 286,
+					HarvestLevel: 1,
+					Attack: 6.8999996f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.5f,
+					FreeModifiers: 3,
+					Durability: 286,
+					HarvestLevel: 1,
+					Attack: 6.8999996f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"netherrack",
+						"netherrack",
+						"netherrack",
+						"netherrack"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "hellish",
+					color: -4698289,
+					level: 1
+				},
+				{
+					identifier: "aridiculous",
+					color: -4698289,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"hellish",
+					"aridiculous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 148.0d,
+	description: "{id:\"atum:loot_silver_idol\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d714470a",
+		type: "item",
+		items: [{
+			item: "atum:loot_silver_idol"
+		}],
+		consume_items: true
+	}]
+}

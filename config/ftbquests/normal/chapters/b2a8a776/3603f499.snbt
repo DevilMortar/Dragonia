@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 89.0d,
+	description: "{id:\"rustic:chandelier\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bbe050cd",
+		type: "item",
+		items: [{
+			item: "rustic:chandelier"
+		}],
+		consume_items: true
+	}]
+}

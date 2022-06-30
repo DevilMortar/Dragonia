@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 293.0d,
+	description: "{id:\"spartanweaponry:katana_tin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f115479a",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:katana_tin"
+		}],
+		consume_items: true
+	}]
+}

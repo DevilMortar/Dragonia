@@ -1,0 +1,71 @@
+{
+	x: 28.0d,
+	y: 251.0d,
+	description: "{id:\"tconstruct:shuriken\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:2010,HarvestLevel:4,Attack:18.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:2010,HarvestLevel:4,Attack:18.0f},Special:{Categories:[\"tool\",\"projectile\",\"no_melee\"]},TinkerData:{Materials:[\"dragonsteel_ice\",\"dragonsteel_ice\",\"dragonsteel_ice\",\"dragonsteel_ice\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"frost2\",color:-4463363,level:1},{identifier:\"sharp\",color:-4463363,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"frost2\",\"sharp\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "bd998ccb",
+		type: "item",
+		items: [{
+			id: "tconstruct:shuriken",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 2010,
+					HarvestLevel: 4,
+					Attack: 18.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 2010,
+					HarvestLevel: 4,
+					Attack: 18.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"projectile",
+						"no_melee"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dragonsteel_ice",
+						"dragonsteel_ice",
+						"dragonsteel_ice",
+						"dragonsteel_ice"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "frost2",
+					color: -4463363,
+					level: 1
+				},
+				{
+					identifier: "sharp",
+					color: -4463363,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"frost2",
+					"sharp",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

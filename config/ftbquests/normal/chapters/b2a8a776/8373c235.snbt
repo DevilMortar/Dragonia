@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 136.0d,
+	description: "{id:\"ancientwarfarestructure:structure_builder_ticked\",Count:1b,tag:{structureName:\"BridgeEmpireMediumFoot33Blockspan\"},Damage:0s}",
+	tasks: [{
+		uid: "94603d9d",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:structure_builder_ticked",
+			tag: {
+				structureName: "BridgeEmpireMediumFoot33Blockspan"
+			}
+		}],
+		consume_items: true
+	}]
+}

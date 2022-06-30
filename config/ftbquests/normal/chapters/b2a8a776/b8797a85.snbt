@@ -1,0 +1,18 @@
+{
+	x: 39.0d,
+	y: 131.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"coven\",npcType:\"faction.soldier.elite\"},Damage:0s}",
+	tasks: [{
+		uid: "c3e974f7",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "coven",
+				npcType: "faction.soldier.elite"
+			}
+		}],
+		consume_items: true
+	}]
+}

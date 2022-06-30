@@ -1,0 +1,18 @@
+{
+	x: 25.0d,
+	y: 23.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"thaumcraft:inhabitedzombie\"}},Damage:0s}",
+	tasks: [{
+		uid: "f364a8f2",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "thaumcraft:inhabitedzombie"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

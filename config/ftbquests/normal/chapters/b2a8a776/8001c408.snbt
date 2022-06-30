@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 92.0d,
+	description: "{id:\"rustic:tallow\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f13a728c",
+		type: "item",
+		items: [{
+			item: "rustic:tallow"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,72 @@
+{
+	x: 32.0d,
+	y: 248.0d,
+	description: "{id:\"tconstruct:longbow\",Count:1b,tag:{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,DrawSpeed:1.15f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:1820,HarvestLevel:0,Attack:0.0f,Range:0.75f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,DrawSpeed:1.15f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:1820,HarvestLevel:0,Attack:0.0f,Range:0.75f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"sponge\",\"sponge\",\"sponge\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"squeaky\",color:-3486642,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"squeaky\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "6a9b313f",
+		type: "item",
+		items: [{
+			id: "tconstruct:longbow",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 33s
+				}],
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.02f,
+					DrawSpeed: 1.15f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 1820,
+					HarvestLevel: 0,
+					Attack: 0.0f,
+					Range: 0.75f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.02f,
+					DrawSpeed: 1.15f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 1820,
+					HarvestLevel: 0,
+					Attack: 0.0f,
+					Range: 0.75f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"launcher"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"sponge",
+						"sponge",
+						"sponge",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "squeaky",
+					color: -3486642,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"squeaky",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 152.0d,
+	description: "{id:\"atum:fish_forsaken\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4ea56f7c",
+		type: "item",
+		items: [{
+			item: "atum:fish_forsaken"
+		}],
+		consume_items: true
+	}]
+}

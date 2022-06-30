@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 222.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"dragonsteel_fire\"},Damage:0s}",
+	tasks: [{
+		uid: "1630e6db",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "dragonsteel_fire"
+			}
+		}],
+		consume_items: true
+	}]
+}

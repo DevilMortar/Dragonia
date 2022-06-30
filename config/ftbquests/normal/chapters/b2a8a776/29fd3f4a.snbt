@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 292.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"quark:strong_haste\"},Damage:0s}",
+	tasks: [{
+		uid: "c826ea62",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "quark:strong_haste"
+			}
+		}],
+		consume_items: true
+	}]
+}

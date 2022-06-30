@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:zanite_ring\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "509d6691",
+		type: "item",
+		items: [{
+			item: "aether_legacy:zanite_ring"
+		}],
+		consume_items: true
+	}]
+}

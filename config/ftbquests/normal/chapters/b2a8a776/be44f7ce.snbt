@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 94.0d,
+	description: "{id:\"atum:redstone_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d981e062",
+		type: "item",
+		items: [{
+			item: "atum:redstone_ore"
+		}],
+		consume_items: true
+	}]
+}

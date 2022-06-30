@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:aloe_vera\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b22003a5",
+		type: "item",
+		items: [{
+			item: "rustic:aloe_vera"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 142.0d,
+	description: "{id:\"ancientwarfarestructure:structure_scanner\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6e2268b9",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:structure_scanner"
+		}],
+		consume_items: true
+	}]
+}

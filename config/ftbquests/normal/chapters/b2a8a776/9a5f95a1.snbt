@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 60.0d,
+	description: "{id:\"aquaculture:neptunium_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5db96ed0",
+		type: "item",
+		items: [{
+			item: "aquaculture:neptunium_helmet"
+		}],
+		consume_items: true
+	}]
+}

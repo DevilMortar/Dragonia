@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 150.0d,
+	description: "{id:\"atum:shus_breath\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "504635c1",
+		type: "item",
+		items: [{
+			item: "atum:shus_breath"
+		}],
+		consume_items: true
+	}]
+}

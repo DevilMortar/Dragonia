@@ -1,0 +1,20 @@
+{
+	x: 28.0d,
+	y: 267.0d,
+	description: "{id:\"xreliquary:tipped_arrow\",Count:1b,tag:{effects:[{duration:281,potency:1,name:\"minecraft:absorption\"}]},Damage:0s}",
+	tasks: [{
+		uid: "d99ae613",
+		type: "item",
+		items: [{
+			id: "xreliquary:tipped_arrow",
+			tag: {
+				effects: [{
+					duration: 281,
+					potency: 1,
+					name: "minecraft:absorption"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

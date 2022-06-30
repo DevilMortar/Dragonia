@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 339.0d,
+	description: "{id:\"harvestcraft:bakedhamitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1bce0ea5",
+		type: "item",
+		items: [{
+			item: "harvestcraft:bakedhamitem"
+		}],
+		consume_items: true
+	}]
+}

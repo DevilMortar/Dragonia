@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 372.0d,
+	description: "{id:\"quark:thatch_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b825343c",
+		type: "item",
+		items: [{
+			item: "quark:thatch_slab"
+		}],
+		consume_items: true
+	}]
+}

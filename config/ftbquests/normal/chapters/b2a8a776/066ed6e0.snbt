@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 108.0d,
+	description: "{id:\"ebwizardry:siphon_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f4145348",
+		type: "item",
+		items: [{
+			item: "ebwizardry:siphon_upgrade"
+		}],
+		consume_items: true
+	}]
+}

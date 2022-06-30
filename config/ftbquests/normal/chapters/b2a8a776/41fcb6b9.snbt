@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 206.0d,
+	description: "{id:\"netherex:amethyst_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "496b1fe1",
+		type: "item",
+		items: [{
+			item: "netherex:amethyst_ore"
+		}],
+		consume_items: true
+	}]
+}

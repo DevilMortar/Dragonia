@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 226.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"flint\"},Damage:0s}",
+	tasks: [{
+		uid: "925fea2c",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "flint"
+			}
+		}],
+		consume_items: true
+	}]
+}

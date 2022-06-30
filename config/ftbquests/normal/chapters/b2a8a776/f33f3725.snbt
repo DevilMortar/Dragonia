@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 38.0d,
+	description: "{id:\"minecraft:prismarine_shard\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5bef4c8d",
+		type: "item",
+		items: [{
+			item: "minecraft:prismarine_shard"
+		}],
+		consume_items: true
+	}]
+}

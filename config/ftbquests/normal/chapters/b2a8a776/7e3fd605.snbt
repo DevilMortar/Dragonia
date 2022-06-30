@@ -1,0 +1,20 @@
+{
+	x: 34.0d,
+	y: 263.0d,
+	description: "{id:\"xreliquary:potion_essence\",Count:1b,tag:{effects:[{duration:1000,potency:1,name:\"minecraft:weakness\"}]},Damage:0s}",
+	tasks: [{
+		uid: "0cd1c89f",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion_essence",
+			tag: {
+				effects: [{
+					duration: 1000,
+					potency: 1,
+					name: "minecraft:weakness"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

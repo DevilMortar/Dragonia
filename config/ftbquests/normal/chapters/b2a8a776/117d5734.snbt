@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 174.0d,
+	description: "{id:\"dungeontactics:steel_hoe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f5262713",
+		type: "item",
+		items: [{
+			item: "dungeontactics:steel_hoe"
+		}],
+		consume_items: true
+	}]
+}

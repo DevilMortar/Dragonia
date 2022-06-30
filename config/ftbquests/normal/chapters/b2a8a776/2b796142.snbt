@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 188.0d,
+	description: "{id:\"iceandfire:burnt_torch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4d113041",
+		type: "item",
+		items: [{
+			item: "iceandfire:burnt_torch"
+		}],
+		consume_items: true
+	}]
+}

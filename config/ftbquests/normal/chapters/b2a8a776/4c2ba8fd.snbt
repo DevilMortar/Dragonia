@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 199.0d,
+	description: "{id:\"heroicarmory:rswhitewarhammer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d45e43ab",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rswhitewarhammer"
+		}],
+		consume_items: true
+	}]
+}

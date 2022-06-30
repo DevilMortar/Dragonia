@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:ring_extraction\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c4e4edd5",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_extraction"
+		}],
+		consume_items: true
+	}]
+}

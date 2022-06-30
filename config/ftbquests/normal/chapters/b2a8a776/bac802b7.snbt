@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 269.0d,
+	description: "{id:\"xreliquary:pedestal_passive\",Count:1b,Damage:10s}",
+	tasks: [{
+		uid: "5b5401d4",
+		type: "item",
+		items: [{
+			item: "xreliquary:pedestal_passive 1 10"
+		}],
+		consume_items: true
+	}]
+}

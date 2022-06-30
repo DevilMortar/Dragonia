@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 75.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ancientspellcraft:inject/as_obelisk\"},Damage:0s}",
+	tasks: [{
+		uid: "5cfa353d",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ancientspellcraft:inject/as_obelisk"
+			}
+		}],
+		consume_items: true
+	}]
+}

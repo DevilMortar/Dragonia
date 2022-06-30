@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 175.0d,
+	description: "{id:\"dungeontactics:ducttape\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "11469919",
+		type: "item",
+		items: [{
+			item: "dungeontactics:ducttape"
+		}],
+		consume_items: true
+	}]
+}

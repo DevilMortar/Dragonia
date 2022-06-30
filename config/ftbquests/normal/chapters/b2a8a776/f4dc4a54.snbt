@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 329.0d,
+	description: "{id:\"harvestcraft:cactusfruititem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c7d6190a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cactusfruititem"
+		}],
+		consume_items: true
+	}]
+}

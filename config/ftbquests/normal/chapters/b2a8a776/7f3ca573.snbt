@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 352.0d,
+	description: "{id:\"harvestcraft:tunasaladitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5f618f66",
+		type: "item",
+		items: [{
+			item: "harvestcraft:tunasaladitem"
+		}],
+		consume_items: true
+	}]
+}

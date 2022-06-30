@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 108.0d,
+	description: "{id:\"ebwizardry:advanced_ice_wand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1f79bf32",
+		type: "item",
+		items: [{
+			item: "ebwizardry:advanced_ice_wand"
+		}],
+		consume_items: true
+	}]
+}

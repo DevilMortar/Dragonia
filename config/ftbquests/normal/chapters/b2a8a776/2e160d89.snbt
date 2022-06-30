@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 426.0d,
+	description: "{id:\"chisel:netherrack\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "8d822dc2",
+		type: "item",
+		items: [{
+			item: "chisel:netherrack 1 8"
+		}],
+		consume_items: true
+	}]
+}

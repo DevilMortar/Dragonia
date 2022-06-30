@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 297.0d,
+	description: "{id:\"spartanweaponry:spear_nickel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "52540dda",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:spear_nickel"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 11.0d,
+	y: 312.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"thaumcraft:eerie\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7a8f68de",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "thaumcraft:eerie"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

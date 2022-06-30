@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 101.0d,
+	description: "{id:\"atum:palm_ladder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f0704755",
+		type: "item",
+		items: [{
+			item: "atum:palm_ladder"
+		}],
+		consume_items: true
+	}]
+}

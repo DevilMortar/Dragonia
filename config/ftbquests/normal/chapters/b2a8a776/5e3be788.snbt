@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 74.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"aether_legacy:chests/silver_dungeon_chest_sub1\"},Damage:0s}",
+	tasks: [{
+		uid: "73cde71f",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "aether_legacy:chests/silver_dungeon_chest_sub1"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 16.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:absorption\"},Damage:0s}",
+	tasks: [{
+		uid: "a49c38d6",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:absorption"
+			}
+		}],
+		consume_items: true
+	}]
+}

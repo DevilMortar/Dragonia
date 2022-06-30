@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 52.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"toroquest:loyalty\"},Damage:0s}",
+	tasks: [{
+		uid: "e7203e0a",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "toroquest:loyalty"
+			}
+		}],
+		consume_items: true
+	}]
+}

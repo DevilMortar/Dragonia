@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 117.0d,
+	description: "{id:\"ancientwarfare:backpack\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c7d8605b",
+		type: "item",
+		items: [{
+			item: "ancientwarfare:backpack"
+		}],
+		consume_items: true
+	}]
+}

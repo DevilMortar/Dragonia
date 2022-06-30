@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 14.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extraalchemy:recall_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "b33e4013",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extraalchemy:recall_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

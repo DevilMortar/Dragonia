@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:atgrasssword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "531d8eb1",
+		type: "item",
+		items: [{
+			item: "heroicarmory:atgrasssword"
+		}],
+		consume_items: true
+	}]
+}

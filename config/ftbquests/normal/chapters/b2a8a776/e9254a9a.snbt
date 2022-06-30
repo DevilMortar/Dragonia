@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 92.0d,
+	description: "{id:\"rustic:ironberries\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f7250551",
+		type: "item",
+		items: [{
+			item: "rustic:ironberries"
+		}],
+		consume_items: true
+	}]
+}

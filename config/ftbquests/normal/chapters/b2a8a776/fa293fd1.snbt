@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 276.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"potioncore:strong_saturation\"},Damage:0s}",
+	tasks: [{
+		uid: "df216cdc",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "potioncore:strong_saturation"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 223.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"jungle_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "207f4879",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "jungle_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

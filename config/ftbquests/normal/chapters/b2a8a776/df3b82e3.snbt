@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 117.0d,
+	description: "{id:\"ancientwarfare:wooden_quill\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f572708a",
+		type: "item",
+		items: [{
+			item: "ancientwarfare:wooden_quill"
+		}],
+		consume_items: true
+	}]
+}

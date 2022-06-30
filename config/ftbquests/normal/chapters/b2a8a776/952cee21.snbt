@@ -1,0 +1,20 @@
+{
+	x: 19.0d,
+	y: 268.0d,
+	description: "{id:\"xreliquary:tipped_arrow\",Count:1b,tag:{effects:[{duration:31,potency:0,name:\"minecraft:regeneration\"}]},Damage:0s}",
+	tasks: [{
+		uid: "9f6ef3c3",
+		type: "item",
+		items: [{
+			id: "xreliquary:tipped_arrow",
+			tag: {
+				effects: [{
+					duration: 31,
+					potency: 0,
+					name: "minecraft:regeneration"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

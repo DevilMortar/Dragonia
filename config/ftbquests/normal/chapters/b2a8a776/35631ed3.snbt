@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 150.0d,
+	description: "{id:\"atum:nuits_ire\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "10e13f5a",
+		type: "item",
+		items: [{
+			item: "atum:nuits_ire"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:baconpancakesitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8b974d75",
+		type: "item",
+		items: [{
+			item: "harvestcraft:baconpancakesitem"
+		}],
+		consume_items: true
+	}]
+}

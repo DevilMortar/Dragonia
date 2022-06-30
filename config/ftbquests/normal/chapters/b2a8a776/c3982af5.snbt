@@ -1,0 +1,21 @@
+{
+	x: 11.0d,
+	y: 262.0d,
+	description: "{id:\"xreliquary:magazine\",Count:1b,tag:{effects:[{duration:150,potency:0,name:\"minecraft:poison\"}]},Damage:1s}",
+	tasks: [{
+		uid: "b9634511",
+		type: "item",
+		items: [{
+			id: "xreliquary:magazine",
+			tag: {
+				effects: [{
+					duration: 150,
+					potency: 0,
+					name: "minecraft:poison"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

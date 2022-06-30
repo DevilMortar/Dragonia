@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 110.0d,
+	description: "{id:\"ebwizardry:battlemage_chestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "93094958",
+		type: "item",
+		items: [{
+			item: "ebwizardry:battlemage_chestplate"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 190.0d,
+	description: "{id:\"iceandfire:pixie_dust\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a928db41",
+		type: "item",
+		items: [{
+			item: "iceandfire:pixie_dust"
+		}],
+		consume_items: true
+	}]
+}

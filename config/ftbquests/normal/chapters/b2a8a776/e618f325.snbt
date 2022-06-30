@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 47.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"minecraft:strength\"},Damage:0s}",
+	tasks: [{
+		uid: "c2fb174a",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "minecraft:strength"
+			}
+		}],
+		consume_items: true
+	}]
+}

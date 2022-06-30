@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 216.0d,
+	description: "{id:\"tconstruct:broad_axe_head\",Count:1b,tag:{Material:\"obsidian\"},Damage:0s}",
+	tasks: [{
+		uid: "c6184e91",
+		type: "item",
+		items: [{
+			id: "tconstruct:broad_axe_head",
+			tag: {
+				Material: "obsidian"
+			}
+		}],
+		consume_items: true
+	}]
+}

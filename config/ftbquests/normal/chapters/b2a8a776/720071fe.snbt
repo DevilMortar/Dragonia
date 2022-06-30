@@ -1,0 +1,18 @@
+{
+	x: 19.0d,
+	y: 125.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"beast\",npcType:\"faction.soldier\"},Damage:0s}",
+	tasks: [{
+		uid: "befacbba",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "beast",
+				npcType: "faction.soldier"
+			}
+		}],
+		consume_items: true
+	}]
+}

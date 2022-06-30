@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 41.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"extraalchemy:pacifism_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "fac2b3fb",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "extraalchemy:pacifism_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

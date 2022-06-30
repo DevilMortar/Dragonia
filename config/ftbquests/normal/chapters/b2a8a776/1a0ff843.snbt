@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:essencedarkness\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cc9cafb8",
+		type: "item",
+		items: [{
+			item: "mocreatures:essencedarkness"
+		}],
+		consume_items: true
+	}]
+}

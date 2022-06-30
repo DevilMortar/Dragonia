@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 162.0d,
+	description: "{id:\"thaumcraft:crystal_essence\",Count:1b,tag:{Aspects:[{amount:1,key:\"desiderium\"}]},Damage:0s}",
+	tasks: [{
+		uid: "9cc5ec7f",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "desiderium"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

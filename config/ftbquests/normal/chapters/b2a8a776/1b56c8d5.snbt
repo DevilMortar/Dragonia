@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 178.0d,
+	description: "{id:\"dungeontactics:bush_cherrybomb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "30e9d127",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bush_cherrybomb"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 160.0d,
+	description: "{id:\"thaumcraft:fabric\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7a8637f0",
+		type: "item",
+		items: [{
+			item: "thaumcraft:fabric"
+		}],
+		consume_items: true
+	}]
+}

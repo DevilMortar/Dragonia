@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 75.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"aether_legacy_addon:entities/cockatrice\"},Damage:0s}",
+	tasks: [{
+		uid: "4c9b6ab2",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "aether_legacy_addon:entities/cockatrice"
+			}
+		}],
+		consume_items: true
+	}]
+}

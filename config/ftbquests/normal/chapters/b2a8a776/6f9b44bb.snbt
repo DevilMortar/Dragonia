@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 297.0d,
+	description: "{id:\"spartanweaponry:spear_electrum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5a7823df",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:spear_electrum"
+		}],
+		consume_items: true
+	}]
+}

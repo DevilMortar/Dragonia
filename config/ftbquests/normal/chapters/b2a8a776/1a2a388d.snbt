@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 359.0d,
+	description: "{id:\"harvestcraft:homestylelunchitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bbc78c14",
+		type: "item",
+		items: [{
+			item: "harvestcraft:homestylelunchitem"
+		}],
+		consume_items: true
+	}]
+}

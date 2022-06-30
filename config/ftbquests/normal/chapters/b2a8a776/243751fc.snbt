@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 80.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"primitivemobs:entities/void_eye\"},Damage:0s}",
+	tasks: [{
+		uid: "fcccbbe9",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "primitivemobs:entities/void_eye"
+			}
+		}],
+		consume_items: true
+	}]
+}

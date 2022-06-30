@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 48.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"extraalchemy:reincarnation_long\"},Damage:0s}",
+	tasks: [{
+		uid: "76b2a402",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "extraalchemy:reincarnation_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

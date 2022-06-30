@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 322.0d,
+	description: "{id:\"aether_legacy:valkyrie_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2b2f876d",
+		type: "item",
+		items: [{
+			item: "aether_legacy:valkyrie_shovel"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: 261.0d,
+	description: "{id:\"xreliquary:bullet\",Count:1b,tag:{effects:[{duration:50,potency:0,name:\"minecraft:wither\"}]},Damage:1s}",
+	tasks: [{
+		uid: "2a26748e",
+		type: "item",
+		items: [{
+			id: "xreliquary:bullet",
+			tag: {
+				effects: [{
+					duration: 50,
+					potency: 0,
+					name: "minecraft:wither"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

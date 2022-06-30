@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 343.0d,
+	description: "{id:\"harvestcraft:softpretzelandmustarditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1e2788f0",
+		type: "item",
+		items: [{
+			item: "harvestcraft:softpretzelandmustarditem"
+		}],
+		consume_items: true
+	}]
+}

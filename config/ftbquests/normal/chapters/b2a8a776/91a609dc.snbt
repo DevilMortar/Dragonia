@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:ring_full_moon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2f1a57d5",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_full_moon"
+		}],
+		consume_items: true
+	}]
+}

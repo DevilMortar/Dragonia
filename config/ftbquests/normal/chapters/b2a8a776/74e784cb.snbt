@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 290.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"potioncore:disorganization\"},Damage:0s}",
+	tasks: [{
+		uid: "cbd2f11f",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "potioncore:disorganization"
+			}
+		}],
+		consume_items: true
+	}]
+}

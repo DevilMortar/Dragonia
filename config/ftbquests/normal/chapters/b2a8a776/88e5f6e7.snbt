@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 172.0d,
+	description: "{id:\"dungeontactics:bone_shield\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bb302a05",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bone_shield"
+		}],
+		consume_items: true
+	}]
+}

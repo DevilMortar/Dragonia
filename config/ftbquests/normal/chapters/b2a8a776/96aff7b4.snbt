@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 198.0d,
+	description: "{id:\"heroicarmory:rsmithrilsword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fcdc5dab",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rsmithrilsword"
+		}],
+		consume_items: true
+	}]
+}

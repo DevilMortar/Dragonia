@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 253.0d,
+	description: "{id:\"tconstruct:clay_cast\",Count:1b,tag:{PartType:\"tconstruct:arrow_head\"},Damage:0s}",
+	tasks: [{
+		uid: "87e73de9",
+		type: "item",
+		items: [{
+			id: "tconstruct:clay_cast",
+			tag: {
+				PartType: "tconstruct:arrow_head"
+			}
+		}],
+		consume_items: true
+	}]
+}

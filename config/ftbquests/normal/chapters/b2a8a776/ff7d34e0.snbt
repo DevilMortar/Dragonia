@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 100.0d,
+	description: "{id:\"atum:linen_carpet_pink\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b43fae7d",
+		type: "item",
+		items: [{
+			item: "atum:linen_carpet_pink"
+		}],
+		consume_items: true
+	}]
+}

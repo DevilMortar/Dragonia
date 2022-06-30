@@ -1,0 +1,18 @@
+{
+	x: 2.0d,
+	y: 21.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"quark:ashen\"}},Damage:0s}",
+	tasks: [{
+		uid: "a6b820cf",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "quark:ashen"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 38.0d,
+	y: 26.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"zettaimagic:fairy_\"}},Damage:0s}",
+	tasks: [{
+		uid: "8fa49968",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "zettaimagic:fairy_"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

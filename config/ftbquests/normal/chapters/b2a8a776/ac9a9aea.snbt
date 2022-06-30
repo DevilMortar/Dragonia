@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 283.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:haste\"},Damage:0s}",
+	tasks: [{
+		uid: "2a5597a6",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:haste"
+			}
+		}],
+		consume_items: true
+	}]
+}

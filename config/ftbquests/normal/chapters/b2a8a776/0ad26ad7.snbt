@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 73.0d,
+	description: "{id:\"biomesoplenty:shroompowder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "157a0de4",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:shroompowder"
+		}],
+		consume_items: true
+	}]
+}

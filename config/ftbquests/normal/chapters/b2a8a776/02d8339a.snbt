@@ -1,0 +1,18 @@
+{
+	x: 21.0d,
+	y: 21.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"dungeonsmod:kingguard\"}},Damage:0s}",
+	tasks: [{
+		uid: "7b843483",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "dungeonsmod:kingguard"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

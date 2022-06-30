@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 326.0d,
+	description: "{id:\"apotheosis:hellshelf\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8b528e94",
+		type: "item",
+		items: [{
+			item: "apotheosis:hellshelf"
+		}],
+		consume_items: true
+	}]
+}

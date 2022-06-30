@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 327.0d,
+	description: "{id:\"charm:record_nether4\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bc5c0451",
+		type: "item",
+		items: [{
+			item: "charm:record_nether4"
+		}],
+		consume_items: true
+	}]
+}

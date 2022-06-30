@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 425.0d,
+	description: "{id:\"tcomplement:chisel_head\",Count:1b,tag:{Material:\"obsidian\"},Damage:0s}",
+	tasks: [{
+		uid: "002c747e",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel_head",
+			tag: {
+				Material: "obsidian"
+			}
+		}],
+		consume_items: true
+	}]
+}

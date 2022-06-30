@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 111.0d,
+	description: "{id:\"ebwizardry:battlemage_helmet_ice\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ca8efb27",
+		type: "item",
+		items: [{
+			item: "ebwizardry:battlemage_helmet_ice"
+		}],
+		consume_items: true
+	}]
+}

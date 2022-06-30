@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 290.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"potioncore:teleport_surface\"},Damage:0s}",
+	tasks: [{
+		uid: "f92a3444",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "potioncore:teleport_surface"
+			}
+		}],
+		consume_items: true
+	}]
+}

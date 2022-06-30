@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 146.0d,
+	description: "{id:\"ancientwarfarevehicle:ammo_cluster_shot_15\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c64d59d5",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:ammo_cluster_shot_15"
+		}],
+		consume_items: true
+	}]
+}

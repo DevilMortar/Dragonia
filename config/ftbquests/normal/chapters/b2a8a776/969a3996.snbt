@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 143.0d,
+	description: "{id:\"ancientwarfarestructure:loot_chest_placer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e385dbdc",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:loot_chest_placer"
+		}],
+		consume_items: true
+	}]
+}

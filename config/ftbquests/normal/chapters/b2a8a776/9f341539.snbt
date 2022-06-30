@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"bone\"},Damage:0s}",
+	tasks: [{
+		uid: "c26be74e",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "bone"
+			}
+		}],
+		consume_items: true
+	}]
+}

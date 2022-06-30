@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 342.0d,
+	description: "{id:\"harvestcraft:steamedpeasitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ebf6ae6c",
+		type: "item",
+		items: [{
+			item: "harvestcraft:steamedpeasitem"
+		}],
+		consume_items: true
+	}]
+}

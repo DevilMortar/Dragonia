@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 40.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"minecraft:long_water_breathing\"},Damage:0s}",
+	tasks: [{
+		uid: "22543693",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:long_water_breathing"
+			}
+		}],
+		consume_items: true
+	}]
+}

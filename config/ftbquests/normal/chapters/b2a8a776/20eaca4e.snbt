@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 345.0d,
+	description: "{id:\"harvestcraft:groundcinnamonitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "56c58a71",
+		type: "item",
+		items: [{
+			item: "harvestcraft:groundcinnamonitem"
+		}],
+		consume_items: true
+	}]
+}

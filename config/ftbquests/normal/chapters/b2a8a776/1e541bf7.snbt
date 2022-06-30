@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 60.0d,
+	description: "{id:\"aquaculture:neptunium_axe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "06cf254f",
+		type: "item",
+		items: [{
+			item: "aquaculture:neptunium_axe"
+		}],
+		consume_items: true
+	}]
+}

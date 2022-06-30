@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 175.0d,
+	description: "{id:\"dungeontactics:steel_nugget\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f89010d2",
+		type: "item",
+		items: [{
+			item: "dungeontactics:steel_nugget"
+		}],
+		consume_items: true
+	}]
+}

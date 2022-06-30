@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 81.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"EarthShrine\"},Damage:0s}",
+	tasks: [{
+		uid: "7cedd505",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "EarthShrine"
+			}
+		}],
+		consume_items: true
+	}]
+}

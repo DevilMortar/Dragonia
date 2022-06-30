@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 52.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"quark:danger_sight\"},Damage:0s}",
+	tasks: [{
+		uid: "a7b5f6fb",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "quark:danger_sight"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,74 @@
+{
+	x: 5.0d,
+	y: 249.0d,
+	description: "{id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:9.0f,Durability:791,HarvestLevel:3,Attack:6.0f,Range:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:9.0f,Durability:791,HarvestLevel:3,Attack:6.0f,Range:2.0f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"steel\",\"steel\",\"steel\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"stiff\",color:-5789785,level:1},{identifier:\"sharp\",color:-5789785,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"stiff\",\"sharp\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "88da3e41",
+		type: "item",
+		items: [{
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					DrawSpeed: 0.4f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 9.0f,
+					Durability: 791,
+					HarvestLevel: 3,
+					Attack: 6.0f,
+					Range: 2.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					DrawSpeed: 0.4f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 9.0f,
+					Durability: 791,
+					HarvestLevel: 3,
+					Attack: 6.0f,
+					Range: 2.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"launcher"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"steel",
+						"steel",
+						"steel",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "stiff",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "sharp",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"stiff",
+					"sharp",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

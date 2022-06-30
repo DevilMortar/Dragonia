@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 142.0d,
+	description: "{id:\"conarm:frosty_soles\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8ca5df07",
+		type: "item",
+		items: [{
+			item: "conarm:frosty_soles"
+		}],
+		consume_items: true
+	}]
+}

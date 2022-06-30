@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 337.0d,
+	description: "{id:\"harvestcraft:windygarden\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0963455d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:windygarden"
+		}],
+		consume_items: true
+	}]
+}

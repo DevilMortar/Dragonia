@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 139.0d,
+	description: "{id:\"ancientwarfarestructure:orc_totem_2_lit\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "50cd5dfc",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:orc_totem_2_lit"
+		}],
+		consume_items: true
+	}]
+}

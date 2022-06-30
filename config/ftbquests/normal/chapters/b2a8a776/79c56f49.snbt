@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 357.0d,
+	description: "{id:\"harvestcraft:rawtofeakitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6c5dadc0",
+		type: "item",
+		items: [{
+			item: "harvestcraft:rawtofeakitem"
+		}],
+		consume_items: true
+	}]
+}

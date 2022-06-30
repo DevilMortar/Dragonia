@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 333.0d,
+	description: "{id:\"harvestcraft:pamdate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5c1f1652",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pamdate"
+		}],
+		consume_items: true
+	}]
+}

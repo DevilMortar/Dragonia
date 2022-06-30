@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:recharge_pedestal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bf262738",
+		type: "item",
+		items: [{
+			item: "thaumcraft:recharge_pedestal"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 146.0d,
+	description: "{id:\"ancientwarfarevehicle:ammo_explosive_shot_10_big\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e1bcd85f",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:ammo_explosive_shot_10_big"
+		}],
+		consume_items: true
+	}]
+}

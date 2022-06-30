@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 145.0d,
+	description: "{id:\"ancientwarfarevehicle:flame_charge\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d968a9ec",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:flame_charge"
+		}],
+		consume_items: true
+	}]
+}

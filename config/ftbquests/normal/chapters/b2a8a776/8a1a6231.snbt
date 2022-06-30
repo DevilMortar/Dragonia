@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 110.0d,
+	description: "{id:\"ebwizardry:sage_robe_healing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6bf84059",
+		type: "item",
+		items: [{
+			item: "ebwizardry:sage_robe_healing"
+		}],
+		consume_items: true
+	}]
+}

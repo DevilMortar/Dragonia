@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 104.0d,
+	description: "{id:\"thaumcraft:lamp_growth\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "15b48262",
+		type: "item",
+		items: [{
+			item: "thaumcraft:lamp_growth"
+		}],
+		consume_items: true
+	}]
+}

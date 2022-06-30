@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 118.0d,
+	description: "{id:\"ancientwarfareautomation:quarry\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dc4bc672",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:quarry"
+		}],
+		consume_items: true
+	}]
+}

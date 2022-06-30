@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 100.0d,
+	description: "{id:\"atum:thin_framed_purple_stained_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d19bdcf",
+		type: "item",
+		items: [{
+			item: "atum:thin_framed_purple_stained_glass"
+		}],
+		consume_items: true
+	}]
+}

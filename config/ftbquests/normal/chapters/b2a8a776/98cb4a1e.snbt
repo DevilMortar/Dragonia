@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 80.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"thaumcraft:pech\"},Damage:0s}",
+	tasks: [{
+		uid: "43fe971e",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "thaumcraft:pech"
+			}
+		}],
+		consume_items: true
+	}]
+}

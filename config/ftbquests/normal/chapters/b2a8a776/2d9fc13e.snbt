@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 301.0d,
+	description: "{id:\"spartanfire:crossbow_desert\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "721f18f7",
+		type: "item",
+		items: [{
+			item: "spartanfire:crossbow_desert"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 274.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"minecraft:strong_poison\"},Damage:0s}",
+	tasks: [{
+		uid: "85b87092",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "minecraft:strong_poison"
+			}
+		}],
+		consume_items: true
+	}]
+}

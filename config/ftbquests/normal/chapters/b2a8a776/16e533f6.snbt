@@ -1,0 +1,69 @@
+{
+	x: 27.0d,
+	y: 242.0d,
+	description: "{id:\"tconstruct:lumberaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:2408,HarvestLevel:4,Attack:19.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:2408,HarvestLevel:4,Attack:19.0f},Special:{Categories:[\"harvest\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"dragonsteel_ice\",\"dragonsteel_ice\",\"dragonsteel_ice\",\"dragonsteel_ice\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"sharp\",color:-4463363,level:1},{identifier:\"frost2\",color:-4463363,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"sharp\",\"frost2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "e0b8a108",
+		type: "item",
+		items: [{
+			id: "tconstruct:lumberaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 2408,
+					HarvestLevel: 4,
+					Attack: 19.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 2408,
+					HarvestLevel: 4,
+					Attack: 19.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dragonsteel_ice",
+						"dragonsteel_ice",
+						"dragonsteel_ice",
+						"dragonsteel_ice"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "sharp",
+					color: -4463363,
+					level: 1
+				},
+				{
+					identifier: "frost2",
+					color: -4463363,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"sharp",
+					"frost2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

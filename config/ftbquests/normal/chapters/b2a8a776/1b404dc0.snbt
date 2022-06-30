@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 360.0d,
+	description: "{id:\"harvestcraft:timpanoitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "be1efc62",
+		type: "item",
+		items: [{
+			item: "harvestcraft:timpanoitem"
+		}],
+		consume_items: true
+	}]
+}

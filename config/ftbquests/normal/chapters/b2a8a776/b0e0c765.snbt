@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 293.0d,
+	description: "{id:\"spartanweaponry:rapier_copper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0d06ce1c",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:rapier_copper"
+		}],
+		consume_items: true
+	}]
+}

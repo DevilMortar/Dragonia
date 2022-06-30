@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 198.0d,
+	description: "{id:\"heroicarmory:screiterpallasch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d83d5913",
+		type: "item",
+		items: [{
+			item: "heroicarmory:screiterpallasch"
+		}],
+		consume_items: true
+	}]
+}

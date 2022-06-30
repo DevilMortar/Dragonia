@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 192.0d,
+	description: "{id:\"iceandfire:dragonsteel_fire_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "042f35c7",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonsteel_fire_helmet"
+		}],
+		consume_items: true
+	}]
+}

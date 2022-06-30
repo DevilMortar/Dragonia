@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 110.0d,
+	description: "{id:\"ebwizardry:sage_robe_fire\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "83632f3f",
+		type: "item",
+		items: [{
+			item: "ebwizardry:sage_robe_fire"
+		}],
+		consume_items: true
+	}]
+}

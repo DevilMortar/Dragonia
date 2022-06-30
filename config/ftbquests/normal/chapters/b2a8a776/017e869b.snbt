@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 43.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"potioncore:long_iron_skin\"},Damage:0s}",
+	tasks: [{
+		uid: "bf1b3280",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "potioncore:long_iron_skin"
+			}
+		}],
+		consume_items: true
+	}]
+}

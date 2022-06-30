@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 206.0d,
+	description: "{id:\"netherex:quartz_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "47f4810e",
+		type: "item",
+		items: [{
+			item: "netherex:quartz_wall"
+		}],
+		consume_items: true
+	}]
+}

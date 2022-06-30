@@ -1,0 +1,70 @@
+{
+	x: 12.0d,
+	y: 243.0d,
+	description: "{id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:1449,HarvestLevel:3,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:1449,HarvestLevel:3,Attack:6.0f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"steel\",\"steel\",\"steel\",\"steel\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"stiff\",color:-5789785,level:1},{identifier:\"sharp\",color:-5789785,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"stiff\",\"sharp\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b87f9b19",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 1449,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 1449,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"steel",
+						"steel",
+						"steel",
+						"steel"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "stiff",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "sharp",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"stiff",
+					"sharp",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

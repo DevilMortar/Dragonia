@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 362.0d,
+	description: "{id:\"vt:birchbark\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e7cbe44e",
+		type: "item",
+		items: [{
+			item: "vt:birchbark"
+		}],
+		consume_items: true
+	}]
+}

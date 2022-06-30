@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 50.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:purity\"},Damage:0s}",
+	tasks: [{
+		uid: "6aeaf64a",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:purity"
+			}
+		}],
+		consume_items: true
+	}]
+}

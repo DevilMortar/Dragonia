@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 118.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"knightslime\"},Damage:0s}",
+	tasks: [{
+		uid: "d3111d15",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "knightslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

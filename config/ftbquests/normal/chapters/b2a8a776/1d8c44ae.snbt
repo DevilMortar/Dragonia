@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 140.0d,
+	description: "{id:\"ancientwarfarestructure:table\",Count:1b,tag:{variant:\"oak\"},Damage:0s}",
+	tasks: [{
+		uid: "a40f1f12",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:table",
+			tag: {
+				variant: "oak"
+			}
+		}],
+		consume_items: true
+	}]
+}

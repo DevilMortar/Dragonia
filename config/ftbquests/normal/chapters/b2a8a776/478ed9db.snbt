@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 199.0d,
+	description: "{id:\"heroicarmory:rswolfsbane\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7382a542",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rswolfsbane"
+		}],
+		consume_items: true
+	}]
+}

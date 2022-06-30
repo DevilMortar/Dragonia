@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 202.0d,
+	description: "{id:\"heroicarmory:terrariamandibleblade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6a823a53",
+		type: "item",
+		items: [{
+			item: "heroicarmory:terrariamandibleblade"
+		}],
+		consume_items: true
+	}]
+}

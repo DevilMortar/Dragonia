@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 175.0d,
+	description: "{id:\"dungeontactics:fire_starter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6a32ac47",
+		type: "item",
+		items: [{
+			item: "dungeontactics:fire_starter"
+		}],
+		consume_items: true
+	}]
+}

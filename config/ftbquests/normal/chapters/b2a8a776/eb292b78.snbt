@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:strong_spin\"},Damage:0s}",
+	tasks: [{
+		uid: "9ba960f9",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:strong_spin"
+			}
+		}],
+		consume_items: true
+	}]
+}

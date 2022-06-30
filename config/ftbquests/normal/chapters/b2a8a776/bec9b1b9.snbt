@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 99.0d,
+	description: "{id:\"atum:framed_cyan_stained_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5d058440",
+		type: "item",
+		items: [{
+			item: "atum:framed_cyan_stained_glass"
+		}],
+		consume_items: true
+	}]
+}

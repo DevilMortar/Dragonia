@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 86.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/wolf\"},Damage:0s}",
+	tasks: [{
+		uid: "e70c86ce",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/wolf"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 48.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"extraalchemy:pull_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "4f390409",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "extraalchemy:pull_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

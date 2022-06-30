@@ -1,0 +1,19 @@
+{
+	x: 24.0d,
+	y: 138.0d,
+	description: "{id:\"ancientwarfarestructure:altar_candle\",Count:1b,tag:{color:0,flameColor:16776960,customData:\"evil\",unlocalizedNamePart:\"faction\"},Damage:0s}",
+	tasks: [{
+		uid: "e6e6835e",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:altar_candle",
+			tag: {
+				color: 0,
+				flameColor: 16776960,
+				customData: "evil",
+				unlocalizedNamePart: "faction"
+			}
+		}],
+		consume_items: true
+	}]
+}

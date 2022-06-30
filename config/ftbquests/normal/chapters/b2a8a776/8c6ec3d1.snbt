@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 75.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"aether_legacy:entities/zephyr\"},Damage:0s}",
+	tasks: [{
+		uid: "5e6d3d92",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "aether_legacy:entities/zephyr"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 272.0d,
+	description: "{id:\"spartanweaponry:javelin_gold\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "704383fb",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:javelin_gold"
+		}],
+		consume_items: true
+	}]
+}

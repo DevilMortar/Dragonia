@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 110.0d,
+	description: "{id:\"ebwizardry:sage_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "03bc64ad",
+		type: "item",
+		items: [{
+			item: "ebwizardry:sage_boots"
+		}],
+		consume_items: true
+	}]
+}

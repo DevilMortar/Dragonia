@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:potion_ring\",Count:1b,tag:{Potion:\"minecraft:invisibility\"},Damage:0s}",
+	tasks: [{
+		uid: "9a176632",
+		type: "item",
+		items: [{
+			id: "extraalchemy:potion_ring",
+			tag: {
+				Potion: "minecraft:invisibility"
+			}
+		}],
+		consume_items: true
+	}]
+}

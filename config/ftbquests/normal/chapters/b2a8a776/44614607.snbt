@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 169.0d,
+	description: "{id:\"dungeonsmod:sun_overdrive\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fc3bd1ad",
+		type: "item",
+		items: [{
+			item: "dungeonsmod:sun_overdrive"
+		}],
+		consume_items: true
+	}]
+}

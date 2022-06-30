@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 149.0d,
+	description: "{id:\"atum:loot_gold_broach\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6bc1109b",
+		type: "item",
+		items: [{
+			item: "atum:loot_gold_broach"
+		}],
+		consume_items: true
+	}]
+}

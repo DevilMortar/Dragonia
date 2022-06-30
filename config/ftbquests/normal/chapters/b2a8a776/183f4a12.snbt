@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 118.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"stone\"},Damage:0s}",
+	tasks: [{
+		uid: "4613e3b7",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "stone"
+			}
+		}],
+		consume_items: true
+	}]
+}

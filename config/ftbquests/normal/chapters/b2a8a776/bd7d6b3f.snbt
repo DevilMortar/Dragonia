@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 345.0d,
+	description: "{id:\"harvestcraft:shepardspieitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ba622696",
+		type: "item",
+		items: [{
+			item: "harvestcraft:shepardspieitem"
+		}],
+		consume_items: true
+	}]
+}

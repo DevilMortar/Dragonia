@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 141.0d,
+	description: "{id:\"ancientwarfarestructure:scissor_seat\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f3cb654f",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:scissor_seat"
+		}],
+		consume_items: true
+	}]
+}

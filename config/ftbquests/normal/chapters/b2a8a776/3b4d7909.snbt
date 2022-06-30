@@ -1,0 +1,18 @@
+{
+	x: 27.0d,
+	y: 24.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"mocreatures:caveogre\"}},Damage:0s}",
+	tasks: [{
+		uid: "b6a91f3e",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "mocreatures:caveogre"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

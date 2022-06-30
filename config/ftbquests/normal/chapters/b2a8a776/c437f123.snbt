@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 337.0d,
+	description: "{id:\"harvestcraft:aridgarden\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "067db3d3",
+		type: "item",
+		items: [{
+			item: "harvestcraft:aridgarden"
+		}],
+		consume_items: true
+	}]
+}

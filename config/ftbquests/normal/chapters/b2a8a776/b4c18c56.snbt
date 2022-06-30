@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 346.0d,
+	description: "{id:\"harvestcraft:colasodaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4e4f65b6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:colasodaitem"
+		}],
+		consume_items: true
+	}]
+}

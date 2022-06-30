@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 76.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ebwizardry:gameplay/fishing/treasure_additions\"},Damage:0s}",
+	tasks: [{
+		uid: "f34475ea",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ebwizardry:gameplay/fishing/treasure_additions"
+			}
+		}],
+		consume_items: true
+	}]
+}

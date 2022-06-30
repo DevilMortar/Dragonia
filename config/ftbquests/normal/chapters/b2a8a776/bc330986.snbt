@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 111.0d,
+	description: "{id:\"ebwizardry:warlock_leggings_fire\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a921c999",
+		type: "item",
+		items: [{
+			item: "ebwizardry:warlock_leggings_fire"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 140.0d,
+	description: "{id:\"ancientwarfarestructure:chair\",Count:1b,tag:{variant:\"jungle\"},Damage:0s}",
+	tasks: [{
+		uid: "efec1c80",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:chair",
+			tag: {
+				variant: "jungle"
+			}
+		}],
+		consume_items: true
+	}]
+}

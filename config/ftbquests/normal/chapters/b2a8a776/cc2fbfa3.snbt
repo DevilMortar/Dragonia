@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 296.0d,
+	description: "{id:\"spartanweaponry:throwing_knife_invar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "427e3639",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:throwing_knife_invar"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 76.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ebwizardry:subsets/wizard_armour\"},Damage:0s}",
+	tasks: [{
+		uid: "42e7c44e",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ebwizardry:subsets/wizard_armour"
+			}
+		}],
+		consume_items: true
+	}]
+}

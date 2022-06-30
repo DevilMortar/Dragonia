@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 357.0d,
+	description: "{id:\"harvestcraft:groundbeefitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b4a50af1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:groundbeefitem"
+		}],
+		consume_items: true
+	}]
+}

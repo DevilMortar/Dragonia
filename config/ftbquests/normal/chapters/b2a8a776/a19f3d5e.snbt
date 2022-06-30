@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 16.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:long_levitation\"},Damage:0s}",
+	tasks: [{
+		uid: "5e467c58",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:long_levitation"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 178.0d,
+	description: "{id:\"dungeontactics:trap_clamp\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4d2aed38",
+		type: "item",
+		items: [{
+			item: "dungeontactics:trap_clamp"
+		}],
+		consume_items: true
+	}]
+}

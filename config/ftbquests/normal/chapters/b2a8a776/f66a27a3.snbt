@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:iron_ring\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "19ca0c56",
+		type: "item",
+		items: [{
+			item: "dungeontactics:iron_ring"
+		}],
+		consume_items: true
+	}]
+}

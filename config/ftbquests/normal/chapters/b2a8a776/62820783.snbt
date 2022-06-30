@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 289.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"potioncore:strong_health_boost\"},Damage:0s}",
+	tasks: [{
+		uid: "24ec3f88",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "potioncore:strong_health_boost"
+			}
+		}],
+		consume_items: true
+	}]
+}

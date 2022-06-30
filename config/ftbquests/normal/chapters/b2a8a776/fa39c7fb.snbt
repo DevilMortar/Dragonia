@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 137.0d,
+	description: "{id:\"ancientwarfarestructure:altar_short_cloth\",Count:1b,tag:{dyeColor:8},Damage:0s}",
+	tasks: [{
+		uid: "566fde9c",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:altar_short_cloth",
+			tag: {
+				dyeColor: 8
+			}
+		}],
+		consume_items: true
+	}]
+}

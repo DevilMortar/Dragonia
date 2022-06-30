@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 351.0d,
+	description: "{id:\"harvestcraft:baconandeggsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7ef5d5f7",
+		type: "item",
+		items: [{
+			item: "harvestcraft:baconandeggsitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 120.0d,
+	description: "{id:\"conarm:armorstation\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5fb3e95e",
+		type: "item",
+		items: [{
+			item: "conarm:armorstation"
+		}],
+		consume_items: true
+	}]
+}

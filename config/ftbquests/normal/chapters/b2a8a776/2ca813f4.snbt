@@ -1,0 +1,18 @@
+{
+	x: 13.0d,
+	y: 132.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"buffloka\",npcType:\"faction.soldier.elite\"},Damage:0s}",
+	tasks: [{
+		uid: "e41bcff1",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "buffloka",
+				npcType: "faction.soldier.elite"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:core_root\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ca20ec54",
+		type: "item",
+		items: [{
+			item: "rustic:core_root"
+		}],
+		consume_items: true
+	}]
+}

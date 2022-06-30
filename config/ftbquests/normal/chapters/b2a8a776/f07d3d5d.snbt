@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 158.0d,
+	description: "{id:\"bibliocraft:cookiejar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b5422321",
+		type: "item",
+		items: [{
+			item: "bibliocraft:cookiejar"
+		}],
+		consume_items: true
+	}]
+}

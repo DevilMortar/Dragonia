@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:fish_obsidian_cooked\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "591f1fb4",
+		type: "item",
+		items: [{
+			item: "dungeontactics:fish_obsidian_cooked"
+		}],
+		consume_items: true
+	}]
+}

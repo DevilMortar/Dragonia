@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 162.0d,
+	description: "{id:\"thaumcraft:crystal_essence\",Count:1b,tag:{Aspects:[{amount:1,key:\"spiritus\"}]},Damage:0s}",
+	tasks: [{
+		uid: "23709d5e",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "spiritus"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

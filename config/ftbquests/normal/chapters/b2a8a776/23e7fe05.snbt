@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:wand_workbench\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5990101b",
+		type: "item",
+		items: [{
+			item: "thaumcraft:wand_workbench"
+		}],
+		consume_items: true
+	}]
+}

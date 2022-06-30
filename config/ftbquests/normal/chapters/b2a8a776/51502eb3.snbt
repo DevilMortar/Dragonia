@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 60.0d,
+	description: "{id:\"aquaculture:neptunium_chestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5d6e59d5",
+		type: "item",
+		items: [{
+			item: "aquaculture:neptunium_chestplate"
+		}],
+		consume_items: true
+	}]
+}

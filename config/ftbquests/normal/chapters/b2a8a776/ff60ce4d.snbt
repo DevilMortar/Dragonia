@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 141.0d,
+	description: "{id:\"ancientwarfarestructure:statue\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d136f522",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:statue"
+		}],
+		consume_items: true
+	}]
+}

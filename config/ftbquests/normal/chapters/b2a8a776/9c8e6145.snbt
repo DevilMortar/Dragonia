@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 166.0d,
+	description: "{id:\"mocreatures:mocleaves\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "40cda92b",
+		type: "item",
+		items: [{
+			item: "mocreatures:mocleaves"
+		}],
+		consume_items: true
+	}]
+}

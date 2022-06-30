@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 186.0d,
+	description: "{id:\"iceandfire:frozen_dirt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "edb5630f",
+		type: "item",
+		items: [{
+			item: "iceandfire:frozen_dirt"
+		}],
+		consume_items: true
+	}]
+}

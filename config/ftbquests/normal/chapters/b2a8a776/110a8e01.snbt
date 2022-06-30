@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 3.0d,
+	description: "{id:\"minecraft:monster_egg\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "d0d77bf8",
+		type: "item",
+		items: [{
+			item: "minecraft:monster_egg 1 3"
+		}],
+		consume_items: true
+	}]
+}

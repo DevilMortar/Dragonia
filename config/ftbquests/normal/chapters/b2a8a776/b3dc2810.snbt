@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 345.0d,
+	description: "{id:\"harvestcraft:plainyogurtitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "88ea6489",
+		type: "item",
+		items: [{
+			item: "harvestcraft:plainyogurtitem"
+		}],
+		consume_items: true
+	}]
+}

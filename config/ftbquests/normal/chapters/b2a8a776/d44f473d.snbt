@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 307.0d,
+	description: "{id:\"thaumicaugmentation:starfield_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0b181635",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:starfield_glass"
+		}],
+		consume_items: true
+	}]
+}

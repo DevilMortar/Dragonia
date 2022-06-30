@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 95.0d,
+	description: "{id:\"atum:chiseled_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c08a8eda",
+		type: "item",
+		items: [{
+			item: "atum:chiseled_wall"
+		}],
+		consume_items: true
+	}]
+}

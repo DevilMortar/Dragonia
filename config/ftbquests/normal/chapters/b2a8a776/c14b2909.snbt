@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 88.0d,
+	description: "{id:\"reccomplex:inventory_generation_component_tag\",Count:1b,tag:{itemCollectionKey:\"CultTreasure\"},Damage:0s}",
+	tasks: [{
+		uid: "8e32ecc8",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_component_tag",
+			tag: {
+				itemCollectionKey: "CultTreasure"
+			}
+		}],
+		consume_items: true
+	}]
+}

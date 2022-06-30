@@ -1,0 +1,22 @@
+{
+	x: 22.0d,
+	y: 259.0d,
+	description: "{ForgeCaps:{Parent:{Size:2,TotalAmounts:[0],Items:[]}},id:\"xreliquary:rending_gale\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "029bd817",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 2,
+					TotalAmounts: [
+						0
+					],
+					Items: []
+				}
+			},
+			id: "xreliquary:rending_gale"
+		}],
+		consume_items: true
+	}]
+}

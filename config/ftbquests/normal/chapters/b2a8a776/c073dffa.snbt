@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 304.0d,
+	description: "{id:\"spartanshields:shield_abyssalcraft_dreadium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "edabcb5b",
+		type: "item",
+		items: [{
+			item: "spartanshields:shield_abyssalcraft_dreadium"
+		}],
+		consume_items: true
+	}]
+}

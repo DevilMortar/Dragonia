@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 87.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"tconstruct:entities/blueslime\"},Damage:0s}",
+	tasks: [{
+		uid: "f00f3e51",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "tconstruct:entities/blueslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

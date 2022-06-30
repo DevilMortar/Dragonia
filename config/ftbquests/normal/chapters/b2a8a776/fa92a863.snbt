@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 83.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"ancientspellcraft:subsets/rare_artefacts\"},Damage:0s}",
+	tasks: [{
+		uid: "2883b54f",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "ancientspellcraft:subsets/rare_artefacts"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,78 @@
+{
+	x: 30.0d,
+	y: 239.0d,
+	description: "{id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:5.0f,FreeModifiers:3,HarvestLevelShovel:4,Durability:2350,HarvestLevel:4,Attack:13.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:5.0f,FreeModifiers:3,HarvestLevelShovel:4,Durability:2350,HarvestLevel:4,Attack:13.0f},Special:{Categories:[\"harvest\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"weezer\",\"weezer\",\"weezer\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"in_the_garage\",color:-16733470,level:1},{identifier:\"sweater_song\",color:-16733470,level:1},{identifier:\"surf_wax_america\",color:-16733470,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"in_the_garage\",\"sweater_song\",\"surf_wax_america\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "0e6cf57c",
+		type: "item",
+		items: [{
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 4,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 4,
+					Durability: 2350,
+					HarvestLevel: 4,
+					Attack: 13.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 4,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 4,
+					Durability: 2350,
+					HarvestLevel: 4,
+					Attack: 13.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"weezer",
+						"weezer",
+						"weezer"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "in_the_garage",
+					color: -16733470,
+					level: 1
+				},
+				{
+					identifier: "sweater_song",
+					color: -16733470,
+					level: 1
+				},
+				{
+					identifier: "surf_wax_america",
+					color: -16733470,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"in_the_garage",
+					"sweater_song",
+					"surf_wax_america",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

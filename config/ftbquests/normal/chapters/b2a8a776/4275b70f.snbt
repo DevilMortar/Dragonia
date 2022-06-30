@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 315.0d,
+	description: "{id:\"tombstone:tablet_of_assistance\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0db27185",
+		type: "item",
+		items: [{
+			item: "tombstone:tablet_of_assistance"
+		}],
+		consume_items: true
+	}]
+}

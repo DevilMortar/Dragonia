@@ -1,0 +1,74 @@
+{
+	x: 10.0d,
+	y: 249.0d,
+	description: "{id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,DrawSpeed:0.9f,FreeModifiers:3,ProjectileBonusDamage:6.0f,Durability:2814,HarvestLevel:4,Attack:17.0f,Range:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,DrawSpeed:0.9f,FreeModifiers:3,ProjectileBonusDamage:6.0f,Durability:2814,HarvestLevel:4,Attack:17.0f,Range:3.0f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"dragonsteel_ice\",\"dragonsteel_ice\",\"dragonsteel_ice\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"sharp\",color:-4463363,level:1},{identifier:\"frost2\",color:-4463363,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"sharp\",\"frost2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "793e9310",
+		type: "item",
+		items: [{
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					DrawSpeed: 0.9f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 6.0f,
+					Durability: 2814,
+					HarvestLevel: 4,
+					Attack: 17.0f,
+					Range: 3.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					DrawSpeed: 0.9f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 6.0f,
+					Durability: 2814,
+					HarvestLevel: 4,
+					Attack: 17.0f,
+					Range: 3.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"launcher"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dragonsteel_ice",
+						"dragonsteel_ice",
+						"dragonsteel_ice",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "sharp",
+					color: -4463363,
+					level: 1
+				},
+				{
+					identifier: "frost2",
+					color: -4463363,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"sharp",
+					"frost2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 345.0d,
+	description: "{id:\"harvestcraft:peppermintitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b7795f65",
+		type: "item",
+		items: [{
+			item: "harvestcraft:peppermintitem"
+		}],
+		consume_items: true
+	}]
+}

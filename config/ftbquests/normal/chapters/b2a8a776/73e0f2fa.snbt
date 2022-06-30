@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 281.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"extraalchemy:recall_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "6de18a3d",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "extraalchemy:recall_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

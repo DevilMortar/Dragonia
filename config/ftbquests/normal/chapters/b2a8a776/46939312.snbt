@@ -1,0 +1,67 @@
+{
+	x: 31.0d,
+	y: 244.0d,
+	description: "{id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.0f,FreeModifiers:3,Durability:818,HarvestLevel:3,Attack:6.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.0f,FreeModifiers:3,Durability:818,HarvestLevel:3,Attack:9.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"dragonbone\",\"dragonbone\",\"dragonbone\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"fractured2\",color:-4738403,level:1},{identifier:\"splintering2\",color:-4738403,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"fractured2\",\"splintering2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "429983d3",
+		type: "item",
+		items: [{
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.0f,
+					FreeModifiers: 3,
+					Durability: 818,
+					HarvestLevel: 3,
+					Attack: 6.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.0f,
+					FreeModifiers: 3,
+					Durability: 818,
+					HarvestLevel: 3,
+					Attack: 9.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dragonbone",
+						"dragonbone",
+						"dragonbone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "fractured2",
+					color: -4738403,
+					level: 1
+				},
+				{
+					identifier: "splintering2",
+					color: -4738403,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"fractured2",
+					"splintering2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

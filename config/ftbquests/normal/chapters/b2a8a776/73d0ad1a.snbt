@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 174.0d,
+	description: "{id:\"dungeontactics:steel_axe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2e4d925a",
+		type: "item",
+		items: [{
+			item: "dungeontactics:steel_axe"
+		}],
+		consume_items: true
+	}]
+}

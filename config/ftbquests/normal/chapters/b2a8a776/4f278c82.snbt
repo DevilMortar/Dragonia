@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 339.0d,
+	description: "{id:\"harvestcraft:pomegranatejuiceitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "93754fec",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pomegranatejuiceitem"
+		}],
+		consume_items: true
+	}]
+}

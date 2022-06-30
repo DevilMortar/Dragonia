@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 230.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"ardite\"},Damage:0s}",
+	tasks: [{
+		uid: "ac9916c0",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "ardite"
+			}
+		}],
+		consume_items: true
+	}]
+}

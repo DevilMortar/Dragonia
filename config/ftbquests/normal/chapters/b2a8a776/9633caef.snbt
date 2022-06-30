@@ -1,0 +1,20 @@
+{
+	x: 23.0d,
+	y: 263.0d,
+	description: "{id:\"xreliquary:potion_essence\",Count:1b,tag:{effects:[{duration:3000,potency:2,name:\"minecraft:speed\"}]},Damage:0s}",
+	tasks: [{
+		uid: "36f61c45",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion_essence",
+			tag: {
+				effects: [{
+					duration: 3000,
+					potency: 2,
+					name: "minecraft:speed"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 308.0d,
+	description: "{id:\"thaumicaugmentation:void_boots\",Count:1b,tag:{tc.charge:480},Damage:0s}",
+	tasks: [{
+		uid: "bf4cc89f",
+		type: "item",
+		items: [{
+			id: "thaumicaugmentation:void_boots",
+			tag: {
+				tc.charge: 480
+			}
+		}],
+		consume_items: true
+	}]
+}

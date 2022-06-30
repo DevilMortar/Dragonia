@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 343.0d,
+	description: "{id:\"harvestcraft:chickencelerycasseroleitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5ae31739",
+		type: "item",
+		items: [{
+			item: "harvestcraft:chickencelerycasseroleitem"
+		}],
+		consume_items: true
+	}]
+}

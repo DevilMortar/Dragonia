@@ -1,0 +1,20 @@
+{
+	x: 26.0d,
+	y: 263.0d,
+	description: "{id:\"xreliquary:potion_essence\",Count:1b,tag:{effects:[{duration:250,potency:0,name:\"minecraft:regeneration\"}]},Damage:0s}",
+	tasks: [{
+		uid: "f9c33997",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion_essence",
+			tag: {
+				effects: [{
+					duration: 250,
+					potency: 0,
+					name: "minecraft:regeneration"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

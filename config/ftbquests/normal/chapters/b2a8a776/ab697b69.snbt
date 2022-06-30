@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 104.0d,
+	description: "{id:\"thaumcraft:centrifuge\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eae3173a",
+		type: "item",
+		items: [{
+			item: "thaumcraft:centrifuge"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: 162.0d,
+	description: "{id:\"thaumcraft:crystal_essence\",Count:1b,tag:{Aspects:[{amount:1,key:\"exanimis\"}]},Damage:0s}",
+	tasks: [{
+		uid: "358478b4",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "exanimis"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

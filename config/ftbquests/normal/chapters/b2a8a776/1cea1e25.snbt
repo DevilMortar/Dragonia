@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 314.0d,
+	description: "{id:\"tcomplement:scorched_casting\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "93879744",
+		type: "item",
+		items: [{
+			item: "tcomplement:scorched_casting 1 1"
+		}],
+		consume_items: true
+	}]
+}

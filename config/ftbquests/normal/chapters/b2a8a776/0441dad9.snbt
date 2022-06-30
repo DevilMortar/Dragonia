@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 180.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:hurry_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "51c2d1e4",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:hurry_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

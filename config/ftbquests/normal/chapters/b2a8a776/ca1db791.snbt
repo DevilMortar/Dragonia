@@ -1,0 +1,18 @@
+{
+	x: 11.0d,
+	y: 24.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"mocreatures:lither\"}},Damage:0s}",
+	tasks: [{
+		uid: "75a9b5e4",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "mocreatures:lither"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

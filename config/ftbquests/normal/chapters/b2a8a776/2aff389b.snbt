@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 329.0d,
+	description: "{id:\"harvestcraft:bambooshootseeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fbf3be1a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:bambooshootseeditem"
+		}],
+		consume_items: true
+	}]
+}

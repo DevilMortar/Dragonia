@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:bag_arbour\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8906ddb2",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bag_arbour"
+		}],
+		consume_items: true
+	}]
+}

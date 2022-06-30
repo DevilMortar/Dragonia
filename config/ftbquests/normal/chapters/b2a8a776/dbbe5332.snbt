@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 327.0d,
+	description: "{id:\"charm:smooth_glowstone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "35146463",
+		type: "item",
+		items: [{
+			item: "charm:smooth_glowstone"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 326.0d,
+	description: "{id:\"apotheosis:bow_book\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b080fa41",
+		type: "item",
+		items: [{
+			item: "apotheosis:bow_book"
+		}],
+		consume_items: true
+	}]
+}

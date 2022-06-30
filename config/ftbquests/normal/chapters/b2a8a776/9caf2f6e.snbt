@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 119.0d,
+	description: "{id:\"ancientwarfareautomation:torque_shaft\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "ca22f711",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:torque_shaft 1 2"
+		}],
+		consume_items: true
+	}]
+}

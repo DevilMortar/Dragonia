@@ -1,0 +1,21 @@
+{
+	x: 11.0d,
+	y: 235.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,tag:{textureBlock:{id:\"thaumcraft:plank_silverwood\",Count:1b,Damage:0s}},Damage:1s}",
+	tasks: [{
+		uid: "00da2d06",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "thaumcraft:plank_silverwood",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

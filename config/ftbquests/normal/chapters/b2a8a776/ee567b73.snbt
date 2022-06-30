@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 212.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"conarm:boots_core\"},Damage:0s}",
+	tasks: [{
+		uid: "13968115",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "conarm:boots_core"
+			}
+		}],
+		consume_items: true
+	}]
+}

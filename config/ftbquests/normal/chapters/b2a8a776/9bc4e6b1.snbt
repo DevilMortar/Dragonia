@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 110.0d,
+	description: "{id:\"ebwizardry:sage_robe_earth\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f41c10d5",
+		type: "item",
+		items: [{
+			item: "ebwizardry:sage_robe_earth"
+		}],
+		consume_items: true
+	}]
+}

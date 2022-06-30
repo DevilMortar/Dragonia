@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 352.0d,
+	description: "{id:\"harvestcraft:honeysoyribsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "46045191",
+		type: "item",
+		items: [{
+			item: "harvestcraft:honeysoyribsitem"
+		}],
+		consume_items: true
+	}]
+}

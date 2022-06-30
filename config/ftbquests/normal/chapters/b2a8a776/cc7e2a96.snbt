@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 344.0d,
+	description: "{id:\"harvestcraft:wafflesitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fe7b6415",
+		type: "item",
+		items: [{
+			item: "harvestcraft:wafflesitem"
+		}],
+		consume_items: true
+	}]
+}

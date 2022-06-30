@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 289.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"potioncore:strong_levitation\"},Damage:0s}",
+	tasks: [{
+		uid: "2e6bfb3b",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "potioncore:strong_levitation"
+			}
+		}],
+		consume_items: true
+	}]
+}

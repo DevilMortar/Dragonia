@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 184.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"toroquest:strong_loyalty\"},Damage:0s}",
+	tasks: [{
+		uid: "40c49d34",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "toroquest:strong_loyalty"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:blowgun\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cf197a86",
+		type: "item",
+		items: [{
+			item: "mowziesmobs:blowgun"
+		}],
+		consume_items: true
+	}]
+}

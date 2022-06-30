@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:deathstalk_mushroom\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ca12eded",
+		type: "item",
+		items: [{
+			item: "rustic:deathstalk_mushroom"
+		}],
+		consume_items: true
+	}]
+}

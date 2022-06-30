@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 152.0d,
+	description: "{id:\"atum:crunchy_golden_scarab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a3699fa9",
+		type: "item",
+		items: [{
+			item: "atum:crunchy_golden_scarab"
+		}],
+		consume_items: true
+	}]
+}

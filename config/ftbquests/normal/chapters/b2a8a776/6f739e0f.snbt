@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"blueslime\"},Damage:0s}",
+	tasks: [{
+		uid: "1d719bf9",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "blueslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

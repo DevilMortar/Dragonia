@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 92.0d,
+	description: "{id:\"rustic:beeswax\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5b3015db",
+		type: "item",
+		items: [{
+			item: "rustic:beeswax"
+		}],
+		consume_items: true
+	}]
+}

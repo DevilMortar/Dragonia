@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 48.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"extraalchemy:cheat_death_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "e9164451",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "extraalchemy:cheat_death_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

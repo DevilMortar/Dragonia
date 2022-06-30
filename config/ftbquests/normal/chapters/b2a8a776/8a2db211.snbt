@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 229.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"cactus\"},Damage:0s}",
+	tasks: [{
+		uid: "5de59f50",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "cactus"
+			}
+		}],
+		consume_items: true
+	}]
+}

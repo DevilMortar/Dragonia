@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:bread_slice\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "de586eab",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bread_slice"
+		}],
+		consume_items: true
+	}]
+}

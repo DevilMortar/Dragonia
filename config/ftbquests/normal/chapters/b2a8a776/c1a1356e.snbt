@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:vial_break\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b3d47543",
+		type: "item",
+		items: [{
+			item: "extraalchemy:vial_break"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 338.0d,
+	description: "{id:\"harvestcraft:roastedpumpkinseedsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a80146a2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:roastedpumpkinseedsitem"
+		}],
+		consume_items: true
+	}]
+}

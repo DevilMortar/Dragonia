@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:effect_sap\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4357a788",
+		type: "item",
+		items: [{
+			item: "thaumcraft:effect_sap"
+		}],
+		consume_items: true
+	}]
+}

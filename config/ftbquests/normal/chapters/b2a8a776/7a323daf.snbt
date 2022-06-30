@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 65.0d,
+	description: "{id:\"biomesoplenty:hard_ice\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "570ea299",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:hard_ice"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 170.0d,
+	description: "{id:\"dungeontactics:dungeonpedia_volume_6\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5758c539",
+		type: "item",
+		items: [{
+			item: "dungeontactics:dungeonpedia_volume_6"
+		}],
+		consume_items: true
+	}]
+}

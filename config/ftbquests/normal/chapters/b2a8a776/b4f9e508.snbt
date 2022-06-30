@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 301.0d,
+	description: "{id:\"spartanfire:javelin_desert\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b23ef5c5",
+		type: "item",
+		items: [{
+			item: "spartanfire:javelin_desert"
+		}],
+		consume_items: true
+	}]
+}

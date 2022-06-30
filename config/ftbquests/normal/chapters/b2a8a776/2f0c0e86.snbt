@@ -1,0 +1,21 @@
+{
+	x: 6.0d,
+	y: 262.0d,
+	description: "{id:\"xreliquary:magazine\",Count:1b,tag:{effects:[{duration:200,potency:1,name:\"minecraft:slowness\"}]},Damage:1s}",
+	tasks: [{
+		uid: "b29020d5",
+		type: "item",
+		items: [{
+			id: "xreliquary:magazine",
+			tag: {
+				effects: [{
+					duration: 200,
+					potency: 1,
+					name: "minecraft:slowness"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

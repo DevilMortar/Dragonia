@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 145.0d,
+	description: "{id:\"ancientwarfarevehicle:explosive_charge\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cba2de7a",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:explosive_charge"
+		}],
+		consume_items: true
+	}]
+}

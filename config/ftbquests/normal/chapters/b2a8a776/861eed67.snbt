@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 121.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"paper\"},Damage:0s}",
+	tasks: [{
+		uid: "84939ede",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "paper"
+			}
+		}],
+		consume_items: true
+	}]
+}

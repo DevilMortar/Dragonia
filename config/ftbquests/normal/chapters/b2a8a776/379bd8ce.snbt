@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 369.0d,
+	description: "{id:\"quark:redstone_randomizer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cd30e7e4",
+		type: "item",
+		items: [{
+			item: "quark:redstone_randomizer"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,68 @@
+{
+	x: 29.0d,
+	y: 240.0d,
+	description: "{id:\"tconstruct:hammer\",Count:1b,tag:{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:3775,HarvestLevel:0,Attack:0.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:3775,HarvestLevel:0,Attack:0.0f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"sponge\",\"sponge\",\"sponge\",\"sponge\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"squeaky\",color:-3486642,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"squeaky\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "c8f4ec51",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 33s
+				}],
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.02f,
+					FreeModifiers: 3,
+					Durability: 3775,
+					HarvestLevel: 0,
+					Attack: 0.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.02f,
+					FreeModifiers: 3,
+					Durability: 3775,
+					HarvestLevel: 0,
+					Attack: 0.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"sponge",
+						"sponge",
+						"sponge",
+						"sponge"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "squeaky",
+					color: -3486642,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"squeaky",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

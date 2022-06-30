@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 347.0d,
+	description: "{id:\"harvestcraft:firmtofuitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "032e5e0f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:firmtofuitem"
+		}],
+		consume_items: true
+	}]
+}

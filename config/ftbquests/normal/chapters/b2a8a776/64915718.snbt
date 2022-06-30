@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 57.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:long_rust\"},Damage:0s}",
+	tasks: [{
+		uid: "a1475deb",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:long_rust"
+			}
+		}],
+		consume_items: true
+	}]
+}

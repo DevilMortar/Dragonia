@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 94.0d,
+	description: "{id:\"atum:limestone_chiseled_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8e741a36",
+		type: "item",
+		items: [{
+			item: "atum:limestone_chiseled_slab"
+		}],
+		consume_items: true
+	}]
+}

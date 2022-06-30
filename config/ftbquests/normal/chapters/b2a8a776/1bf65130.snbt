@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 296.0d,
+	description: "{id:\"spartanweaponry:lance_platinum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5058a2eb",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:lance_platinum"
+		}],
+		consume_items: true
+	}]
+}

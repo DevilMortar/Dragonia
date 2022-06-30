@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 270.0d,
+	description: "{id:\"skewers:skewer_porkchop_cooked\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "63557467",
+		type: "item",
+		items: [{
+			item: "skewers:skewer_porkchop_cooked"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 218.0d,
+	description: "{id:\"tconstruct:large_sword_blade\",Count:1b,tag:{Material:\"knightslime\"},Damage:0s}",
+	tasks: [{
+		uid: "825405d3",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "knightslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

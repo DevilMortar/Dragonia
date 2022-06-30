@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 119.0d,
+	description: "{id:\"ancientwarfareautomation:worksite_upgrade\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "17c24a51",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:worksite_upgrade 1 1"
+		}],
+		consume_items: true
+	}]
+}

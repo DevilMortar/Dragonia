@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 16.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:recoil\"},Damage:0s}",
+	tasks: [{
+		uid: "73b17dff",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:recoil"
+			}
+		}],
+		consume_items: true
+	}]
+}

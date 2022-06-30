@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 101.0d,
+	description: "{id:\"atum:palm_fence_gate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4875d2a5",
+		type: "item",
+		items: [{
+			item: "atum:palm_fence_gate"
+		}],
+		consume_items: true
+	}]
+}

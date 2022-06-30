@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 308.0d,
+	description: "{id:\"thaumicaugmentation:rift_seed\",Count:1b,tag:{riftSize:10},Damage:0s}",
+	tasks: [{
+		uid: "8bbe92dc",
+		type: "item",
+		items: [{
+			id: "thaumicaugmentation:rift_seed",
+			tag: {
+				riftSize: 10
+			}
+		}],
+		consume_items: true
+	}]
+}

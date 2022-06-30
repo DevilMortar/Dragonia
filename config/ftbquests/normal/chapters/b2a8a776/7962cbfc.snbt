@@ -1,0 +1,70 @@
+{
+	x: 3.0d,
+	y: 241.0d,
+	description: "{id:\"tconstruct:hammer\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.0f,FreeModifiers:3,Durability:1300,HarvestLevel:3,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.0f,FreeModifiers:3,Durability:1300,HarvestLevel:3,Attack:9.0f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"dragonbone\",\"dragonbone\",\"dragonbone\",\"dragonbone\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"fractured2\",color:-4738403,level:1},{identifier:\"splintering2\",color:-4738403,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"fractured2\",\"splintering2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d7d60422",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.0f,
+					FreeModifiers: 3,
+					Durability: 1300,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.0f,
+					FreeModifiers: 3,
+					Durability: 1300,
+					HarvestLevel: 3,
+					Attack: 9.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dragonbone",
+						"dragonbone",
+						"dragonbone",
+						"dragonbone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "fractured2",
+					color: -4738403,
+					level: 1
+				},
+				{
+					identifier: "splintering2",
+					color: -4738403,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"fractured2",
+					"splintering2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

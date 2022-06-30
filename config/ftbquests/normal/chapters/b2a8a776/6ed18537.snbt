@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 365.0d,
+	description: "{id:\"quark:sandstone_new\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aa966a90",
+		type: "item",
+		items: [{
+			item: "quark:sandstone_new"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 294.0d,
+	description: "{id:\"spartanweaponry:greatsword_bronze\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ae3e413a",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:greatsword_bronze"
+		}],
+		consume_items: true
+	}]
+}

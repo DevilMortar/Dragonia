@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 201.0d,
+	description: "{id:\"heroicarmory:mhcentenariandagger\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4c0f2782",
+		type: "item",
+		items: [{
+			item: "heroicarmory:mhcentenariandagger"
+		}],
+		consume_items: true
+	}]
+}

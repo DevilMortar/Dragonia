@@ -1,0 +1,51 @@
+{
+	x: 6.0d,
+	y: 142.0d,
+	description: "{id:\"conarm:helmet\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:158,Defense:10.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:158,Defense:10.0f},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"spiny_armor\",color:-16735985,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"spiny_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "9dbd58d0",
+		type: "item",
+		items: [{
+			id: "conarm:helmet",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 158,
+					Defense: 10.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 158,
+					Defense: 10.0f
+				},
+				TinkerData: {
+					Materials: [
+						"cactus",
+						"cactus",
+						"cactus"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "spiny_armor",
+					color: -16735985,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"spiny_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

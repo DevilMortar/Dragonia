@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 425.0d,
+	description: "{id:\"chisel:carpet_green\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "ad64cb19",
+		type: "item",
+		items: [{
+			item: "chisel:carpet_green 1 1"
+		}],
+		consume_items: true
+	}]
+}

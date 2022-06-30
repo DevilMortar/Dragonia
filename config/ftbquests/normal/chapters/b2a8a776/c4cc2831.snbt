@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 366.0d,
+	description: "{id:\"quark:dark_prismarine_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1df6375a",
+		type: "item",
+		items: [{
+			item: "quark:dark_prismarine_wall"
+		}],
+		consume_items: true
+	}]
+}

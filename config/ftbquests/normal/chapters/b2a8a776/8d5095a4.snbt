@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 343.0d,
+	description: "{id:\"harvestcraft:coconutmilkitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9da90cbc",
+		type: "item",
+		items: [{
+			item: "harvestcraft:coconutmilkitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 257.0d,
+	description: "{id:\"qualitytools:reforging_station\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cfdef4c3",
+		type: "item",
+		items: [{
+			item: "qualitytools:reforging_station"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 286.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"minecraft:slowness\"},Damage:0s}",
+	tasks: [{
+		uid: "712e0d6d",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "minecraft:slowness"
+			}
+		}],
+		consume_items: true
+	}]
+}

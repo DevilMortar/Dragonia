@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 173.0d,
+	description: "{id:\"dungeontactics:mithril_plate_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2a8de31e",
+		type: "item",
+		items: [{
+			item: "dungeontactics:mithril_plate_boots"
+		}],
+		consume_items: true
+	}]
+}

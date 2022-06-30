@@ -1,0 +1,57 @@
+{
+	x: 4.0d,
+	y: 133.0d,
+	description: "{id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:398,Defense:16.7f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:398,Defense:16.7f},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"pigiron\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"baconlicious_armor\",color:-1073509,level:1},{identifier:\"tasty_armor\",color:-1073509,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"baconlicious_armor\",\"tasty_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "42d0268f",
+		type: "item",
+		items: [{
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 398,
+					Defense: 16.7f
+				},
+				Stats: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 398,
+					Defense: 16.7f
+				},
+				TinkerData: {
+					Materials: [
+						"pigiron",
+						"pigiron",
+						"pigiron"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "baconlicious_armor",
+					color: -1073509,
+					level: 1
+				},
+				{
+					identifier: "tasty_armor",
+					color: -1073509,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"baconlicious_armor",
+					"tasty_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 103.0d,
+	description: "{id:\"thaumcraft:metal_void\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f113449e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:metal_void"
+		}],
+		consume_items: true
+	}]
+}

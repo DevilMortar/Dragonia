@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 228.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"dragonsteel_fire\"},Damage:0s}",
+	tasks: [{
+		uid: "038319b2",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "dragonsteel_fire"
+			}
+		}],
+		consume_items: true
+	}]
+}

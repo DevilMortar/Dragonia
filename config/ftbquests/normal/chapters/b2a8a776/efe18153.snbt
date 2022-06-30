@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 46.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"quark:resilience\"},Damage:0s}",
+	tasks: [{
+		uid: "6b36e792",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "quark:resilience"
+			}
+		}],
+		consume_items: true
+	}]
+}

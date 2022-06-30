@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 203.0d,
+	description: "{id:\"heroicarmory:internetdemonoidpitchfork\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9aa8e5de",
+		type: "item",
+		items: [{
+			item: "heroicarmory:internetdemonoidpitchfork"
+		}],
+		consume_items: true
+	}]
+}

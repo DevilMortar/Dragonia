@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 164.0d,
+	description: "{id:\"thaumcraft:void_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0eaf814d",
+		type: "item",
+		items: [{
+			item: "thaumcraft:void_chest"
+		}],
+		consume_items: true
+	}]
+}

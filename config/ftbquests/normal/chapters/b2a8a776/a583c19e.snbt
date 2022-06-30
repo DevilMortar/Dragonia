@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 372.0d,
+	description: "{id:\"quark:stone_marble_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d9fb2ce4",
+		type: "item",
+		items: [{
+			item: "quark:stone_marble_stairs"
+		}],
+		consume_items: true
+	}]
+}

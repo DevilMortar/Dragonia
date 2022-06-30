@@ -1,0 +1,19 @@
+{
+	x: 22.0d,
+	y: 138.0d,
+	description: "{id:\"ancientwarfarestructure:altar_candle\",Count:1b,tag:{color:0,flameColor:16711680,customData:\"witchbane\",unlocalizedNamePart:\"faction\"},Damage:0s}",
+	tasks: [{
+		uid: "d0b24d32",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:altar_candle",
+			tag: {
+				color: 0,
+				flameColor: 16711680,
+				customData: "witchbane",
+				unlocalizedNamePart: "faction"
+			}
+		}],
+		consume_items: true
+	}]
+}

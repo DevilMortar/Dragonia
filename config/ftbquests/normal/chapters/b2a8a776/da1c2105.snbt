@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 338.0d,
+	description: "{id:\"harvestcraft:toastedsesameseedsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cb1ad525",
+		type: "item",
+		items: [{
+			item: "harvestcraft:toastedsesameseedsitem"
+		}],
+		consume_items: true
+	}]
+}

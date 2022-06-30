@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 196.0d,
+	description: "{id:\"heroicarmory:lotrsauronmace\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c4ea7a9d",
+		type: "item",
+		items: [{
+			item: "heroicarmory:lotrsauronmace"
+		}],
+		consume_items: true
+	}]
+}

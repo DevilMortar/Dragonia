@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 257.0d,
+	description: "{id:\"xreliquary:mob_ingredient\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c6efc923",
+		type: "item",
+		items: [{
+			item: "xreliquary:mob_ingredient"
+		}],
+		consume_items: true
+	}]
+}

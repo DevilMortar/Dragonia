@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 352.0d,
+	description: "{id:\"harvestcraft:corndogitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "027a69c0",
+		type: "item",
+		items: [{
+			item: "harvestcraft:corndogitem"
+		}],
+		consume_items: true
+	}]
+}

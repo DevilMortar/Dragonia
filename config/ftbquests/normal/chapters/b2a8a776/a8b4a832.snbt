@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 186.0d,
+	description: "{id:\"extraalchemy:potion_ring\",Count:1b,tag:{Potion:\"extraalchemy:sails_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "71aa6728",
+		type: "item",
+		items: [{
+			id: "extraalchemy:potion_ring",
+			tag: {
+				Potion: "extraalchemy:sails_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

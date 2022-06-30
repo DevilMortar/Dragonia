@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 252.0d,
+	description: "{id:\"tconstruct:seared_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "98e0be8c",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_glass"
+		}],
+		consume_items: true
+	}]
+}

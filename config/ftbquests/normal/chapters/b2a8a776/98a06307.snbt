@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 333.0d,
+	description: "{id:\"harvestcraft:rambutan_sapling\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "82b4b7b1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:rambutan_sapling"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 424.0d,
+	description: "{id:\"chisel:waterstone\",Count:1b,Damage:15s}",
+	tasks: [{
+		uid: "cb5a5915",
+		type: "item",
+		items: [{
+			item: "chisel:waterstone 1 15"
+		}],
+		consume_items: true
+	}]
+}

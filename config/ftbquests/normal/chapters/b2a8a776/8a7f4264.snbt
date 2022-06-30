@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 402.0d,
+	description: "{id:\"chisel:glassdyedyellow\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9e00a3fb",
+		type: "item",
+		items: [{
+			item: "chisel:glassdyedyellow"
+		}],
+		consume_items: true
+	}]
+}

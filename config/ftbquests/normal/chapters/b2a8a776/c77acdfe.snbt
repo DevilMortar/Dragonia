@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 149.0d,
+	description: "{id:\"atum:iron_dagger\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6ee6c770",
+		type: "item",
+		items: [{
+			item: "atum:iron_dagger"
+		}],
+		consume_items: true
+	}]
+}

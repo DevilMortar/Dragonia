@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 88.0d,
+	description: "{id:\"reccomplex:inspector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d42c6c4c",
+		type: "item",
+		items: [{
+			item: "reccomplex:inspector"
+		}],
+		consume_items: true
+	}]
+}

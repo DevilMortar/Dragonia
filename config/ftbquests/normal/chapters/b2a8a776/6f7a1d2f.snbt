@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 327.0d,
+	description: "{id:\"charm:ender_pearl_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d240583e",
+		type: "item",
+		items: [{
+			item: "charm:ender_pearl_block"
+		}],
+		consume_items: true
+	}]
+}

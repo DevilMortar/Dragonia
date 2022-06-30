@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 213.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"blueslime\"},Damage:0s}",
+	tasks: [{
+		uid: "0f48154b",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "blueslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

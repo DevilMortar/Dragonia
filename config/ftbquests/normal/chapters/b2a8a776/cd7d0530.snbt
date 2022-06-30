@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 252.0d,
+	description: "{id:\"tconstruct:seared_tank\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "66bac988",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_tank 1 1"
+		}],
+		consume_items: true
+	}]
+}

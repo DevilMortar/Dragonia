@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 116.0d,
+	description: "{id:\"ancientspellcraft:head_curse\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c557fd36",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:head_curse"
+		}],
+		consume_items: true
+	}]
+}

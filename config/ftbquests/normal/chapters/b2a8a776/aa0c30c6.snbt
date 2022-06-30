@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 150.0d,
+	description: "{id:\"atum:horuss_ascension\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "15f5eb06",
+		type: "item",
+		items: [{
+			item: "atum:horuss_ascension"
+		}],
+		consume_items: true
+	}]
+}

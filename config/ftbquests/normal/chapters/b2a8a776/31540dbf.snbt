@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 294.0d,
+	description: "{id:\"spartanweaponry:spear_tin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0de65eae",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:spear_tin"
+		}],
+		consume_items: true
+	}]
+}

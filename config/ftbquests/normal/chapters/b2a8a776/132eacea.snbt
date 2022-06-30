@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 216.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"steel\"},Damage:0s}",
+	tasks: [{
+		uid: "881bf9c8",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

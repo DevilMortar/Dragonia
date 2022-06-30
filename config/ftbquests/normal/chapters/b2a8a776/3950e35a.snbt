@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 83.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"customizeddungeonloot:loot_table_advanced\"},Damage:0s}",
+	tasks: [{
+		uid: "2e08b842",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "customizeddungeonloot:loot_table_advanced"
+			}
+		}],
+		consume_items: true
+	}]
+}

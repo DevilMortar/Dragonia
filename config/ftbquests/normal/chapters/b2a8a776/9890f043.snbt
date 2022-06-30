@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 204.0d,
+	description: "{id:\"ancientwarfarevehicle:ammo_iron_shot_25_45\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1e453b55",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:ammo_iron_shot_25_45"
+		}],
+		consume_items: true
+	}]
+}

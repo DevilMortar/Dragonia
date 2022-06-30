@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 279.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"mowziesmobs:long_poison_resist\"},Damage:0s}",
+	tasks: [{
+		uid: "0866ed95",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "mowziesmobs:long_poison_resist"
+			}
+		}],
+		consume_items: true
+	}]
+}

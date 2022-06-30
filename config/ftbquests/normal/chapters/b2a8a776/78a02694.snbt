@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 156.0d,
+	description: "{id:\"bibliocraft:paintingframeflat\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "2692ee9b",
+		type: "item",
+		items: [{
+			item: "bibliocraft:paintingframeflat 1 3"
+		}],
+		consume_items: true
+	}]
+}

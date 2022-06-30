@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 148.0d,
+	description: "{id:\"ancientwarfarevehicle:ammo_ballista_bolt_explosive\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3fa21da9",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:ammo_ballista_bolt_explosive"
+		}],
+		consume_items: true
+	}]
+}

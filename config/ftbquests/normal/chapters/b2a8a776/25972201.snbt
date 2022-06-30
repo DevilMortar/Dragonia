@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 309.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"minecraft:desert\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d9197211",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "minecraft:desert"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

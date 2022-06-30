@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 150.0d,
+	description: "{id:\"atum:ptahs_undoing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c055cee9",
+		type: "item",
+		items: [{
+			item: "atum:ptahs_undoing"
+		}],
+		consume_items: true
+	}]
+}

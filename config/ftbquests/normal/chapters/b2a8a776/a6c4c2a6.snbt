@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: 164.0d,
+	description: "{id:\"thaumcraft:elemental_shovel\",Count:1b,tag:{infench:[{lvl:1s,id:1s}]},Damage:0s}",
+	tasks: [{
+		uid: "cfaeaa0f",
+		type: "item",
+		items: [{
+			id: "thaumcraft:elemental_shovel",
+			tag: {
+				infench: [{
+					lvl: 1s,
+					id: 1s
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

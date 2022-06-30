@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 301.0d,
+	description: "{id:\"spartanfire:spear_jungle_venom\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "23831319",
+		type: "item",
+		items: [{
+			item: "spartanfire:spear_jungle_venom"
+		}],
+		consume_items: true
+	}]
+}

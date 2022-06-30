@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 160.0d,
+	description: "{id:\"thaumcraft:cluster\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "7da30b02",
+		type: "item",
+		items: [{
+			item: "thaumcraft:cluster 1 4"
+		}],
+		consume_items: true
+	}]
+}

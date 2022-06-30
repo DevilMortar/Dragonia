@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 189.0d,
+	description: "{id:\"iceandfire:dragon_meal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f28049d7",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragon_meal"
+		}],
+		consume_items: true
+	}]
+}

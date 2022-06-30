@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 292.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"netherex:frigid_health\"},Damage:0s}",
+	tasks: [{
+		uid: "9f19cba8",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "netherex:frigid_health"
+			}
+		}],
+		consume_items: true
+	}]
+}

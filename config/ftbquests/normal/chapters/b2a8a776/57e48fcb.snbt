@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 152.0d,
+	description: "{id:\"atum:emmer_flour\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "45e0e826",
+		type: "item",
+		items: [{
+			item: "atum:emmer_flour"
+		}],
+		consume_items: true
+	}]
+}

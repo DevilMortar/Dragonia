@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 40.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"extraalchemy:fuse_quick\"},Damage:0s}",
+	tasks: [{
+		uid: "1a869ab1",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "extraalchemy:fuse_quick"
+			}
+		}],
+		consume_items: true
+	}]
+}

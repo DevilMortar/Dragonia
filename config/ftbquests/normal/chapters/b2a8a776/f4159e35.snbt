@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 360.0d,
+	description: "{id:\"harvestcraft:koreandinneritem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9f20ca58",
+		type: "item",
+		items: [{
+			item: "harvestcraft:koreandinneritem"
+		}],
+		consume_items: true
+	}]
+}

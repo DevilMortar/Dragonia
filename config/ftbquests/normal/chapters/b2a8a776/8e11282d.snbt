@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 301.0d,
+	description: "{id:\"spartanfire:rapier_desert\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e18e74af",
+		type: "item",
+		items: [{
+			item: "spartanfire:rapier_desert"
+		}],
+		consume_items: true
+	}]
+}

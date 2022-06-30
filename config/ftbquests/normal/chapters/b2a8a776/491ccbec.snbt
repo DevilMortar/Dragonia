@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 423.0d,
+	description: "{id:\"chisel:antiblock\",Count:1b,Damage:13s}",
+	tasks: [{
+		uid: "143ec39d",
+		type: "item",
+		items: [{
+			item: "chisel:antiblock 1 13"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:long_weight\"},Damage:0s}",
+	tasks: [{
+		uid: "490abf4e",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:long_weight"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 215.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"jungle_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "6116524d",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "jungle_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 87.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"primitivemobs:entities/special/filch_lizard_spawn\"},Damage:0s}",
+	tasks: [{
+		uid: "40c07153",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "primitivemobs:entities/special/filch_lizard_spawn"
+			}
+		}],
+		consume_items: true
+	}]
+}

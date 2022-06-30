@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 148.0d,
+	description: "{id:\"ancientwarfarevehicle:armor_obsidian\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9cdbf6ba",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:armor_obsidian"
+		}],
+		consume_items: true
+	}]
+}

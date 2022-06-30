@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 163.0d,
+	description: "{id:\"thaumcraft:sanity_checker\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9bcafdae",
+		type: "item",
+		items: [{
+			item: "thaumcraft:sanity_checker"
+		}],
+		consume_items: true
+	}]
+}

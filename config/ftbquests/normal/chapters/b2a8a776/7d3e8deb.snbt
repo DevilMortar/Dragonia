@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 214.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"obsidian\"},Damage:0s}",
+	tasks: [{
+		uid: "c48504c1",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "obsidian"
+			}
+		}],
+		consume_items: true
+	}]
+}

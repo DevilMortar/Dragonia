@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 203.0d,
+	description: "{id:\"megaloot:armor_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9e6c6741",
+		type: "item",
+		items: [{
+			item: "megaloot:armor_boots"
+		}],
+		consume_items: true
+	}]
+}

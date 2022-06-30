@@ -1,0 +1,19 @@
+{
+	x: 12.0d,
+	y: 161.0d,
+	description: "{id:\"thaumcraft:crystal_essence\",Count:1b,tag:{Aspects:[{amount:1,key:\"aer\"}]},Damage:0s}",
+	tasks: [{
+		uid: "59192c05",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "aer"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

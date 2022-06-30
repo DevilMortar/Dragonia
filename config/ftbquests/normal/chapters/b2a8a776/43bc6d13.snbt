@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 338.0d,
+	description: "{id:\"harvestcraft:garliccoinitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "df196e38",
+		type: "item",
+		items: [{
+			item: "harvestcraft:garliccoinitem"
+		}],
+		consume_items: true
+	}]
+}

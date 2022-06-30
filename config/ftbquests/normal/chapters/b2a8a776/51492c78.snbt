@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 298.0d,
+	description: "{id:\"spartanfire:greatsword_dragonbone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cb235bf2",
+		type: "item",
+		items: [{
+			item: "spartanfire:greatsword_dragonbone"
+		}],
+		consume_items: true
+	}]
+}

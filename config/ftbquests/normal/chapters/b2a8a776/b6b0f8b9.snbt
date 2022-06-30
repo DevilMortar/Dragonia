@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:pistachiobutteritem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a9c3c3ba",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pistachiobutteritem"
+		}],
+		consume_items: true
+	}]
+}

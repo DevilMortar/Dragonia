@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 90.0d,
+	description: "{id:\"rustic:planks\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "59ddcecc",
+		type: "item",
+		items: [{
+			item: "rustic:planks 1 1"
+		}],
+		consume_items: true
+	}]
+}

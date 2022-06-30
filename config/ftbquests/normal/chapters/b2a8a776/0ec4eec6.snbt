@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 295.0d,
+	description: "{id:\"spartanweaponry:hammer_silver\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "41698484",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:hammer_silver"
+		}],
+		consume_items: true
+	}]
+}

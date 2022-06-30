@@ -1,0 +1,22 @@
+{
+	x: 5.0d,
+	y: 308.0d,
+	description: "{ForgeCaps:{Parent:{slots:3}},id:\"thaumicaugmentation:gauntlet\",Count:1b,tag:{color:2498903},Damage:1s}",
+	tasks: [{
+		uid: "6a891b4a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					slots: 3
+				}
+			},
+			id: "thaumicaugmentation:gauntlet",
+			tag: {
+				color: 2498903
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

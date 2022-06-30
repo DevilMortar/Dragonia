@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 28.0d,
+	description: "{id:\"minecraft:emerald\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ad487b6e",
+		type: "item",
+		items: [{
+			item: "minecraft:emerald"
+		}],
+		consume_items: true
+	}]
+}

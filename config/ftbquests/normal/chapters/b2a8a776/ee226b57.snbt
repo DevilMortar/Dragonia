@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 219.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"netherrack\"},Damage:0s}",
+	tasks: [{
+		uid: "5d12f641",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "netherrack"
+			}
+		}],
+		consume_items: true
+	}]
+}

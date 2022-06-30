@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 328.0d,
+	description: "{id:\"lost_aether:sentry_shield\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5d5534d6",
+		type: "item",
+		items: [{
+			item: "lost_aether:sentry_shield"
+		}],
+		consume_items: true
+	}]
+}

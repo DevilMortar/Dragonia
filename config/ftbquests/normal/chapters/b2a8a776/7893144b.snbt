@@ -1,0 +1,17 @@
+{
+	x: 34.0d,
+	y: 106.0d,
+	description: "{id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"chocolate_liquor\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "054baf86",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "chocolate_liquor",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

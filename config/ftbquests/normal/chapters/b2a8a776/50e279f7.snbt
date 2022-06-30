@@ -1,0 +1,18 @@
+{
+	x: 25.0d,
+	y: 21.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"dungeonsmod:phoenix\"}},Damage:0s}",
+	tasks: [{
+		uid: "d3b15b87",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "dungeonsmod:phoenix"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

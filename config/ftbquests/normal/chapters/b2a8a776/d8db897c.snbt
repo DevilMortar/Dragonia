@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 271.0d,
+	description: "{id:\"spartanweaponry:hammer_diamond\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dc2638f7",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:hammer_diamond"
+		}],
+		consume_items: true
+	}]
+}

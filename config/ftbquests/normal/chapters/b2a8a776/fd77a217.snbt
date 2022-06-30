@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 77.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/parrot\"},Damage:0s}",
+	tasks: [{
+		uid: "1ff8ee43",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/parrot"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 346.0d,
+	description: "{id:\"harvestcraft:kiwijellysandwichitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "911ebec3",
+		type: "item",
+		items: [{
+			item: "harvestcraft:kiwijellysandwichitem"
+		}],
+		consume_items: true
+	}]
+}

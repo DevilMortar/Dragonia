@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 190.0d,
+	description: "{id:\"iceandfire:shiny_scales\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aca6291b",
+		type: "item",
+		items: [{
+			item: "iceandfire:shiny_scales"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 61.0d,
+	description: "{id:\"betternether:block_eyeball_small\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bea9788e",
+		type: "item",
+		items: [{
+			item: "betternether:block_eyeball_small"
+		}],
+		consume_items: true
+	}]
+}

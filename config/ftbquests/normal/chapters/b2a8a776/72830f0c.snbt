@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 371.0d,
+	description: "{id:\"quark:icy_stone_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1f0b7b71",
+		type: "item",
+		items: [{
+			item: "quark:icy_stone_slab"
+		}],
+		consume_items: true
+	}]
+}

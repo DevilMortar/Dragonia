@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 164.0d,
+	description: "{id:\"thaumcraft:fortress_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8278c1c9",
+		type: "item",
+		items: [{
+			item: "thaumcraft:fortress_chest"
+		}],
+		consume_items: true
+	}]
+}

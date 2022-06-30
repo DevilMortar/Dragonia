@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 40.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"extraalchemy:fuse_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "1a54492f",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "extraalchemy:fuse_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 93.0d,
+	description: "{id:\"atum:arrow_trap\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7a307902",
+		type: "item",
+		items: [{
+			item: "atum:arrow_trap"
+		}],
+		consume_items: true
+	}]
+}

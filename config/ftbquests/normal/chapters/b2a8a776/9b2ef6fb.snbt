@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 169.0d,
+	description: "{id:\"dungeonsmod:back_pergamine\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "00c6d3fc",
+		type: "item",
+		items: [{
+			item: "dungeonsmod:back_pergamine"
+		}],
+		consume_items: true
+	}]
+}

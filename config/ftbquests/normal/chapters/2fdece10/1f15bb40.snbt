@@ -7,5 +7,10 @@
 		items: [{
 			item: "iceandfire:myrmex_stinger"
 		}]
+	}],
+	rewards: [{
+		uid: "c79fd929",
+		type: "ftbmoney:money",
+		ftb_money: 30L
 	}]
 }

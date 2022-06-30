@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 366.0d,
+	description: "{id:\"quark:stone_andesite_bricks_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dab2cf02",
+		type: "item",
+		items: [{
+			item: "quark:stone_andesite_bricks_stairs"
+		}],
+		consume_items: true
+	}]
+}

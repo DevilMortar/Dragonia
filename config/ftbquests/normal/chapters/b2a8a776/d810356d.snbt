@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 343.0d,
+	description: "{id:\"harvestcraft:peasandceleryitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4cc3059a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:peasandceleryitem"
+		}],
+		consume_items: true
+	}]
+}

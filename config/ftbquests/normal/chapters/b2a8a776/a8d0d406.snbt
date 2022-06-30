@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 331.0d,
+	description: "{id:\"harvestcraft:cabbageitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8f4e39eb",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cabbageitem"
+		}],
+		consume_items: true
+	}]
+}

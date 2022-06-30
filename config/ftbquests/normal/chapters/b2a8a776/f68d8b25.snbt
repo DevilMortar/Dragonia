@@ -1,0 +1,20 @@
+{
+	x: 35.0d,
+	y: 267.0d,
+	description: "{id:\"xreliquary:tipped_arrow\",Count:1b,tag:{effects:[{duration:312,potency:1,name:\"minecraft:mining_fatigue\"}]},Damage:0s}",
+	tasks: [{
+		uid: "e38a4991",
+		type: "item",
+		items: [{
+			id: "xreliquary:tipped_arrow",
+			tag: {
+				effects: [{
+					duration: 312,
+					potency: 1,
+					name: "minecraft:mining_fatigue"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

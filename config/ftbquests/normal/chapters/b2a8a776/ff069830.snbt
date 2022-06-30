@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 202.0d,
+	description: "{id:\"heroicarmory:terrariasilverbroadsword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "18b855b9",
+		type: "item",
+		items: [{
+			item: "heroicarmory:terrariasilverbroadsword"
+		}],
+		consume_items: true
+	}]
+}

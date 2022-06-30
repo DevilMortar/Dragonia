@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:hushpuppiesitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "38795922",
+		type: "item",
+		items: [{
+			item: "harvestcraft:hushpuppiesitem"
+		}],
+		consume_items: true
+	}]
+}

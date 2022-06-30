@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 212.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"tconstruct:large_sword_blade\"},Damage:0s}",
+	tasks: [{
+		uid: "3a03287b",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:large_sword_blade"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 282.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:saturation\"},Damage:0s}",
+	tasks: [{
+		uid: "1ba467a5",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:saturation"
+			}
+		}],
+		consume_items: true
+	}]
+}

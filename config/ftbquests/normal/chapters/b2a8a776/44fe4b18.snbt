@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 293.0d,
+	description: "{id:\"spartanweaponry:longsword_copper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bc86b361",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:longsword_copper"
+		}],
+		consume_items: true
+	}]
+}

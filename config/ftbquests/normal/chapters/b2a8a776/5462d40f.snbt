@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:golden_ring\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "80234c5d",
+		type: "item",
+		items: [{
+			item: "aether_legacy:golden_ring"
+		}],
+		consume_items: true
+	}]
+}

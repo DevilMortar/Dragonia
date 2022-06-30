@@ -1,0 +1,76 @@
+{
+	x: 18.0d,
+	y: 243.0d,
+	description: "{id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:6820,HarvestLevel:4,Attack:10.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:6820,HarvestLevel:4,Attack:10.0f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"weezer\",\"weezer\",\"weezer\",\"weezer\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"in_the_garage\",color:-16733470,level:1},{identifier:\"sweater_song\",color:-16733470,level:1},{identifier:\"surf_wax_america\",color:-16733470,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"in_the_garage\",\"sweater_song\",\"surf_wax_america\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "aea156df",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 6820,
+					HarvestLevel: 4,
+					Attack: 10.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 6820,
+					HarvestLevel: 4,
+					Attack: 10.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"weezer",
+						"weezer",
+						"weezer",
+						"weezer"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "in_the_garage",
+					color: -16733470,
+					level: 1
+				},
+				{
+					identifier: "sweater_song",
+					color: -16733470,
+					level: 1
+				},
+				{
+					identifier: "surf_wax_america",
+					color: -16733470,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"in_the_garage",
+					"sweater_song",
+					"surf_wax_america",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

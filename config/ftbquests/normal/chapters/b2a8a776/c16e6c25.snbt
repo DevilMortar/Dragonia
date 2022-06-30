@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 199.0d,
+	description: "{id:\"heroicarmory:rsblackbattleaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "baa87b1a",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rsblackbattleaxe"
+		}],
+		consume_items: true
+	}]
+}

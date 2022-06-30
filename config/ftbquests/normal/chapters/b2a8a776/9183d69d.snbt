@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 272.0d,
+	description: "{id:\"spartanweaponry:battleaxe_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "38d19834",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:battleaxe_stone"
+		}],
+		consume_items: true
+	}]
+}

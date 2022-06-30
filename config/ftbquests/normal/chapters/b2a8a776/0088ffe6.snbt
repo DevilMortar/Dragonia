@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 65.0d,
+	description: "{id:\"biomesoplenty:white_sandstone\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "d010fc06",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:white_sandstone 1 1"
+		}],
+		consume_items: true
+	}]
+}

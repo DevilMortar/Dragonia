@@ -1,0 +1,21 @@
+{
+	x: 34.0d,
+	y: 261.0d,
+	description: "{id:\"xreliquary:magazine\",Count:1b,tag:{effects:[{duration:1,potency:1,name:\"minecraft:instant_damage\"}]},Damage:1s}",
+	tasks: [{
+		uid: "d8149743",
+		type: "item",
+		items: [{
+			id: "xreliquary:magazine",
+			tag: {
+				effects: [{
+					duration: 1,
+					potency: 1,
+					name: "minecraft:instant_damage"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

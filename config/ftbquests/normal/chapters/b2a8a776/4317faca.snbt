@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 271.0d,
+	description: "{id:\"spartanweaponry:rapier_wood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9c109b29",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:rapier_wood"
+		}],
+		consume_items: true
+	}]
+}

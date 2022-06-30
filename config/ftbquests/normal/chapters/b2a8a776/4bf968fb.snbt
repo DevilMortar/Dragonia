@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 362.0d,
+	description: "{id:\"minecraft:clownfish\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d54a67b1",
+		type: "item",
+		items: [{
+			item: "minecraft:clownfish"
+		}],
+		consume_items: true
+	}]
+}

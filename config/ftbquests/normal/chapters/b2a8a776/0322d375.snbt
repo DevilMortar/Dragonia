@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 196.0d,
+	description: "{id:\"heroicarmory:lotrgimlibattleaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f07f773d",
+		type: "item",
+		items: [{
+			item: "heroicarmory:lotrgimlibattleaxe"
+		}],
+		consume_items: true
+	}]
+}

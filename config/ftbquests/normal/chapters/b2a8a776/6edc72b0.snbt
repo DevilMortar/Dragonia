@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 93.0d,
+	description: "{id:\"atum:oasis_grass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2485d5cc",
+		type: "item",
+		items: [{
+			item: "atum:oasis_grass"
+		}],
+		consume_items: true
+	}]
+}

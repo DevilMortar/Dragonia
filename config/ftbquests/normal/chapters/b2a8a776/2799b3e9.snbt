@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 216.0d,
+	description: "{id:\"tconstruct:broad_axe_head\",Count:1b,tag:{Material:\"wood\"},Damage:0s}",
+	tasks: [{
+		uid: "c269cc72",
+		type: "item",
+		items: [{
+			id: "tconstruct:broad_axe_head",
+			tag: {
+				Material: "wood"
+			}
+		}],
+		consume_items: true
+	}]
+}

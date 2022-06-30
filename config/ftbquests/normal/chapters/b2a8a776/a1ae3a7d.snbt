@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 55.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:strong_hunger\"},Damage:0s}",
+	tasks: [{
+		uid: "e0cd0002",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:strong_hunger"
+			}
+		}],
+		consume_items: true
+	}]
+}

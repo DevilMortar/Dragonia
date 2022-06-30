@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 330.0d,
+	description: "{id:\"harvestcraft:wintersquashseeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aeb69fbf",
+		type: "item",
+		items: [{
+			item: "harvestcraft:wintersquashseeditem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 298.0d,
+	description: "{id:\"spartanweaponry:dagger_lead\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d3470147",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:dagger_lead"
+		}],
+		consume_items: true
+	}]
+}

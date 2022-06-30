@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 192.0d,
+	description: "{id:\"iceandfire:dread_queen_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "19ce3e15",
+		type: "item",
+		items: [{
+			item: "iceandfire:dread_queen_sword"
+		}],
+		consume_items: true
+	}]
+}

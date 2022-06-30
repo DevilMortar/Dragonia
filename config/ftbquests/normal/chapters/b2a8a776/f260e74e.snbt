@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 219.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"pigiron\"},Damage:0s}",
+	tasks: [{
+		uid: "f7a20ba4",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "pigiron"
+			}
+		}],
+		consume_items: true
+	}]
+}

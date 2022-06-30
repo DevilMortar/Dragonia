@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:ring_poison\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02205902",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_poison"
+		}],
+		consume_items: true
+	}]
+}

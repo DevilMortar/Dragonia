@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 230.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"jungle_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "e334a3c9",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "jungle_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 303.0d,
+	description: "{id:\"spartanfire:katana_fire_dragonsteel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5f897395",
+		type: "item",
+		items: [{
+			item: "spartanfire:katana_fire_dragonsteel"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 297.0d,
+	description: "{id:\"spartanweaponry:boomerang_platinum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "de161830",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:boomerang_platinum"
+		}],
+		consume_items: true
+	}]
+}

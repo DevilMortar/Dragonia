@@ -1,0 +1,17 @@
+{
+	x: 26.0d,
+	y: 106.0d,
+	description: "{id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"dragonsteel_fire\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "e24647e9",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "dragonsteel_fire",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

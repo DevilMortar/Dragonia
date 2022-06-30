@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 151.0d,
+	description: "{id:\"atum:flax\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b5444064",
+		type: "item",
+		items: [{
+			item: "atum:flax"
+		}],
+		consume_items: true
+	}]
+}

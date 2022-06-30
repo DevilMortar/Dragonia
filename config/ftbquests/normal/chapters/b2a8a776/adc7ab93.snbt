@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 46.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"minecraft:strong_harming\"},Damage:0s}",
+	tasks: [{
+		uid: "7546b008",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "minecraft:strong_harming"
+			}
+		}],
+		consume_items: true
+	}]
+}

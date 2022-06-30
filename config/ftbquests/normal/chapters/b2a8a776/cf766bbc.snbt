@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 343.0d,
+	description: "{id:\"harvestcraft:candiedwalnutsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c558beab",
+		type: "item",
+		items: [{
+			item: "harvestcraft:candiedwalnutsitem"
+		}],
+		consume_items: true
+	}]
+}

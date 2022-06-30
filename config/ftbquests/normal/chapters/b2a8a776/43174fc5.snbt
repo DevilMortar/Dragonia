@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 330.0d,
+	description: "{id:\"harvestcraft:radishseeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bb954aa9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:radishseeditem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 117.0d,
+	description: "{id:\"ancientwarfare:research_note\",Count:1b,tag:{researchName:\"flight\"},Damage:0s}",
+	tasks: [{
+		uid: "e79824ab",
+		type: "item",
+		items: [{
+			id: "ancientwarfare:research_note",
+			tag: {
+				researchName: "flight"
+			}
+		}],
+		consume_items: true
+	}]
+}

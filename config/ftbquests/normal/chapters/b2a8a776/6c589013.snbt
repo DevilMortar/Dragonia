@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 95.0d,
+	description: "{id:\"atum:alabaster_smooth_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "45b5755e",
+		type: "item",
+		items: [{
+			item: "atum:alabaster_smooth_wall"
+		}],
+		consume_items: true
+	}]
+}

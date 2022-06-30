@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 191.0d,
+	description: "{id:\"iceandfire:myrmex_jungle_hoe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "75bcf3fd",
+		type: "item",
+		items: [{
+			item: "iceandfire:myrmex_jungle_hoe"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 19.0d,
+	y: 311.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"biomesoplenty:wetland\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "685e16c2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "biomesoplenty:wetland"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

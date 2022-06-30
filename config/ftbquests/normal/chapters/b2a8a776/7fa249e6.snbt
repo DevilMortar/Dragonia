@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 62.0d,
+	description: "{id:\"betternether:ink_bush_seed\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e7b974e0",
+		type: "item",
+		items: [{
+			item: "betternether:ink_bush_seed"
+		}],
+		consume_items: true
+	}]
+}

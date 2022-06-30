@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 341.0d,
+	description: "{id:\"harvestcraft:cucumbersaladitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "503b7cbf",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cucumbersaladitem"
+		}],
+		consume_items: true
+	}]
+}

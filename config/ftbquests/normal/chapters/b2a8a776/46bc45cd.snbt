@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 425.0d,
+	description: "{id:\"tcomplement:chisel_head\",Count:1b,tag:{Material:\"sponge\"},Damage:0s}",
+	tasks: [{
+		uid: "06d73951",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel_head",
+			tag: {
+				Material: "sponge"
+			}
+		}],
+		consume_items: true
+	}]
+}

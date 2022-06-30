@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 114.0d,
+	description: "{id:\"ebwizardry:charm_minion_variants\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "01b8ddf6",
+		type: "item",
+		items: [{
+			item: "ebwizardry:charm_minion_variants"
+		}],
+		consume_items: true
+	}]
+}

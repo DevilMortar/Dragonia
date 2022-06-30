@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 111.0d,
+	description: "{id:\"ebwizardry:battlemage_leggings_healing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5c8af08e",
+		type: "item",
+		items: [{
+			item: "ebwizardry:battlemage_leggings_healing"
+		}],
+		consume_items: true
+	}]
+}

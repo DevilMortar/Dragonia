@@ -1,0 +1,21 @@
+{
+	x: 6.0d,
+	y: 265.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{effects:[{duration:500,potency:0,name:\"xreliquary:cure_potion\"}],hasPotion:1b},Damage:0s}",
+	tasks: [{
+		uid: "dc6e7a1e",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				effects: [{
+					duration: 500,
+					potency: 0,
+					name: "xreliquary:cure_potion"
+				}],
+				hasPotion: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

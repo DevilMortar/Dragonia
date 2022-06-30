@@ -1,0 +1,21 @@
+{
+	x: 11.0d,
+	y: 264.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{effects:[{duration:2500,potency:1,name:\"minecraft:mining_fatigue\"}],hasPotion:1b},Damage:0s}",
+	tasks: [{
+		uid: "325cc485",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				effects: [{
+					duration: 2500,
+					potency: 1,
+					name: "minecraft:mining_fatigue"
+				}],
+				hasPotion: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

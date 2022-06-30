@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 172.0d,
+	description: "{id:\"dungeontactics:stone_plate_faceplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1b36730a",
+		type: "item",
+		items: [{
+			item: "dungeontactics:stone_plate_faceplate"
+		}],
+		consume_items: true
+	}]
+}

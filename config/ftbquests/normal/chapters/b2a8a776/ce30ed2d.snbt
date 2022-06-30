@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 149.0d,
+	description: "{id:\"atum:loot_gold_scepter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2393d3f9",
+		type: "item",
+		items: [{
+			item: "atum:loot_gold_scepter"
+		}],
+		consume_items: true
+	}]
+}

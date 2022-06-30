@@ -1,0 +1,72 @@
+{
+	x: 24.0d,
+	y: 239.0d,
+	description: "{id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:7.0f,FreeModifiers:3,HarvestLevelShovel:3,Durability:636,HarvestLevel:3,Attack:9.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:7.0f,FreeModifiers:3,HarvestLevelShovel:3,Durability:636,HarvestLevel:3,Attack:9.0f},Special:{Categories:[\"harvest\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"steel\",\"steel\",\"steel\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"stiff\",color:-5789785,level:1},{identifier:\"sharp\",color:-5789785,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"stiff\",\"sharp\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "734cc6c9",
+		type: "item",
+		items: [{
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 3,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 3,
+					Durability: 636,
+					HarvestLevel: 3,
+					Attack: 9.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 3,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 3,
+					Durability: 636,
+					HarvestLevel: 3,
+					Attack: 9.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"steel",
+						"steel",
+						"steel"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "stiff",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "sharp",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"stiff",
+					"sharp",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

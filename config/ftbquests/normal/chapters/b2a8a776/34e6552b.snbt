@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 361.0d,
+	description: "{id:\"harvestcraft:anchovyrawitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "321084d1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:anchovyrawitem"
+		}],
+		consume_items: true
+	}]
+}

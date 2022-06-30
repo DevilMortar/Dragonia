@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 41.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"extraalchemy:gravity_long\"},Damage:0s}",
+	tasks: [{
+		uid: "dde09358",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "extraalchemy:gravity_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

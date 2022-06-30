@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 342.0d,
+	description: "{id:\"harvestcraft:candiedgingeritem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b6891441",
+		type: "item",
+		items: [{
+			item: "harvestcraft:candiedgingeritem"
+		}],
+		consume_items: true
+	}]
+}

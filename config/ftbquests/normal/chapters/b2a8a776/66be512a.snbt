@@ -1,0 +1,19 @@
+{
+	x: 17.0d,
+	y: 161.0d,
+	description: "{id:\"thaumcraft:crystal_essence\",Count:1b,tag:{Aspects:[{amount:1,key:\"perditio\"}]},Damage:0s}",
+	tasks: [{
+		uid: "812c1494",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "perditio"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

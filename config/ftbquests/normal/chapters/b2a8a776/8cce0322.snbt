@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 221.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"weezer\"},Damage:0s}",
+	tasks: [{
+		uid: "c31b2c2c",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "weezer"
+			}
+		}],
+		consume_items: true
+	}]
+}

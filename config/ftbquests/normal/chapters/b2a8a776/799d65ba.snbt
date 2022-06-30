@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:szechuaneggplantitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f5ce31dd",
+		type: "item",
+		items: [{
+			item: "harvestcraft:szechuaneggplantitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 365.0d,
+	description: "{id:\"quark:rain_detector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b0151d41",
+		type: "item",
+		items: [{
+			item: "quark:rain_detector"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:sapling_apple\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "15ec6451",
+		type: "item",
+		items: [{
+			item: "rustic:sapling_apple"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 301.0d,
+	description: "{id:\"spartanfire:crossbow_jungle_venom\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c710925a",
+		type: "item",
+		items: [{
+			item: "spartanfire:crossbow_jungle_venom"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 253.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"tconstruct:binding\"},Damage:0s}",
+	tasks: [{
+		uid: "42d38c26",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:binding"
+			}
+		}],
+		consume_items: true
+	}]
+}

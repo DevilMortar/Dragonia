@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 202.0d,
+	description: "{id:\"heroicarmory:swgreenlightsaber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b7404706",
+		type: "item",
+		items: [{
+			item: "heroicarmory:swgreenlightsaber"
+		}],
+		consume_items: true
+	}]
+}

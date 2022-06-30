@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 116.0d,
+	description: "{id:\"ancientwarfare:research_note\",Count:1b,tag:{researchName:\"chemistry\"},Damage:0s}",
+	tasks: [{
+		uid: "cd8255bc",
+		type: "item",
+		items: [{
+			id: "ancientwarfare:research_note",
+			tag: {
+				researchName: "chemistry"
+			}
+		}],
+		consume_items: true
+	}]
+}

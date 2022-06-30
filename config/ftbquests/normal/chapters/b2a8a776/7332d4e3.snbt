@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 187.0d,
+	description: "{id:\"iceandfire:dragonscale_gray\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e9b17b86",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonscale_gray"
+		}],
+		consume_items: true
+	}]
+}

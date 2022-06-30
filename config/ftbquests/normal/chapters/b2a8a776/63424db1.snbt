@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 353.0d,
+	description: "{id:\"harvestcraft:babaganoushitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "74aaa131",
+		type: "item",
+		items: [{
+			item: "harvestcraft:babaganoushitem"
+		}],
+		consume_items: true
+	}]
+}

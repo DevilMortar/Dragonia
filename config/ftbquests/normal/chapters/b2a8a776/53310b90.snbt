@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:broad_axe_head\",Count:1b,tag:{Material:\"pigiron\"},Damage:0s}",
+	tasks: [{
+		uid: "db4d5f96",
+		type: "item",
+		items: [{
+			id: "tconstruct:broad_axe_head",
+			tag: {
+				Material: "pigiron"
+			}
+		}],
+		consume_items: true
+	}]
+}

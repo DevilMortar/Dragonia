@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:silver_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d6183672",
+		type: "item",
+		items: [{
+			item: "dungeontactics:silver_block"
+		}],
+		consume_items: true
+	}]
+}

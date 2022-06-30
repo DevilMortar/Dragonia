@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 158.0d,
+	description: "{id:\"bibliocraft:swordpedestal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "09da8ca3",
+		type: "item",
+		items: [{
+			item: "bibliocraft:swordpedestal"
+		}],
+		consume_items: true
+	}]
+}

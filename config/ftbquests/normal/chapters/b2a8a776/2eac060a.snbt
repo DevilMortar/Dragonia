@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 50.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:strong_teleport\"},Damage:0s}",
+	tasks: [{
+		uid: "67ee6d40",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:strong_teleport"
+			}
+		}],
+		consume_items: true
+	}]
+}

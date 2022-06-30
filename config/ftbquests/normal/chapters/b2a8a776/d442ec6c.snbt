@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 269.0d,
+	description: "{id:\"roughtweaks:medikitenchanted\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5ad71bbf",
+		type: "item",
+		items: [{
+			item: "roughtweaks:medikitenchanted"
+		}],
+		consume_items: true
+	}]
+}

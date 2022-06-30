@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"desert_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "3abf07e3",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "desert_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

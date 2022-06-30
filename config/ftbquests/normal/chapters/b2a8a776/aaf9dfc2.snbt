@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 367.0d,
+	description: "{id:\"quark:polished_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6d824037",
+		type: "item",
+		items: [{
+			item: "quark:polished_stone"
+		}],
+		consume_items: true
+	}]
+}

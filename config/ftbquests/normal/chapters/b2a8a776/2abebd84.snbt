@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 134.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"pigiron\"},Damage:0s}",
+	tasks: [{
+		uid: "3daf9125",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "pigiron"
+			}
+		}],
+		consume_items: true
+	}]
+}

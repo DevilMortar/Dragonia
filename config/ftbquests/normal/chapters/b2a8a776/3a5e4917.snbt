@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 118.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"slime\"},Damage:0s}",
+	tasks: [{
+		uid: "634cd191",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "slime"
+			}
+		}],
+		consume_items: true
+	}]
+}

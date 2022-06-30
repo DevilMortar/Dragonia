@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 341.0d,
+	description: "{id:\"harvestcraft:trailmixitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d5fe58c4",
+		type: "item",
+		items: [{
+			item: "harvestcraft:trailmixitem"
+		}],
+		consume_items: true
+	}]
+}

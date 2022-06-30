@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 151.0d,
+	description: "{id:\"atum:desert_legs_gold\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f8844137",
+		type: "item",
+		items: [{
+			item: "atum:desert_legs_gold"
+		}],
+		consume_items: true
+	}]
+}

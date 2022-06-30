@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 47.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"minecraft:long_weakness\"},Damage:0s}",
+	tasks: [{
+		uid: "80e2b3b6",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "minecraft:long_weakness"
+			}
+		}],
+		consume_items: true
+	}]
+}

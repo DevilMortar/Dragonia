@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 332.0d,
+	description: "{id:\"harvestcraft:kaleitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fb04abe1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:kaleitem"
+		}],
+		consume_items: true
+	}]
+}

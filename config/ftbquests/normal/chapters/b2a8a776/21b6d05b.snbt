@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 94.0d,
+	description: "{id:\"atum:khnumite_raw\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fab18caf",
+		type: "item",
+		items: [{
+			item: "atum:khnumite_raw"
+		}],
+		consume_items: true
+	}]
+}

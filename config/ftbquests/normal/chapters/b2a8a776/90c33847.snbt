@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 351.0d,
+	description: "{id:\"harvestcraft:plumsmoothieitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cabb5ed2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:plumsmoothieitem"
+		}],
+		consume_items: true
+	}]
+}

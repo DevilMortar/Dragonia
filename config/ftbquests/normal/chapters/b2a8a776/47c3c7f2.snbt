@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 196.0d,
+	description: "{id:\"heroicarmory:lozcaneofbyrna\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1080af5c",
+		type: "item",
+		items: [{
+			item: "heroicarmory:lozcaneofbyrna"
+		}],
+		consume_items: true
+	}]
+}

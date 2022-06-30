@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 340.0d,
+	description: "{id:\"harvestcraft:hotchocolateitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7aa178db",
+		type: "item",
+		items: [{
+			item: "harvestcraft:hotchocolateitem"
+		}],
+		consume_items: true
+	}]
+}

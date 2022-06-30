@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 49.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:long_flight\"},Damage:0s}",
+	tasks: [{
+		uid: "75fceb18",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:long_flight"
+			}
+		}],
+		consume_items: true
+	}]
+}

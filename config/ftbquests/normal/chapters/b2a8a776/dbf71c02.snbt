@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 294.0d,
+	description: "{id:\"spartanweaponry:staff_bronze\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "de6cd011",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:staff_bronze"
+		}],
+		consume_items: true
+	}]
+}

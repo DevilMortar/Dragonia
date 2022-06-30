@@ -1,0 +1,69 @@
+{
+	x: 16.0d,
+	y: 238.0d,
+	description: "{id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:241,HarvestLevel:1,Attack:3.9f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:241,HarvestLevel:1,Attack:3.9f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"prickly\",color:-16735985,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"spiky\",\"prickly\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b15e904d",
+		type: "item",
+		items: [{
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 241,
+					HarvestLevel: 1,
+					Attack: 3.9f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 241,
+					HarvestLevel: 1,
+					Attack: 3.9f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"cactus",
+						"cactus",
+						"cactus"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "spiky",
+					color: -16735985,
+					level: 1
+				},
+				{
+					identifier: "prickly",
+					color: -16735985,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"spiky",
+					"prickly",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 169.0d,
+	description: "{id:\"mocreatures:tusksiron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "af2d7186",
+		type: "item",
+		items: [{
+			item: "mocreatures:tusksiron"
+		}],
+		consume_items: true
+	}]
+}

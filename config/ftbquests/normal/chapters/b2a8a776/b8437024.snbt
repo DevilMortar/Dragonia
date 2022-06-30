@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 111.0d,
+	description: "{id:\"ebwizardry:battlemage_helmet_sorcery\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "00cace3f",
+		type: "item",
+		items: [{
+			item: "ebwizardry:battlemage_helmet_sorcery"
+		}],
+		consume_items: true
+	}]
+}

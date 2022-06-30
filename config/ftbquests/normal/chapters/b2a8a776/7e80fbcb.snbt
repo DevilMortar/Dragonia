@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 322.0d,
+	description: "{id:\"aether_legacy:sun_altar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6d491366",
+		type: "item",
+		items: [{
+			item: "aether_legacy:sun_altar"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 79.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"primitivemobs:entities/blazing_juggernaut\"},Damage:0s}",
+	tasks: [{
+		uid: "f03b7a1a",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "primitivemobs:entities/blazing_juggernaut"
+			}
+		}],
+		consume_items: true
+	}]
+}

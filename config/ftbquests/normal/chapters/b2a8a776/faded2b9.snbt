@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 313.0d,
+	description: "{ForgeCaps:{Parent:{}},id:\"thaumicaugmentation:thaumostatic_harness_augment\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "ff0fba9c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "thaumicaugmentation:thaumostatic_harness_augment",
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

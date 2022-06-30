@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 43.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"potioncore:diamond_skin\"},Damage:0s}",
+	tasks: [{
+		uid: "77356eaf",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "potioncore:diamond_skin"
+			}
+		}],
+		consume_items: true
+	}]
+}

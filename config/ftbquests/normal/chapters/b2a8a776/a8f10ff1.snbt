@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 205.0d,
+	description: "{id:\"netherex:worn_iron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8705011d",
+		type: "item",
+		items: [{
+			item: "netherex:worn_iron"
+		}],
+		consume_items: true
+	}]
+}

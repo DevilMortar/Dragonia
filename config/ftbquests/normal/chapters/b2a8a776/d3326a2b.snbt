@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 132.0d,
+	description: "{id:\"conarm:gauntlet_mat_attack\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2f267da2",
+		type: "item",
+		items: [{
+			item: "conarm:gauntlet_mat_attack"
+		}],
+		consume_items: true
+	}]
+}

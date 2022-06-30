@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 316.0d,
+	description: "{id:\"tombstone:familiar_receptacle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5b4d092c",
+		type: "item",
+		items: [{
+			item: "tombstone:familiar_receptacle"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 54.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"extraalchemy:pacifism_long\"},Damage:0s}",
+	tasks: [{
+		uid: "70c27707",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "extraalchemy:pacifism_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

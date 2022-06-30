@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 215.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"blueslime\"},Damage:0s}",
+	tasks: [{
+		uid: "6beab547",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "blueslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

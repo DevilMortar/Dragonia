@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 94.0d,
+	description: "{id:\"atum:limestone_smooth_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ca5e746f",
+		type: "item",
+		items: [{
+			item: "atum:limestone_smooth_slab"
+		}],
+		consume_items: true
+	}]
+}

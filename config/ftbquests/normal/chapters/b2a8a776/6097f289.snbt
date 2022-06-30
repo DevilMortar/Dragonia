@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 312.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"atum:sand_hills\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2fd5bdc9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "atum:sand_hills"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

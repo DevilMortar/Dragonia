@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:heartdarkness\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0d7d887a",
+		type: "item",
+		items: [{
+			item: "mocreatures:heartdarkness"
+		}],
+		consume_items: true
+	}]
+}

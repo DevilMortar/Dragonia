@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 206.0d,
+	description: "{id:\"netherex:red_nether_brick_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ebbe8cae",
+		type: "item",
+		items: [{
+			item: "netherex:red_nether_brick_slab"
+		}],
+		consume_items: true
+	}]
+}

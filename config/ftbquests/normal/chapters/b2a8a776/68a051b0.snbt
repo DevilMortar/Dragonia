@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 56.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:health_boost\"},Damage:0s}",
+	tasks: [{
+		uid: "b0c7217c",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:health_boost"
+			}
+		}],
+		consume_items: true
+	}]
+}

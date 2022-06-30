@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 208.0d,
+	description: "{id:\"netherex:enoki_mushroom\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7c14ca6b",
+		type: "item",
+		items: [{
+			item: "netherex:enoki_mushroom"
+		}],
+		consume_items: true
+	}]
+}

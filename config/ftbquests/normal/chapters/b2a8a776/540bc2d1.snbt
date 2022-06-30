@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 19.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"quark:strong_resistance\"},Damage:0s}",
+	tasks: [{
+		uid: "f9c8aef4",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "quark:strong_resistance"
+			}
+		}],
+		consume_items: true
+	}]
+}

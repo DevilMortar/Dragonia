@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 286.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"minecraft:fire_resistance\"},Damage:0s}",
+	tasks: [{
+		uid: "c2cf6220",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "minecraft:fire_resistance"
+			}
+		}],
+		consume_items: true
+	}]
+}

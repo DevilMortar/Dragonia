@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 151.0d,
+	description: "{id:\"atum:dye_brown\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1682b376",
+		type: "item",
+		items: [{
+			item: "atum:dye_brown"
+		}],
+		consume_items: true
+	}]
+}

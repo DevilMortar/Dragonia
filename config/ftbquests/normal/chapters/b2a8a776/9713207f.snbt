@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 93.0d,
+	description: "{id:\"rustic:chili_pepper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2cb62a6b",
+		type: "item",
+		items: [{
+			item: "rustic:chili_pepper"
+		}],
+		consume_items: true
+	}]
+}

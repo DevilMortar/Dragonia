@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 366.0d,
+	description: "{id:\"quark:crab_shell\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "83a2faef",
+		type: "item",
+		items: [{
+			item: "quark:crab_shell"
+		}],
+		consume_items: true
+	}]
+}

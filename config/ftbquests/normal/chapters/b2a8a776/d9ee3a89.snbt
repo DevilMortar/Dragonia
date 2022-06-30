@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 213.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"weezer\"},Damage:0s}",
+	tasks: [{
+		uid: "6a7b3008",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "weezer"
+			}
+		}],
+		consume_items: true
+	}]
+}

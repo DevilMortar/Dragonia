@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:amulet_glide\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "78300c45",
+		type: "item",
+		items: [{
+			item: "ebwizardry:amulet_glide"
+		}],
+		consume_items: true
+	}]
+}

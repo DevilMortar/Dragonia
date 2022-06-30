@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:rotmgskysplittersword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bf520ed0",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rotmgskysplittersword"
+		}],
+		consume_items: true
+	}]
+}

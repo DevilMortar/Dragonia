@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 315.0d,
+	description: "{id:\"tcomplement:scorched_slab2\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "61e77c49",
+		type: "item",
+		items: [{
+			item: "tcomplement:scorched_slab2"
+		}],
+		consume_items: true
+	}]
+}

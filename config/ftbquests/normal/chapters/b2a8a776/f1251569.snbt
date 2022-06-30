@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 373.0d,
+	description: "{id:\"quark:black_ash\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "44911141",
+		type: "item",
+		items: [{
+			item: "quark:black_ash"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 116.0d,
+	description: "{id:\"ancientspellcraft:head_riftstone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "21219381",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:head_riftstone"
+		}],
+		consume_items: true
+	}]
+}

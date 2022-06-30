@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 361.0d,
+	description: "{id:\"harvestcraft:snailrawitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5ee0c6a8",
+		type: "item",
+		items: [{
+			item: "harvestcraft:snailrawitem"
+		}],
+		consume_items: true
+	}]
+}

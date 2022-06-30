@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:slab_arcane_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f8f2916",
+		type: "item",
+		items: [{
+			item: "thaumcraft:slab_arcane_stone"
+		}],
+		consume_items: true
+	}]
+}

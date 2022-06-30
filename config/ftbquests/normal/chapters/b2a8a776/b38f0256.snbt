@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 200.0d,
+	description: "{id:\"heroicarmory:gowleviathanupgraded\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "391bb470",
+		type: "item",
+		items: [{
+			item: "heroicarmory:gowleviathanupgraded"
+		}],
+		consume_items: true
+	}]
+}

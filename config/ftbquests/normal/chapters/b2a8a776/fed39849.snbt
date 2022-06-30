@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 52.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:long_antidote\"},Damage:0s}",
+	tasks: [{
+		uid: "0c7f2b0b",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:long_antidote"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 203.0d,
+	description: "{id:\"megaloot:skin_table\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3cf6bf87",
+		type: "item",
+		items: [{
+			item: "megaloot:skin_table"
+		}],
+		consume_items: true
+	}]
+}

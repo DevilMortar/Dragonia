@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 15.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:wither\"},Damage:0s}",
+	tasks: [{
+		uid: "9ba96199",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:wither"
+			}
+		}],
+		consume_items: true
+	}]
+}

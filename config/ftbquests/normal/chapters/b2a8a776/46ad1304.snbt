@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 50.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:teleport_surface\"},Damage:0s}",
+	tasks: [{
+		uid: "1a124a14",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:teleport_surface"
+			}
+		}],
+		consume_items: true
+	}]
+}

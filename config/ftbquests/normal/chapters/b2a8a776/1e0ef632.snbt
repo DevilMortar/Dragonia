@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 306.0d,
+	description: "{id:\"thaumicaugmentation:stone\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "e4f05360",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:stone 1 2"
+		}],
+		consume_items: true
+	}]
+}

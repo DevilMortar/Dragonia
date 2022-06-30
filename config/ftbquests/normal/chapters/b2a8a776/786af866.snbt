@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 269.0d,
+	description: "{id:\"scalinghealth:heartcontainer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0b3515e1",
+		type: "item",
+		items: [{
+			item: "scalinghealth:heartcontainer"
+		}],
+		consume_items: true
+	}]
+}

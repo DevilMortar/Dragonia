@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 76.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"iceandfire:fire_dragon_female_cave\"},Damage:0s}",
+	tasks: [{
+		uid: "d5d3605e",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "iceandfire:fire_dragon_female_cave"
+			}
+		}],
+		consume_items: true
+	}]
+}

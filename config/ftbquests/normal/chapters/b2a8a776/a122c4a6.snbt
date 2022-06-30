@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 356.0d,
+	description: "{id:\"harvestcraft:quesadillaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "17fbbf52",
+		type: "item",
+		items: [{
+			item: "harvestcraft:quesadillaitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 181.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"potioncore:strong_mining_fatigue\"},Damage:0s}",
+	tasks: [{
+		uid: "a021c321",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "potioncore:strong_mining_fatigue"
+			}
+		}],
+		consume_items: true
+	}]
+}

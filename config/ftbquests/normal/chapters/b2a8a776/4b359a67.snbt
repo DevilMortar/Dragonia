@@ -1,0 +1,21 @@
+{
+	x: 14.0d,
+	y: 260.0d,
+	description: "{id:\"xreliquary:bullet\",Count:1b,tag:{effects:[{duration:150,potency:0,name:\"minecraft:fire_resistance\"}]},Damage:1s}",
+	tasks: [{
+		uid: "bc868403",
+		type: "item",
+		items: [{
+			id: "xreliquary:bullet",
+			tag: {
+				effects: [{
+					duration: 150,
+					potency: 0,
+					name: "minecraft:fire_resistance"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

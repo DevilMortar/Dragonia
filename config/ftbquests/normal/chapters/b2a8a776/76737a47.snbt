@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:jelliedeelitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b9969953",
+		type: "item",
+		items: [{
+			item: "harvestcraft:jelliedeelitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 327.0d,
+	description: "{id:\"charm:record_nuance1\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ed54c986",
+		type: "item",
+		items: [{
+			item: "charm:record_nuance1"
+		}],
+		consume_items: true
+	}]
+}

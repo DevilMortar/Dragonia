@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 148.0d,
+	description: "{id:\"ancientwarfarevehicle:vehicle_upgrade_pitch_down\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "93fe40ca",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:vehicle_upgrade_pitch_down"
+		}],
+		consume_items: true
+	}]
+}

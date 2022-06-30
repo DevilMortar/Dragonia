@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 224.0d,
+	description: "{id:\"tconstruct:tough_tool_rod\",Count:1b,tag:{Material:\"iron\"},Damage:0s}",
+	tasks: [{
+		uid: "e17008a1",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_tool_rod",
+			tag: {
+				Material: "iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

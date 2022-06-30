@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 294.0d,
+	description: "{id:\"spartanweaponry:pike_bronze\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2136a1e2",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:pike_bronze"
+		}],
+		consume_items: true
+	}]
+}

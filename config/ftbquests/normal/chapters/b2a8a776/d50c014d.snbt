@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 56.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:love\"},Damage:0s}",
+	tasks: [{
+		uid: "d0abad2a",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:love"
+			}
+		}],
+		consume_items: true
+	}]
+}

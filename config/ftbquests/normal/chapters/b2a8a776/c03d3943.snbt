@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 297.0d,
+	description: "{id:\"spartanweaponry:rapier_electrum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "12afaf2c",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:rapier_electrum"
+		}],
+		consume_items: true
+	}]
+}

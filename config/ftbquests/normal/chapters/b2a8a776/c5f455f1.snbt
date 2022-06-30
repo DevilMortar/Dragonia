@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 101.0d,
+	description: "{id:\"thaumcraft:crystal_vitium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b818ec3e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:crystal_vitium"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,57 @@
+{
+	x: 16.0d,
+	y: 142.0d,
+	description: "{id:\"conarm:helmet\",Count:1b,tag:{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:344,Defense:17.1f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:344,Defense:17.1f},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"dramatic_armor\",color:-946192,level:1},{identifier:\"invigorating_armor\",color:-946192,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"dramatic_armor\",\"invigorating_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "844fb182",
+		type: "item",
+		items: [{
+			id: "conarm:helmet",
+			tag: {
+				StatsOriginal: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 344,
+					Defense: 17.1f
+				},
+				Stats: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 344,
+					Defense: 17.1f
+				},
+				TinkerData: {
+					Materials: [
+						"knightslime",
+						"knightslime",
+						"knightslime"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "dramatic_armor",
+					color: -946192,
+					level: 1
+				},
+				{
+					identifier: "invigorating_armor",
+					color: -946192,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"dramatic_armor",
+					"invigorating_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

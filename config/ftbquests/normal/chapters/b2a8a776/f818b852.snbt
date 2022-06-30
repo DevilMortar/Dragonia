@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 76.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ebwizardry:gameplay/imbuement_altar/ruined_spell_book_necromancy\"},Damage:0s}",
+	tasks: [{
+		uid: "20cc51df",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ebwizardry:gameplay/imbuement_altar/ruined_spell_book_necromancy"
+			}
+		}],
+		consume_items: true
+	}]
+}

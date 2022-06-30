@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 323.0d,
+	description: "{id:\"aether_legacy:skyroot_bucket\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "f2323ce4",
+		type: "item",
+		items: [{
+			item: "aether_legacy:skyroot_bucket 1 4"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 425.0d,
+	description: "{id:\"tcomplement:chisel_head\",Count:1b,tag:{Material:\"prismarine\"},Damage:0s}",
+	tasks: [{
+		uid: "ab10f4ec",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel_head",
+			tag: {
+				Material: "prismarine"
+			}
+		}],
+		consume_items: true
+	}]
+}

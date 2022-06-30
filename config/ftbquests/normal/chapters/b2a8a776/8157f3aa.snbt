@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 103.0d,
+	description: "{id:\"thaumcraft:metal_brass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c1841278",
+		type: "item",
+		items: [{
+			item: "thaumcraft:metal_brass"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 281.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"extraalchemy:combustion_long\"},Damage:0s}",
+	tasks: [{
+		uid: "22356733",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "extraalchemy:combustion_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 57.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:long_drown\"},Damage:0s}",
+	tasks: [{
+		uid: "17cd3347",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:long_drown"
+			}
+		}],
+		consume_items: true
+	}]
+}

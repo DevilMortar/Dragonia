@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 178.0d,
+	description: "{id:\"dungeontactics:flower_sanguine\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c0395f90",
+		type: "item",
+		items: [{
+			item: "dungeontactics:flower_sanguine"
+		}],
+		consume_items: true
+	}]
+}

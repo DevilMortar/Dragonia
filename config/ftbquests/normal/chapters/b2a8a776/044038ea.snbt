@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 17.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:long_magic_focus\"},Damage:0s}",
+	tasks: [{
+		uid: "8e1b500b",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:long_magic_focus"
+			}
+		}],
+		consume_items: true
+	}]
+}

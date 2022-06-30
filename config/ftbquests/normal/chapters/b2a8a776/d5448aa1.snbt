@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 108.0d,
+	description: "{id:\"ebwizardry:master_necromancy_wand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ab93a67a",
+		type: "item",
+		items: [{
+			item: "ebwizardry:master_necromancy_wand"
+		}],
+		consume_items: true
+	}]
+}

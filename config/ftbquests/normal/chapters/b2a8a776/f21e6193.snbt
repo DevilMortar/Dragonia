@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 219.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"endstone\"},Damage:0s}",
+	tasks: [{
+		uid: "a683bf12",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "endstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

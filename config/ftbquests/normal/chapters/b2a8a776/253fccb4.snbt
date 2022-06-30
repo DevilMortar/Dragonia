@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:potion_ring\",Count:1b,tag:{Potion:\"extraalchemy:magnetism_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "6b42abfe",
+		type: "item",
+		items: [{
+			id: "extraalchemy:potion_ring",
+			tag: {
+				Potion: "extraalchemy:magnetism_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

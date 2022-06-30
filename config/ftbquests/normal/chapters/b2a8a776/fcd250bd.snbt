@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 316.0d,
+	description: "{id:\"toroquest:reinforced_diamond_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "93eb3eb8",
+		type: "item",
+		items: [{
+			item: "toroquest:reinforced_diamond_boots"
+		}],
+		consume_items: true
+	}]
+}

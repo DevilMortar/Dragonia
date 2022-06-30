@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 151.0d,
+	description: "{id:\"atum:wanderer_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d3dec987",
+		type: "item",
+		items: [{
+			item: "atum:wanderer_chest"
+		}],
+		consume_items: true
+	}]
+}

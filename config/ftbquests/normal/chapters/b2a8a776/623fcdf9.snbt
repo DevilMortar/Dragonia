@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 88.0d,
+	description: "{id:\"reccomplex:inventory_generation_component_tag\",Count:1b,tag:{itemCollectionKey:\"VillageTannery\"},Damage:0s}",
+	tasks: [{
+		uid: "0c79bea5",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_component_tag",
+			tag: {
+				itemCollectionKey: "VillageTannery"
+			}
+		}],
+		consume_items: true
+	}]
+}

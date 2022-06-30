@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 426.0d,
+	description: "{id:\"tcomplement:chisel_head\",Count:1b,tag:{Material:\"manyullyn\"},Damage:0s}",
+	tasks: [{
+		uid: "9569bfed",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel_head",
+			tag: {
+				Material: "manyullyn"
+			}
+		}],
+		consume_items: true
+	}]
+}

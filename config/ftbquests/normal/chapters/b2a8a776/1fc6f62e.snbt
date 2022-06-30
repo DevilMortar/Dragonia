@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 149.0d,
+	description: "{id:\"atum:loot_sapphire_ring\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "560eebd6",
+		type: "item",
+		items: [{
+			item: "atum:loot_sapphire_ring"
+		}],
+		consume_items: true
+	}]
+}

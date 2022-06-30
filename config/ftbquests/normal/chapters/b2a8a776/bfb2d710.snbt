@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"endstone\"},Damage:0s}",
+	tasks: [{
+		uid: "71100707",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "endstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 365.0d,
+	description: "{id:\"quark:vertical_stained_planks\",Count:1b,Damage:9s}",
+	tasks: [{
+		uid: "30b82049",
+		type: "item",
+		items: [{
+			item: "quark:vertical_stained_planks 1 9"
+		}],
+		consume_items: true
+	}]
+}

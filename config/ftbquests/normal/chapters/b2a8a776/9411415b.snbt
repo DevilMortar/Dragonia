@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 307.0d,
+	description: "{id:\"thaumicaugmentation:rift_mover_output\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d1a22cf9",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:rift_mover_output"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 163.0d,
+	description: "{id:\"thaumcraft:causality_collapser\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bca1ad91",
+		type: "item",
+		items: [{
+			item: "thaumcraft:causality_collapser"
+		}],
+		consume_items: true
+	}]
+}

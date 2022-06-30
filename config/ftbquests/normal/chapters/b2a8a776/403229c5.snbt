@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:gravitite_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0d963d1c",
+		type: "item",
+		items: [{
+			item: "aether_legacy:gravitite_sword"
+		}],
+		consume_items: true
+	}]
+}

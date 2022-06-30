@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:atdemonbloodsword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b0e5ef89",
+		type: "item",
+		items: [{
+			item: "heroicarmory:atdemonbloodsword"
+		}],
+		consume_items: true
+	}]
+}

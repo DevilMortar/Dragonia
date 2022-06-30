@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 340.0d,
+	description: "{id:\"harvestcraft:porklettucewrapitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "438de683",
+		type: "item",
+		items: [{
+			item: "harvestcraft:porklettucewrapitem"
+		}],
+		consume_items: true
+	}]
+}

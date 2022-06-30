@@ -1,0 +1,73 @@
+{
+	x: 17.0d,
+	y: 248.0d,
+	description: "{id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.0f,DrawSpeed:0.6f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:300,HarvestLevel:3,Attack:6.0f,Range:1.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.0f,DrawSpeed:0.6f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:300,HarvestLevel:3,Attack:9.0f,Range:1.2f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"dragonbone\",\"dragonbone\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"fractured2\",color:-4738403,level:1},{identifier:\"splintering2\",color:-4738403,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"fractured2\",\"splintering2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "adc35202",
+		type: "item",
+		items: [{
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.0f,
+					DrawSpeed: 0.6f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.0f,
+					Durability: 300,
+					HarvestLevel: 3,
+					Attack: 6.0f,
+					Range: 1.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.0f,
+					DrawSpeed: 0.6f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.0f,
+					Durability: 300,
+					HarvestLevel: 3,
+					Attack: 9.0f,
+					Range: 1.2f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"launcher"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dragonbone",
+						"dragonbone",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "fractured2",
+					color: -4738403,
+					level: 1
+				},
+				{
+					identifier: "splintering2",
+					color: -4738403,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"fractured2",
+					"splintering2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

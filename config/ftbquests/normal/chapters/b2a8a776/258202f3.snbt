@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 169.0d,
+	description: "{id:\"mocreatures:crabraw\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "956b09dd",
+		type: "item",
+		items: [{
+			item: "mocreatures:crabraw"
+		}],
+		consume_items: true
+	}]
+}

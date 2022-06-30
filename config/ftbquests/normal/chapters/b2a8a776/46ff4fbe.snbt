@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 321.0d,
+	description: "{id:\"aether_legacy:zanite_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "793604fd",
+		type: "item",
+		items: [{
+			item: "aether_legacy:zanite_block"
+		}],
+		consume_items: true
+	}]
+}

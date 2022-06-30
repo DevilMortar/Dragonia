@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:hide\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1a0a416a",
+		type: "item",
+		items: [{
+			item: "mocreatures:hide"
+		}],
+		consume_items: true
+	}]
+}

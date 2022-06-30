@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 323.0d,
+	description: "{id:\"aether_legacy:victory_medal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1fd2bdea",
+		type: "item",
+		items: [{
+			item: "aether_legacy:victory_medal"
+		}],
+		consume_items: true
+	}]
+}

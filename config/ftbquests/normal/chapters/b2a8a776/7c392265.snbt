@@ -1,0 +1,18 @@
+{
+	x: 27.0d,
+	y: 312.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"thaumicaugmentation:emptiness\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f92d306e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "thaumicaugmentation:emptiness"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

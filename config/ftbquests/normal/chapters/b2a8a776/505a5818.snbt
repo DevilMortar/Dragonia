@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:log_greatwood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6ac8f3db",
+		type: "item",
+		items: [{
+			item: "thaumcraft:log_greatwood"
+		}],
+		consume_items: true
+	}]
+}

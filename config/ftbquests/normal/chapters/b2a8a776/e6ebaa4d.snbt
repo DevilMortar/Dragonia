@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 101.0d,
+	description: "{id:\"atum:deadwood_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c3e1d9ed",
+		type: "item",
+		items: [{
+			item: "atum:deadwood_stairs"
+		}],
+		consume_items: true
+	}]
+}

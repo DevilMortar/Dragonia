@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:reptilehide\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "14ee6edf",
+		type: "item",
+		items: [{
+			item: "mocreatures:reptilehide"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 171.0d,
+	description: "{id:\"dungeontactics:golden_cestus\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5bfc4dea",
+		type: "item",
+		items: [{
+			item: "dungeontactics:golden_cestus"
+		}],
+		consume_items: true
+	}]
+}

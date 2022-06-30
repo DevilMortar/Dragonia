@@ -1,0 +1,20 @@
+{
+	x: 1.0d,
+	y: 134.0d,
+	description: "{id:\"conarm:armorforge\",Count:1b,tag:{textureBlock:{id:\"tconstruct:metal\",Count:1b,Damage:5s}},Damage:0s}",
+	tasks: [{
+		uid: "6edde4eb",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "tconstruct:metal",
+					Count: 1b,
+					Damage: 5s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

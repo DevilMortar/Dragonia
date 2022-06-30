@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 184.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"charm:ender_sight\"},Damage:0s}",
+	tasks: [{
+		uid: "bd81c7f0",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "charm:ender_sight"
+			}
+		}],
+		consume_items: true
+	}]
+}

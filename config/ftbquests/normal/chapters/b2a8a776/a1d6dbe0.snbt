@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 149.0d,
+	description: "{id:\"atum:iron_club\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0ff04c23",
+		type: "item",
+		items: [{
+			item: "atum:iron_club"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,77 @@
+{
+	x: 29.0d,
+	y: 251.0d,
+	description: "{id:\"tconstruct:shuriken\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:2000,HarvestLevel:4,Attack:11.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:2000,HarvestLevel:4,Attack:11.0f},Special:{Categories:[\"tool\",\"projectile\",\"no_melee\"]},TinkerData:{Materials:[\"weezer\",\"weezer\",\"weezer\",\"weezer\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"in_the_garage\",color:-16733470,level:1},{identifier:\"sweater_song\",color:-16733470,level:1},{identifier:\"surf_wax_america\",color:-16733470,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"in_the_garage\",\"sweater_song\",\"surf_wax_america\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "10a8d7f0",
+		type: "item",
+		items: [{
+			id: "tconstruct:shuriken",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 2000,
+					HarvestLevel: 4,
+					Attack: 11.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 2000,
+					HarvestLevel: 4,
+					Attack: 11.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"projectile",
+						"no_melee"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"weezer",
+						"weezer",
+						"weezer",
+						"weezer"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "in_the_garage",
+					color: -16733470,
+					level: 1
+				},
+				{
+					identifier: "sweater_song",
+					color: -16733470,
+					level: 1
+				},
+				{
+					identifier: "surf_wax_america",
+					color: -16733470,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"in_the_garage",
+					"sweater_song",
+					"surf_wax_america",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

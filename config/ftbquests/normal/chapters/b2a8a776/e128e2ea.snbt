@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:ratcooked\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6be02ee8",
+		type: "item",
+		items: [{
+			item: "mocreatures:ratcooked"
+		}],
+		consume_items: true
+	}]
+}

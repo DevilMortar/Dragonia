@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 361.0d,
+	description: "{id:\"harvestcraft:troutrawitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3b59de8f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:troutrawitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:ratraw\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "289ebefa",
+		type: "item",
+		items: [{
+			item: "mocreatures:ratraw"
+		}],
+		consume_items: true
+	}]
+}

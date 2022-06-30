@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 292.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"toroquest:strong_loyalty\"},Damage:0s}",
+	tasks: [{
+		uid: "1a7e48be",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "toroquest:strong_loyalty"
+			}
+		}],
+		consume_items: true
+	}]
+}

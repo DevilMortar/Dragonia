@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 346.0d,
+	description: "{id:\"harvestcraft:mintchocolatechipicecreamitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3fca095a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:mintchocolatechipicecreamitem"
+		}],
+		consume_items: true
+	}]
+}

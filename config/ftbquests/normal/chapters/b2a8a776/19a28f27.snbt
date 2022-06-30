@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 169.0d,
+	description: "{id:\"mocreatures:scorpstingfrost\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1e5ebc20",
+		type: "item",
+		items: [{
+			item: "mocreatures:scorpstingfrost"
+		}],
+		consume_items: true
+	}]
+}

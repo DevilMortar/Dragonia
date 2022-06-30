@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 329.0d,
+	description: "{id:\"harvestcraft:candleberryseeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "320d7607",
+		type: "item",
+		items: [{
+			item: "harvestcraft:candleberryseeditem"
+		}],
+		consume_items: true
+	}]
+}

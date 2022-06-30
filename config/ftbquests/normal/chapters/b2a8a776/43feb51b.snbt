@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 98.0d,
+	description: "{id:\"atum:crystal_purple_stained_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cba43037",
+		type: "item",
+		items: [{
+			item: "atum:crystal_purple_stained_glass"
+		}],
+		consume_items: true
+	}]
+}

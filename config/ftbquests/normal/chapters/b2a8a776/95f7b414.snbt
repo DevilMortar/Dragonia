@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 342.0d,
+	description: "{id:\"harvestcraft:blueberrypancakesitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9a0121a9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:blueberrypancakesitem"
+		}],
+		consume_items: true
+	}]
+}

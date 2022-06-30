@@ -1,0 +1,22 @@
+{
+	x: 38.0d,
+	y: 266.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{lingering:1b,effects:[{duration:2250,potency:1,name:\"minecraft:health_boost\"}],hasPotion:1b},Damage:0s}",
+	tasks: [{
+		uid: "70b77b1b",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				lingering: 1b,
+				effects: [{
+					duration: 2250,
+					potency: 1,
+					name: "minecraft:health_boost"
+				}],
+				hasPotion: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

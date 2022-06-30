@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 136.0d,
+	description: "{id:\"ancientwarfarestructure:advanced_loot_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "24740a9e",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:advanced_loot_chest"
+		}],
+		consume_items: true
+	}]
+}

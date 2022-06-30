@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:whip\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6aea2499",
+		type: "item",
+		items: [{
+			item: "mocreatures:whip"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 212.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"tconstruct:kama_head\"},Damage:0s}",
+	tasks: [{
+		uid: "8bf87434",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:kama_head"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 321.0d,
+	description: "{id:\"aether_legacy:skyroot_fence_gate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e5d5e0fe",
+		type: "item",
+		items: [{
+			item: "aether_legacy:skyroot_fence_gate"
+		}],
+		consume_items: true
+	}]
+}

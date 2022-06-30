@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 199.0d,
+	description: "{id:\"heroicarmory:rseldermaul\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cccadd38",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rseldermaul"
+		}],
+		consume_items: true
+	}]
+}

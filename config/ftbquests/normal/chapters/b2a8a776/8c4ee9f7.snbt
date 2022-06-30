@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:earth_talisman\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "00610e8d",
+		type: "item",
+		items: [{
+			item: "mowziesmobs:earth_talisman"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 252.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"conarm:polishing_kit\"},Damage:0s}",
+	tasks: [{
+		uid: "d42c0cca",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "conarm:polishing_kit"
+			}
+		}],
+		consume_items: true
+	}]
+}

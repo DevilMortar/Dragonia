@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 283.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:iron_skin\"},Damage:0s}",
+	tasks: [{
+		uid: "fe3ba00c",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:iron_skin"
+			}
+		}],
+		consume_items: true
+	}]
+}

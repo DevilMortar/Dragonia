@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 204.0d,
+	description: "{id:\"ancientwarfarevehicle:ammo_arrow_flame\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9cae755c",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:ammo_arrow_flame"
+		}],
+		consume_items: true
+	}]
+}

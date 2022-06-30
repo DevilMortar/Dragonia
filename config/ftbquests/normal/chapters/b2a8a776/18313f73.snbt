@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 122.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"pigiron\"},Damage:0s}",
+	tasks: [{
+		uid: "d8d5e525",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "pigiron"
+			}
+		}],
+		consume_items: true
+	}]
+}

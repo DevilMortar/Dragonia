@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:charm_heavy\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "54768134",
+		type: "item",
+		items: [{
+			item: "dungeontactics:charm_heavy"
+		}],
+		consume_items: true
+	}]
+}

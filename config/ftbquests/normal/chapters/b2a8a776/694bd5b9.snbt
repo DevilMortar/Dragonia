@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 377.0d,
+	description: "{id:\"chisel:block_coal1\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8f7086ad",
+		type: "item",
+		items: [{
+			item: "chisel:block_coal1"
+		}],
+		consume_items: true
+	}]
+}

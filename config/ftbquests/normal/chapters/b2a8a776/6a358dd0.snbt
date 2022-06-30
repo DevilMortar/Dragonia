@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 132.0d,
+	description: "{id:\"conarm:travel_slowfall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4b91d4e0",
+		type: "item",
+		items: [{
+			item: "conarm:travel_slowfall"
+		}],
+		consume_items: true
+	}]
+}

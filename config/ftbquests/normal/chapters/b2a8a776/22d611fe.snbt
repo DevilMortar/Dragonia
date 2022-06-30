@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 297.0d,
+	description: "{id:\"spartanweaponry:staff_platinum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bd04867c",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:staff_platinum"
+		}],
+		consume_items: true
+	}]
+}

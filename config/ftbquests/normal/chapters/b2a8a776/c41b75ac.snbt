@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 289.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"potioncore:hunger\"},Damage:0s}",
+	tasks: [{
+		uid: "d06d5787",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "potioncore:hunger"
+			}
+		}],
+		consume_items: true
+	}]
+}

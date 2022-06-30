@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 352.0d,
+	description: "{id:\"harvestcraft:greeneggsandhamitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "edf572d9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:greeneggsandhamitem"
+		}],
+		consume_items: true
+	}]
+}

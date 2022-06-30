@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 425.0d,
+	description: "{id:\"chisel:bookshelf_jungle\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "e2c0d962",
+		type: "item",
+		items: [{
+			item: "chisel:bookshelf_jungle 1 1"
+		}],
+		consume_items: true
+	}]
+}

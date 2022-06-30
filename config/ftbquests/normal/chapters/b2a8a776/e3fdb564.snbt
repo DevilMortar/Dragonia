@@ -1,0 +1,64 @@
+{
+	x: 20.0d,
+	y: 240.0d,
+	description: "{id:\"tconstruct:hammer\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:150,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:150,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\",\"wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "71fc20f9",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.0f,
+					FreeModifiers: 3,
+					Durability: 150,
+					HarvestLevel: 0,
+					Attack: 2.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.0f,
+					FreeModifiers: 3,
+					Durability: 150,
+					HarvestLevel: 0,
+					Attack: 2.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"wood",
+						"wood",
+						"wood"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:rotmgindomptable\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aca7aa16",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rotmgindomptable"
+		}],
+		consume_items: true
+	}]
+}

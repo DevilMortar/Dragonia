@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 320.0d,
+	description: "{id:\"aether_legacy:aether_dirt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4c8245fe",
+		type: "item",
+		items: [{
+			item: "aether_legacy:aether_dirt"
+		}],
+		consume_items: true
+	}]
+}

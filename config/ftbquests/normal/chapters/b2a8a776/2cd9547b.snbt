@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 195.0d,
+	description: "{id:\"ftbquests:barrier\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f9b4fef7",
+		type: "item",
+		items: [{
+			item: "ftbquests:barrier"
+		}],
+		consume_items: true
+	}]
+}

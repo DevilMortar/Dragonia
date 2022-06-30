@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 256.0d,
+	description: "{id:\"primitivemobs:cooked_dodo\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d7d2e2ca",
+		type: "item",
+		items: [{
+			item: "primitivemobs:cooked_dodo"
+		}],
+		consume_items: true
+	}]
+}

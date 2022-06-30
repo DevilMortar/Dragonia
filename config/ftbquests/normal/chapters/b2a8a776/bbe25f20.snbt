@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 141.0d,
+	description: "{id:\"ancientwarfarestructure:bench\",Count:1b,tag:{variant:\"oak\"},Damage:0s}",
+	tasks: [{
+		uid: "febe6c9a",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:bench",
+			tag: {
+				variant: "oak"
+			}
+		}],
+		consume_items: true
+	}]
+}

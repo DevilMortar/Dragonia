@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 312.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"jeid:error_biome\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dd9c1cb1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "jeid:error_biome"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

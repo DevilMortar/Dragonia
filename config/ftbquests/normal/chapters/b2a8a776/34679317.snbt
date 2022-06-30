@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 357.0d,
+	description: "{id:\"harvestcraft:salmononigiriitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "84e98694",
+		type: "item",
+		items: [{
+			item: "harvestcraft:salmononigiriitem"
+		}],
+		consume_items: true
+	}]
+}

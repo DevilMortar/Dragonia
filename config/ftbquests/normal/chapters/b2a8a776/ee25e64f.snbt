@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 347.0d,
+	description: "{id:\"harvestcraft:beefjerkyitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c13c25df",
+		type: "item",
+		items: [{
+			item: "harvestcraft:beefjerkyitem"
+		}],
+		consume_items: true
+	}]
+}

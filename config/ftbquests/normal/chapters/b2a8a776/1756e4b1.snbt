@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 120.0d,
+	description: "{id:\"ancientwarfarenpc:gold_shield\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "85d6f652",
+		type: "item",
+		items: [{
+			item: "ancientwarfarenpc:gold_shield"
+		}],
+		consume_items: true
+	}]
+}

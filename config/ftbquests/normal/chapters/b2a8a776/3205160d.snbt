@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 337.0d,
+	description: "{id:\"harvestcraft:honeycomb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b64aace3",
+		type: "item",
+		items: [{
+			item: "harvestcraft:honeycomb"
+		}],
+		consume_items: true
+	}]
+}

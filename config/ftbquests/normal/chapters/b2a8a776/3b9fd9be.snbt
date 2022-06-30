@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:broad_axe_head\",Count:1b,tag:{Material:\"dragonsteel_ice\"},Damage:0s}",
+	tasks: [{
+		uid: "1d352859",
+		type: "item",
+		items: [{
+			id: "tconstruct:broad_axe_head",
+			tag: {
+				Material: "dragonsteel_ice"
+			}
+		}],
+		consume_items: true
+	}]
+}

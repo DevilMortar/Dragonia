@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 186.0d,
+	description: "{id:\"extraalchemy:potion_ring\",Count:1b,tag:{Potion:\"extraalchemy:reincarnation_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "67029b71",
+		type: "item",
+		items: [{
+			id: "extraalchemy:potion_ring",
+			tag: {
+				Potion: "extraalchemy:reincarnation_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 14.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extraalchemy:reincarnation_long\"},Damage:0s}",
+	tasks: [{
+		uid: "ae521f3c",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extraalchemy:reincarnation_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

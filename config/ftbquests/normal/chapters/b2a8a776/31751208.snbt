@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 326.0d,
+	description: "{id:\"aether_legacy:enchanted_cockatrice\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "30cbe61f",
+		type: "item",
+		items: [{
+			item: "aether_legacy:enchanted_cockatrice"
+		}],
+		consume_items: true
+	}]
+}

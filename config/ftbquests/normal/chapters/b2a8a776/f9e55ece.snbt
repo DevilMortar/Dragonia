@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:lantern_wood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b3022af1",
+		type: "item",
+		items: [{
+			item: "rustic:lantern_wood"
+		}],
+		consume_items: true
+	}]
+}

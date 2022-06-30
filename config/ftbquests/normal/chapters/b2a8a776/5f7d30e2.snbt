@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:grinder_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f2e9801f",
+		type: "item",
+		items: [{
+			item: "dungeontactics:grinder_block"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 77.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/magma_cube\"},Damage:0s}",
+	tasks: [{
+		uid: "f7e509bb",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/magma_cube"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 213.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"cactus\"},Damage:0s}",
+	tasks: [{
+		uid: "174a3957",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "cactus"
+			}
+		}],
+		consume_items: true
+	}]
+}

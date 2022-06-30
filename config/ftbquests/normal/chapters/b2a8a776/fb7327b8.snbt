@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 87.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"primitivemobs:entities/flame_spewer\"},Damage:0s}",
+	tasks: [{
+		uid: "2e94ae88",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "primitivemobs:entities/flame_spewer"
+			}
+		}],
+		consume_items: true
+	}]
+}

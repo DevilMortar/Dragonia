@@ -7,5 +7,10 @@
 		items: [{
 			item: "iceandfire:myrmex_jungle_chitin"
 		}]
+	}],
+	rewards: [{
+		uid: "3c90efbc",
+		type: "ftbmoney:money",
+		ftb_money: 30L
 	}]
 }

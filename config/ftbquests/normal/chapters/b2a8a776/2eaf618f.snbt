@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:foliaath_seed\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9b7ccb22",
+		type: "item",
+		items: [{
+			item: "mowziesmobs:foliaath_seed"
+		}],
+		consume_items: true
+	}]
+}

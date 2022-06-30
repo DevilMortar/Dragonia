@@ -86,7 +86,13 @@ ancientwarfarestructure:seat
 ancientwarfarevehicle:vehicle
 ancientwarfarevehicle:missile
 aquaculture:custom_fish_hook
+quark:chest_passenger
 quark:gravisand
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
+quark:seat
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
@@ -94,10 +100,6 @@ quark:arrow_torch
 quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
 quark:stoneling
 quark:archaeologist
 quark:foxhound
@@ -107,8 +109,6 @@ quark:frog
 quark:pirate
 quark:crab
 quark:wraith
-quark:seat
-quark:chest_passenger
 betternether:firefly
 bibliocraft:biblioseat
 biomesoplenty:mudball

@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:valkyrie_gloves\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dd58bd8e",
+		type: "item",
+		items: [{
+			item: "aether_legacy:valkyrie_gloves"
+		}],
+		consume_items: true
+	}]
+}

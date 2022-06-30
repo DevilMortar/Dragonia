@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 353.0d,
+	description: "{id:\"harvestcraft:crispyricepuffbarsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "96011c6a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:crispyricepuffbarsitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 224.0d,
+	description: "{id:\"tconstruct:tough_tool_rod\",Count:1b,tag:{Material:\"desert_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "fe86c01e",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_tool_rod",
+			tag: {
+				Material: "desert_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

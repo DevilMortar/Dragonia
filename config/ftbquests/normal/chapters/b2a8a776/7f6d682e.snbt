@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 174.0d,
+	description: "{id:\"dungeontactics:steel_pickaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "80902eac",
+		type: "item",
+		items: [{
+			item: "dungeontactics:steel_pickaxe"
+		}],
+		consume_items: true
+	}]
+}

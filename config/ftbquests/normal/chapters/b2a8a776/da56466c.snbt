@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 374.0d,
+	description: "{id:\"quark:midori_block_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cf6455cf",
+		type: "item",
+		items: [{
+			item: "quark:midori_block_wall"
+		}],
+		consume_items: true
+	}]
+}

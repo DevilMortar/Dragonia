@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 344.0d,
+	description: "{id:\"harvestcraft:marshmellowsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e9704fc6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:marshmellowsitem"
+		}],
+		consume_items: true
+	}]
+}

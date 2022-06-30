@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 349.0d,
+	description: "{id:\"harvestcraft:crabcookeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c1d00169",
+		type: "item",
+		items: [{
+			item: "harvestcraft:crabcookeditem"
+		}],
+		consume_items: true
+	}]
+}

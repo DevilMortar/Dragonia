@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 279.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"toroquest:long_loyalty\"},Damage:0s}",
+	tasks: [{
+		uid: "a66b78e4",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "toroquest:long_loyalty"
+			}
+		}],
+		consume_items: true
+	}]
+}

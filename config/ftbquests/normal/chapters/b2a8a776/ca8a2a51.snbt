@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 221.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"knightslime\"},Damage:0s}",
+	tasks: [{
+		uid: "d6fd5391",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "knightslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

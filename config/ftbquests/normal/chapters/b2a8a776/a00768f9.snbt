@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 287.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"minecraft:regeneration\"},Damage:0s}",
+	tasks: [{
+		uid: "1f0ecce2",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "minecraft:regeneration"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,74 @@
+{
+	x: 26.0d,
+	y: 248.0d,
+	description: "{id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,DrawSpeed:1.05f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:364,HarvestLevel:1,Attack:3.4f,Range:0.9f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,DrawSpeed:1.05f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:364,HarvestLevel:1,Attack:3.4f,Range:0.9f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"prickly\",color:-16735985,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"spiky\",\"prickly\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ef2a6706",
+		type: "item",
+		items: [{
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					DrawSpeed: 1.05f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 364,
+					HarvestLevel: 1,
+					Attack: 3.4f,
+					Range: 0.9f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					DrawSpeed: 1.05f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 364,
+					HarvestLevel: 1,
+					Attack: 3.4f,
+					Range: 0.9f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"launcher"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"cactus",
+						"cactus",
+						"cactus",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "spiky",
+					color: -16735985,
+					level: 1
+				},
+				{
+					identifier: "prickly",
+					color: -16735985,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"spiky",
+					"prickly",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 348.0d,
+	description: "{id:\"harvestcraft:honeycombchocolatebaritem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5c5aff37",
+		type: "item",
+		items: [{
+			item: "harvestcraft:honeycombchocolatebaritem"
+		}],
+		consume_items: true
+	}]
+}

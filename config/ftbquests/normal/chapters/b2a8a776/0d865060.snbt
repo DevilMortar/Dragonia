@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 140.0d,
+	description: "{id:\"ancientwarfarestructure:chair\",Count:1b,tag:{variant:\"spruce\"},Damage:0s}",
+	tasks: [{
+		uid: "199e74c2",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:chair",
+			tag: {
+				variant: "spruce"
+			}
+		}],
+		consume_items: true
+	}]
+}

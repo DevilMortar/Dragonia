@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 190.0d,
+	description: "{id:\"iceandfire:earplugs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1c76c047",
+		type: "item",
+		items: [{
+			item: "iceandfire:earplugs"
+		}],
+		consume_items: true
+	}]
+}

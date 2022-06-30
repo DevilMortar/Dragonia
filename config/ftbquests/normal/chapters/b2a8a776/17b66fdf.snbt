@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 179.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"minecraft:slowness\"},Damage:0s}",
+	tasks: [{
+		uid: "614f05b6",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "minecraft:slowness"
+			}
+		}],
+		consume_items: true
+	}]
+}

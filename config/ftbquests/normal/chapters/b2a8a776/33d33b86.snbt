@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 84.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:chests/jungle_temple_dispenser\"},Damage:0s}",
+	tasks: [{
+		uid: "c34e80f6",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:chests/jungle_temple_dispenser"
+			}
+		}],
+		consume_items: true
+	}]
+}

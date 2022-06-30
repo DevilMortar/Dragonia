@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 140.0d,
+	description: "{id:\"ancientwarfarestructure:stool\",Count:1b,tag:{variant:\"oak\"},Damage:0s}",
+	tasks: [{
+		uid: "df0fed4e",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:stool",
+			tag: {
+				variant: "oak"
+			}
+		}],
+		consume_items: true
+	}]
+}

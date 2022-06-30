@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:meesuaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "546374dc",
+		type: "item",
+		items: [{
+			item: "harvestcraft:meesuaitem"
+		}],
+		consume_items: true
+	}]
+}

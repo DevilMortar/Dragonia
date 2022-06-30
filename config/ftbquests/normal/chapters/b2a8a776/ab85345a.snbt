@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 62.0d,
+	description: "{id:\"betternether:wart_seed\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "679c3205",
+		type: "item",
+		items: [{
+			item: "betternether:wart_seed"
+		}],
+		consume_items: true
+	}]
+}

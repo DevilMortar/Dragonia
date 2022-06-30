@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 94.0d,
+	description: "{id:\"atum:relic_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d549bd31",
+		type: "item",
+		items: [{
+			item: "atum:relic_ore"
+		}],
+		consume_items: true
+	}]
+}

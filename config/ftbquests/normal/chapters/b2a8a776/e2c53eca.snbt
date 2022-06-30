@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 425.0d,
+	description: "{id:\"tcomplement:chisel_head\",Count:1b,tag:{Material:\"wood\"},Damage:0s}",
+	tasks: [{
+		uid: "1cfb4b9c",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel_head",
+			tag: {
+				Material: "wood"
+			}
+		}],
+		consume_items: true
+	}]
+}

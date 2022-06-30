@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 346.0d,
+	description: "{id:\"harvestcraft:lemonlimesodaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d02d448d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:lemonlimesodaitem"
+		}],
+		consume_items: true
+	}]
+}

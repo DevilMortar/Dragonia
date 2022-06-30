@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 117.0d,
+	description: "{id:\"ancientwarfare:wooden_hammer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8aff59da",
+		type: "item",
+		items: [{
+			item: "ancientwarfare:wooden_hammer"
+		}],
+		consume_items: true
+	}]
+}

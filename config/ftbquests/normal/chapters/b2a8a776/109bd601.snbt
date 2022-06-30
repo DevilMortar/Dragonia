@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 78.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/sheep/light_blue\"},Damage:0s}",
+	tasks: [{
+		uid: "fa6f5785",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/sheep/light_blue"
+			}
+		}],
+		consume_items: true
+	}]
+}

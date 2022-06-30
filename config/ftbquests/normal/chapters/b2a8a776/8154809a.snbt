@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 150.0d,
+	description: "{id:\"atum:anubiss_wrath\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2ac8c68a",
+		type: "item",
+		items: [{
+			item: "atum:anubiss_wrath"
+		}],
+		consume_items: true
+	}]
+}

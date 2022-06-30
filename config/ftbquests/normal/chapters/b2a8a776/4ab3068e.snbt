@@ -1,0 +1,18 @@
+{
+	x: 19.0d,
+	y: 195.0d,
+	description: "{ForgeCaps:{Parent:{id:\"creative_tab\"}},id:\"itemfilters:filter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "22588b94",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					id: "creative_tab"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		consume_items: true
+	}]
+}

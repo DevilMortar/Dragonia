@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 99.0d,
+	description: "{id:\"atum:framed_silver_stained_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dd2fab4a",
+		type: "item",
+		items: [{
+			item: "atum:framed_silver_stained_glass"
+		}],
+		consume_items: true
+	}]
+}

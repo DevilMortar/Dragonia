@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 175.0d,
+	description: "{id:\"dungeontactics:bagofhoarding\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6e1aad44",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bagofhoarding"
+		}],
+		consume_items: true
+	}]
+}

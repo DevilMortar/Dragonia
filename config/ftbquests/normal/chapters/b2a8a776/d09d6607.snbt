@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 44.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"potioncore:long_rust\"},Damage:0s}",
+	tasks: [{
+		uid: "11682c09",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "potioncore:long_rust"
+			}
+		}],
+		consume_items: true
+	}]
+}

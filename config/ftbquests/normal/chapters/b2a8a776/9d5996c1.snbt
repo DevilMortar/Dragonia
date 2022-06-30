@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 79.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"netherex:entity/wight\"},Damage:0s}",
+	tasks: [{
+		uid: "6e5dcc9f",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "netherex:entity/wight"
+			}
+		}],
+		consume_items: true
+	}]
+}

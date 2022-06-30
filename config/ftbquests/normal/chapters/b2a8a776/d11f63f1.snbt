@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 343.0d,
+	description: "{id:\"harvestcraft:poachedpearitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "55c55500",
+		type: "item",
+		items: [{
+			item: "harvestcraft:poachedpearitem"
+		}],
+		consume_items: true
+	}]
+}

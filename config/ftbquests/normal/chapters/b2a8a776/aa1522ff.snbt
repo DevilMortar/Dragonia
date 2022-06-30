@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 320.0d,
+	description: "{id:\"zettaimagic:cloak_arcane\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b967d749",
+		type: "item",
+		items: [{
+			item: "zettaimagic:cloak_arcane"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 101.0d,
+	description: "{id:\"atum:palm_hatch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02faa794",
+		type: "item",
+		items: [{
+			item: "atum:palm_hatch"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 83.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"customizeddungeonloot:loot_table_nether\"},Damage:0s}",
+	tasks: [{
+		uid: "b2c9bb25",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "customizeddungeonloot:loot_table_nether"
+			}
+		}],
+		consume_items: true
+	}]
+}

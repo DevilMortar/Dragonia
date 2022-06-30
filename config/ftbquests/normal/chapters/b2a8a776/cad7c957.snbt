@@ -1,0 +1,17 @@
+{
+	x: 22.0d,
+	y: 136.0d,
+	description: "{id:\"ancientwarfarestructure:fire_pit\",Count:1b,tag:{lit:0b,variant:\"square\"},Damage:0s}",
+	tasks: [{
+		uid: "b3d7226a",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:fire_pit",
+			tag: {
+				lit: 0b,
+				variant: "square"
+			}
+		}],
+		consume_items: true
+	}]
+}

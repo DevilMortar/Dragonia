@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 52.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"netherex:sorrow\"},Damage:0s}",
+	tasks: [{
+		uid: "2b4df206",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "netherex:sorrow"
+			}
+		}],
+		consume_items: true
+	}]
+}

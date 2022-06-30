@@ -1,0 +1,66 @@
+{
+	x: 21.0d,
+	y: 241.0d,
+	description: "{id:\"tconstruct:excavator\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:483,HarvestLevel:2,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:483,HarvestLevel:2,Attack:4.0f},Special:{Categories:[\"harvest\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"iron\",\"iron\",\"iron\",\"iron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"magnetic\",color:-3487030,level:3,magnetic1:1b,magnetic2:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"magnetic1\",\"magnetic2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "fd73b8c9",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 483,
+					HarvestLevel: 2,
+					Attack: 4.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 483,
+					HarvestLevel: 2,
+					Attack: 4.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"iron",
+						"iron",
+						"iron",
+						"iron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "magnetic",
+					color: -3487030,
+					level: 3,
+					magnetic1: 1b,
+					magnetic2: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"magnetic1",
+					"magnetic2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

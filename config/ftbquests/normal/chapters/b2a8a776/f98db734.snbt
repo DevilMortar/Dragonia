@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 292.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"charm:decay\"},Damage:0s}",
+	tasks: [{
+		uid: "dc6004aa",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "charm:decay"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 371.0d,
+	description: "{id:\"quark:sandstone_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dfc8eaa9",
+		type: "item",
+		items: [{
+			item: "quark:sandstone_wall"
+		}],
+		consume_items: true
+	}]
+}

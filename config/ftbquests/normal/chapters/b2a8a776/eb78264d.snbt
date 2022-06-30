@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 308.0d,
+	description: "{id:\"thaumicaugmentation:augment_builder_effect\",Count:1b,tag:{id:\"thaumicaugmentation:effect_power\"},Damage:0s}",
+	tasks: [{
+		uid: "ac123867",
+		type: "item",
+		items: [{
+			id: "thaumicaugmentation:augment_builder_effect",
+			tag: {
+				id: "thaumicaugmentation:effect_power"
+			}
+		}],
+		consume_items: true
+	}]
+}

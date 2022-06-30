@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 58.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:strong_klutz\"},Damage:0s}",
+	tasks: [{
+		uid: "55090c8f",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:strong_klutz"
+			}
+		}],
+		consume_items: true
+	}]
+}

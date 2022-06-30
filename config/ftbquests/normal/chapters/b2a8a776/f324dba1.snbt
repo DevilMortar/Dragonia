@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 42.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"potioncore:absorption\"},Damage:0s}",
+	tasks: [{
+		uid: "d572cc5c",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "potioncore:absorption"
+			}
+		}],
+		consume_items: true
+	}]
+}

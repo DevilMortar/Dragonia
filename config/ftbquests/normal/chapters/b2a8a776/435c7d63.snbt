@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 309.0d,
+	description: "{id:\"thaumicaugmentation:rift_jar\",Count:1b,tag:{seed:1337,size:100},Damage:0s}",
+	tasks: [{
+		uid: "f6104952",
+		type: "item",
+		items: [{
+			id: "thaumicaugmentation:rift_jar",
+			tag: {
+				seed: 1337,
+				size: 100
+			}
+		}],
+		consume_items: true
+	}]
+}

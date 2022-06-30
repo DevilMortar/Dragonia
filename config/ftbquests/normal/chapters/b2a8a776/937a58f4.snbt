@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 279.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"quark:resistance\"},Damage:0s}",
+	tasks: [{
+		uid: "5d51c564",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "quark:resistance"
+			}
+		}],
+		consume_items: true
+	}]
+}

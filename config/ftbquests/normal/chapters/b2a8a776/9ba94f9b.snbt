@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 320.0d,
+	description: "{id:\"aether_legacy:enchanted_aether_grass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5ccb868d",
+		type: "item",
+		items: [{
+			item: "aether_legacy:enchanted_aether_grass"
+		}],
+		consume_items: true
+	}]
+}

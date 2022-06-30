@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 371.0d,
+	description: "{id:\"quark:archaeologist_hat\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3a55b684",
+		type: "item",
+		items: [{
+			item: "quark:archaeologist_hat"
+		}],
+		consume_items: true
+	}]
+}

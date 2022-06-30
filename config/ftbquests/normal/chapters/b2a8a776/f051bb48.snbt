@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 48.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"extraalchemy:gravity_long\"},Damage:0s}",
+	tasks: [{
+		uid: "cefe4588",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "extraalchemy:gravity_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

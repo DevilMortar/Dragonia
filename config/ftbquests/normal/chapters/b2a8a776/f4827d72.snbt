@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 101.0d,
+	description: "{id:\"thaumcraft:ore_quartz\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d16b5e0d",
+		type: "item",
+		items: [{
+			item: "thaumcraft:ore_quartz"
+		}],
+		consume_items: true
+	}]
+}

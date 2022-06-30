@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 87.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"primitivemobs:chests/mimic_trap\"},Damage:0s}",
+	tasks: [{
+		uid: "c262df23",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "primitivemobs:chests/mimic_trap"
+			}
+		}],
+		consume_items: true
+	}]
+}

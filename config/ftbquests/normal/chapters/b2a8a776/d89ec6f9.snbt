@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 65.0d,
+	description: "{id:\"biomesoplenty:gem_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "03808f9b",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:gem_block"
+		}],
+		consume_items: true
+	}]
+}

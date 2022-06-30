@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 50.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:strong_step_up\"},Damage:0s}",
+	tasks: [{
+		uid: "37182b80",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:strong_step_up"
+			}
+		}],
+		consume_items: true
+	}]
+}

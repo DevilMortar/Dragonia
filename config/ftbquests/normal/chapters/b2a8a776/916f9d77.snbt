@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 28.0d,
+	description: "{id:\"minecraft:writable_book\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8bfab874",
+		type: "item",
+		items: [{
+			item: "minecraft:writable_book"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:blood_orchid\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8c6b5073",
+		type: "item",
+		items: [{
+			item: "rustic:blood_orchid"
+		}],
+		consume_items: true
+	}]
+}

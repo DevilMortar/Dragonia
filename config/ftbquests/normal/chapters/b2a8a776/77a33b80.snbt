@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 323.0d,
+	description: "{id:\"aether_legacy:obsidian_leggings\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6b0d4984",
+		type: "item",
+		items: [{
+			item: "aether_legacy:obsidian_leggings"
+		}],
+		consume_items: true
+	}]
+}

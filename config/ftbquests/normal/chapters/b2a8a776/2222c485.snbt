@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 198.0d,
+	description: "{id:\"heroicarmory:scbluecrystalrod\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a4976536",
+		type: "item",
+		items: [{
+			item: "heroicarmory:scbluecrystalrod"
+		}],
+		consume_items: true
+	}]
+}

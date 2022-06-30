@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 315.0d,
+	description: "{id:\"tombstone:scroll_buff\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "f85bf36e",
+		type: "item",
+		items: [{
+			item: "tombstone:scroll_buff 1 1"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 164.0d,
+	description: "{id:\"thaumcraft:fortress_helm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9e4a5ace",
+		type: "item",
+		items: [{
+			item: "thaumcraft:fortress_helm"
+		}],
+		consume_items: true
+	}]
+}

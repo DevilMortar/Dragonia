@@ -1,0 +1,23 @@
+{
+	x: 9.0d,
+	y: 164.0d,
+	description: "{id:\"thaumcraft:primal_crusher\",Count:1b,tag:{infench:[{lvl:1s,id:1s},{lvl:1s,id:4s}]},Damage:0s}",
+	tasks: [{
+		uid: "4516a577",
+		type: "item",
+		items: [{
+			id: "thaumcraft:primal_crusher",
+			tag: {
+				infench: [{
+					lvl: 1s,
+					id: 1s
+				},
+				{
+					lvl: 1s,
+					id: 4s
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

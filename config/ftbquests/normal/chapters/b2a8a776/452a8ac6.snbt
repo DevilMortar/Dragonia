@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 262.0d,
+	description: "{id:\"xreliquary:gun_part\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "32460d1c",
+		type: "item",
+		items: [{
+			item: "xreliquary:gun_part"
+		}],
+		consume_items: true
+	}]
+}

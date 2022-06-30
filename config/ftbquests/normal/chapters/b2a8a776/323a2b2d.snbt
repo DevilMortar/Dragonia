@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 359.0d,
+	description: "{id:\"harvestcraft:montecristosandwichitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "04b2d47d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:montecristosandwichitem"
+		}],
+		consume_items: true
+	}]
+}

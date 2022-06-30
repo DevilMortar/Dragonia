@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:golden_gloves\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "17f7db5f",
+		type: "item",
+		items: [{
+			item: "aether_legacy:golden_gloves"
+		}],
+		consume_items: true
+	}]
+}

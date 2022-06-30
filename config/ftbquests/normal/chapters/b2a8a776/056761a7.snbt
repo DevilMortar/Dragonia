@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 206.0d,
+	description: "{id:\"netherex:lively_nether_brick_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f2eed11e",
+		type: "item",
+		items: [{
+			item: "netherex:lively_nether_brick_stairs"
+		}],
+		consume_items: true
+	}]
+}

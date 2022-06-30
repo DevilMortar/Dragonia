@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 9.0d,
+	description: "{id:\"minecraft:iron_pickaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "86b63368",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_pickaxe"
+		}],
+		consume_items: true
+	}]
+}

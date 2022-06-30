@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 100.0d,
+	description: "{id:\"atum:linen_light_blue\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d51cc46e",
+		type: "item",
+		items: [{
+			item: "atum:linen_light_blue"
+		}],
+		consume_items: true
+	}]
+}

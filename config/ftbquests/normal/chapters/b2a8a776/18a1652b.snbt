@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 259.0d,
+	description: "{id:\"xreliquary:mob_charm\",Count:1b,tag:{type:2b},Damage:0s}",
+	tasks: [{
+		uid: "761d7a54",
+		type: "item",
+		items: [{
+			id: "xreliquary:mob_charm",
+			tag: {
+				type: 2b
+			}
+		}],
+		consume_items: true
+	}]
+}

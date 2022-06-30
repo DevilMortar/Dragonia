@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 293.0d,
+	description: "{id:\"spartanweaponry:bolt_diamond_tipped\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "94a01c2c",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:bolt_diamond_tipped"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 221.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"jungle_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "946a19b6",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "jungle_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

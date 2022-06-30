@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 263.0d,
+	description: "{id:\"xreliquary:potion_essence\",Count:1b,tag:{effects:[{duration:2500,potency:1,name:\"minecraft:mining_fatigue\"}]},Damage:0s}",
+	tasks: [{
+		uid: "d761e5e5",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion_essence",
+			tag: {
+				effects: [{
+					duration: 2500,
+					potency: 1,
+					name: "minecraft:mining_fatigue"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

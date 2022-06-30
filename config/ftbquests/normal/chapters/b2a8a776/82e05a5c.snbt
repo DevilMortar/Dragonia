@@ -1,0 +1,18 @@
+{
+	x: 18.0d,
+	y: 21.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"dungeonsmod:deserted\"}},Damage:0s}",
+	tasks: [{
+		uid: "f05034ca",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "dungeonsmod:deserted"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

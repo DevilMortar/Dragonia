@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:petamulet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f818171",
+		type: "item",
+		items: [{
+			item: "mocreatures:petamulet"
+		}],
+		consume_items: true
+	}]
+}

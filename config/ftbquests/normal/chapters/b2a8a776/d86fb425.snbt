@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 14.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extraalchemy:hurry_long\"},Damage:0s}",
+	tasks: [{
+		uid: "8ae77e8c",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extraalchemy:hurry_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

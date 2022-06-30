@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 209.0d,
+	description: "{id:\"tconstruct:slime_congealed\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "e0af3dad",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_congealed 1 3"
+		}],
+		consume_items: true
+	}]
+}

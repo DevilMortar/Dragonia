@@ -1,0 +1,68 @@
+{
+	x: 12.0d,
+	y: 251.0d,
+	description: "{id:\"tconstruct:shuriken\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:254,HarvestLevel:2,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:254,HarvestLevel:2,Attack:5.0f},Special:{Categories:[\"tool\",\"projectile\",\"no_melee\"]},TinkerData:{Materials:[\"iron\",\"iron\",\"iron\",\"iron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"magnetic\",color:-3487030,level:3,magnetic1:1b,magnetic2:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"magnetic2\",\"magnetic1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d5c2cf6a",
+		type: "item",
+		items: [{
+			id: "tconstruct:shuriken",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 254,
+					HarvestLevel: 2,
+					Attack: 5.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 254,
+					HarvestLevel: 2,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"projectile",
+						"no_melee"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"iron",
+						"iron",
+						"iron",
+						"iron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "magnetic",
+					color: -3487030,
+					level: 3,
+					magnetic1: 1b,
+					magnetic2: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"magnetic2",
+					"magnetic1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:currypowderitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c34c1563",
+		type: "item",
+		items: [{
+			item: "harvestcraft:currypowderitem"
+		}],
+		consume_items: true
+	}]
+}

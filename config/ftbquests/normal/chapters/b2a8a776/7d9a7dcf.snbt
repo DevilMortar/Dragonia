@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 96.0d,
+	description: "{id:\"atum:porphyry_carved_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ce277574",
+		type: "item",
+		items: [{
+			item: "atum:porphyry_carved_slab"
+		}],
+		consume_items: true
+	}]
+}

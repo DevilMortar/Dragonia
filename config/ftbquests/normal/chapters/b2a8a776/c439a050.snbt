@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 9.0d,
+	description: "{id:\"minecraft:wooden_pickaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "53e813f1",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_pickaxe"
+		}],
+		consume_items: true
+	}]
+}

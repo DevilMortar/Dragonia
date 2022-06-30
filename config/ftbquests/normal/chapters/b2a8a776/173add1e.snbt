@@ -1,0 +1,17 @@
+{
+	x: 26.0d,
+	y: 122.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",npcType:\"worker\"},Damage:0s}",
+	tasks: [{
+		uid: "eeb26de5",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				npcType: "worker"
+			}
+		}],
+		consume_items: true
+	}]
+}

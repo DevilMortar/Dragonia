@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:naga_fang\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cea2643f",
+		type: "item",
+		items: [{
+			item: "mowziesmobs:naga_fang"
+		}],
+		consume_items: true
+	}]
+}

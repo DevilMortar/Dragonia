@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 272.0d,
+	description: "{id:\"spartanweaponry:throwing_axe_gold\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a8a09fa7",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:throwing_axe_gold"
+		}],
+		consume_items: true
+	}]
+}

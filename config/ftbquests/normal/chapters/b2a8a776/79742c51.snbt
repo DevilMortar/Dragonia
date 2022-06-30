@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 410.0d,
+	description: "{id:\"chisel:blockinvar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fd754831",
+		type: "item",
+		items: [{
+			item: "chisel:blockinvar"
+		}],
+		consume_items: true
+	}]
+}

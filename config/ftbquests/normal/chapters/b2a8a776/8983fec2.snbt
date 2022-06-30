@@ -1,0 +1,18 @@
+{
+	x: 13.0d,
+	y: 21.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"dungeonsmod:slimond\"}},Damage:0s}",
+	tasks: [{
+		uid: "ed63a66a",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "dungeonsmod:slimond"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

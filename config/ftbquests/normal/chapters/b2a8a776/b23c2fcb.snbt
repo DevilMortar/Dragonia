@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 336.0d,
+	description: "{id:\"harvestcraft:pamdurian\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c0b8fcce",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pamdurian"
+		}],
+		consume_items: true
+	}]
+}

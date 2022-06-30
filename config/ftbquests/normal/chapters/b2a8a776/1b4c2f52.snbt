@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:chickenpaellaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bfe63996",
+		type: "item",
+		items: [{
+			item: "harvestcraft:chickenpaellaitem"
+		}],
+		consume_items: true
+	}]
+}

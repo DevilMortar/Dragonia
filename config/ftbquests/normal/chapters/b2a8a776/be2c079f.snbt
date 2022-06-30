@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 157.0d,
+	description: "{id:\"bibliocraft:paintingpress\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e7955d35",
+		type: "item",
+		items: [{
+			item: "bibliocraft:paintingpress"
+		}],
+		consume_items: true
+	}]
+}

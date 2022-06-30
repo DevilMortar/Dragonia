@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 19.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"toroquest:long_loyalty\"},Damage:0s}",
+	tasks: [{
+		uid: "750f1738",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "toroquest:long_loyalty"
+			}
+		}],
+		consume_items: true
+	}]
+}

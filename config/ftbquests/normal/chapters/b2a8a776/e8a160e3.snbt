@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 119.0d,
+	description: "{id:\"ancientwarfareautomation:chunk_loader_simple\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e9748054",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:chunk_loader_simple"
+		}],
+		consume_items: true
+	}]
+}

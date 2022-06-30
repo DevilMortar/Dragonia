@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 17.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:perplexity\"},Damage:0s}",
+	tasks: [{
+		uid: "5db94ab0",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:perplexity"
+			}
+		}],
+		consume_items: true
+	}]
+}

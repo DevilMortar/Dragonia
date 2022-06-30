@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 119.0d,
+	description: "{id:\"ancientwarfareautomation:mailbox\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "87f31b23",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:mailbox"
+		}],
+		consume_items: true
+	}]
+}

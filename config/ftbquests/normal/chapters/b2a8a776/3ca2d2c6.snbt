@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"quark:haste\"},Damage:0s}",
+	tasks: [{
+		uid: "f86a0f9c",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "quark:haste"
+			}
+		}],
+		consume_items: true
+	}]
+}

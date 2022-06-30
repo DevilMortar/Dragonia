@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 322.0d,
+	description: "{id:\"aether_legacy:carved_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "44989dfb",
+		type: "item",
+		items: [{
+			item: "aether_legacy:carved_stairs"
+		}],
+		consume_items: true
+	}]
+}

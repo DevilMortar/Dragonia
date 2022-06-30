@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 320.0d,
+	description: "{id:\"aether_legacy:mossy_holystone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "05dfb2a7",
+		type: "item",
+		items: [{
+			item: "aether_legacy:mossy_holystone"
+		}],
+		consume_items: true
+	}]
+}

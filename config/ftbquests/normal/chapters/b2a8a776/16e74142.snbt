@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 5.0d,
+	description: "{id:\"minecraft:quartz_block\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "ffee2e8d",
+		type: "item",
+		items: [{
+			item: "minecraft:quartz_block 1 1"
+		}],
+		consume_items: true
+	}]
+}

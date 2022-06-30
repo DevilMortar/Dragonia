@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 110.0d,
+	description: "{id:\"ebwizardry:sage_hat_earth\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ed2b5c6f",
+		type: "item",
+		items: [{
+			item: "ebwizardry:sage_hat_earth"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 5.0d,
+	y: 236.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,tag:{textureBlock:{id:\"thaumcraft:log_greatwood\",Count:1b,Damage:0s}},Damage:2s}",
+	tasks: [{
+		uid: "c446a7b8",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "thaumcraft:log_greatwood",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

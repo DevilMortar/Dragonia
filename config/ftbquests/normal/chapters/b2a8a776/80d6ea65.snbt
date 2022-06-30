@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:sapling_greatwood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "61ec0d25",
+		type: "item",
+		items: [{
+			item: "thaumcraft:sapling_greatwood"
+		}],
+		consume_items: true
+	}]
+}

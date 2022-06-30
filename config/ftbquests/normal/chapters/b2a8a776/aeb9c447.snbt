@@ -1,0 +1,21 @@
+{
+	x: 37.0d,
+	y: 261.0d,
+	description: "{id:\"xreliquary:magazine\",Count:1b,tag:{effects:[{duration:1,potency:1,name:\"minecraft:instant_health\"}]},Damage:1s}",
+	tasks: [{
+		uid: "7b1d6256",
+		type: "item",
+		items: [{
+			id: "xreliquary:magazine",
+			tag: {
+				effects: [{
+					duration: 1,
+					potency: 1,
+					name: "minecraft:instant_health"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

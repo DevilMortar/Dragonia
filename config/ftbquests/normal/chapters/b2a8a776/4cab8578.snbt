@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 40.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"minecraft:fire_resistance\"},Damage:0s}",
+	tasks: [{
+		uid: "7ab74d18",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:fire_resistance"
+			}
+		}],
+		consume_items: true
+	}]
+}

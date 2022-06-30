@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 140.0d,
+	description: "{id:\"ancientwarfarestructure:chair\",Count:1b,tag:{variant:\"oak\"},Damage:0s}",
+	tasks: [{
+		uid: "ed9e3e74",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:chair",
+			tag: {
+				variant: "oak"
+			}
+		}],
+		consume_items: true
+	}]
+}

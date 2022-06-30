@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 352.0d,
+	description: "{id:\"harvestcraft:honeybreaditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "de73a557",
+		type: "item",
+		items: [{
+			item: "harvestcraft:honeybreaditem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 140.0d,
+	description: "{id:\"ancientwarfarestructure:table\",Count:1b,tag:{variant:\"jungle\"},Damage:0s}",
+	tasks: [{
+		uid: "604af09d",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:table",
+			tag: {
+				variant: "jungle"
+			}
+		}],
+		consume_items: true
+	}]
+}

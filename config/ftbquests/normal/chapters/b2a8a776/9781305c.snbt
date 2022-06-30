@@ -1,0 +1,18 @@
+{
+	x: 37.0d,
+	y: 129.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"gnome\",npcType:\"faction.leader\"},Damage:0s}",
+	tasks: [{
+		uid: "6050490d",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "gnome",
+				npcType: "faction.leader"
+			}
+		}],
+		consume_items: true
+	}]
+}

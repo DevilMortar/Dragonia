@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 115.0d,
+	description: "{id:\"ancientspellcraft:charm_evergrowing_crystal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "94d42469",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:charm_evergrowing_crystal"
+		}],
+		consume_items: true
+	}]
+}

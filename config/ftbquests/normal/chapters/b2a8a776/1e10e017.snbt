@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 281.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"extraalchemy:reincarnation_long\"},Damage:0s}",
+	tasks: [{
+		uid: "c465a7fc",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "extraalchemy:reincarnation_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

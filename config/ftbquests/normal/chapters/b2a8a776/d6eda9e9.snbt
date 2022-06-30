@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 298.0d,
+	description: "{id:\"spartanweaponry:crossbow_nickel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e6be3bbb",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:crossbow_nickel"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 368.0d,
+	description: "{id:\"quark:quilted_wool\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "7e55db3b",
+		type: "item",
+		items: [{
+			item: "quark:quilted_wool 1 1"
+		}],
+		consume_items: true
+	}]
+}

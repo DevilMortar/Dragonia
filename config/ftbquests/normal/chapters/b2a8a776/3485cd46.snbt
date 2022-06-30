@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:mithril_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ccf75474",
+		type: "item",
+		items: [{
+			item: "dungeontactics:mithril_block"
+		}],
+		consume_items: true
+	}]
+}

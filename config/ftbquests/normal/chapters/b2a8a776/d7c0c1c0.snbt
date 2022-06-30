@@ -1,0 +1,17 @@
+{
+	x: 28.0d,
+	y: 106.0d,
+	description: "{id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"oliveoil\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "bdaf8fc8",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "oliveoil",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

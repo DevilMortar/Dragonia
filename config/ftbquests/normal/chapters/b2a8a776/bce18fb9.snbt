@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 109.0d,
+	description: "{id:\"ebwizardry:ethereal_crystalweave\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "feb2ebc0",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ethereal_crystalweave"
+		}],
+		consume_items: true
+	}]
+}

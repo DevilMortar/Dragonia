@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 174.0d,
+	description: "{id:\"dungeontactics:fire_water\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "47a884d5",
+		type: "item",
+		items: [{
+			item: "dungeontactics:fire_water"
+		}],
+		consume_items: true
+	}]
+}

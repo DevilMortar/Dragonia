@@ -1,0 +1,18 @@
+{
+	x: 15.0d,
+	y: 124.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"barbarian\",npcType:\"faction.priest\"},Damage:0s}",
+	tasks: [{
+		uid: "baad39f7",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "barbarian",
+				npcType: "faction.priest"
+			}
+		}],
+		consume_items: true
+	}]
+}

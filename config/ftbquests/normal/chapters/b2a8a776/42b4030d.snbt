@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 371.0d,
+	description: "{id:\"quark:golden_frog_leg\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f5985936",
+		type: "item",
+		items: [{
+			item: "quark:golden_frog_leg"
+		}],
+		consume_items: true
+	}]
+}

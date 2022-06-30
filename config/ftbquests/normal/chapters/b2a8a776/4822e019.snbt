@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:rosepetalteaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "22e89f7e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:rosepetalteaitem"
+		}],
+		consume_items: true
+	}]
+}

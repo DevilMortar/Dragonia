@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 152.0d,
+	description: "{id:\"atum:glistering_date\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b67e7114",
+		type: "item",
+		items: [{
+			item: "atum:glistering_date"
+		}],
+		consume_items: true
+	}]
+}

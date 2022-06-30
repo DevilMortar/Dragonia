@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 219.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"cactus\"},Damage:0s}",
+	tasks: [{
+		uid: "5cd84d69",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "cactus"
+			}
+		}],
+		consume_items: true
+	}]
+}

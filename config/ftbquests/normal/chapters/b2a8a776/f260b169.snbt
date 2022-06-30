@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:barakoa_mask_misery\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fca24d57",
+		type: "item",
+		items: [{
+			item: "mowziesmobs:barakoa_mask_misery"
+		}],
+		consume_items: true
+	}]
+}

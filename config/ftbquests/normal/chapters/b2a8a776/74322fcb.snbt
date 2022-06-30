@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 202.0d,
+	description: "{id:\"heroicarmory:terrarianightedge\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "77ae63c1",
+		type: "item",
+		items: [{
+			item: "heroicarmory:terrarianightedge"
+		}],
+		consume_items: true
+	}]
+}

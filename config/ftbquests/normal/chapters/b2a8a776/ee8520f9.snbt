@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 109.0d,
+	description: "{id:\"ebwizardry:wizard_leggings_lightning\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b6904f12",
+		type: "item",
+		items: [{
+			item: "ebwizardry:wizard_leggings_lightning"
+		}],
+		consume_items: true
+	}]
+}

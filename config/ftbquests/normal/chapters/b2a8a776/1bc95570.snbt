@@ -1,0 +1,67 @@
+{
+	x: 27.0d,
+	y: 244.0d,
+	description: "{id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1906,HarvestLevel:4,Attack:4.1f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1906,HarvestLevel:4,Attack:4.1f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ardite\",\"ardite\",\"ardite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"petramor\",color:-3063280,level:1},{identifier:\"stonebound\",color:-3063280,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"petramor\",\"stonebound\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "be3ad5e4",
+		type: "item",
+		items: [{
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 1906,
+					HarvestLevel: 4,
+					Attack: 4.1f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 1906,
+					HarvestLevel: 4,
+					Attack: 4.1f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ardite",
+						"ardite",
+						"ardite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "petramor",
+					color: -3063280,
+					level: 1
+				},
+				{
+					identifier: "stonebound",
+					color: -3063280,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"petramor",
+					"stonebound",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 257.0d,
+	description: "{id:\"randomloot:heavy_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c39021da",
+		type: "item",
+		items: [{
+			item: "randomloot:heavy_helmet"
+		}],
+		consume_items: true
+	}]
+}

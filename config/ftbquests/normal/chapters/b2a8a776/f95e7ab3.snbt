@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 323.0d,
+	description: "{id:\"aether_legacy:neptune_chestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "104c5abc",
+		type: "item",
+		items: [{
+			item: "aether_legacy:neptune_chestplate"
+		}],
+		consume_items: true
+	}]
+}

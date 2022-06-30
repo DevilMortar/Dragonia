@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 60.0d,
+	description: "{id:\"aquaculture:neptunium_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c9a7c778",
+		type: "item",
+		items: [{
+			item: "aquaculture:neptunium_sword"
+		}],
+		consume_items: true
+	}]
+}

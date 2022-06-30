@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 365.0d,
+	description: "{id:\"quark:paper_wall_sakura\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bbf0a644",
+		type: "item",
+		items: [{
+			item: "quark:paper_wall_sakura"
+		}],
+		consume_items: true
+	}]
+}

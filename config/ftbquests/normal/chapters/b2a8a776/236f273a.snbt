@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 292.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"netherex:freezing\"},Damage:0s}",
+	tasks: [{
+		uid: "f7edd85d",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "netherex:freezing"
+			}
+		}],
+		consume_items: true
+	}]
+}

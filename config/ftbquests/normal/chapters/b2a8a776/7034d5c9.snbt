@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 114.0d,
+	description: "{id:\"ebwizardry:charm_storm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d70c0090",
+		type: "item",
+		items: [{
+			item: "ebwizardry:charm_storm"
+		}],
+		consume_items: true
+	}]
+}

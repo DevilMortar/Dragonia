@@ -1,0 +1,21 @@
+{
+	x: 8.0d,
+	y: 260.0d,
+	description: "{id:\"xreliquary:bullet\",Count:1b,tag:{effects:[{duration:300,potency:1,name:\"minecraft:strength\"}]},Damage:1s}",
+	tasks: [{
+		uid: "e80c7b84",
+		type: "item",
+		items: [{
+			id: "xreliquary:bullet",
+			tag: {
+				effects: [{
+					duration: 300,
+					potency: 1,
+					name: "minecraft:strength"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

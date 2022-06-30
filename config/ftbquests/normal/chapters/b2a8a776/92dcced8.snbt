@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 349.0d,
+	description: "{id:\"harvestcraft:coleslawitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cb468225",
+		type: "item",
+		items: [{
+			item: "harvestcraft:coleslawitem"
+		}],
+		consume_items: true
+	}]
+}

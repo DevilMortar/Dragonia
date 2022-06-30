@@ -1,0 +1,18 @@
+{
+	x: 11.0d,
+	y: 309.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"minecraft:taiga\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d3cfbda",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "minecraft:taiga"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

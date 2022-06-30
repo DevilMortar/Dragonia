@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 192.0d,
+	description: "{id:\"iceandfire:dread_knight_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cd85ee35",
+		type: "item",
+		items: [{
+			item: "iceandfire:dread_knight_sword"
+		}],
+		consume_items: true
+	}]
+}

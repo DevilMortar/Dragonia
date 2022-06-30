@@ -1,0 +1,18 @@
+{
+	x: 24.0d,
+	y: 312.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"netherex:torrid_wasteland\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f7a71c2f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "netherex:torrid_wasteland"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

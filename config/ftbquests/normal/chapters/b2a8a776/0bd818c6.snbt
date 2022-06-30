@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:charm_sapping\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ba4843a6",
+		type: "item",
+		items: [{
+			item: "dungeontactics:charm_sapping"
+		}],
+		consume_items: true
+	}]
+}

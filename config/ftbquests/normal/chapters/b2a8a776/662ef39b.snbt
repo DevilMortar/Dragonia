@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 151.0d,
+	description: "{id:\"atum:camel_diamond_armor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7bd1c6b3",
+		type: "item",
+		items: [{
+			item: "atum:camel_diamond_armor"
+		}],
+		consume_items: true
+	}]
+}

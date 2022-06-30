@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:dart\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b1566873",
+		type: "item",
+		items: [{
+			item: "mowziesmobs:dart"
+		}],
+		consume_items: true
+	}]
+}

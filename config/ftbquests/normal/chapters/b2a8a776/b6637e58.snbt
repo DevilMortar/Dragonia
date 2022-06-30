@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 200.0d,
+	description: "{id:\"heroicarmory:kirbykirbyultrasword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a52ec44e",
+		type: "item",
+		items: [{
+			item: "heroicarmory:kirbykirbyultrasword"
+		}],
+		consume_items: true
+	}]
+}

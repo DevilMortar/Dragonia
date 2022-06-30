@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 117.0d,
+	description: "{id:\"ancientwarfare:research_note\",Count:1b,tag:{researchName:\"explosives\"},Damage:0s}",
+	tasks: [{
+		uid: "c254362f",
+		type: "item",
+		items: [{
+			id: "ancientwarfare:research_note",
+			tag: {
+				researchName: "explosives"
+			}
+		}],
+		consume_items: true
+	}]
+}

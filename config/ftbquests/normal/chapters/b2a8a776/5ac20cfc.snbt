@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 294.0d,
+	description: "{id:\"spartanweaponry:throwing_axe_tin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d58dd772",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:throwing_axe_tin"
+		}],
+		consume_items: true
+	}]
+}

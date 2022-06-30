@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 366.0d,
+	description: "{id:\"quark:pirate_hat\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5af7884a",
+		type: "item",
+		items: [{
+			item: "quark:pirate_hat"
+		}],
+		consume_items: true
+	}]
+}

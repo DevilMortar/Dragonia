@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:furchest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bc68ed3f",
+		type: "item",
+		items: [{
+			item: "mocreatures:furchest"
+		}],
+		consume_items: true
+	}]
+}

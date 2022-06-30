@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 297.0d,
+	description: "{id:\"spartanweaponry:crossbow_electrum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7f781992",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:crossbow_electrum"
+		}],
+		consume_items: true
+	}]
+}

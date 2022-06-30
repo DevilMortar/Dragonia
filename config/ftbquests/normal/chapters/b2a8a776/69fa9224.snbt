@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 175.0d,
+	description: "{id:\"dungeontactics:silver_ingot\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "14ff3305",
+		type: "item",
+		items: [{
+			item: "dungeontactics:silver_ingot"
+		}],
+		consume_items: true
+	}]
+}

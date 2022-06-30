@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 333.0d,
+	description: "{id:\"harvestcraft:milletitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9061e913",
+		type: "item",
+		items: [{
+			item: "harvestcraft:milletitem"
+		}],
+		consume_items: true
+	}]
+}

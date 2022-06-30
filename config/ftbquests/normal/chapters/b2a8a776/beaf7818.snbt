@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 216.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"netherrack\"},Damage:0s}",
+	tasks: [{
+		uid: "38a1e25a",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "netherrack"
+			}
+		}],
+		consume_items: true
+	}]
+}

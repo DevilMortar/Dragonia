@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 370.0d,
+	description: "{id:\"quark:stained_planks_blue_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c1168011",
+		type: "item",
+		items: [{
+			item: "quark:stained_planks_blue_slab"
+		}],
+		consume_items: true
+	}]
+}

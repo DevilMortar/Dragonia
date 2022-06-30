@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 291.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"potioncore:strong_bless\"},Damage:0s}",
+	tasks: [{
+		uid: "bfe4a5c1",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "potioncore:strong_bless"
+			}
+		}],
+		consume_items: true
+	}]
+}

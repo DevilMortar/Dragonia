@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 85.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/iron_golem\"},Damage:0s}",
+	tasks: [{
+		uid: "a153ceb8",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/iron_golem"
+			}
+		}],
+		consume_items: true
+	}]
+}

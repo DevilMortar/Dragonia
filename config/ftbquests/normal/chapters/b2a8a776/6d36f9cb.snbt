@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 274.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"minecraft:weakness\"},Damage:0s}",
+	tasks: [{
+		uid: "c5125003",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "minecraft:weakness"
+			}
+		}],
+		consume_items: true
+	}]
+}

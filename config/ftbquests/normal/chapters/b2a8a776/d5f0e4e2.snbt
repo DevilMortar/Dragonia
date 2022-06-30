@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 93.0d,
+	description: "{id:\"atum:tar_trap\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6d63215e",
+		type: "item",
+		items: [{
+			item: "atum:tar_trap"
+		}],
+		consume_items: true
+	}]
+}

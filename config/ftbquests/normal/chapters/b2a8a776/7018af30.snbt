@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 359.0d,
+	description: "{id:\"harvestcraft:takoyakiitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f9039ce",
+		type: "item",
+		items: [{
+			item: "harvestcraft:takoyakiitem"
+		}],
+		consume_items: true
+	}]
+}

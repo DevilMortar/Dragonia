@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:grant_suns_blessing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5f338eab",
+		type: "item",
+		items: [{
+			item: "mowziesmobs:grant_suns_blessing"
+		}],
+		consume_items: true
+	}]
+}

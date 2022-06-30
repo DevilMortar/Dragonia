@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 152.0d,
+	description: "{id:\"atum:ophidian_tongue_flower\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bab09261",
+		type: "item",
+		items: [{
+			item: "atum:ophidian_tongue_flower"
+		}],
+		consume_items: true
+	}]
+}

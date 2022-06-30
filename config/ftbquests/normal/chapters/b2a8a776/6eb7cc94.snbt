@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 363.0d,
+	description: "{id:\"quark:elder_prismarine_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a2130206",
+		type: "item",
+		items: [{
+			item: "quark:elder_prismarine_stairs"
+		}],
+		consume_items: true
+	}]
+}

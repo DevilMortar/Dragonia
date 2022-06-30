@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 376.0d,
+	description: "{id:\"quark:stone_slate_bricks_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "beb9dfe8",
+		type: "item",
+		items: [{
+			item: "quark:stone_slate_bricks_stairs"
+		}],
+		consume_items: true
+	}]
+}

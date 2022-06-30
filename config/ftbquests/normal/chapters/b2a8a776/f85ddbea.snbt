@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 201.0d,
+	description: "{id:\"heroicarmory:mhwyvernbladeleaf\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1d6f4e82",
+		type: "item",
+		items: [{
+			item: "heroicarmory:mhwyvernbladeleaf"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 426.0d,
+	description: "{id:\"tcomplement:chisel_head\",Count:1b,tag:{Material:\"pigiron\"},Damage:0s}",
+	tasks: [{
+		uid: "2c5f6656",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel_head",
+			tag: {
+				Material: "pigiron"
+			}
+		}],
+		consume_items: true
+	}]
+}

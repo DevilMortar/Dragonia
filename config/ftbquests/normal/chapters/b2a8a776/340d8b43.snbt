@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 140.0d,
+	description: "{id:\"ancientwarfarestructure:table\",Count:1b,tag:{variant:\"spruce\"},Damage:0s}",
+	tasks: [{
+		uid: "ece0833e",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:table",
+			tag: {
+				variant: "spruce"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 343.0d,
+	description: "{id:\"harvestcraft:summersquashwithradishitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "981e14fa",
+		type: "item",
+		items: [{
+			item: "harvestcraft:summersquashwithradishitem"
+		}],
+		consume_items: true
+	}]
+}

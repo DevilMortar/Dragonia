@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 278.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"potioncore:strong_vulnerable\"},Damage:0s}",
+	tasks: [{
+		uid: "bc7db815",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "potioncore:strong_vulnerable"
+			}
+		}],
+		consume_items: true
+	}]
+}

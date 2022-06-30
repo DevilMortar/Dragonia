@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 344.0d,
+	description: "{id:\"harvestcraft:powdereddonutitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "16dc4cab",
+		type: "item",
+		items: [{
+			item: "harvestcraft:powdereddonutitem"
+		}],
+		consume_items: true
+	}]
+}

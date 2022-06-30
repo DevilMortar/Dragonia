@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 348.0d,
+	description: "{id:\"harvestcraft:baconwrappeddatesitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "da19d6d5",
+		type: "item",
+		items: [{
+			item: "harvestcraft:baconwrappeddatesitem"
+		}],
+		consume_items: true
+	}]
+}

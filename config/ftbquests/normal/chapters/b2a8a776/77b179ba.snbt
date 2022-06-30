@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 9.0d,
+	description: "{id:\"minecraft:iron_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d89a312",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_sword"
+		}],
+		consume_items: true
+	}]
+}

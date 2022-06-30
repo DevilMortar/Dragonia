@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 286.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"quark:resilience\"},Damage:0s}",
+	tasks: [{
+		uid: "e8385b4b",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "quark:resilience"
+			}
+		}],
+		consume_items: true
+	}]
+}

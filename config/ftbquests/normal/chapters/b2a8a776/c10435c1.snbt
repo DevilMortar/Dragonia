@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 180.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:crumbling_long\"},Damage:0s}",
+	tasks: [{
+		uid: "a7a86a67",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:crumbling_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

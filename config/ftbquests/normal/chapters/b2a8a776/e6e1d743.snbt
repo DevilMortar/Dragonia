@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 98.0d,
+	description: "{id:\"atum:crystal_lime_stained_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fc023b9a",
+		type: "item",
+		items: [{
+			item: "atum:crystal_lime_stained_glass"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 58.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"netherex:dispersal\"},Damage:0s}",
+	tasks: [{
+		uid: "d0a51686",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "netherex:dispersal"
+			}
+		}],
+		consume_items: true
+	}]
+}

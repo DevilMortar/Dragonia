@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 304.0d,
+	description: "{id:\"spartanshields:shield_abyssalcraft_ethaxium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e8f06eb3",
+		type: "item",
+		items: [{
+			item: "spartanshields:shield_abyssalcraft_ethaxium"
+		}],
+		consume_items: true
+	}]
+}

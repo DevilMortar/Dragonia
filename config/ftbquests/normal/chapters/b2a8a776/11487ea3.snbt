@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 119.0d,
+	description: "{id:\"ancientwarfareautomation:windmill_blade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "78814b78",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:windmill_blade"
+		}],
+		consume_items: true
+	}]
+}

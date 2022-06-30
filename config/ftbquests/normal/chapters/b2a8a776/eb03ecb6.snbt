@@ -1,0 +1,18 @@
+{
+	x: 14.0d,
+	y: 128.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"vampire\",npcType:\"faction.civilian.male\"},Damage:0s}",
+	tasks: [{
+		uid: "5566af9f",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "vampire",
+				npcType: "faction.civilian.male"
+			}
+		}],
+		consume_items: true
+	}]
+}

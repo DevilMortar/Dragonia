@@ -1,0 +1,18 @@
+{
+	x: 38.0d,
+	y: 25.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"iceandfire:hippocampus\"}},Damage:0s}",
+	tasks: [{
+		uid: "2d206fc0",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "iceandfire:hippocampus"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

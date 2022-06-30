@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 332.0d,
+	description: "{id:\"harvestcraft:flaxitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "87f93e2d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:flaxitem"
+		}],
+		consume_items: true
+	}]
+}

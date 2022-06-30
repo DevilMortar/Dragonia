@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 155.0d,
+	description: "{id:\"bibliocraft:fancysign\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "9e47dad7",
+		type: "item",
+		items: [{
+			item: "bibliocraft:fancysign 1 1"
+		}],
+		consume_items: true
+	}]
+}

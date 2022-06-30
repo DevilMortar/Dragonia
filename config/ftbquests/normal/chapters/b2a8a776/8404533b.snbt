@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 349.0d,
+	description: "{id:\"harvestcraft:batteredsausageitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4fd78cc5",
+		type: "item",
+		items: [{
+			item: "harvestcraft:batteredsausageitem"
+		}],
+		consume_items: true
+	}]
+}

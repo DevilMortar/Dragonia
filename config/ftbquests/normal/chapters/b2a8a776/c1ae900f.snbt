@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 94.0d,
+	description: "{id:\"atum:emerald_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1dcb07fe",
+		type: "item",
+		items: [{
+			item: "atum:emerald_ore"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 39.0d,
+	description: "{id:\"minecraft:birch_door\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3ff46f49",
+		type: "item",
+		items: [{
+			item: "minecraft:birch_door"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 366.0d,
+	description: "{id:\"quark:rope\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "68392d75",
+		type: "item",
+		items: [{
+			item: "quark:rope"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 89.0d,
+	description: "{id:\"rustic:clay_wall_cross\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a2097621",
+		type: "item",
+		items: [{
+			item: "rustic:clay_wall_cross"
+		}],
+		consume_items: true
+	}]
+}

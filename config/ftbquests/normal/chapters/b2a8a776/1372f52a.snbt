@@ -1,0 +1,19 @@
+{
+	x: 26.0d,
+	y: 37.0d,
+	description: "{id:\"minecraft:enchanted_book\",Count:1b,tag:{StoredEnchantments:[{lvl:1s,id:154}]},Damage:0s}",
+	tasks: [{
+		uid: "b7e22429",
+		type: "item",
+		items: [{
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1s,
+					id: 154
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

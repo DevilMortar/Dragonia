@@ -1,0 +1,54 @@
+{
+	x: 0.0d,
+	y: 133.0d,
+	description: "{id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:5,Defense:0.5f},Stats:{Toughness:0.0f,FreeModifiers:5,Durability:5,Defense:0.5f},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"writable2\",\"writable1\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "35d62a31",
+		type: "item",
+		items: [{
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 5,
+					Defense: 0.5f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 5,
+					Durability: 5,
+					Defense: 0.5f
+				},
+				TinkerData: {
+					Materials: [
+						"paper",
+						"paper",
+						"paper"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "writable",
+					color: -1,
+					level: 2,
+					writable2: 1b,
+					writable1: 1b
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"writable2",
+					"writable1",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

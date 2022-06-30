@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 294.0d,
+	description: "{id:\"spartanweaponry:rapier_tin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fa8a76a4",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:rapier_tin"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"flint\"},Damage:0s}",
+	tasks: [{
+		uid: "355503e9",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "flint"
+			}
+		}],
+		consume_items: true
+	}]
+}

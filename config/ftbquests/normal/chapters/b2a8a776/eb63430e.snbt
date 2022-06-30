@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 216.0d,
+	description: "{id:\"tconstruct:broad_axe_head\",Count:1b,tag:{Material:\"flint\"},Damage:0s}",
+	tasks: [{
+		uid: "5228f1de",
+		type: "item",
+		items: [{
+			id: "tconstruct:broad_axe_head",
+			tag: {
+				Material: "flint"
+			}
+		}],
+		consume_items: true
+	}]
+}

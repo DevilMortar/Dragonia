@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:lozbokoclub\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "07cc34ca",
+		type: "item",
+		items: [{
+			item: "heroicarmory:lozbokoclub"
+		}],
+		consume_items: true
+	}]
+}

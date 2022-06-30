@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 347.0d,
+	description: "{id:\"harvestcraft:pecanpieitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f698db9d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pecanpieitem"
+		}],
+		consume_items: true
+	}]
+}

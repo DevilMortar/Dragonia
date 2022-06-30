@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 316.0d,
+	description: "{id:\"tombstone:crafting_ingredient\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "ada08086",
+		type: "item",
+		items: [{
+			item: "tombstone:crafting_ingredient 1 1"
+		}],
+		consume_items: true
+	}]
+}

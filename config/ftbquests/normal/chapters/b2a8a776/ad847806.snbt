@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:charm_move_speed\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0a83c11f",
+		type: "item",
+		items: [{
+			item: "ebwizardry:charm_move_speed"
+		}],
+		consume_items: true
+	}]
+}

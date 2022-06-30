@@ -1,0 +1,20 @@
+{
+	x: 8.0d,
+	y: 134.0d,
+	description: "{id:\"conarm:armorforge\",Count:1b,tag:{textureBlock:{id:\"chisel:blocksilver\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "dd644225",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "chisel:blocksilver",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

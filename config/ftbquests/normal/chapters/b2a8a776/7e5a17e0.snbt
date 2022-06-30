@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:spa\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1f8a4775",
+		type: "item",
+		items: [{
+			item: "thaumcraft:spa"
+		}],
+		consume_items: true
+	}]
+}

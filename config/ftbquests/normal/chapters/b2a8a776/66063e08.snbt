@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 88.0d,
+	description: "{id:\"reccomplex:inventory_generation_component_tag\",Count:1b,tag:{itemCollectionKey:\"TribalChest\"},Damage:0s}",
+	tasks: [{
+		uid: "ad5b0912",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_component_tag",
+			tag: {
+				itemCollectionKey: "TribalChest"
+			}
+		}],
+		consume_items: true
+	}]
+}

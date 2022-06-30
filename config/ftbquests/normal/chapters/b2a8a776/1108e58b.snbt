@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 281.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"extraalchemy:charged2_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "fa72d6e6",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "extraalchemy:charged2_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

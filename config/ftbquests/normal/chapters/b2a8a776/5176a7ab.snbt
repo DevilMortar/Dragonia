@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 68.0d,
+	description: "{id:\"biomesoplenty:jacaranda_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5f20dbfc",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:jacaranda_stairs"
+		}],
+		consume_items: true
+	}]
+}

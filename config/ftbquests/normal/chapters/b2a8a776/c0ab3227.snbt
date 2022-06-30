@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 209.0d,
+	description: "{id:\"tconstruct:lavawood_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0aa9d249",
+		type: "item",
+		items: [{
+			item: "tconstruct:lavawood_stairs"
+		}],
+		consume_items: true
+	}]
+}

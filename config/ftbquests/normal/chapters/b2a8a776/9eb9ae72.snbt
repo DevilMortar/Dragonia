@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 103.0d,
+	description: "{id:\"thaumcraft:table_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "280d744e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:table_stone"
+		}],
+		consume_items: true
+	}]
+}

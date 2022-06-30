@@ -1,0 +1,18 @@
+{
+	x: 39.0d,
+	y: 26.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"moremobss:skeleshroom\"}},Damage:0s}",
+	tasks: [{
+		uid: "bb32eb30",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "moremobss:skeleshroom"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

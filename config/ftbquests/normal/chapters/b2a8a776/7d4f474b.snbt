@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 203.0d,
+	description: "{id:\"megaloot:upgradecharm_epic\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "402f6aed",
+		type: "item",
+		items: [{
+			item: "megaloot:upgradecharm_epic"
+		}],
+		consume_items: true
+	}]
+}

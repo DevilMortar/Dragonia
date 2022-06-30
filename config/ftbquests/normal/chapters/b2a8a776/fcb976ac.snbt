@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 230.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"netherrack\"},Damage:0s}",
+	tasks: [{
+		uid: "54a8894b",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "netherrack"
+			}
+		}],
+		consume_items: true
+	}]
+}

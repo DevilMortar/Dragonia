@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 69.0d,
+	description: "{id:\"biomesoplenty:umbran_door\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "166aaf58",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:umbran_door"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 5.0d,
+	y: 93.0d,
+	description: "{id:\"rustic:elixir\",Count:1b,tag:{ElixirEffects:[{Effect:\"rustic:feather\",Duration:3600,Amplifier:0}]},Damage:0s}",
+	tasks: [{
+		uid: "59e64a79",
+		type: "item",
+		items: [{
+			id: "rustic:elixir",
+			tag: {
+				ElixirEffects: [{
+					Effect: "rustic:feather",
+					Duration: 3600,
+					Amplifier: 0
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

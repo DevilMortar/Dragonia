@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 320.0d,
+	description: "{id:\"aether_legacy:ambrosium_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f56832c0",
+		type: "item",
+		items: [{
+			item: "aether_legacy:ambrosium_ore"
+		}],
+		consume_items: true
+	}]
+}

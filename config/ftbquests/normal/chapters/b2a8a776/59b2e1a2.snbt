@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 103.0d,
+	description: "{id:\"thaumcraft:pedestal_eldritch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9df5bf88",
+		type: "item",
+		items: [{
+			item: "thaumcraft:pedestal_eldritch"
+		}],
+		consume_items: true
+	}]
+}

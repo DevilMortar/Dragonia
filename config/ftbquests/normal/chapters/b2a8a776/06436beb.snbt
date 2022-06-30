@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 107.0d,
+	description: "{id:\"ebwizardry:gilded_wood\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "c4316f9e",
+		type: "item",
+		items: [{
+			item: "ebwizardry:gilded_wood 1 5"
+		}],
+		consume_items: true
+	}]
+}

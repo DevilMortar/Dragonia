@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 259.0d,
+	description: "{id:\"xreliquary:midas_touchstone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1fe17c22",
+		type: "item",
+		items: [{
+			item: "xreliquary:midas_touchstone"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 151.0d,
+	description: "{id:\"atum:mummy_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4fef451c",
+		type: "item",
+		items: [{
+			item: "atum:mummy_helmet"
+		}],
+		consume_items: true
+	}]
+}

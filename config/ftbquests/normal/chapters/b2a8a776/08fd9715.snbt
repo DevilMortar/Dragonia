@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 269.0d,
+	description: "{id:\"xreliquary:wraith_node\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5a34ea43",
+		type: "item",
+		items: [{
+			item: "xreliquary:wraith_node"
+		}],
+		consume_items: true
+	}]
+}

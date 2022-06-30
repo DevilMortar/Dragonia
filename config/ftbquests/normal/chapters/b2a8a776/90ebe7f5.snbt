@@ -1,0 +1,67 @@
+{
+	x: 15.0d,
+	y: 244.0d,
+	description: "{id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:412,HarvestLevel:3,Attack:3.73f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:412,HarvestLevel:3,Attack:3.73f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"enderference\",\"alien\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a6d618d2",
+		type: "item",
+		items: [{
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.23f,
+					FreeModifiers: 3,
+					Durability: 412,
+					HarvestLevel: 3,
+					Attack: 3.73f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.23f,
+					FreeModifiers: 3,
+					Durability: 412,
+					HarvestLevel: 3,
+					Attack: 3.73f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"endstone",
+						"endstone",
+						"endstone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "enderference",
+					color: -2041712,
+					level: 1
+				},
+				{
+					identifier: "alien",
+					color: -2041712,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"enderference",
+					"alien",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 47.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"extraalchemy:magnetism_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "a701ed5e",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "extraalchemy:magnetism_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 29.0d,
+	y: 128.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"zimba\",npcType:\"faction.civilian.male\"},Damage:0s}",
+	tasks: [{
+		uid: "00ab3bcd",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "zimba",
+				npcType: "faction.civilian.male"
+			}
+		}],
+		consume_items: true
+	}]
+}

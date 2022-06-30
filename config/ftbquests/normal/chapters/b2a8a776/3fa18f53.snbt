@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 335.0d,
+	description: "{id:\"harvestcraft:hazelnutitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ec4ce97d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:hazelnutitem"
+		}],
+		consume_items: true
+	}]
+}

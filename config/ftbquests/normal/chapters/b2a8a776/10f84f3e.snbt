@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 42.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"extraalchemy:leech_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "72c03958",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "extraalchemy:leech_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

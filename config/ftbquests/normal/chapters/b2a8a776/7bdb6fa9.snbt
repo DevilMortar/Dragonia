@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 339.0d,
+	description: "{id:\"harvestcraft:potatosaladitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "920866a6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:potatosaladitem"
+		}],
+		consume_items: true
+	}]
+}

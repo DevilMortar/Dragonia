@@ -1,0 +1,17 @@
+{
+	x: 32.0d,
+	y: 122.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",npcType:\"bard\"},Damage:0s}",
+	tasks: [{
+		uid: "a5aad61e",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				npcType: "bard"
+			}
+		}],
+		consume_items: true
+	}]
+}

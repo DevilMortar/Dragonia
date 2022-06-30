@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:fan_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8f3554df",
+		type: "item",
+		items: [{
+			item: "dungeontactics:fan_block"
+		}],
+		consume_items: true
+	}]
+}

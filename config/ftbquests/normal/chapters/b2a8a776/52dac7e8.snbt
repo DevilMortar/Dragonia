@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 96.0d,
+	description: "{id:\"atum:porphyry_smooth_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "781de801",
+		type: "item",
+		items: [{
+			item: "atum:porphyry_smooth_slab"
+		}],
+		consume_items: true
+	}]
+}

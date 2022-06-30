@@ -1,0 +1,18 @@
+{
+	x: 6.0d,
+	y: 26.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"iceandfire:myrmex_royal\"}},Damage:0s}",
+	tasks: [{
+		uid: "342ebd30",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "iceandfire:myrmex_royal"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

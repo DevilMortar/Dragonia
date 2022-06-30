@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 196.0d,
+	description: "{id:\"heroicarmory:lozkokiriswordoot\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4cd839b5",
+		type: "item",
+		items: [{
+			item: "heroicarmory:lozkokiriswordoot"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 206.0d,
+	description: "{id:\"netherex:ichor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c323edf4",
+		type: "item",
+		items: [{
+			item: "netherex:ichor"
+		}],
+		consume_items: true
+	}]
+}

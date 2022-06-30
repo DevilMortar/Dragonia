@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 288.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"extraalchemy:learning_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "47eca799",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "extraalchemy:learning_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

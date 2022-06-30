@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 160.0d,
+	description: "{id:\"thaumcraft:mechanism_complex\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "077a3126",
+		type: "item",
+		items: [{
+			item: "thaumcraft:mechanism_complex"
+		}],
+		consume_items: true
+	}]
+}

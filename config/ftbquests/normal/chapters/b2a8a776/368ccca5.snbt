@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 331.0d,
+	description: "{id:\"harvestcraft:scallionitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ab02d271",
+		type: "item",
+		items: [{
+			item: "harvestcraft:scallionitem"
+		}],
+		consume_items: true
+	}]
+}

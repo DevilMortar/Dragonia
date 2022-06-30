@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 388.0d,
+	description: "{id:\"chisel:stonebrick\",Count:1b,Damage:9s}",
+	tasks: [{
+		uid: "5237ed22",
+		type: "item",
+		items: [{
+			item: "chisel:stonebrick 1 9"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:wither_web\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8b24158c",
+		type: "item",
+		items: [{
+			item: "dungeontactics:wither_web"
+		}],
+		consume_items: true
+	}]
+}

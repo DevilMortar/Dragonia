@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 9.0d,
+	description: "{id:\"minecraft:iron_axe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "583e6179",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_axe"
+		}],
+		consume_items: true
+	}]
+}

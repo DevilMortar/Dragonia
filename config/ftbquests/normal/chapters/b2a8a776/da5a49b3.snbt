@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:loot_crate_uncommon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f798ce9f",
+		type: "item",
+		items: [{
+			item: "thaumcraft:loot_crate_uncommon"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 404.0d,
+	description: "{id:\"chisel:lapis\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "2c27536a",
+		type: "item",
+		items: [{
+			item: "chisel:lapis 1 1"
+		}],
+		consume_items: true
+	}]
+}

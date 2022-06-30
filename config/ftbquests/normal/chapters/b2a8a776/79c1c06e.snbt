@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 117.0d,
+	description: "{id:\"ancientwarfare:research_note\",Count:1b,tag:{researchName:\"invention\"},Damage:0s}",
+	tasks: [{
+		uid: "459db9ad",
+		type: "item",
+		items: [{
+			id: "ancientwarfare:research_note",
+			tag: {
+				researchName: "invention"
+			}
+		}],
+		consume_items: true
+	}]
+}

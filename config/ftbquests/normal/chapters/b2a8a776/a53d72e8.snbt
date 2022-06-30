@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 300.0d,
+	description: "{id:\"spartanfire:longsword_ice_dragonbone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "856d0f7f",
+		type: "item",
+		items: [{
+			item: "spartanfire:longsword_ice_dragonbone"
+		}],
+		consume_items: true
+	}]
+}

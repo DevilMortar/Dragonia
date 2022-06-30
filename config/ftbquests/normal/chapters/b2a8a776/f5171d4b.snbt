@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 307.0d,
+	description: "{id:\"thaumicaugmentation:pressure_plate_greatwood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8ce822d0",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:pressure_plate_greatwood"
+		}],
+		consume_items: true
+	}]
+}

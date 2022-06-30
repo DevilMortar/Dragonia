@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 221.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"pigiron\"},Damage:0s}",
+	tasks: [{
+		uid: "4a4be3fe",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "pigiron"
+			}
+		}],
+		consume_items: true
+	}]
+}

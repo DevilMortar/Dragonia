@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 170.0d,
+	description: "{id:\"dungeontactics:master_knife_smokebomb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c752b27a",
+		type: "item",
+		items: [{
+			item: "dungeontactics:master_knife_smokebomb"
+		}],
+		consume_items: true
+	}]
+}

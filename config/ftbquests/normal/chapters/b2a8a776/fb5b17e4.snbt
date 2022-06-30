@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 120.0d,
+	description: "{id:\"ancientwarfarenpc:stone_shield\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "57872ad5",
+		type: "item",
+		items: [{
+			item: "ancientwarfarenpc:stone_shield"
+		}],
+		consume_items: true
+	}]
+}

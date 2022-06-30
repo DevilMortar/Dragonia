@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 275.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"extraalchemy:charged_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "fbaa09d5",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "extraalchemy:charged_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

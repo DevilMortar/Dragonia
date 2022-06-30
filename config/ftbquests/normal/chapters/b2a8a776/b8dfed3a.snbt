@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 79.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"primitivemobs:entities/harpy\"},Damage:0s}",
+	tasks: [{
+		uid: "90133061",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "primitivemobs:entities/harpy"
+			}
+		}],
+		consume_items: true
+	}]
+}

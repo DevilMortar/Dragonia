@@ -1,0 +1,57 @@
+{
+	x: 14.0d,
+	y: 133.0d,
+	description: "{id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:4.5f,FreeModifiers:3,Durability:341,Defense:18.4f},Stats:{Toughness:5.4f,FreeModifiers:3,Durability:341,Defense:22.08f},TinkerData:{Materials:[\"steel\",\"steel\",\"steel\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"steady_armor\",color:-5789785,level:1},{identifier:\"indomitable_armor\",color:-5789785,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"steady_armor\",\"indomitable_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "8f75c173",
+		type: "item",
+		items: [{
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 4.5f,
+					FreeModifiers: 3,
+					Durability: 341,
+					Defense: 18.4f
+				},
+				Stats: {
+					Toughness: 5.4f,
+					FreeModifiers: 3,
+					Durability: 341,
+					Defense: 22.08f
+				},
+				TinkerData: {
+					Materials: [
+						"steel",
+						"steel",
+						"steel"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "steady_armor",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "indomitable_armor",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"steady_armor",
+					"indomitable_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

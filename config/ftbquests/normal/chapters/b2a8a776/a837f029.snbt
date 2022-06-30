@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 203.0d,
+	description: "{id:\"heroicarmory:swdarthmaullightsaber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3f2b2ad8",
+		type: "item",
+		items: [{
+			item: "heroicarmory:swdarthmaullightsaber"
+		}],
+		consume_items: true
+	}]
+}

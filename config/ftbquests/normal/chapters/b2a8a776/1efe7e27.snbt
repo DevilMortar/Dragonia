@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 347.0d,
+	description: "{id:\"harvestcraft:ovenroastedcaulifloweritem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4817d1aa",
+		type: "item",
+		items: [{
+			item: "harvestcraft:ovenroastedcaulifloweritem"
+		}],
+		consume_items: true
+	}]
+}

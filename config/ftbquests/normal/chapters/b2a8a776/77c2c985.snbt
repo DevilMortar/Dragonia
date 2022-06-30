@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 87.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"zettaimagic:chests/zettai_items\"},Damage:0s}",
+	tasks: [{
+		uid: "f05e5d8b",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "zettaimagic:chests/zettai_items"
+			}
+		}],
+		consume_items: true
+	}]
+}

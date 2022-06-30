@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 43.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"potioncore:strong_health_boost\"},Damage:0s}",
+	tasks: [{
+		uid: "e8e71285",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "potioncore:strong_health_boost"
+			}
+		}],
+		consume_items: true
+	}]
+}

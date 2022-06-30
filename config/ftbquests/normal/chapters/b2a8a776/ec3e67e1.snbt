@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 103.0d,
+	description: "{ForgeCaps:{\"thaumicaugmentation:elytra_harness_augment\":{}},id:\"thaumcraft:banner_yellow\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3068579e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"thaumicaugmentation:elytra_harness_augment": {}
+			},
+			id: "thaumcraft:banner_yellow"
+		}],
+		consume_items: true
+	}]
+}

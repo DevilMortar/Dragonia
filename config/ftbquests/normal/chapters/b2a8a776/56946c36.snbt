@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 205.0d,
+	description: "{id:\"netherex:fiery_netherrack\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8a322fdb",
+		type: "item",
+		items: [{
+			item: "netherex:fiery_netherrack"
+		}],
+		consume_items: true
+	}]
+}

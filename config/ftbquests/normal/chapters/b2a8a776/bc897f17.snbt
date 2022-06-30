@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 74.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"UnderwaterShrine\"},Damage:0s}",
+	tasks: [{
+		uid: "54966911",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "UnderwaterShrine"
+			}
+		}],
+		consume_items: true
+	}]
+}

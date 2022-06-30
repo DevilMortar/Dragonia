@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:sesameballitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1de328b5",
+		type: "item",
+		items: [{
+			item: "harvestcraft:sesameballitem"
+		}],
+		consume_items: true
+	}]
+}

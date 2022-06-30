@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 341.0d,
+	description: "{id:\"harvestcraft:extremechiliitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f852e96c",
+		type: "item",
+		items: [{
+			item: "harvestcraft:extremechiliitem"
+		}],
+		consume_items: true
+	}]
+}

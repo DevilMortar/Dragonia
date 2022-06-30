@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 315.0d,
+	description: "{id:\"tcomplement:scorched_stairs_creeper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fdbd6fe2",
+		type: "item",
+		items: [{
+			item: "tcomplement:scorched_stairs_creeper"
+		}],
+		consume_items: true
+	}]
+}

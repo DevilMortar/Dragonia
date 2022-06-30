@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 205.0d,
+	description: "{id:\"netherex:soul_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ecdd6436",
+		type: "item",
+		items: [{
+			item: "netherex:soul_glass"
+		}],
+		consume_items: true
+	}]
+}

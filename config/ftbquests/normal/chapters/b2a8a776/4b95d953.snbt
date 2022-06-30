@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 327.0d,
+	description: "{id:\"charm:record_creative3\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ed16b0bf",
+		type: "item",
+		items: [{
+			item: "charm:record_creative3"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 150.0d,
+	description: "{id:\"atum:tefnuts_blessing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dcc42dc5",
+		type: "item",
+		items: [{
+			item: "atum:tefnuts_blessing"
+		}],
+		consume_items: true
+	}]
+}

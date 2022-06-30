@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 159.0d,
+	description: "{id:\"thaumcraft:curio\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "6915b652",
+		type: "item",
+		items: [{
+			item: "thaumcraft:curio 1 2"
+		}],
+		consume_items: true
+	}]
+}

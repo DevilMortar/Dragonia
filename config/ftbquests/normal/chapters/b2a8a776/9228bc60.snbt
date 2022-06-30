@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 277.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"potioncore:recoil\"},Damage:0s}",
+	tasks: [{
+		uid: "79161fee",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "potioncore:recoil"
+			}
+		}],
+		consume_items: true
+	}]
+}

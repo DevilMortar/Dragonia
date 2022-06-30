@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 371.0d,
+	description: "{id:\"quark:stained_clay_tiles_purple_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7e8b8750",
+		type: "item",
+		items: [{
+			item: "quark:stained_clay_tiles_purple_slab"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 15.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extraalchemy:learning_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "7907bd65",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extraalchemy:learning_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

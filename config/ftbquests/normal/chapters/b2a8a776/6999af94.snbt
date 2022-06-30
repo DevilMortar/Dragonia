@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 112.0d,
+	description: "{id:\"ebwizardry:ring_siphoning\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c1d6c185",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_siphoning"
+		}],
+		consume_items: true
+	}]
+}

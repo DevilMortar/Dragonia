@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:leaves_silverwood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "26085a11",
+		type: "item",
+		items: [{
+			item: "thaumcraft:leaves_silverwood"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 165.0d,
+	description: "{id:\"thaumcraft:baubles\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "c06b8f4b",
+		type: "item",
+		items: [{
+			item: "thaumcraft:baubles 1 3"
+		}],
+		consume_items: true
+	}]
+}

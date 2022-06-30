@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 310.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"minecraft:extreme_hills_with_trees\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a0f7f23d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "minecraft:extreme_hills_with_trees"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 15.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:saturation\"},Damage:0s}",
+	tasks: [{
+		uid: "e1976cb0",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:saturation"
+			}
+		}],
+		consume_items: true
+	}]
+}

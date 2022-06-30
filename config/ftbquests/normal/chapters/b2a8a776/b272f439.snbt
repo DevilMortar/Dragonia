@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 425.0d,
+	description: "{id:\"tcomplement:chisel_head\",Count:1b,tag:{Material:\"endstone\"},Damage:0s}",
+	tasks: [{
+		uid: "0c4ab75e",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel_head",
+			tag: {
+				Material: "endstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

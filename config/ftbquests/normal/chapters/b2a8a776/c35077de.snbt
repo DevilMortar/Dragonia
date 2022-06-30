@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 199.0d,
+	description: "{id:\"heroicarmory:rsgranitemaul\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8a6b521d",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rsgranitemaul"
+		}],
+		consume_items: true
+	}]
+}

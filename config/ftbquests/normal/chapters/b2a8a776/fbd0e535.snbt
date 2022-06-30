@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 338.0d,
+	description: "{id:\"harvestcraft:freshmilkitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1d7e4843",
+		type: "item",
+		items: [{
+			item: "harvestcraft:freshmilkitem"
+		}],
+		consume_items: true
+	}]
+}

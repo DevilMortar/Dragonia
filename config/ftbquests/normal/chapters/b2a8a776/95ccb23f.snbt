@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 298.0d,
+	description: "{id:\"spartanweaponry:mace_nickel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ace1a0b4",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:mace_nickel"
+		}],
+		consume_items: true
+	}]
+}

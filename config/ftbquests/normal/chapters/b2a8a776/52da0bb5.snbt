@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 313.0d,
+	description: "{id:\"thaumicaugmentation:focus_ancient\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "226860f4",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:focus_ancient"
+		}],
+		consume_items: true
+	}]
+}

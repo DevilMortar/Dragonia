@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 303.0d,
+	description: "{id:\"spartanshields:shield_basic_diamond\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "45332136",
+		type: "item",
+		items: [{
+			item: "spartanshields:shield_basic_diamond"
+		}],
+		consume_items: true
+	}]
+}

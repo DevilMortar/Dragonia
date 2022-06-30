@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 343.0d,
+	description: "{id:\"harvestcraft:spicymustardporkitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "183f7a2d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:spicymustardporkitem"
+		}],
+		consume_items: true
+	}]
+}

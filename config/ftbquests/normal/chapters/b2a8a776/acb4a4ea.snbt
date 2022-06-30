@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:sausagerollitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a19ff3c3",
+		type: "item",
+		items: [{
+			item: "harvestcraft:sausagerollitem"
+		}],
+		consume_items: true
+	}]
+}

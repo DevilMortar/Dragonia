@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"pigiron\"},Damage:0s}",
+	tasks: [{
+		uid: "c27ef273",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "pigiron"
+			}
+		}],
+		consume_items: true
+	}]
+}

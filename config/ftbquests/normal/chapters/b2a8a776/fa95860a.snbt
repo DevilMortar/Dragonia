@@ -1,0 +1,20 @@
+{
+	x: 10.0d,
+	y: 268.0d,
+	description: "{id:\"xreliquary:tipped_arrow\",Count:1b,tag:{effects:[{duration:218,potency:0,name:\"minecraft:jump_boost\"}]},Damage:0s}",
+	tasks: [{
+		uid: "01cab653",
+		type: "item",
+		items: [{
+			id: "xreliquary:tipped_arrow",
+			tag: {
+				effects: [{
+					duration: 218,
+					potency: 0,
+					name: "minecraft:jump_boost"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

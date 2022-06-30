@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 272.0d,
+	description: "{id:\"spartanweaponry:longbow_wood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "016a1755",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:longbow_wood"
+		}],
+		consume_items: true
+	}]
+}

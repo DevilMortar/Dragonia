@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 205.0d,
+	description: "{id:\"netherex:lively_netherrack_path\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a7efe6c5",
+		type: "item",
+		items: [{
+			item: "netherex:lively_netherrack_path"
+		}],
+		consume_items: true
+	}]
+}

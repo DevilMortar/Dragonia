@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 346.0d,
+	description: "{id:\"harvestcraft:cherrysodaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0d13f3e1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cherrysodaitem"
+		}],
+		consume_items: true
+	}]
+}

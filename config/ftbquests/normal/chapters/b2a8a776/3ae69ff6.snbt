@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 345.0d,
+	description: "{id:\"harvestcraft:mixedsaladitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "584fb5ed",
+		type: "item",
+		items: [{
+			item: "harvestcraft:mixedsaladitem"
+		}],
+		consume_items: true
+	}]
+}

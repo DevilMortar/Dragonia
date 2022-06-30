@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 290.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"potioncore:strong_repair\"},Damage:0s}",
+	tasks: [{
+		uid: "f10fac57",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "potioncore:strong_repair"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:condenser_lattice_dirty\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "715e8460",
+		type: "item",
+		items: [{
+			item: "thaumcraft:condenser_lattice_dirty"
+		}],
+		consume_items: true
+	}]
+}

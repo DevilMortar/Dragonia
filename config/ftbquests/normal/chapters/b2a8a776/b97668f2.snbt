@@ -1,0 +1,11 @@
+{
+	x: 20.0d,
+	y: 195.0d,
+	description: "{id:\"itemfilters:missing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "30cf0f58",
+		type: "item",
+		items: [],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 20.0d,
+	y: 122.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"soldier\",npcType:\"combat\"},Damage:0s}",
+	tasks: [{
+		uid: "0a0a306a",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "soldier",
+				npcType: "combat"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 206.0d,
+	description: "{id:\"netherex:quartz_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "51894353",
+		type: "item",
+		items: [{
+			item: "netherex:quartz_ore"
+		}],
+		consume_items: true
+	}]
+}

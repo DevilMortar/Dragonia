@@ -1,0 +1,18 @@
+{
+	x: 6.0d,
+	y: 310.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"ancientspellcraft:pocket\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5c21a784",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "ancientspellcraft:pocket"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

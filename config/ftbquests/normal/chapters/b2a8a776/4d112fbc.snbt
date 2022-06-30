@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 307.0d,
+	description: "{id:\"thaumicaugmentation:warded_pressure_plate_silverwood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "961a2946",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:warded_pressure_plate_silverwood"
+		}],
+		consume_items: true
+	}]
+}

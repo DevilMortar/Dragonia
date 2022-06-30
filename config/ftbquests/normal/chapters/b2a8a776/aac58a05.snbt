@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 172.0d,
+	description: "{id:\"dungeontactics:potshot_ammo\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "30f5347b",
+		type: "item",
+		items: [{
+			item: "dungeontactics:potshot_ammo"
+		}],
+		consume_items: true
+	}]
+}

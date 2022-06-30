@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 149.0d,
+	description: "{id:\"atum:loot_silver_ring\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8384a2e1",
+		type: "item",
+		items: [{
+			item: "atum:loot_silver_ring"
+		}],
+		consume_items: true
+	}]
+}

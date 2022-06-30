@@ -1,0 +1,19 @@
+{
+	x: 8.0d,
+	y: 92.0d,
+	description: "{id:\"rustic:fluid_bottle\",Count:1b,tag:{Fluid:{FluidName:\"applejuice\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "280f777b",
+		type: "item",
+		items: [{
+			id: "rustic:fluid_bottle",
+			tag: {
+				Fluid: {
+					FluidName: "applejuice",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

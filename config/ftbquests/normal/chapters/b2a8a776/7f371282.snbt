@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 144.0d,
+	description: "{id:\"ancientwarfarevehicle:spawner\",Count:1b,tag:{spawnData:{level:1}},Damage:7s}",
+	tasks: [{
+		uid: "7285ee8c",
+		type: "item",
+		items: [{
+			id: "ancientwarfarevehicle:spawner",
+			tag: {
+				spawnData: {
+					level: 1
+				}
+			},
+			Damage: 7s
+		}],
+		consume_items: true
+	}]
+}

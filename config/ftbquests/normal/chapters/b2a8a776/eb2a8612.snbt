@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:potion_bag\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6eb37040",
+		type: "item",
+		items: [{
+			item: "extraalchemy:potion_bag"
+		}],
+		consume_items: true
+	}]
+}

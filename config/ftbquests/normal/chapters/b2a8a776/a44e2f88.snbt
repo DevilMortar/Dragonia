@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 78.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/slime\"},Damage:0s}",
+	tasks: [{
+		uid: "744c6181",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/slime"
+			}
+		}],
+		consume_items: true
+	}]
+}

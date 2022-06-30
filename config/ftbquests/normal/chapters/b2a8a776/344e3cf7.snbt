@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 341.0d,
+	description: "{id:\"harvestcraft:raisincookiesitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f77670b8",
+		type: "item",
+		items: [{
+			item: "harvestcraft:raisincookiesitem"
+		}],
+		consume_items: true
+	}]
+}

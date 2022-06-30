@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 187.0d,
+	description: "{id:\"iceandfire:dragonforge_ice_brick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9cd5a2c8",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonforge_ice_brick"
+		}],
+		consume_items: true
+	}]
+}

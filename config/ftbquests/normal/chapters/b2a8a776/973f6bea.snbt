@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 216.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"weezer\"},Damage:0s}",
+	tasks: [{
+		uid: "ab577d9e",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "weezer"
+			}
+		}],
+		consume_items: true
+	}]
+}

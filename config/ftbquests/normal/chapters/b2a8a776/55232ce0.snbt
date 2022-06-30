@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:long_antidote\"},Damage:0s}",
+	tasks: [{
+		uid: "2bd9e13f",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:long_antidote"
+			}
+		}],
+		consume_items: true
+	}]
+}

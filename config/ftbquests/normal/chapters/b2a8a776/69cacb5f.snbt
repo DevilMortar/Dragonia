@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 14.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extraalchemy:crumbling_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "3f9305d1",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extraalchemy:crumbling_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

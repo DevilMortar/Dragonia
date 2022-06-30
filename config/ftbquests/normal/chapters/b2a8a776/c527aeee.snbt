@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 165.0d,
+	description: "{id:\"thaumcraft:crimson_praetor_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ef197830",
+		type: "item",
+		items: [{
+			item: "thaumcraft:crimson_praetor_chest"
+		}],
+		consume_items: true
+	}]
+}

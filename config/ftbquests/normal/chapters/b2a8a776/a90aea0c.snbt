@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 274.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"extraalchemy:sinking_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "4dbfe681",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "extraalchemy:sinking_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

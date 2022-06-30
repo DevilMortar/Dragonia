@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 218.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"dragonsteel_ice\"},Damage:0s}",
+	tasks: [{
+		uid: "c87b0362",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "dragonsteel_ice"
+			}
+		}],
+		consume_items: true
+	}]
+}

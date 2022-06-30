@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 9.0d,
+	description: "{id:\"minecraft:wooden_axe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "16b0966e",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_axe"
+		}],
+		consume_items: true
+	}]
+}

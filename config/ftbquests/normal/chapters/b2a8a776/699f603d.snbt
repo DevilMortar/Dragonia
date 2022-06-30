@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 198.0d,
+	description: "{id:\"heroicarmory:rsblacksword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ad516a06",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rsblacksword"
+		}],
+		consume_items: true
+	}]
+}

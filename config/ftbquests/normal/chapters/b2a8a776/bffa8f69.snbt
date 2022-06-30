@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:lozspikedbokoclub\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eb2b046f",
+		type: "item",
+		items: [{
+			item: "heroicarmory:lozspikedbokoclub"
+		}],
+		consume_items: true
+	}]
+}

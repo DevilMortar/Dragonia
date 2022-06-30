@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 226.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"dragonsteel_ice\"},Damage:0s}",
+	tasks: [{
+		uid: "2e51d1fe",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "dragonsteel_ice"
+			}
+		}],
+		consume_items: true
+	}]
+}

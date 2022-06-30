@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 256.0d,
+	description: "{id:\"tconstruct:slimesling\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "edaea4b3",
+		type: "item",
+		items: [{
+			item: "tconstruct:slimesling 1 4"
+		}],
+		consume_items: true
+	}]
+}

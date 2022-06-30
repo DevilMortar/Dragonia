@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 255.0d,
+	description: "{id:\"tconstruct:dried_clay_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "90182a4f",
+		type: "item",
+		items: [{
+			item: "tconstruct:dried_clay_stairs"
+		}],
+		consume_items: true
+	}]
+}

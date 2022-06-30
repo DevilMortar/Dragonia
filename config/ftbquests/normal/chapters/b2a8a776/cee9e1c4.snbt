@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 170.0d,
+	description: "{id:\"dungeontactics:wooden_battleaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d1e0506f",
+		type: "item",
+		items: [{
+			item: "dungeontactics:wooden_battleaxe"
+		}],
+		consume_items: true
+	}]
+}

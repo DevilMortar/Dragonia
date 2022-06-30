@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 370.0d,
+	description: "{id:\"quark:root_flower\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "09018653",
+		type: "item",
+		items: [{
+			item: "quark:root_flower 1 2"
+		}],
+		consume_items: true
+	}]
+}

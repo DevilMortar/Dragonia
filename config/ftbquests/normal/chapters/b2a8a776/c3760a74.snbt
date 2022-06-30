@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 107.0d,
+	description: "{id:\"ebwizardry:oak_bookshelf\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "940caa54",
+		type: "item",
+		items: [{
+			item: "ebwizardry:oak_bookshelf"
+		}],
+		consume_items: true
+	}]
+}

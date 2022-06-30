@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 278.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"potioncore:dispel\"},Damage:0s}",
+	tasks: [{
+		uid: "e81da96a",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "potioncore:dispel"
+			}
+		}],
+		consume_items: true
+	}]
+}

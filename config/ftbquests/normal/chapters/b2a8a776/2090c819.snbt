@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 74.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"VillageGuardTower\"},Damage:0s}",
+	tasks: [{
+		uid: "c0ec65a2",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "VillageGuardTower"
+			}
+		}],
+		consume_items: true
+	}]
+}

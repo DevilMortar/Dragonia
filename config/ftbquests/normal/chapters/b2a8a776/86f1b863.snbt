@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 374.0d,
+	description: "{id:\"quark:colored_item_frame\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "d38c5170",
+		type: "item",
+		items: [{
+			item: "quark:colored_item_frame 1 2"
+		}],
+		consume_items: true
+	}]
+}

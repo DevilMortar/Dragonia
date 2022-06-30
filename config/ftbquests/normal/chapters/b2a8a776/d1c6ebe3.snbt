@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 45.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"netherex:sorrow\"},Damage:0s}",
+	tasks: [{
+		uid: "c647682f",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "netherex:sorrow"
+			}
+		}],
+		consume_items: true
+	}]
+}

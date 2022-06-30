@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:slab_greatwood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1cc614c4",
+		type: "item",
+		items: [{
+			item: "thaumcraft:slab_greatwood"
+		}],
+		consume_items: true
+	}]
+}

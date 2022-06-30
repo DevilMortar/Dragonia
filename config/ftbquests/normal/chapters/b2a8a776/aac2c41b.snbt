@@ -1,0 +1,18 @@
+{
+	x: 32.0d,
+	y: 138.0d,
+	description: "{id:\"ancientwarfarestructure:protection_flag\",Count:1b,tag:{topColor:15685463,name:\"sarkonid\",bottomColor:11665408},Damage:0s}",
+	tasks: [{
+		uid: "456695e9",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:protection_flag",
+			tag: {
+				topColor: 15685463,
+				name: "sarkonid",
+				bottomColor: 11665408
+			}
+		}],
+		consume_items: true
+	}]
+}

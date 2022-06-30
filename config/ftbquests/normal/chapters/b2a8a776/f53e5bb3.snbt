@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 200.0d,
+	description: "{id:\"heroicarmory:skyrimsteelsword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "105f777e",
+		type: "item",
+		items: [{
+			item: "heroicarmory:skyrimsteelsword"
+		}],
+		consume_items: true
+	}]
+}

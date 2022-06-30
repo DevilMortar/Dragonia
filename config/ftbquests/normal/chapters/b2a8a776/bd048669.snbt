@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 302.0d,
+	description: "{id:\"spartanfire:greatsword_desert_venom\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1c564f6f",
+		type: "item",
+		items: [{
+			item: "spartanfire:greatsword_desert_venom"
+		}],
+		consume_items: true
+	}]
+}

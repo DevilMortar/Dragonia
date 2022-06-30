@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 328.0d,
+	description: "{id:\"charm:moonstone\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "19e33356",
+		type: "item",
+		items: [{
+			item: "charm:moonstone 1 1"
+		}],
+		consume_items: true
+	}]
+}

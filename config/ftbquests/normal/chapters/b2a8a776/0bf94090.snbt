@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 16.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:long_glowing\"},Damage:0s}",
+	tasks: [{
+		uid: "c8c97db3",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:long_glowing"
+			}
+		}],
+		consume_items: true
+	}]
+}

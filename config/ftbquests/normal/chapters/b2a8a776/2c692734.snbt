@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 148.0d,
+	description: "{id:\"atum:coin_dirty\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3748773a",
+		type: "item",
+		items: [{
+			item: "atum:coin_dirty"
+		}],
+		consume_items: true
+	}]
+}

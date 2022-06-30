@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 180.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:sails_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "a29286e5",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:sails_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

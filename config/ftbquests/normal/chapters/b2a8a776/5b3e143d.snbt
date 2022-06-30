@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 299.0d,
+	description: "{id:\"spartanfire:katana_fire_dragonbone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "026e970c",
+		type: "item",
+		items: [{
+			item: "spartanfire:katana_fire_dragonbone"
+		}],
+		consume_items: true
+	}]
+}

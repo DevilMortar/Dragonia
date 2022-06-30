@@ -1,0 +1,18 @@
+{
+	x: 14.0d,
+	y: 25.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"mocreatures:piranha\"}},Damage:0s}",
+	tasks: [{
+		uid: "ad7fc2f1",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "mocreatures:piranha"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

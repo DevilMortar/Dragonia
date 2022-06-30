@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 326.0d,
+	description: "{id:\"charm:cake_regeneration\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "61d348c5",
+		type: "item",
+		items: [{
+			item: "charm:cake_regeneration"
+		}],
+		consume_items: true
+	}]
+}

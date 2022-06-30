@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 320.0d,
+	description: "{id:\"zettaimagic:magic_crystalz\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a838fed2",
+		type: "item",
+		items: [{
+			item: "zettaimagic:magic_crystalz"
+		}],
+		consume_items: true
+	}]
+}

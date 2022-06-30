@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 272.0d,
+	description: "{id:\"spartanweaponry:throwing_knife_iron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "983bfee1",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:throwing_knife_iron"
+		}],
+		consume_items: true
+	}]
+}

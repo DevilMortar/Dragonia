@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 216.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"bone\"},Damage:0s}",
+	tasks: [{
+		uid: "93cf0a3e",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "bone"
+			}
+		}],
+		consume_items: true
+	}]
+}

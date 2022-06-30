@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 367.0d,
+	description: "{id:\"quark:parrot_egg\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "4d577c43",
+		type: "item",
+		items: [{
+			item: "quark:parrot_egg 1 3"
+		}],
+		consume_items: true
+	}]
+}

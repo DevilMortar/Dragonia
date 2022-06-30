@@ -1,0 +1,21 @@
+{
+	x: 20.0d,
+	y: 232.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,tag:{textureBlock:{id:\"rustic:planks\",Count:1b,Damage:0s}},Damage:1s}",
+	tasks: [{
+		uid: "babd8b05",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "rustic:planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

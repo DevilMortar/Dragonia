@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 326.0d,
+	description: "{id:\"charm:cake_night_vision\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "435be135",
+		type: "item",
+		items: [{
+			item: "charm:cake_night_vision"
+		}],
+		consume_items: true
+	}]
+}

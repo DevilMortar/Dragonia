@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 171.0d,
+	description: "{id:\"dungeontactics:bone_cestus\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0839ac99",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bone_cestus"
+		}],
+		consume_items: true
+	}]
+}

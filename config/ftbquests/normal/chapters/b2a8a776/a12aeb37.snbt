@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 158.0d,
+	description: "{id:\"bibliocraft:dinnerplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bb0991d1",
+		type: "item",
+		items: [{
+			item: "bibliocraft:dinnerplate"
+		}],
+		consume_items: true
+	}]
+}

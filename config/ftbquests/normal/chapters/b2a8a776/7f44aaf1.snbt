@@ -1,0 +1,18 @@
+{
+	x: 12.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"mowziesmobs:ferrous_wroughtnaut\"}},Damage:0s}",
+	tasks: [{
+		uid: "07852f48",
+		type: "item",
+		items: [{
+			id: "mowziesmobs:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "mowziesmobs:ferrous_wroughtnaut"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

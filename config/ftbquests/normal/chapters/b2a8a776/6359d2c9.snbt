@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 94.0d,
+	description: "{id:\"atum:limestone_cracked\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b669a7f3",
+		type: "item",
+		items: [{
+			item: "atum:limestone_cracked"
+		}],
+		consume_items: true
+	}]
+}

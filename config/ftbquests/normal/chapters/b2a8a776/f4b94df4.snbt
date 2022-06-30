@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:ring_paladin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a836dfe1",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_paladin"
+		}],
+		consume_items: true
+	}]
+}

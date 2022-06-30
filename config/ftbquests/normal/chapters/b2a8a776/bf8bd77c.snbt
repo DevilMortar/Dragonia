@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 213.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"paper\"},Damage:0s}",
+	tasks: [{
+		uid: "ae091465",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "paper"
+			}
+		}],
+		consume_items: true
+	}]
+}

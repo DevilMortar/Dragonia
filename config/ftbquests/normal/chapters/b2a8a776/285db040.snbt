@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 174.0d,
+	description: "{id:\"dungeontactics:steel_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e480fc14",
+		type: "item",
+		items: [{
+			item: "dungeontactics:steel_shovel"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 175.0d,
+	description: "{id:\"dungeontactics:fish_flying\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "edb23aa9",
+		type: "item",
+		items: [{
+			item: "dungeontactics:fish_flying"
+		}],
+		consume_items: true
+	}]
+}

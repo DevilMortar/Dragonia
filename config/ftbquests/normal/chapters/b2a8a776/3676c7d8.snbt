@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 316.0d,
+	description: "{id:\"tombstone:soul_receptacle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02a4cfb7",
+		type: "item",
+		items: [{
+			item: "tombstone:soul_receptacle"
+		}],
+		consume_items: true
+	}]
+}

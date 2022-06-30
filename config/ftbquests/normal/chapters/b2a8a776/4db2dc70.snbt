@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"ardite\"},Damage:0s}",
+	tasks: [{
+		uid: "c28308a2",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "ardite"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 285.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:slow_fall\"},Damage:0s}",
+	tasks: [{
+		uid: "cbb39578",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:slow_fall"
+			}
+		}],
+		consume_items: true
+	}]
+}

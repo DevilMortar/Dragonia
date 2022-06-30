@@ -1,0 +1,69 @@
+{
+	x: 13.0d,
+	y: 240.0d,
+	description: "{id:\"tconstruct:kama\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:659,HarvestLevel:3,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:659,HarvestLevel:3,Attack:6.0f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"steel\",\"steel\",\"steel\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"stiff\",color:-5789785,level:1},{identifier:\"sharp\",color:-5789785,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"stiff\",\"sharp\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a077b100",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 659,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 659,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"steel",
+						"steel",
+						"steel"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "stiff",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "sharp",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"stiff",
+					"sharp",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

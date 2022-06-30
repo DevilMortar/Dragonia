@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 141.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"iron\"},Damage:0s}",
+	tasks: [{
+		uid: "8f8cdb7f",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 430.0d,
+	description: "{id:\"chisel:concrete_lime1\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "35567c8c",
+		type: "item",
+		items: [{
+			item: "chisel:concrete_lime1 1 8"
+		}],
+		consume_items: true
+	}]
+}

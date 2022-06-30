@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 95.0d,
+	description: "{id:\"atum:small_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d53a348",
+		type: "item",
+		items: [{
+			item: "atum:small_wall"
+		}],
+		consume_items: true
+	}]
+}

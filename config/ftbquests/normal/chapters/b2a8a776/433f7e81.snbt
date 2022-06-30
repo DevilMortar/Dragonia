@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 54.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"extraalchemy:combustion_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "82e08b50",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "extraalchemy:combustion_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

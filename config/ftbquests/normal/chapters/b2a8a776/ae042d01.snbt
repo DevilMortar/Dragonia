@@ -1,0 +1,18 @@
+{
+	x: 30.0d,
+	y: 309.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"minecraft:deep_ocean\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b3c363f1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "minecraft:deep_ocean"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

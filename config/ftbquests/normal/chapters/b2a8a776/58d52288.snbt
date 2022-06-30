@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 278.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"potioncore:strong_fire\"},Damage:0s}",
+	tasks: [{
+		uid: "6cc54a62",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "potioncore:strong_fire"
+			}
+		}],
+		consume_items: true
+	}]
+}

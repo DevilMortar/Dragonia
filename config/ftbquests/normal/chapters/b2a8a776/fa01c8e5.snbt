@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 303.0d,
+	description: "{id:\"spartanshields:shield_basic_obsidian\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fd40ed1b",
+		type: "item",
+		items: [{
+			item: "spartanshields:shield_basic_obsidian"
+		}],
+		consume_items: true
+	}]
+}

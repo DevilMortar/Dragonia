@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 224.0d,
+	description: "{id:\"tconstruct:tough_tool_rod\",Count:1b,tag:{Material:\"dragonsteel_ice\"},Damage:0s}",
+	tasks: [{
+		uid: "c79375fd",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_tool_rod",
+			tag: {
+				Material: "dragonsteel_ice"
+			}
+		}],
+		consume_items: true
+	}]
+}

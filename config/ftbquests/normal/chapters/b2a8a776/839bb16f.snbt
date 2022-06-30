@@ -1,0 +1,18 @@
+{
+	x: 24.0d,
+	y: 124.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"gremlin\",npcType:\"faction.priest\"},Damage:0s}",
+	tasks: [{
+		uid: "2242c4b5",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "gremlin",
+				npcType: "faction.priest"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 179.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"minecraft:water_breathing\"},Damage:0s}",
+	tasks: [{
+		uid: "28eb1a11",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "minecraft:water_breathing"
+			}
+		}],
+		consume_items: true
+	}]
+}

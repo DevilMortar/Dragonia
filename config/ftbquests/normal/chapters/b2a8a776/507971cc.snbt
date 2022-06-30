@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 93.0d,
+	description: "{id:\"atum:gold_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "39b6154c",
+		type: "item",
+		items: [{
+			item: "atum:gold_ore"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 134.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"sponge\"},Damage:0s}",
+	tasks: [{
+		uid: "8db50bfd",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "sponge"
+			}
+		}],
+		consume_items: true
+	}]
+}

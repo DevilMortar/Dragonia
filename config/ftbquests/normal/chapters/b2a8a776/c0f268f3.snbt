@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 173.0d,
+	description: "{id:\"dungeontactics:steel_plate_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "76fc2c4c",
+		type: "item",
+		items: [{
+			item: "dungeontactics:steel_plate_boots"
+		}],
+		consume_items: true
+	}]
+}

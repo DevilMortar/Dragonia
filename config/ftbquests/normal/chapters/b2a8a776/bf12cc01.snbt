@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 158.0d,
+	description: "{id:\"bibliocraft:compass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "00766bd3",
+		type: "item",
+		items: [{
+			item: "bibliocraft:compass"
+		}],
+		consume_items: true
+	}]
+}

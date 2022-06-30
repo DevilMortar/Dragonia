@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 404.0d,
+	description: "{id:\"chisel:blockaluminum\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "87cc6078",
+		type: "item",
+		items: [{
+			item: "chisel:blockaluminum 1 3"
+		}],
+		consume_items: true
+	}]
+}

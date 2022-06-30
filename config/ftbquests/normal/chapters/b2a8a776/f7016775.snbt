@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 373.0d,
+	description: "{id:\"quark:color_slime\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "c4b6d6a8",
+		type: "item",
+		items: [{
+			item: "quark:color_slime 1 3"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 37.0d,
+	y: 124.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"undead\",npcType:\"faction.trader\"},Damage:0s}",
+	tasks: [{
+		uid: "b8a0992d",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "undead",
+				npcType: "faction.trader"
+			}
+		}],
+		consume_items: true
+	}]
+}

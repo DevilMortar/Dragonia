@@ -44,10 +44,5 @@
 		uid: "db966125",
 		type: "ftbmoney:money",
 		ftb_money: 50L
-	},
-	{
-		uid: "1b371ac1",
-		type: "item",
-		item: "chancecubes:chance_cube"
 	}]
 }

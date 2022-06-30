@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 346.0d,
+	description: "{id:\"harvestcraft:pomegranatejellysandwichitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bb0fa5f2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pomegranatejellysandwichitem"
+		}],
+		consume_items: true
+	}]
+}

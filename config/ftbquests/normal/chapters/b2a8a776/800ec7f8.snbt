@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 11.0d,
+	description: "{id:\"minecraft:milk_bucket\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e09f04ed",
+		type: "item",
+		items: [{
+			item: "minecraft:milk_bucket"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 272.0d,
+	description: "{id:\"spartanweaponry:pike_wood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a7f2cbab",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:pike_wood"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 141.0d,
+	description: "{id:\"ancientwarfarestructure:bench\",Count:1b,tag:{variant:\"jungle\"},Damage:0s}",
+	tasks: [{
+		uid: "72026eab",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:bench",
+			tag: {
+				variant: "jungle"
+			}
+		}],
+		consume_items: true
+	}]
+}

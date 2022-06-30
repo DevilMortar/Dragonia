@@ -1,0 +1,68 @@
+{
+	x: 19.0d,
+	y: 237.0d,
+	description: "{id:\"tconstruct:pickaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:685,HarvestLevel:2,Attack:5.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:685,HarvestLevel:2,Attack:5.5f},Special:{Categories:[\"harvest\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"jungle_myrmex\",\"jungle_myrmex\",\"jungle_myrmex\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"poisonous\",color:-14255502,level:1},{identifier:\"hive_defender\",color:-14255502,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"poisonous\",\"hive_defender\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "95b04e8b",
+		type: "item",
+		items: [{
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 685,
+					HarvestLevel: 2,
+					Attack: 5.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 685,
+					HarvestLevel: 2,
+					Attack: 5.5f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"jungle_myrmex",
+						"jungle_myrmex",
+						"jungle_myrmex"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "poisonous",
+					color: -14255502,
+					level: 1
+				},
+				{
+					identifier: "hive_defender",
+					color: -14255502,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"poisonous",
+					"hive_defender",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

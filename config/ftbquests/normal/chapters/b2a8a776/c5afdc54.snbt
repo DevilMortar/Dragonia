@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 53.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"extraalchemy:fuse_quick\"},Damage:0s}",
+	tasks: [{
+		uid: "caf78414",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "extraalchemy:fuse_quick"
+			}
+		}],
+		consume_items: true
+	}]
+}

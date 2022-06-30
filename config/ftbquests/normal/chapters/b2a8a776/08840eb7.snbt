@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:staffportal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b024a838",
+		type: "item",
+		items: [{
+			item: "mocreatures:staffportal"
+		}],
+		consume_items: true
+	}]
+}

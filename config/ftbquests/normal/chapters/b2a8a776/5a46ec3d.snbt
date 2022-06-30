@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 301.0d,
+	description: "{id:\"spartanfire:lance_desert\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f9a56dc0",
+		type: "item",
+		items: [{
+			item: "spartanfire:lance_desert"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 376.0d,
+	description: "{id:\"quark:duskbound_lantern\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7a452edd",
+		type: "item",
+		items: [{
+			item: "quark:duskbound_lantern"
+		}],
+		consume_items: true
+	}]
+}

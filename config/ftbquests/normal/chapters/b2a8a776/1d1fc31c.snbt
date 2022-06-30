@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 73.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"PeacefulCrypt\"},Damage:0s}",
+	tasks: [{
+		uid: "43959dd3",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "PeacefulCrypt"
+			}
+		}],
+		consume_items: true
+	}]
+}

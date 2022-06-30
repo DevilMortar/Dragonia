@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 308.0d,
+	description: "{id:\"thaumicaugmentation:augment_builder_effect\",Count:1b,tag:{id:\"thaumicaugmentation:effect_cast_speed\"},Damage:0s}",
+	tasks: [{
+		uid: "df4ffe03",
+		type: "item",
+		items: [{
+			id: "thaumicaugmentation:augment_builder_effect",
+			tag: {
+				id: "thaumicaugmentation:effect_cast_speed"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 13.0d,
+	y: 161.0d,
+	description: "{id:\"thaumcraft:crystal_essence\",Count:1b,tag:{Aspects:[{amount:1,key:\"terra\"}]},Damage:0s}",
+	tasks: [{
+		uid: "987a0fdf",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "terra"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

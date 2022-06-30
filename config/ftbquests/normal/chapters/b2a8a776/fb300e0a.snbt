@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 337.0d,
+	description: "{id:\"harvestcraft:holidaycakeitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aa0c6c6a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:holidaycakeitem"
+		}],
+		consume_items: true
+	}]
+}

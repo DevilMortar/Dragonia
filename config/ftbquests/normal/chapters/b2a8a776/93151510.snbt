@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 273.0d,
+	description: "{id:\"spartanweaponry:glaive_iron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02911833",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:glaive_iron"
+		}],
+		consume_items: true
+	}]
+}

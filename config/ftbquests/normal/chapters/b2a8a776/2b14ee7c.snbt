@@ -1,0 +1,18 @@
+{
+	x: 5.0d,
+	y: 309.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"thaumicaugmentation:biome_reset\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "95f8bf11",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "thaumicaugmentation:biome_reset"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

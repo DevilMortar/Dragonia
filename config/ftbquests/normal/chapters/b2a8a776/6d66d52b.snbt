@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 160.0d,
+	description: "{id:\"thaumcraft:nugget\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "6ea250e7",
+		type: "item",
+		items: [{
+			item: "thaumcraft:nugget 1 1"
+		}],
+		consume_items: true
+	}]
+}

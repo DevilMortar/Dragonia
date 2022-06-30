@@ -1,0 +1,21 @@
+{
+	x: 14.0d,
+	y: 235.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,tag:{textureBlock:{id:\"quark:vertical_stained_planks\",Count:1b,Damage:0s}},Damage:1s}",
+	tasks: [{
+		uid: "1c3340c6",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "quark:vertical_stained_planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 212.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"conarm:polishing_kit\"},Damage:0s}",
+	tasks: [{
+		uid: "5a0b1892",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "conarm:polishing_kit"
+			}
+		}],
+		consume_items: true
+	}]
+}

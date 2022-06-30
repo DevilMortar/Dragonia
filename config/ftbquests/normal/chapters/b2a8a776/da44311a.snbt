@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 342.0d,
+	description: "{id:\"harvestcraft:pineapplehamitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0d4c335d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pineapplehamitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 117.0d,
+	description: "{id:\"ancientwarfare:research_note\",Count:1b,tag:{researchName:\"trade\"},Damage:0s}",
+	tasks: [{
+		uid: "d688d19e",
+		type: "item",
+		items: [{
+			id: "ancientwarfare:research_note",
+			tag: {
+				researchName: "trade"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 336.0d,
+	description: "{id:\"harvestcraft:shippingbin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "83852ec3",
+		type: "item",
+		items: [{
+			item: "harvestcraft:shippingbin"
+		}],
+		consume_items: true
+	}]
+}

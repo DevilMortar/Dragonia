@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 62.0d,
+	description: "{id:\"betternether:barrel_cactus\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "218841f8",
+		type: "item",
+		items: [{
+			item: "betternether:barrel_cactus"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,63 @@
+{
+	x: 23.0d,
+	y: 238.0d,
+	description: "{id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:500,HarvestLevel:0,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:500,HarvestLevel:0,Attack:6.0f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"firewood\",\"firewood\",\"firewood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"autosmelt\",color:-3386624,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"autosmelt\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "7514f2af",
+		type: "item",
+		items: [{
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 500,
+					HarvestLevel: 0,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 500,
+					HarvestLevel: 0,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"firewood",
+						"firewood",
+						"firewood"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "autosmelt",
+					color: -3386624,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"autosmelt",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

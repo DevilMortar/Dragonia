@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 73.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"AbandonedBurnable\"},Damage:0s}",
+	tasks: [{
+		uid: "0fb4bc5a",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "AbandonedBurnable"
+			}
+		}],
+		consume_items: true
+	}]
+}

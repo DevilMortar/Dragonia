@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 78.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/shulker\"},Damage:0s}",
+	tasks: [{
+		uid: "959d74c1",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/shulker"
+			}
+		}],
+		consume_items: true
+	}]
+}

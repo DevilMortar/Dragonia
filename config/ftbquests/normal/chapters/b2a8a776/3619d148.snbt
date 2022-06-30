@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 297.0d,
+	description: "{id:\"spartanweaponry:warhammer_nickel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bc800efd",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:warhammer_nickel"
+		}],
+		consume_items: true
+	}]
+}

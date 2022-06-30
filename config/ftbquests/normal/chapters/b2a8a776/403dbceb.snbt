@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 340.0d,
+	description: "{id:\"harvestcraft:cheeseburgeritem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ff288502",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cheeseburgeritem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 359.0d,
+	description: "{id:\"harvestcraft:epicbltitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "42dd8a7f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:epicbltitem"
+		}],
+		consume_items: true
+	}]
+}

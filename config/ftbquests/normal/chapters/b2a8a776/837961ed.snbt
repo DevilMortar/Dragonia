@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 179.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"minecraft:long_water_breathing\"},Damage:0s}",
+	tasks: [{
+		uid: "c1dbcfef",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "minecraft:long_water_breathing"
+			}
+		}],
+		consume_items: true
+	}]
+}

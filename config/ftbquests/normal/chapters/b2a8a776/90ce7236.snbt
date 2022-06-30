@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 303.0d,
+	description: "{id:\"spartanshields:shield_basic_iron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4898241f",
+		type: "item",
+		items: [{
+			item: "spartanshields:shield_basic_iron"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 112.0d,
+	description: "{id:\"ebwizardry:warlock_boots_necromancy\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8360a646",
+		type: "item",
+		items: [{
+			item: "ebwizardry:warlock_boots_necromancy"
+		}],
+		consume_items: true
+	}]
+}

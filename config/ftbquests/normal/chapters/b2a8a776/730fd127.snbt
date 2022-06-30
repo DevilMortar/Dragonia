@@ -1,0 +1,18 @@
+{
+	x: 14.0d,
+	y: 24.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"mocreatures:ostrich\"}},Damage:0s}",
+	tasks: [{
+		uid: "086a16b1",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "mocreatures:ostrich"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 94.0d,
+	description: "{id:\"atum:limestone_cracked_brick_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5b3485fe",
+		type: "item",
+		items: [{
+			item: "atum:limestone_cracked_brick_slab"
+		}],
+		consume_items: true
+	}]
+}

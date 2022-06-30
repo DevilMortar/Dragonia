@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 353.0d,
+	description: "{id:\"harvestcraft:monsterfrieddumplingsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7631bed9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:monsterfrieddumplingsitem"
+		}],
+		consume_items: true
+	}]
+}

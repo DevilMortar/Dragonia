@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 181.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"potioncore:long_wither\"},Damage:0s}",
+	tasks: [{
+		uid: "5f1d272a",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "potioncore:long_wither"
+			}
+		}],
+		consume_items: true
+	}]
+}

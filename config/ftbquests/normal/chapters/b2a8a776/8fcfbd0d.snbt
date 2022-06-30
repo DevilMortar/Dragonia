@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 322.0d,
+	description: "{id:\"aether_legacy:zanite_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5654087f",
+		type: "item",
+		items: [{
+			item: "aether_legacy:zanite_shovel"
+		}],
+		consume_items: true
+	}]
+}

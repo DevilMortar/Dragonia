@@ -1,0 +1,20 @@
+{
+	x: 32.0d,
+	y: 267.0d,
+	description: "{id:\"xreliquary:tipped_arrow\",Count:1b,tag:{effects:[{duration:93,potency:0,name:\"minecraft:strength\"}]},Damage:0s}",
+	tasks: [{
+		uid: "973aa35a",
+		type: "item",
+		items: [{
+			id: "xreliquary:tipped_arrow",
+			tag: {
+				effects: [{
+					duration: 93,
+					potency: 0,
+					name: "minecraft:strength"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

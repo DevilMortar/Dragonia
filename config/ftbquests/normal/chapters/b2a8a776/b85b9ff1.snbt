@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 198.0d,
+	description: "{id:\"heroicarmory:scholyantler\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fa85c4a7",
+		type: "item",
+		items: [{
+			item: "heroicarmory:scholyantler"
+		}],
+		consume_items: true
+	}]
+}

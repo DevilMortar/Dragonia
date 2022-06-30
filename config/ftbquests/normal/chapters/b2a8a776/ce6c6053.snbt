@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:rotmgancientstonesword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "12131dbe",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rotmgancientstonesword"
+		}],
+		consume_items: true
+	}]
+}

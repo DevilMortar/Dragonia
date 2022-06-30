@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 175.0d,
+	description: "{id:\"dungeontactics:magic_tether\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a67696bc",
+		type: "item",
+		items: [{
+			item: "dungeontactics:magic_tether"
+		}],
+		consume_items: true
+	}]
+}

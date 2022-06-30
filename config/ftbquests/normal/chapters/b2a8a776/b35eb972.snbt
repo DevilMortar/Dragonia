@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 368.0d,
+	description: "{id:\"quark:stained_planks_gray_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "40e5c8ef",
+		type: "item",
+		items: [{
+			item: "quark:stained_planks_gray_stairs"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 16.0d,
+	y: 139.0d,
+	description: "{id:\"ancientwarfarestructure:protection_flag\",Count:1b,tag:{topColor:15685463,name:\"buffloka\",bottomColor:32768},Damage:0s}",
+	tasks: [{
+		uid: "55039267",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:protection_flag",
+			tag: {
+				topColor: 15685463,
+				name: "buffloka",
+				bottomColor: 32768
+			}
+		}],
+		consume_items: true
+	}]
+}

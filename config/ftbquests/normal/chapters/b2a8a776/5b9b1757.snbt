@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	description: "{id:\"minecraft:jukebox\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0a92b3e7",
+		type: "item",
+		items: [{
+			item: "minecraft:jukebox"
+		}],
+		consume_items: true
+	}]
+}

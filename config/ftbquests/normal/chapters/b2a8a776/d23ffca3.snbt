@@ -1,0 +1,68 @@
+{
+	x: 34.0d,
+	y: 381.0d,
+	description: "{id:\"tcomplement:chisel\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:1431,HarvestLevel:3,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:1431,HarvestLevel:3,Attack:6.0f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\",\"chisel\"]},TinkerData:{Materials:[\"steel\",\"steel\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"stiff\",color:-5789785,level:1},{identifier:\"sharp\",color:-5789785,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"stiff\",\"sharp\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a78788d0",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 1431,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 1431,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe",
+						"chisel"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"steel",
+						"steel"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "stiff",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "sharp",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"stiff",
+					"sharp",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 148.0d,
+	description: "{id:\"ancientwarfarevehicle:ammo_grape_shot_25\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e4bd53a5",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:ammo_grape_shot_25"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 271.0d,
+	description: "{id:\"spartanweaponry:katana_diamond\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "69f53c14",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:katana_diamond"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 108.0d,
+	description: "{id:\"ebwizardry:apprentice_earth_wand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ad0a3f4e",
+		type: "item",
+		items: [{
+			item: "ebwizardry:apprentice_earth_wand"
+		}],
+		consume_items: true
+	}]
+}

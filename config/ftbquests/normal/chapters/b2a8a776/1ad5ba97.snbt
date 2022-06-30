@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 346.0d,
+	description: "{id:\"harvestcraft:cherryjellysandwichitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0bf881e0",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cherryjellysandwichitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 153.0d,
+	description: "{id:\"bibliocraft:shelf\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "e9cb6be1",
+		type: "item",
+		items: [{
+			item: "bibliocraft:shelf 1 6"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 191.0d,
+	description: "{id:\"iceandfire:stymphalian_bird_feather\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fba456d1",
+		type: "item",
+		items: [{
+			item: "iceandfire:stymphalian_bird_feather"
+		}],
+		consume_items: true
+	}]
+}

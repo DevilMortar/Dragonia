@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 207.0d,
+	description: "{id:\"netherex:coolmar_spider_fang\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "916f11d7",
+		type: "item",
+		items: [{
+			item: "netherex:coolmar_spider_fang"
+		}],
+		consume_items: true
+	}]
+}

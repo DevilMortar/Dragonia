@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 96.0d,
+	description: "{id:\"atum:porphyry_tiled_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "425cc13d",
+		type: "item",
+		items: [{
+			item: "atum:porphyry_tiled_slab"
+		}],
+		consume_items: true
+	}]
+}

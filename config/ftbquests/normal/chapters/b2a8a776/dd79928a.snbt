@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 277.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"potioncore:teleport\"},Damage:0s}",
+	tasks: [{
+		uid: "00173f4f",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "potioncore:teleport"
+			}
+		}],
+		consume_items: true
+	}]
+}

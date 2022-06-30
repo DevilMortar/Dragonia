@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 320.0d,
+	description: "{id:\"zettaimagic:cloak_nature\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8c9239d4",
+		type: "item",
+		items: [{
+			item: "zettaimagic:cloak_nature"
+		}],
+		consume_items: true
+	}]
+}

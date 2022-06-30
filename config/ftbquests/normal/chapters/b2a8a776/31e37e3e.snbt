@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 202.0d,
+	description: "{id:\"heroicarmory:swbluelightsaber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d2632486",
+		type: "item",
+		items: [{
+			item: "heroicarmory:swbluelightsaber"
+		}],
+		consume_items: true
+	}]
+}

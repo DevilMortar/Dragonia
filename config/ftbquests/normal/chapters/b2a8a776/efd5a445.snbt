@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 45.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"netherex:freezing\"},Damage:0s}",
+	tasks: [{
+		uid: "2f62c9d1",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "netherex:freezing"
+			}
+		}],
+		consume_items: true
+	}]
+}

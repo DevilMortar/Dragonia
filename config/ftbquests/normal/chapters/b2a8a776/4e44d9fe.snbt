@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 131.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"minossian\",npcType:\"faction.leader.elite\"},Damage:0s}",
+	tasks: [{
+		uid: "ccb134de",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "minossian",
+				npcType: "faction.leader.elite"
+			}
+		}],
+		consume_items: true
+	}]
+}

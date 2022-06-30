@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:potion_sprayer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "460043de",
+		type: "item",
+		items: [{
+			item: "thaumcraft:potion_sprayer"
+		}],
+		consume_items: true
+	}]
+}

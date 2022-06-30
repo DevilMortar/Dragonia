@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 354.0d,
+	description: "{id:\"harvestcraft:meatystirfryitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "adf782d7",
+		type: "item",
+		items: [{
+			item: "harvestcraft:meatystirfryitem"
+		}],
+		consume_items: true
+	}]
+}

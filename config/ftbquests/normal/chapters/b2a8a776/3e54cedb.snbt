@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 66.0d,
+	description: "{id:\"biomesoplenty:other_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "016ef2ca",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:other_slab"
+		}],
+		consume_items: true
+	}]
+}

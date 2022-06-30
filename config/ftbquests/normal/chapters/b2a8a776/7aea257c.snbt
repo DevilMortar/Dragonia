@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 166.0d,
+	description: "{id:\"mocreatures:mocgrass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "517e061a",
+		type: "item",
+		items: [{
+			item: "mocreatures:mocgrass"
+		}],
+		consume_items: true
+	}]
+}

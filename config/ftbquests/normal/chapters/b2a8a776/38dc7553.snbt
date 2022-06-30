@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 116.0d,
+	description: "{id:\"ancientspellcraft:stone_tablet_grand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "619a2e41",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:stone_tablet_grand"
+		}],
+		consume_items: true
+	}]
+}

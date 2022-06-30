@@ -1,0 +1,18 @@
+{
+	x: 25.0d,
+	y: 139.0d,
+	description: "{id:\"ancientwarfarestructure:protection_flag\",Count:1b,tag:{topColor:15685463,name:\"hobbit\",bottomColor:6711039},Damage:0s}",
+	tasks: [{
+		uid: "75a76c79",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:protection_flag",
+			tag: {
+				topColor: 15685463,
+				name: "hobbit",
+				bottomColor: 6711039
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 174.0d,
+	description: "{id:\"dungeontactics:backfire_cannon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "67466979",
+		type: "item",
+		items: [{
+			item: "dungeontactics:backfire_cannon"
+		}],
+		consume_items: true
+	}]
+}

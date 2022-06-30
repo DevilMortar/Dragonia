@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 152.0d,
+	description: "{id:\"atum:crunchy_scarab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f72537fa",
+		type: "item",
+		items: [{
+			item: "atum:crunchy_scarab"
+		}],
+		consume_items: true
+	}]
+}

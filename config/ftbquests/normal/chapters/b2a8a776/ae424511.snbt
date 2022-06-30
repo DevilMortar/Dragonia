@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 307.0d,
+	description: "{id:\"thaumicaugmentation:crab_vent\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "adf3f103",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:crab_vent"
+		}],
+		consume_items: true
+	}]
+}

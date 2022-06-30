@@ -1,0 +1,18 @@
+{
+	x: 22.0d,
+	y: 132.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"hobbit\",npcType:\"faction.soldier.elite\"},Damage:0s}",
+	tasks: [{
+		uid: "63a67d82",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "hobbit",
+				npcType: "faction.soldier.elite"
+			}
+		}],
+		consume_items: true
+	}]
+}

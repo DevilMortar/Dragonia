@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 382.0d,
+	description: "{id:\"chisel:wool_pink\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2f13ec15",
+		type: "item",
+		items: [{
+			item: "chisel:wool_pink"
+		}],
+		consume_items: true
+	}]
+}

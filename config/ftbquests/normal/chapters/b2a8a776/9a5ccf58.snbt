@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 202.0d,
+	description: "{id:\"heroicarmory:terrariadarklance\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "09cde07c",
+		type: "item",
+		items: [{
+			item: "heroicarmory:terrariadarklance"
+		}],
+		consume_items: true
+	}]
+}

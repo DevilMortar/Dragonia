@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 337.0d,
+	description: "{id:\"harvestcraft:grinder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "776a9eee",
+		type: "item",
+		items: [{
+			item: "harvestcraft:grinder"
+		}],
+		consume_items: true
+	}]
+}

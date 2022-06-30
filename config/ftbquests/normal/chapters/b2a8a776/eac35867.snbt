@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 73.0d,
+	description: "{id:\"biomesoplenty:ricebowl\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d3e6efd",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:ricebowl"
+		}],
+		consume_items: true
+	}]
+}

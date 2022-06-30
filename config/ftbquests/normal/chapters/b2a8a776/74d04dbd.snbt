@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 228.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"desert_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "91cba1ce",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "desert_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

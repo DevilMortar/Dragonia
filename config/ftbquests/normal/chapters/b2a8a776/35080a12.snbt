@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 140.0d,
+	description: "{id:\"ancientwarfarestructure:table\",Count:1b,tag:{variant:\"birch\"},Damage:0s}",
+	tasks: [{
+		uid: "e9db2fb3",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:table",
+			tag: {
+				variant: "birch"
+			}
+		}],
+		consume_items: true
+	}]
+}

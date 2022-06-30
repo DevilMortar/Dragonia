@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 269.0d,
+	description: "{id:\"roughtweaks:bandage\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "554f9a98",
+		type: "item",
+		items: [{
+			item: "roughtweaks:bandage"
+		}],
+		consume_items: true
+	}]
+}

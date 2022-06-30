@@ -1,0 +1,72 @@
+{
+	x: 29.0d,
+	y: 239.0d,
+	description: "{id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:7.0f,FreeModifiers:3,HarvestLevelShovel:4,Durability:1000,HarvestLevel:4,Attack:20.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:7.0f,FreeModifiers:3,HarvestLevelShovel:4,Durability:1000,HarvestLevel:4,Attack:20.0f},Special:{Categories:[\"harvest\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"dragonsteel_ice\",\"dragonsteel_ice\",\"dragonsteel_ice\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"sharp\",color:-4463363,level:1},{identifier:\"frost2\",color:-4463363,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"sharp\",\"frost2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "92f55efe",
+		type: "item",
+		items: [{
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 4,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 4,
+					Durability: 1000,
+					HarvestLevel: 4,
+					Attack: 20.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 4,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 4,
+					Durability: 1000,
+					HarvestLevel: 4,
+					Attack: 20.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dragonsteel_ice",
+						"dragonsteel_ice",
+						"dragonsteel_ice"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "sharp",
+					color: -4463363,
+					level: 1
+				},
+				{
+					identifier: "frost2",
+					color: -4463363,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"sharp",
+					"frost2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

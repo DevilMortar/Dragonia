@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:hideboots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "030b8add",
+		type: "item",
+		items: [{
+			item: "mocreatures:hideboots"
+		}],
+		consume_items: true
+	}]
+}

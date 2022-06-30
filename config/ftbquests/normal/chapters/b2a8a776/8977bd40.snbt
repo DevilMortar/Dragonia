@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 302.0d,
+	description: "{id:\"spartanfire:saber_desert_venom\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4e6e53f0",
+		type: "item",
+		items: [{
+			item: "spartanfire:saber_desert_venom"
+		}],
+		consume_items: true
+	}]
+}

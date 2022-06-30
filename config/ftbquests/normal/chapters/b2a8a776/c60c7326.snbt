@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 231.0d,
+	description: "{id:\"tconstruct:arrow_shaft\",Count:1b,tag:{Material:\"blaze\"},Damage:0s}",
+	tasks: [{
+		uid: "365b9dce",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_shaft",
+			tag: {
+				Material: "blaze"
+			}
+		}],
+		consume_items: true
+	}]
+}

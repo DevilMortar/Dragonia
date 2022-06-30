@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 19.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"netherex:frigid_health\"},Damage:0s}",
+	tasks: [{
+		uid: "b752d5a9",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "netherex:frigid_health"
+			}
+		}],
+		consume_items: true
+	}]
+}

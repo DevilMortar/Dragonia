@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 38.0d,
+	description: "{id:\"minecraft:rabbit_stew\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e84f93da",
+		type: "item",
+		items: [{
+			item: "minecraft:rabbit_stew"
+		}],
+		consume_items: true
+	}]
+}

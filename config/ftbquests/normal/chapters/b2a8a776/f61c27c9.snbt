@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 325.0d,
+	description: "{id:\"aether_legacy:skyroot_bed_item\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4b75a0e5",
+		type: "item",
+		items: [{
+			item: "aether_legacy:skyroot_bed_item"
+		}],
+		consume_items: true
+	}]
+}

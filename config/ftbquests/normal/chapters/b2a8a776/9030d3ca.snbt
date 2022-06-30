@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 361.0d,
+	description: "{id:\"harvestcraft:catfishrawitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0729559d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:catfishrawitem"
+		}],
+		consume_items: true
+	}]
+}

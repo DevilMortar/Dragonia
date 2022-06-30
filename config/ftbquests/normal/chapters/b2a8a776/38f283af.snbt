@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 62.0d,
+	description: "{id:\"betternether:lucis_spore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6299ff27",
+		type: "item",
+		items: [{
+			item: "betternether:lucis_spore"
+		}],
+		consume_items: true
+	}]
+}

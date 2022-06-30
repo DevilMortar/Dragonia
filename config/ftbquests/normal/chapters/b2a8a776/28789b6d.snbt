@@ -1,0 +1,19 @@
+{
+	x: 10.0d,
+	y: 162.0d,
+	description: "{id:\"thaumcraft:crystal_essence\",Count:1b,tag:{Aspects:[{amount:1,key:\"draco\"}]},Damage:0s}",
+	tasks: [{
+		uid: "dec97b6d",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "draco"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

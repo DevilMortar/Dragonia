@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 253.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"tconstruct:bow_limb\"},Damage:0s}",
+	tasks: [{
+		uid: "b5f7e238",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:bow_limb"
+			}
+		}],
+		consume_items: true
+	}]
+}

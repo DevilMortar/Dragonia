@@ -1,0 +1,20 @@
+{
+	x: 7.0d,
+	y: 93.0d,
+	description: "{id:\"rustic:elixir\",Count:1b,tag:{ElixirEffects:[{Effect:\"rustic:blazing_trail\",Duration:3600,Amplifier:0}]},Damage:0s}",
+	tasks: [{
+		uid: "6522b3f3",
+		type: "item",
+		items: [{
+			id: "rustic:elixir",
+			tag: {
+				ElixirEffects: [{
+					Effect: "rustic:blazing_trail",
+					Duration: 3600,
+					Amplifier: 0
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

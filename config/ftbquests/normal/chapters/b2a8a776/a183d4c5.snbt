@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 300.0d,
+	description: "{id:\"spartanfire:lance_jungle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a9bf2a1c",
+		type: "item",
+		items: [{
+			item: "spartanfire:lance_jungle"
+		}],
+		consume_items: true
+	}]
+}

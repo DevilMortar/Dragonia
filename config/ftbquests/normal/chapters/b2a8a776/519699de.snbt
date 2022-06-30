@@ -1,0 +1,20 @@
+{
+	x: 39.0d,
+	y: 267.0d,
+	description: "{id:\"xreliquary:tipped_arrow\",Count:1b,tag:{effects:[{duration:93,potency:0,name:\"minecraft:fire_resistance\"}]},Damage:0s}",
+	tasks: [{
+		uid: "bc69491a",
+		type: "item",
+		items: [{
+			id: "xreliquary:tipped_arrow",
+			tag: {
+				effects: [{
+					duration: 93,
+					potency: 0,
+					name: "minecraft:fire_resistance"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

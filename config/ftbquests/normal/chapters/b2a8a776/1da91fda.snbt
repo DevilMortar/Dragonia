@@ -1,0 +1,18 @@
+{
+	x: 31.0d,
+	y: 309.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"minecraft:stone_beach\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cba0daf3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "minecraft:stone_beach"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

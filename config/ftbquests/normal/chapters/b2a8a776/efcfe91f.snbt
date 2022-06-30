@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 39.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"minecraft:mundane\"},Damage:0s}",
+	tasks: [{
+		uid: "72c741af",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:mundane"
+			}
+		}],
+		consume_items: true
+	}]
+}

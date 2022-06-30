@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:taint_rock\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a1b6e29d",
+		type: "item",
+		items: [{
+			item: "thaumcraft:taint_rock"
+		}],
+		consume_items: true
+	}]
+}

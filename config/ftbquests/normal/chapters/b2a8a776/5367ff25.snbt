@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 327.0d,
+	description: "{id:\"charm:gold_lantern\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "597f3973",
+		type: "item",
+		items: [{
+			item: "charm:gold_lantern"
+		}],
+		consume_items: true
+	}]
+}

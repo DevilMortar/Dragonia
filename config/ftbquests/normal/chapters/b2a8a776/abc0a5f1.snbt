@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 140.0d,
+	description: "{id:\"ancientwarfarestructure:urn\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "32d977c4",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:urn"
+		}],
+		consume_items: true
+	}]
+}

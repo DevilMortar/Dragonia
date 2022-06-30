@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 320.0d,
+	description: "{id:\"zettaimagic:arcane_note\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5f8e9bb7",
+		type: "item",
+		items: [{
+			item: "zettaimagic:arcane_note"
+		}],
+		consume_items: true
+	}]
+}

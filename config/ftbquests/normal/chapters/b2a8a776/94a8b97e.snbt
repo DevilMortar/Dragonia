@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"manyullyn\"},Damage:0s}",
+	tasks: [{
+		uid: "2cbf1d38",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "manyullyn"
+			}
+		}],
+		consume_items: true
+	}]
+}

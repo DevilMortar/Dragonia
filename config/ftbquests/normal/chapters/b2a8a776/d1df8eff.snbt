@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 23.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"atum:desert_rabbit\"}},Damage:0s}",
+	tasks: [{
+		uid: "ef713e8f",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "atum:desert_rabbit"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 222.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"netherrack\"},Damage:0s}",
+	tasks: [{
+		uid: "c146fd7d",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "netherrack"
+			}
+		}],
+		consume_items: true
+	}]
+}

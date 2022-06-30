@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 348.0d,
+	description: "{id:\"harvestcraft:zeppoleitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dabda00e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:zeppoleitem"
+		}],
+		consume_items: true
+	}]
+}

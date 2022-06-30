@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 228.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"manyullyn\"},Damage:0s}",
+	tasks: [{
+		uid: "6d2ee827",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "manyullyn"
+			}
+		}],
+		consume_items: true
+	}]
+}

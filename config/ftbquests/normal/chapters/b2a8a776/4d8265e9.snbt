@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 302.0d,
+	description: "{id:\"spartanfire:glaive_desert_venom\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cc91d011",
+		type: "item",
+		items: [{
+			item: "spartanfire:glaive_desert_venom"
+		}],
+		consume_items: true
+	}]
+}

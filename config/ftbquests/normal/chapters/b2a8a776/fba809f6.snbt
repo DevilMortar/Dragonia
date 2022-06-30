@@ -1,0 +1,67 @@
+{
+	x: 39.0d,
+	y: 247.0d,
+	description: "{id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:139,HarvestLevel:4,Attack:4.2f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:139,HarvestLevel:4,Attack:4.2f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"duritos\",color:-10478396,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"duritos\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "3f352831",
+		type: "item",
+		items: [{
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.07f,
+					DrawSpeed: 0.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -1.0f,
+					Durability: 139,
+					HarvestLevel: 4,
+					Attack: 4.2f,
+					Range: 0.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.07f,
+					DrawSpeed: 0.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -1.0f,
+					Durability: 139,
+					HarvestLevel: 4,
+					Attack: 4.2f,
+					Range: 0.4f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"launcher"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"obsidian",
+						"obsidian",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "duritos",
+					color: -10478396,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"duritos",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 300.0d,
+	description: "{id:\"spartanfire:spear_jungle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "daba4fc0",
+		type: "item",
+		items: [{
+			item: "spartanfire:spear_jungle"
+		}],
+		consume_items: true
+	}]
+}

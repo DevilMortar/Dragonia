@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:wrought_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "026b445a",
+		type: "item",
+		items: [{
+			item: "mowziesmobs:wrought_helmet"
+		}],
+		consume_items: true
+	}]
+}

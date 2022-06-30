@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 352.0d,
+	description: "{id:\"harvestcraft:cottoncandyitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2c3bb6ec",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cottoncandyitem"
+		}],
+		consume_items: true
+	}]
+}

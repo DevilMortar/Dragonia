@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 344.0d,
+	description: "{id:\"harvestcraft:biscuititem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "63bff64d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:biscuititem"
+		}],
+		consume_items: true
+	}]
+}

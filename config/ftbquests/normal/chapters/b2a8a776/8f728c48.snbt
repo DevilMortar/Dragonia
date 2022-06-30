@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 181.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:pain_long\"},Damage:0s}",
+	tasks: [{
+		uid: "7a6a4451",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:pain_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

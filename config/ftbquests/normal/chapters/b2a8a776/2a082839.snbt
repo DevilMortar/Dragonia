@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 397.0d,
+	description: "{id:\"chisel:chisel_hitech\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a0f4dd2c",
+		type: "item",
+		items: [{
+			item: "chisel:chisel_hitech"
+		}],
+		consume_items: true
+	}]
+}

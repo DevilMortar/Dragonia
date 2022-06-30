@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 77.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:chests/stronghold_corridor\"},Damage:0s}",
+	tasks: [{
+		uid: "0a9f177d",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:chests/stronghold_corridor"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 178.0d,
+	description: "{id:\"dungeontactics:flower_fade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a811fff1",
+		type: "item",
+		items: [{
+			item: "dungeontactics:flower_fade"
+		}],
+		consume_items: true
+	}]
+}

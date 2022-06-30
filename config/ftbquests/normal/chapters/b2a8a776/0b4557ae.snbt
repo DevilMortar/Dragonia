@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 190.0d,
+	description: "{id:\"iceandfire:deathworm_yellow_leggings\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5aa24927",
+		type: "item",
+		items: [{
+			item: "iceandfire:deathworm_yellow_leggings"
+		}],
+		consume_items: true
+	}]
+}

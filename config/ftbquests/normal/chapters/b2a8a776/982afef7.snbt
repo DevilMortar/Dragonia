@@ -1,0 +1,71 @@
+{
+	x: 31.0d,
+	y: 248.0d,
+	description: "{id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,DrawSpeed:1.5f,FreeModifiers:3,ProjectileBonusDamage:-2.0f,Durability:37,HarvestLevel:0,Attack:0.05f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,DrawSpeed:1.5f,FreeModifiers:5,ProjectileBonusDamage:-2.0f,Durability:37,HarvestLevel:0,Attack:0.05f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"writable1\",\"writable2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4d5907be",
+		type: "item",
+		items: [{
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.51f,
+					DrawSpeed: 1.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -2.0f,
+					Durability: 37,
+					HarvestLevel: 0,
+					Attack: 0.05f,
+					Range: 0.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.51f,
+					DrawSpeed: 1.5f,
+					FreeModifiers: 5,
+					ProjectileBonusDamage: -2.0f,
+					Durability: 37,
+					HarvestLevel: 0,
+					Attack: 0.05f,
+					Range: 0.4f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"launcher"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"paper",
+						"paper",
+						"paper",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "writable",
+					color: -1,
+					level: 2,
+					writable2: 1b,
+					writable1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"writable1",
+					"writable2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

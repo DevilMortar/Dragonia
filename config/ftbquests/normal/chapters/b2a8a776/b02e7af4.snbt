@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 321.0d,
+	description: "{id:\"aether_legacy:freezer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1aac68a8",
+		type: "item",
+		items: [{
+			item: "aether_legacy:freezer"
+		}],
+		consume_items: true
+	}]
+}

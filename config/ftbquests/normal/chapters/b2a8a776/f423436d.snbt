@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 79.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"primitivemobs:chests/mimic_trap\"},Damage:0s}",
+	tasks: [{
+		uid: "8a5efbe4",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "primitivemobs:chests/mimic_trap"
+			}
+		}],
+		consume_items: true
+	}]
+}

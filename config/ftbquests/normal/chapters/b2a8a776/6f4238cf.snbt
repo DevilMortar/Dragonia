@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 178.0d,
+	description: "{id:\"dungeontactics:flower_cinder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0a717de5",
+		type: "item",
+		items: [{
+			item: "dungeontactics:flower_cinder"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 159.0d,
+	description: "{id:\"bibliocraft:biblioclipboard\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8224a426",
+		type: "item",
+		items: [{
+			item: "bibliocraft:biblioclipboard"
+		}],
+		consume_items: true
+	}]
+}

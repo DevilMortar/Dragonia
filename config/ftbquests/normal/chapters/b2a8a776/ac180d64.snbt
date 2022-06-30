@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 47.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"minecraft:luck\"},Damage:0s}",
+	tasks: [{
+		uid: "ae81e3ec",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "minecraft:luck"
+			}
+		}],
+		consume_items: true
+	}]
+}

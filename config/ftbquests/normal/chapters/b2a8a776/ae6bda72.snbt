@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 361.0d,
+	description: "{id:\"harvestcraft:clamrawitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "306b3d24",
+		type: "item",
+		items: [{
+			item: "harvestcraft:clamrawitem"
+		}],
+		consume_items: true
+	}]
+}

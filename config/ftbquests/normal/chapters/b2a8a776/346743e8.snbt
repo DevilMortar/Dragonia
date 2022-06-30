@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 95.0d,
+	description: "{id:\"atum:alabaster_polished_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fc643fbc",
+		type: "item",
+		items: [{
+			item: "atum:alabaster_polished_wall"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 65.0d,
+	description: "{id:\"biomesoplenty:dried_sand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4a0d87c8",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:dried_sand"
+		}],
+		consume_items: true
+	}]
+}

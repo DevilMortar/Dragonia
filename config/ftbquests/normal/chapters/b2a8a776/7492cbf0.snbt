@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 327.0d,
+	description: "{id:\"charm:rotten_flesh_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9676c753",
+		type: "item",
+		items: [{
+			item: "charm:rotten_flesh_block"
+		}],
+		consume_items: true
+	}]
+}

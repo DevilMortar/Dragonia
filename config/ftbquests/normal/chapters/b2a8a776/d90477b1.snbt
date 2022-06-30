@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 258.0d,
+	description: "{id:\"xreliquary:destruction_catalyst\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0a25be1d",
+		type: "item",
+		items: [{
+			item: "xreliquary:destruction_catalyst"
+		}],
+		consume_items: true
+	}]
+}

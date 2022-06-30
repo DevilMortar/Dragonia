@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 172.0d,
+	description: "{id:\"dungeontactics:bomb_porting\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0a1922cf",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bomb_porting"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 316.0d,
+	description: "{id:\"toroquest:royal_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "de5220b4",
+		type: "item",
+		items: [{
+			item: "toroquest:royal_boots"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 216.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"firewood\"},Damage:0s}",
+	tasks: [{
+		uid: "2b75eb50",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "firewood"
+			}
+		}],
+		consume_items: true
+	}]
+}

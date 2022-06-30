@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:effect_glimmer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "38a9251c",
+		type: "item",
+		items: [{
+			item: "thaumcraft:effect_glimmer"
+		}],
+		consume_items: true
+	}]
+}

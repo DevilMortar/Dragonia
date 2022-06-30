@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 257.0d,
+	description: "{id:\"randomloot:titan_case\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "85966ba9",
+		type: "item",
+		items: [{
+			item: "randomloot:titan_case"
+		}],
+		consume_items: true
+	}]
+}

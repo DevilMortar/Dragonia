@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 272.0d,
+	description: "{id:\"spartanweaponry:boomerang_wood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0e32f556",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:boomerang_wood"
+		}],
+		consume_items: true
+	}]
+}

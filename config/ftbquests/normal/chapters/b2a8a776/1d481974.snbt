@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 272.0d,
+	description: "{id:\"spartanweaponry:lance_wood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f5cdf065",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:lance_wood"
+		}],
+		consume_items: true
+	}]
+}

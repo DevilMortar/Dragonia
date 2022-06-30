@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 323.0d,
+	description: "{id:\"aether_legacy:phoenix_chestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "43db873c",
+		type: "item",
+		items: [{
+			item: "aether_legacy:phoenix_chestplate"
+		}],
+		consume_items: true
+	}]
+}

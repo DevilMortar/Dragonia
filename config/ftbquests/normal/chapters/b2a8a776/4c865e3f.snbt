@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 164.0d,
+	description: "{id:\"thaumcraft:void_pick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "87d105df",
+		type: "item",
+		items: [{
+			item: "thaumcraft:void_pick"
+		}],
+		consume_items: true
+	}]
+}

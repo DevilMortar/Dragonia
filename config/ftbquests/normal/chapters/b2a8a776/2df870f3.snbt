@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:charm_darkened\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d68365ec",
+		type: "item",
+		items: [{
+			item: "dungeontactics:charm_darkened"
+		}],
+		consume_items: true
+	}]
+}

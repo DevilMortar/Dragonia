@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 302.0d,
+	description: "{id:\"spartanfire:warhammer_ice_dragonsteel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1a81692a",
+		type: "item",
+		items: [{
+			item: "spartanfire:warhammer_ice_dragonsteel"
+		}],
+		consume_items: true
+	}]
+}

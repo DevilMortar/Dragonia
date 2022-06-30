@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 42.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"extraalchemy:dispel_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "9ceaf6fa",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "extraalchemy:dispel_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

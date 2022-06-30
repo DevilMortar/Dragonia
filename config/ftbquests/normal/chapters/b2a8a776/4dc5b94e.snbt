@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 362.0d,
+	description: "{id:\"vt:acaciabark\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6958dbcc",
+		type: "item",
+		items: [{
+			item: "vt:acaciabark"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 208.0d,
+	description: "{id:\"netherex:frosted_amedian_axe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "581a79a0",
+		type: "item",
+		items: [{
+			item: "netherex:frosted_amedian_axe"
+		}],
+		consume_items: true
+	}]
+}

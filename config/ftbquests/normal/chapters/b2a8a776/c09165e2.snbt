@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 96.0d,
+	description: "{id:\"atum:porphyry_pillar_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "18fea538",
+		type: "item",
+		items: [{
+			item: "atum:porphyry_pillar_wall"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 181.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"potioncore:strong_hunger\"},Damage:0s}",
+	tasks: [{
+		uid: "95172821",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "potioncore:strong_hunger"
+			}
+		}],
+		consume_items: true
+	}]
+}

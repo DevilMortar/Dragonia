@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 110.0d,
+	description: "{id:\"ebwizardry:sage_hat_necromancy\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0adcd790",
+		type: "item",
+		items: [{
+			item: "ebwizardry:sage_hat_necromancy"
+		}],
+		consume_items: true
+	}]
+}

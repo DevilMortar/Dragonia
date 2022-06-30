@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:okrachipsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3e63b39a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:okrachipsitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 231.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"jungle_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "28dd7123",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "jungle_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

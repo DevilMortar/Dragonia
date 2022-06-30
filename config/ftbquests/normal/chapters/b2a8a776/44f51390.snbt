@@ -1,0 +1,21 @@
+{
+	x: 34.0d,
+	y: 260.0d,
+	description: "{id:\"xreliquary:bullet\",Count:1b,tag:{effects:[{duration:50,potency:0,name:\"minecraft:regeneration\"}]},Damage:1s}",
+	tasks: [{
+		uid: "e6c91d7a",
+		type: "item",
+		items: [{
+			id: "xreliquary:bullet",
+			tag: {
+				effects: [{
+					duration: 50,
+					potency: 0,
+					name: "minecraft:regeneration"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

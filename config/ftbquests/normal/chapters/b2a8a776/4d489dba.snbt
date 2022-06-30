@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 368.0d,
+	description: "{id:\"quark:arrow_ender\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cac8a6e4",
+		type: "item",
+		items: [{
+			item: "quark:arrow_ender"
+		}],
+		consume_items: true
+	}]
+}

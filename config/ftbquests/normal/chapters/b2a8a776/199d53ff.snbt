@@ -1,0 +1,54 @@
+{
+	x: 21.0d,
+	y: 135.0d,
+	description: "{id:\"conarm:chestplate\",Count:1b,tag:{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:41,Defense:4.5f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:41,Defense:4.5f},TinkerData:{Materials:[\"flint\",\"flint\",\"flint\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"mundane_armor\",color:-9868951,level:3,mundane2_armor:1b,mundane1_armor:1b},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"mundane2_armor\",\"mundane1_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "fbe68f1e",
+		type: "item",
+		items: [{
+			id: "conarm:chestplate",
+			tag: {
+				StatsOriginal: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 41,
+					Defense: 4.5f
+				},
+				Stats: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 41,
+					Defense: 4.5f
+				},
+				TinkerData: {
+					Materials: [
+						"flint",
+						"flint",
+						"flint"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "mundane_armor",
+					color: -9868951,
+					level: 3,
+					mundane2_armor: 1b,
+					mundane1_armor: 1b
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"mundane2_armor",
+					"mundane1_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 108.0d,
+	description: "{id:\"ebwizardry:novice_fire_wand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3f5c9120",
+		type: "item",
+		items: [{
+			item: "ebwizardry:novice_fire_wand"
+		}],
+		consume_items: true
+	}]
+}

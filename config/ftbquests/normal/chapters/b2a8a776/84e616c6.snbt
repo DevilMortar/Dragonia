@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 183.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"potioncore:revival\"},Damage:0s}",
+	tasks: [{
+		uid: "2a535868",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "potioncore:revival"
+			}
+		}],
+		consume_items: true
+	}]
+}

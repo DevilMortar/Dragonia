@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 111.0d,
+	description: "{id:\"ebwizardry:warlock_robe_fire\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1392444e",
+		type: "item",
+		items: [{
+			item: "ebwizardry:warlock_robe_fire"
+		}],
+		consume_items: true
+	}]
+}

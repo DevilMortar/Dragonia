@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 330.0d,
+	description: "{id:\"harvestcraft:broccoliitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "468b2d88",
+		type: "item",
+		items: [{
+			item: "harvestcraft:broccoliitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 316.0d,
+	description: "{id:\"tombstone:dust_of_vanishing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c2fd6e34",
+		type: "item",
+		items: [{
+			item: "tombstone:dust_of_vanishing"
+		}],
+		consume_items: true
+	}]
+}

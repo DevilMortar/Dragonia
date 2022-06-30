@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 333.0d,
+	description: "{id:\"harvestcraft:quinoaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3e5e062a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:quinoaitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 9.0d,
+	y: 127.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"icelord\",npcType:\"faction.archer\"},Damage:0s}",
+	tasks: [{
+		uid: "8b5e1ef5",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "icelord",
+				npcType: "faction.archer"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 86.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"netherex:entity/pigtificate/pigtificate_nincompoop\"},Damage:0s}",
+	tasks: [{
+		uid: "4c7c00fe",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "netherex:entity/pigtificate/pigtificate_nincompoop"
+			}
+		}],
+		consume_items: true
+	}]
+}

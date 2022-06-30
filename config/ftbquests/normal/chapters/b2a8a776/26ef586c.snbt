@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 80.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"quark:entities/stoneling\"},Damage:0s}",
+	tasks: [{
+		uid: "769a6f50",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "quark:entities/stoneling"
+			}
+		}],
+		consume_items: true
+	}]
+}

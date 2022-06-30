@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 358.0d,
+	description: "{id:\"harvestcraft:clamchowderitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b2606c01",
+		type: "item",
+		items: [{
+			item: "harvestcraft:clamchowderitem"
+		}],
+		consume_items: true
+	}]
+}

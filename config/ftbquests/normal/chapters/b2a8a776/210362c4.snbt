@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 357.0d,
+	description: "{id:\"harvestcraft:cornchipsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a82b050b",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cornchipsitem"
+		}],
+		consume_items: true
+	}]
+}

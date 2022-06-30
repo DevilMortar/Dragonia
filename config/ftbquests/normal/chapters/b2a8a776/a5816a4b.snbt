@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 256.0d,
+	description: "{id:\"tconstruct:slime_boots\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "87c7e0f1",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_boots 1 1"
+		}],
+		consume_items: true
+	}]
+}

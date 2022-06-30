@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 165.0d,
+	description: "{id:\"thaumcraft:verdant_charm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "582d209e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:verdant_charm"
+		}],
+		consume_items: true
+	}]
+}

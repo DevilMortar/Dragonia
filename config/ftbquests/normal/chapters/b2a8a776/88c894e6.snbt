@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 281.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"extraalchemy:pyper_long\"},Damage:0s}",
+	tasks: [{
+		uid: "05188811",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "extraalchemy:pyper_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

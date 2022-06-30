@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 292.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"quark:strong_resilience\"},Damage:0s}",
+	tasks: [{
+		uid: "234adeec",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "quark:strong_resilience"
+			}
+		}],
+		consume_items: true
+	}]
+}

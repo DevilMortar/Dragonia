@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 52.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"netherex:frigid_health\"},Damage:0s}",
+	tasks: [{
+		uid: "43c99dc3",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "netherex:frigid_health"
+			}
+		}],
+		consume_items: true
+	}]
+}

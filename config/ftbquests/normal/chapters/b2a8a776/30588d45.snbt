@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 39.0d,
+	description: "{id:\"minecraft:jungle_door\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3fcc4444",
+		type: "item",
+		items: [{
+			item: "minecraft:jungle_door"
+		}],
+		consume_items: true
+	}]
+}

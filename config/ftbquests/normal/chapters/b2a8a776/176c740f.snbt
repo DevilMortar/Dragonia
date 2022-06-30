@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 69.0d,
+	description: "{id:\"biomesoplenty:magic_door\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "18b0a8b3",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:magic_door"
+		}],
+		consume_items: true
+	}]
+}

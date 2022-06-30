@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 231.0d,
+	description: "{id:\"tconstruct:fletching\",Count:1b,tag:{Material:\"amphithere_feather\"},Damage:0s}",
+	tasks: [{
+		uid: "c48b8229",
+		type: "item",
+		items: [{
+			id: "tconstruct:fletching",
+			tag: {
+				Material: "amphithere_feather"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:chamomile\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b77a281d",
+		type: "item",
+		items: [{
+			item: "rustic:chamomile"
+		}],
+		consume_items: true
+	}]
+}

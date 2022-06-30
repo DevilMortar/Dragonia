@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 338.0d,
+	description: "{id:\"harvestcraft:flouritem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e3f30885",
+		type: "item",
+		items: [{
+			item: "harvestcraft:flouritem"
+		}],
+		consume_items: true
+	}]
+}

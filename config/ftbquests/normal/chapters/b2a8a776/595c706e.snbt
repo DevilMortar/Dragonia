@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 146.0d,
+	description: "{id:\"ancientwarfarevehicle:ammo_ball_shot\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6865c0be",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:ammo_ball_shot"
+		}],
+		consume_items: true
+	}]
+}

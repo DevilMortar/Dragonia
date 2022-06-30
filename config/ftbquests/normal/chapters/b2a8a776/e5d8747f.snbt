@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:painted_acacia_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ef68816c",
+		type: "item",
+		items: [{
+			item: "mowziesmobs:painted_acacia_slab"
+		}],
+		consume_items: true
+	}]
+}

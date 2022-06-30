@@ -1,0 +1,68 @@
+{
+	x: 19.0d,
+	y: 247.0d,
+	description: "{id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:1890,HarvestLevel:0,Attack:5.34f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:1890,HarvestLevel:0,Attack:5.34f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\",\"slime\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"slimey_green\",color:-8206221,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"slimey_green\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b486a732",
+		type: "item",
+		items: [{
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.24f,
+					FreeModifiers: 3,
+					Durability: 1890,
+					HarvestLevel: 0,
+					Attack: 5.34f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.24f,
+					FreeModifiers: 3,
+					Durability: 1890,
+					HarvestLevel: 0,
+					Attack: 5.34f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"slime",
+						"slime",
+						"slime",
+						"slime"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "slimey_green",
+					color: -8206221,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"slimey_green",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

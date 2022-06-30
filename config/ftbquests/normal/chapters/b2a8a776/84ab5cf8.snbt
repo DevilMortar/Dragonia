@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:potion_ring\",Count:1b,tag:{Potion:\"minecraft:fire_resistance\"},Damage:0s}",
+	tasks: [{
+		uid: "21c33655",
+		type: "item",
+		items: [{
+			id: "extraalchemy:potion_ring",
+			tag: {
+				Potion: "minecraft:fire_resistance"
+			}
+		}],
+		consume_items: true
+	}]
+}

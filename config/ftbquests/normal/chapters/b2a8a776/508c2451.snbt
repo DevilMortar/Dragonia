@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 201.0d,
+	description: "{id:\"heroicarmory:mhhellishslasher\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9dfc0624",
+		type: "item",
+		items: [{
+			item: "heroicarmory:mhhellishslasher"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 10.0d,
+	description: "{id:\"minecraft:iron_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d9cbbba0",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_helmet"
+		}],
+		consume_items: true
+	}]
+}

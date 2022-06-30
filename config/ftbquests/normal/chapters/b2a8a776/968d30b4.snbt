@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 87.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"quark:entities/wraith\"},Damage:0s}",
+	tasks: [{
+		uid: "f30080e6",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "quark:entities/wraith"
+			}
+		}],
+		consume_items: true
+	}]
+}

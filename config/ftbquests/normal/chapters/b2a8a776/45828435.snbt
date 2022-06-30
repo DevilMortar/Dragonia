@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 273.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"minecraft:long_leaping\"},Damage:0s}",
+	tasks: [{
+		uid: "d913fba9",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "minecraft:long_leaping"
+			}
+		}],
+		consume_items: true
+	}]
+}

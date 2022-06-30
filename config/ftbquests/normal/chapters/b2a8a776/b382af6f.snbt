@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:heartundead\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d27380c2",
+		type: "item",
+		items: [{
+			item: "mocreatures:heartundead"
+		}],
+		consume_items: true
+	}]
+}

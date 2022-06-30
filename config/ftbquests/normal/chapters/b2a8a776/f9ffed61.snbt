@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 85.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/sheep/orange\"},Damage:0s}",
+	tasks: [{
+		uid: "840920db",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/sheep/orange"
+			}
+		}],
+		consume_items: true
+	}]
+}

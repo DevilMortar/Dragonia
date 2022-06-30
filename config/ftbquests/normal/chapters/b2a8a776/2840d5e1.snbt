@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 414.0d,
+	description: "{id:\"chisel:blockgold\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "9e2f79bc",
+		type: "item",
+		items: [{
+			item: "chisel:blockgold 1 4"
+		}],
+		consume_items: true
+	}]
+}

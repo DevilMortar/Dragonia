@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 326.0d,
+	description: "{id:\"charm:crate\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "69e8d24d",
+		type: "item",
+		items: [{
+			item: "charm:crate 1 2"
+		}],
+		consume_items: true
+	}]
+}

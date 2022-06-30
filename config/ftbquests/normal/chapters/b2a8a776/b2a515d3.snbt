@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 368.0d,
+	description: "{id:\"quark:trowel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6af4b544",
+		type: "item",
+		items: [{
+			item: "quark:trowel"
+		}],
+		consume_items: true
+	}]
+}

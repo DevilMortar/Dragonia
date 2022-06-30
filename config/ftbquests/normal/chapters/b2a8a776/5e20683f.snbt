@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 320.0d,
+	description: "{id:\"zettaimagic:pact_projection\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c00914fd",
+		type: "item",
+		items: [{
+			item: "zettaimagic:pact_projection"
+		}],
+		consume_items: true
+	}]
+}

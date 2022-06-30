@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 146.0d,
+	description: "{id:\"ancientwarfarevehicle:rough_wood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d3fc5e24",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:rough_wood"
+		}],
+		consume_items: true
+	}]
+}

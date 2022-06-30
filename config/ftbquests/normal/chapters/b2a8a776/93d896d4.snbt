@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 151.0d,
+	description: "{id:\"atum:desert_chest_iron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "52b0c411",
+		type: "item",
+		items: [{
+			item: "atum:desert_chest_iron"
+		}],
+		consume_items: true
+	}]
+}

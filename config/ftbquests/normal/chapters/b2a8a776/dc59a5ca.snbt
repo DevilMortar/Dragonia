@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 80.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"quark:entities/crab\"},Damage:0s}",
+	tasks: [{
+		uid: "21ebe582",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "quark:entities/crab"
+			}
+		}],
+		consume_items: true
+	}]
+}

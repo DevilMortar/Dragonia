@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 270.0d,
+	description: "{id:\"scalinghealth:healingitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7fdcf097",
+		type: "item",
+		items: [{
+			item: "scalinghealth:healingitem"
+		}],
+		consume_items: true
+	}]
+}

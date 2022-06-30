@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 93.0d,
+	description: "{id:\"rustic:wildberries\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "63f3292c",
+		type: "item",
+		items: [{
+			item: "rustic:wildberries"
+		}],
+		consume_items: true
+	}]
+}

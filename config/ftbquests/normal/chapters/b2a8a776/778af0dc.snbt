@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 132.0d,
+	description: "{id:\"ancientwarfarenpc:coin\",Count:1b,tag:{metal:\"copper\"},Damage:0s}",
+	tasks: [{
+		uid: "69a3440d",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:coin",
+			tag: {
+				metal: "copper"
+			}
+		}],
+		consume_items: true
+	}]
+}

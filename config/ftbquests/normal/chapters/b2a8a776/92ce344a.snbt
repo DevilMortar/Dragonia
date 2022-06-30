@@ -1,0 +1,22 @@
+{
+	x: 7.0d,
+	y: 293.0d,
+	description: "{ForgeCaps:{Parent:{Size:6,Items:[]}},id:\"spartanweaponry:quiver_bolt_moderate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ed72f6a1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 6,
+					Items: []
+				}
+			},
+			id: "spartanweaponry:quiver_bolt_moderate",
+			tag: {
+				ClientInventory: []
+			}
+		}],
+		consume_items: true
+	}]
+}

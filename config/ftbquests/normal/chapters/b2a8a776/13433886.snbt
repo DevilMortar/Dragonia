@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 60.0d,
+	description: "{id:\"aquaculture:neptunium_pickaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0e46bcba",
+		type: "item",
+		items: [{
+			item: "aquaculture:neptunium_pickaxe"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 115.0d,
+	description: "{id:\"ancientspellcraft:charm_magic_light\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "69a3ba5d",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:charm_magic_light"
+		}],
+		consume_items: true
+	}]
+}

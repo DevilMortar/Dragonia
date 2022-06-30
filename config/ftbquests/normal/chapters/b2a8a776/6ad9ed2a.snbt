@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 315.0d,
+	description: "{id:\"tombstone:decorative_grave_cross\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "afddc10f",
+		type: "item",
+		items: [{
+			item: "tombstone:decorative_grave_cross 1 1"
+		}],
+		consume_items: true
+	}]
+}

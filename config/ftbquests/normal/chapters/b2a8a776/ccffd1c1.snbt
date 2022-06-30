@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 16.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:long_flight\"},Damage:0s}",
+	tasks: [{
+		uid: "16e5748c",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:long_flight"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,5 +1,6 @@
 {
 	title: "Event",
+	icon: "bibliocraft:biblioclipboard",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

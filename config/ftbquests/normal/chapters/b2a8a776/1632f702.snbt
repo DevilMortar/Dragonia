@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 174.0d,
+	description: "{id:\"dungeontactics:engineers_wrench_steel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "29ab89d1",
+		type: "item",
+		items: [{
+			item: "dungeontactics:engineers_wrench_steel"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:mochiitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "163fd310",
+		type: "item",
+		items: [{
+			item: "harvestcraft:mochiitem"
+		}],
+		consume_items: true
+	}]
+}

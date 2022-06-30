@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 347.0d,
+	description: "{id:\"harvestcraft:figsmoothieitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "69b3bde6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:figsmoothieitem"
+		}],
+		consume_items: true
+	}]
+}

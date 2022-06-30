@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 148.0d,
+	description: "{id:\"atum:loot_sapphire_idol\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bbb6a4ba",
+		type: "item",
+		items: [{
+			item: "atum:loot_sapphire_idol"
+		}],
+		consume_items: true
+	}]
+}

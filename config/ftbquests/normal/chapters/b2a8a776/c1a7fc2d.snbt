@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 38.0d,
+	description: "{id:\"minecraft:hopper_minecart\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "59c58621",
+		type: "item",
+		items: [{
+			item: "minecraft:hopper_minecart"
+		}],
+		consume_items: true
+	}]
+}

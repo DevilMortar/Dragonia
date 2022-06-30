@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 11.0d,
+	description: "{id:\"minecraft:book\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "df50ec04",
+		type: "item",
+		items: [{
+			item: "minecraft:book"
+		}],
+		consume_items: true
+	}]
+}

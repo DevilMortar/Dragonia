@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 226.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"dragonbone\"},Damage:0s}",
+	tasks: [{
+		uid: "fe897640",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "dragonbone"
+			}
+		}],
+		consume_items: true
+	}]
+}

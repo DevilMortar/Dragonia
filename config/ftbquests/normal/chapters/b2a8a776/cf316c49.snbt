@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 331.0d,
+	description: "{id:\"harvestcraft:brusselsproutseeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4b46dc6a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:brusselsproutseeditem"
+		}],
+		consume_items: true
+	}]
+}

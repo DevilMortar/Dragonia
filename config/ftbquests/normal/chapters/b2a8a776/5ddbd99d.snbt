@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 75.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"aether_legacy:entities/fire_minion\"},Damage:0s}",
+	tasks: [{
+		uid: "71ec0d40",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "aether_legacy:entities/fire_minion"
+			}
+		}],
+		consume_items: true
+	}]
+}

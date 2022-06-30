@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 117.0d,
+	description: "{id:\"ancientwarfare:gold_quill\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "27b15a96",
+		type: "item",
+		items: [{
+			item: "ancientwarfare:gold_quill"
+		}],
+		consume_items: true
+	}]
+}

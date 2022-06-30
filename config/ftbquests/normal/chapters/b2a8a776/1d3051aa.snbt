@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 152.0d,
+	description: "{id:\"atum:mandibles\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "af63838f",
+		type: "item",
+		items: [{
+			item: "atum:mandibles"
+		}],
+		consume_items: true
+	}]
+}

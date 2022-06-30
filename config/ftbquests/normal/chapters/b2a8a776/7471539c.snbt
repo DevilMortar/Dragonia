@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 361.0d,
+	description: "{id:\"harvestcraft:mudfishrawitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d73dc411",
+		type: "item",
+		items: [{
+			item: "harvestcraft:mudfishrawitem"
+		}],
+		consume_items: true
+	}]
+}

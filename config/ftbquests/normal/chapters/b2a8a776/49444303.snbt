@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 321.0d,
+	description: "{id:\"aether_legacy:holystone_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f2344ef1",
+		type: "item",
+		items: [{
+			item: "aether_legacy:holystone_wall"
+		}],
+		consume_items: true
+	}]
+}

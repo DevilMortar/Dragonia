@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 319.0d,
+	description: "{id:\"zettaimagic:m_wand_master_thunder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3390062d",
+		type: "item",
+		items: [{
+			item: "zettaimagic:m_wand_master_thunder"
+		}],
+		consume_items: true
+	}]
+}

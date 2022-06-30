@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 122.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"blueslime\"},Damage:0s}",
+	tasks: [{
+		uid: "78dae04c",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "blueslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

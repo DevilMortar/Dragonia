@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 169.0d,
+	description: "{id:\"mocreatures:elephanthowdah\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e6a3bc02",
+		type: "item",
+		items: [{
+			item: "mocreatures:elephanthowdah"
+		}],
+		consume_items: true
+	}]
+}

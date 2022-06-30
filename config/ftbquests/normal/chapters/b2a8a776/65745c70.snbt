@@ -1,0 +1,21 @@
+{
+	x: 38.0d,
+	y: 261.0d,
+	description: "{id:\"xreliquary:magazine\",Count:1b,tag:{effects:[{duration:300,potency:0,name:\"minecraft:health_boost\"}]},Damage:1s}",
+	tasks: [{
+		uid: "bd77fe16",
+		type: "item",
+		items: [{
+			id: "xreliquary:magazine",
+			tag: {
+				effects: [{
+					duration: 300,
+					potency: 0,
+					name: "minecraft:health_boost"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

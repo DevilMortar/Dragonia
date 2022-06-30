@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 68.0d,
+	description: "{id:\"biomesoplenty:redwood_fence_gate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "52594bfb",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:redwood_fence_gate"
+		}],
+		consume_items: true
+	}]
+}

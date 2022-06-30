@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 55.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:levitation\"},Damage:0s}",
+	tasks: [{
+		uid: "dd8b6227",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:levitation"
+			}
+		}],
+		consume_items: true
+	}]
+}

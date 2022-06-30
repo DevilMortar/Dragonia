@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 202.0d,
+	description: "{id:\"heroicarmory:terrariamuramasa\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8adf042e",
+		type: "item",
+		items: [{
+			item: "heroicarmory:terrariamuramasa"
+		}],
+		consume_items: true
+	}]
+}

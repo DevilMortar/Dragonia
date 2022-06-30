@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 326.0d,
+	description: "{id:\"apotheosis:armor_chest_book\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b0ed53f4",
+		type: "item",
+		items: [{
+			item: "apotheosis:armor_chest_book"
+		}],
+		consume_items: true
+	}]
+}

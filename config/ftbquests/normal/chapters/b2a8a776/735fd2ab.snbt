@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 219.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"obsidian\"},Damage:0s}",
+	tasks: [{
+		uid: "65f64d11",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "obsidian"
+			}
+		}],
+		consume_items: true
+	}]
+}

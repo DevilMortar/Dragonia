@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 332.0d,
+	description: "{id:\"harvestcraft:agaveseeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4c49e483",
+		type: "item",
+		items: [{
+			item: "harvestcraft:agaveseeditem"
+		}],
+		consume_items: true
+	}]
+}

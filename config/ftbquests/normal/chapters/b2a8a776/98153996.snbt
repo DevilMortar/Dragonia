@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:chilicupcakeitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b0bb15dd",
+		type: "item",
+		items: [{
+			item: "harvestcraft:chilicupcakeitem"
+		}],
+		consume_items: true
+	}]
+}

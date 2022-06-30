@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:tiropitaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ba81b4f4",
+		type: "item",
+		items: [{
+			item: "harvestcraft:tiropitaitem"
+		}],
+		consume_items: true
+	}]
+}

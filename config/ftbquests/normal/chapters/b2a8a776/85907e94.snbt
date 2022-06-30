@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 62.0d,
+	description: "{id:\"betternether:gray_mold\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "930bf102",
+		type: "item",
+		items: [{
+			item: "betternether:gray_mold"
+		}],
+		consume_items: true
+	}]
+}

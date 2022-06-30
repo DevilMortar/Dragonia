@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 377.0d,
+	description: "{id:\"quark:stone_andesite_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3ee716c2",
+		type: "item",
+		items: [{
+			item: "quark:stone_andesite_slab"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 257.0d,
+	description: "{id:\"primitivemobs:mysteryegg3\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "46bb62d5",
+		type: "item",
+		items: [{
+			item: "primitivemobs:mysteryegg3"
+		}],
+		consume_items: true
+	}]
+}

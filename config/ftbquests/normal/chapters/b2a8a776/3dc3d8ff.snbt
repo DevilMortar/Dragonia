@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 140.0d,
+	description: "{id:\"ancientwarfarestructure:table\",Count:1b,tag:{variant:\"acacia\"},Damage:0s}",
+	tasks: [{
+		uid: "17113499",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:table",
+			tag: {
+				variant: "acacia"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 418.0d,
+	description: "{id:\"chisel:cobblestonemossy1\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "86a8c9fd",
+		type: "item",
+		items: [{
+			item: "chisel:cobblestonemossy1 1 3"
+		}],
+		consume_items: true
+	}]
+}

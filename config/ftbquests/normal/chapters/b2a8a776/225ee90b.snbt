@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 212.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"tconstruct:arrow_head\"},Damage:0s}",
+	tasks: [{
+		uid: "968f2768",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:arrow_head"
+			}
+		}],
+		consume_items: true
+	}]
+}

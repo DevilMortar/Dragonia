@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 15.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:strong_hunger\"},Damage:0s}",
+	tasks: [{
+		uid: "dfe728f8",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:strong_hunger"
+			}
+		}],
+		consume_items: true
+	}]
+}

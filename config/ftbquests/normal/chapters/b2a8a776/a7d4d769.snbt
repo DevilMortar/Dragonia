@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"manyullyn\"},Damage:0s}",
+	tasks: [{
+		uid: "1ca79b84",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "manyullyn"
+			}
+		}],
+		consume_items: true
+	}]
+}

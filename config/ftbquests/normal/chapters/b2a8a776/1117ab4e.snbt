@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:grape_stem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "73c7032a",
+		type: "item",
+		items: [{
+			item: "rustic:grape_stem"
+		}],
+		consume_items: true
+	}]
+}

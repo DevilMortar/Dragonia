@@ -1,0 +1,68 @@
+{
+	x: 19.0d,
+	y: 381.0d,
+	description: "{id:\"tcomplement:chisel\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:803,HarvestLevel:3,Attack:3.23f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:803,HarvestLevel:3,Attack:3.23f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\",\"chisel\"]},TinkerData:{Materials:[\"endstone\",\"endstone\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"enderference\",\"alien\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4d6f8d93",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.23f,
+					FreeModifiers: 3,
+					Durability: 803,
+					HarvestLevel: 3,
+					Attack: 3.23f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.23f,
+					FreeModifiers: 3,
+					Durability: 803,
+					HarvestLevel: 3,
+					Attack: 3.23f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe",
+						"chisel"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"endstone",
+						"endstone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "enderference",
+					color: -2041712,
+					level: 1
+				},
+				{
+					identifier: "alien",
+					color: -2041712,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"enderference",
+					"alien",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

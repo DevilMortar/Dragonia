@@ -1,0 +1,18 @@
+{
+	x: 23.0d,
+	y: 23.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"thaumcraft:cultistcleric\"}},Damage:0s}",
+	tasks: [{
+		uid: "87324108",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "thaumcraft:cultistcleric"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 321.0d,
+	description: "{id:\"aether_legacy:crystal_leaves\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "db0e5bc2",
+		type: "item",
+		items: [{
+			item: "aether_legacy:crystal_leaves 1 1"
+		}],
+		consume_items: true
+	}]
+}

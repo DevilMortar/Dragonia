@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 15.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extraalchemy:beheading_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "92f197f3",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extraalchemy:beheading_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

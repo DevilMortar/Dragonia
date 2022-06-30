@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 201.0d,
+	description: "{id:\"heroicarmory:terrariaborealwoodsword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "051a0728",
+		type: "item",
+		items: [{
+			item: "heroicarmory:terrariaborealwoodsword"
+		}],
+		consume_items: true
+	}]
+}

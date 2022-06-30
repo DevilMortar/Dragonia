@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 179.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"minecraft:regeneration\"},Damage:0s}",
+	tasks: [{
+		uid: "c4af7fbf",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "minecraft:regeneration"
+			}
+		}],
+		consume_items: true
+	}]
+}

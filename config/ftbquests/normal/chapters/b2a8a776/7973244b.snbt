@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 293.0d,
+	description: "{id:\"spartanweaponry:throwing_axe_copper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9c2a821b",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:throwing_axe_copper"
+		}],
+		consume_items: true
+	}]
+}

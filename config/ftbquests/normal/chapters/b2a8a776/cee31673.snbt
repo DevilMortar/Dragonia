@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 325.0d,
+	description: "{id:\"aether_legacy:aetherion_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eda37b8d",
+		type: "item",
+		items: [{
+			item: "aether_legacy:aetherion_chest"
+		}],
+		consume_items: true
+	}]
+}

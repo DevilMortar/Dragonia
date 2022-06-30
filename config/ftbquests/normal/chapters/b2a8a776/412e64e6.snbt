@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 58.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:slow_fall\"},Damage:0s}",
+	tasks: [{
+		uid: "39f1942f",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:slow_fall"
+			}
+		}],
+		consume_items: true
+	}]
+}

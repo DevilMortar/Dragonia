@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 151.0d,
+	description: "{id:\"atum:wanderer_legs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b9d61a00",
+		type: "item",
+		items: [{
+			item: "atum:wanderer_legs"
+		}],
+		consume_items: true
+	}]
+}

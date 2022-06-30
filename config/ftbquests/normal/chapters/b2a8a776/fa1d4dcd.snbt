@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 174.0d,
+	description: "{id:\"dungeontactics:claws\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e9a14394",
+		type: "item",
+		items: [{
+			item: "dungeontactics:claws"
+		}],
+		consume_items: true
+	}]
+}

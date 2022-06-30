@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 258.0d,
+	description: "{id:\"xreliquary:mob_charm_fragment\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "1328487b",
+		type: "item",
+		items: [{
+			item: "xreliquary:mob_charm_fragment 1 8"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 353.0d,
+	description: "{id:\"harvestcraft:cheezepuffsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9a1977c9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cheezepuffsitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"jungle_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "426db9f7",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "jungle_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

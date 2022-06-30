@@ -1,0 +1,18 @@
+{
+	x: 24.0d,
+	y: 139.0d,
+	description: "{id:\"ancientwarfarestructure:protection_flag\",Count:1b,tag:{topColor:15685463,name:\"amazon\",bottomColor:16761035},Damage:0s}",
+	tasks: [{
+		uid: "3ca23fc4",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:protection_flag",
+			tag: {
+				topColor: 15685463,
+				name: "amazon",
+				bottomColor: 16761035
+			}
+		}],
+		consume_items: true
+	}]
+}

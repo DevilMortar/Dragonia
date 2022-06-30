@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 149.0d,
+	description: "{id:\"atum:limestone_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e57cf1e4",
+		type: "item",
+		items: [{
+			item: "atum:limestone_shovel"
+		}],
+		consume_items: true
+	}]
+}

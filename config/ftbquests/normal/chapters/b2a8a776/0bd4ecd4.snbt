@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"dragonbone\"},Damage:0s}",
+	tasks: [{
+		uid: "6cae7358",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "dragonbone"
+			}
+		}],
+		consume_items: true
+	}]
+}

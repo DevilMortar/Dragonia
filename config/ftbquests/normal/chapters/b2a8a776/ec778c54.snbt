@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 198.0d,
+	description: "{id:\"heroicarmory:scfireblade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "404dbb94",
+		type: "item",
+		items: [{
+			item: "heroicarmory:scfireblade"
+		}],
+		consume_items: true
+	}]
+}

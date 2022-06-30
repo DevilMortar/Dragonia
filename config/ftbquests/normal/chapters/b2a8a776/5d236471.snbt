@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 121.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"magmaslime\"},Damage:0s}",
+	tasks: [{
+		uid: "81fb1ae2",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "magmaslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 21.0d,
+	y: 309.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"minecraft:mushroom_island_shore\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a62934e6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "minecraft:mushroom_island_shore"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

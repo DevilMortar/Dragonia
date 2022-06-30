@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 86.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"netherex:entity/spore\"},Damage:0s}",
+	tasks: [{
+		uid: "7a4d9329",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "netherex:entity/spore"
+			}
+		}],
+		consume_items: true
+	}]
+}

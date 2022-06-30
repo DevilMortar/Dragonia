@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 287.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"minecraft:long_strength\"},Damage:0s}",
+	tasks: [{
+		uid: "cf5fff25",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "minecraft:long_strength"
+			}
+		}],
+		consume_items: true
+	}]
+}

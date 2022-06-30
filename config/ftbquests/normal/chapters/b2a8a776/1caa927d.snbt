@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 301.0d,
+	description: "{id:\"spartanfire:boomerang_desert\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "75073297",
+		type: "item",
+		items: [{
+			item: "spartanfire:boomerang_desert"
+		}],
+		consume_items: true
+	}]
+}

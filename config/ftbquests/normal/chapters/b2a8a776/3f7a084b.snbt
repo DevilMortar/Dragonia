@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 19.0d,
+	description: "{id:\"minecraft:ender_eye\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a51d3518",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_eye"
+		}],
+		consume_items: true
+	}]
+}

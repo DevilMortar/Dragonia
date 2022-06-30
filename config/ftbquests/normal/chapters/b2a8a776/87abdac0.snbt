@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 326.0d,
+	description: "{id:\"apotheosis:armor_legs_book\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b40b6998",
+		type: "item",
+		items: [{
+			item: "apotheosis:armor_legs_book"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 275.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"extraalchemy:leech_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "9da2f5d5",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "extraalchemy:leech_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

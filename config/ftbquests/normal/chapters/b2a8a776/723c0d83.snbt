@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 313.0d,
+	description: "{id:\"tcomplement:cast_clay\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3426188a",
+		type: "item",
+		items: [{
+			item: "tcomplement:cast_clay"
+		}],
+		consume_items: true
+	}]
+}

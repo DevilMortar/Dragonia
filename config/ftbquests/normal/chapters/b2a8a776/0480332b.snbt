@@ -1,0 +1,18 @@
+{
+	x: 7.0d,
+	y: 27.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"moremobss:flyingeyeball\"}},Damage:0s}",
+	tasks: [{
+		uid: "101668dc",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "moremobss:flyingeyeball"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

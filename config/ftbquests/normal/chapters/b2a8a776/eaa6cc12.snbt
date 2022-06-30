@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 323.0d,
+	description: "{id:\"aether_legacy:phoenix_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b4f6df26",
+		type: "item",
+		items: [{
+			item: "aether_legacy:phoenix_helmet"
+		}],
+		consume_items: true
+	}]
+}

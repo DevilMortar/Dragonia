@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 375.0d,
+	description: "{id:\"quark:world_stone_carved\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "6647bf31",
+		type: "item",
+		items: [{
+			item: "quark:world_stone_carved 1 1"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:apple_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e3603827",
+		type: "item",
+		items: [{
+			item: "rustic:apple_seeds"
+		}],
+		consume_items: true
+	}]
+}

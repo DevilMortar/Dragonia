@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 165.0d,
+	description: "{id:\"thaumcraft:cloud_ring\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9edb18e0",
+		type: "item",
+		items: [{
+			item: "thaumcraft:cloud_ring"
+		}],
+		consume_items: true
+	}]
+}

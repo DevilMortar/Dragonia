@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 308.0d,
+	description: "{id:\"thaumicaugmentation:arcane_door\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "af1cc634",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:arcane_door"
+		}],
+		consume_items: true
+	}]
+}

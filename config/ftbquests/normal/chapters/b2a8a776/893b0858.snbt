@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 218.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"silver\"},Damage:0s}",
+	tasks: [{
+		uid: "a04a2d43",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "silver"
+			}
+		}],
+		consume_items: true
+	}]
+}

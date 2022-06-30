@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:iron_pendant\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7b09b733",
+		type: "item",
+		items: [{
+			item: "aether_legacy:iron_pendant"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 336.0d,
+	description: "{id:\"harvestcraft:breadfruit_sapling\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "25052522",
+		type: "item",
+		items: [{
+			item: "harvestcraft:breadfruit_sapling"
+		}],
+		consume_items: true
+	}]
+}

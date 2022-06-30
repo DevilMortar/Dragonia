@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 69.0d,
+	description: "{id:\"biomesoplenty:sacred_oak_door\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0791f65e",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:sacred_oak_door"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 38.0d,
+	description: "{id:\"minecraft:comparator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ab935813",
+		type: "item",
+		items: [{
+			item: "minecraft:comparator"
+		}],
+		consume_items: true
+	}]
+}

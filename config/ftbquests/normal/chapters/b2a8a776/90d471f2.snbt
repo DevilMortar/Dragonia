@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 346.0d,
+	description: "{id:\"harvestcraft:papayajellyitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1bc16446",
+		type: "item",
+		items: [{
+			item: "harvestcraft:papayajellyitem"
+		}],
+		consume_items: true
+	}]
+}

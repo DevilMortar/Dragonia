@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 286.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"minecraft:night_vision\"},Damage:0s}",
+	tasks: [{
+		uid: "9d4566c9",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "minecraft:night_vision"
+			}
+		}],
+		consume_items: true
+	}]
+}

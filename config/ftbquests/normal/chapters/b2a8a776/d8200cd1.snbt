@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 216.0d,
+	description: "{id:\"tconstruct:broad_axe_head\",Count:1b,tag:{Material:\"cactus\"},Damage:0s}",
+	tasks: [{
+		uid: "b5f471a4",
+		type: "item",
+		items: [{
+			id: "tconstruct:broad_axe_head",
+			tag: {
+				Material: "cactus"
+			}
+		}],
+		consume_items: true
+	}]
+}

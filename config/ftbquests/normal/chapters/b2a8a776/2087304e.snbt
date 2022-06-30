@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:ataxebass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "28651234",
+		type: "item",
+		items: [{
+			item: "heroicarmory:ataxebass"
+		}],
+		consume_items: true
+	}]
+}

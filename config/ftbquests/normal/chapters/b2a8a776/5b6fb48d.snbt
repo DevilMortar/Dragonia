@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 28.0d,
+	description: "{id:\"minecraft:baked_potato\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "db7f0a2f",
+		type: "item",
+		items: [{
+			item: "minecraft:baked_potato"
+		}],
+		consume_items: true
+	}]
+}

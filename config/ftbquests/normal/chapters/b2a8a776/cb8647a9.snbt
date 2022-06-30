@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 320.0d,
+	description: "{id:\"zettaimagic:cloak_shadows\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c9a56a0c",
+		type: "item",
+		items: [{
+			item: "zettaimagic:cloak_shadows"
+		}],
+		consume_items: true
+	}]
+}

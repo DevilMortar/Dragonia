@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 329.0d,
+	description: "{id:\"moremobss:hornetnestblock\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e42e7c38",
+		type: "item",
+		items: [{
+			item: "moremobss:hornetnestblock"
+		}],
+		consume_items: true
+	}]
+}

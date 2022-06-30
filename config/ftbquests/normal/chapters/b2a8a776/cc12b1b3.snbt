@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 180.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:combustion_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "24d8de53",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:combustion_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

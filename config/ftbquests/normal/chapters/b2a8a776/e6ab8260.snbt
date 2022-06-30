@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 207.0d,
+	description: "{id:\"netherex:lively_nether_brick_fence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "26ae7c96",
+		type: "item",
+		items: [{
+			item: "netherex:lively_nether_brick_fence"
+		}],
+		consume_items: true
+	}]
+}

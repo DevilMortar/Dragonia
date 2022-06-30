@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 119.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"ardite\"},Damage:0s}",
+	tasks: [{
+		uid: "0f3b7563",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "ardite"
+			}
+		}],
+		consume_items: true
+	}]
+}

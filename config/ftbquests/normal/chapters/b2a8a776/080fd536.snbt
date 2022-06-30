@@ -1,0 +1,18 @@
+{
+	x: 24.0d,
+	y: 22.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"ebwizardry:remnant\"}},Damage:0s}",
+	tasks: [{
+		uid: "5d0ca032",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "ebwizardry:remnant"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

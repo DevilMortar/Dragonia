@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 10.0d,
+	description: "{id:\"minecraft:iron_leggings\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b53b7cd4",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_leggings"
+		}],
+		consume_items: true
+	}]
+}

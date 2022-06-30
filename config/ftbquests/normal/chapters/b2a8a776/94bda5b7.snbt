@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 216.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"ardite\"},Damage:0s}",
+	tasks: [{
+		uid: "55f06159",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "ardite"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 186.0d,
+	description: "{id:\"iceandfire:frozen_gravel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "56e31b6a",
+		type: "item",
+		items: [{
+			item: "iceandfire:frozen_gravel"
+		}],
+		consume_items: true
+	}]
+}

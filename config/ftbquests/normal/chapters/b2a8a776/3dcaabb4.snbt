@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 62.0d,
+	description: "{id:\"betternether:reeds_gate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "26eb3c31",
+		type: "item",
+		items: [{
+			item: "betternether:reeds_gate"
+		}],
+		consume_items: true
+	}]
+}

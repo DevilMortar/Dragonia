@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 270.0d,
+	description: "{id:\"skewers:skewer_caramel_apple\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "94d8fd4c",
+		type: "item",
+		items: [{
+			item: "skewers:skewer_caramel_apple"
+		}],
+		consume_items: true
+	}]
+}

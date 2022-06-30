@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 292.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"potioncore:spin\"},Damage:0s}",
+	tasks: [{
+		uid: "f452c561",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "potioncore:spin"
+			}
+		}],
+		consume_items: true
+	}]
+}

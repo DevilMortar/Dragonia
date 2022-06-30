@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 298.0d,
+	description: "{id:\"spartanweaponry:staff_nickel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "77de63a8",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:staff_nickel"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:ring_mana_return\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1ef4a308",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_mana_return"
+		}],
+		consume_items: true
+	}]
+}

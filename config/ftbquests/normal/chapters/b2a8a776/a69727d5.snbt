@@ -1,0 +1,64 @@
+{
+	x: 25.0d,
+	y: 240.0d,
+	description: "{id:\"tconstruct:hammer\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:62,HarvestLevel:4,Attack:4.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:62,HarvestLevel:4,Attack:4.2f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"obsidian\",\"obsidian\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"duritos\",color:-10478396,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"duritos\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "66c58fc2",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.07f,
+					FreeModifiers: 3,
+					Durability: 62,
+					HarvestLevel: 4,
+					Attack: 4.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.07f,
+					FreeModifiers: 3,
+					Durability: 62,
+					HarvestLevel: 4,
+					Attack: 4.2f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"obsidian",
+						"obsidian",
+						"obsidian",
+						"obsidian"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "duritos",
+					color: -10478396,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"duritos",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

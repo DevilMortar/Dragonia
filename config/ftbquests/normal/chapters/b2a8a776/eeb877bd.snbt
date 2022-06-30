@@ -1,0 +1,51 @@
+{
+	x: 8.0d,
+	y: 140.0d,
+	description: "{id:\"conarm:leggings\",Count:1b,tag:{StatsOriginal:{Toughness:5.0f,FreeModifiers:3,Durability:807,Defense:1.0f},Stats:{Toughness:5.0f,FreeModifiers:3,Durability:807,Defense:1.0f},TinkerData:{Materials:[\"sponge\",\"sponge\",\"sponge\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"absorbent_armor\",color:-3486642,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"absorbent_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "4c0c570d",
+		type: "item",
+		items: [{
+			id: "conarm:leggings",
+			tag: {
+				StatsOriginal: {
+					Toughness: 5.0f,
+					FreeModifiers: 3,
+					Durability: 807,
+					Defense: 1.0f
+				},
+				Stats: {
+					Toughness: 5.0f,
+					FreeModifiers: 3,
+					Durability: 807,
+					Defense: 1.0f
+				},
+				TinkerData: {
+					Materials: [
+						"sponge",
+						"sponge",
+						"sponge"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "absorbent_armor",
+					color: -3486642,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"absorbent_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

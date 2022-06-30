@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 285.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:long_revival\"},Damage:0s}",
+	tasks: [{
+		uid: "02aff261",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:long_revival"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 26.0d,
+	y: 268.0d,
+	description: "{id:\"xreliquary:tipped_arrow\",Count:1b,tag:{effects:[{duration:62,potency:0,name:\"minecraft:weakness\"}]},Damage:0s}",
+	tasks: [{
+		uid: "84a998bd",
+		type: "item",
+		items: [{
+			id: "xreliquary:tipped_arrow",
+			tag: {
+				effects: [{
+					duration: 62,
+					potency: 0,
+					name: "minecraft:weakness"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

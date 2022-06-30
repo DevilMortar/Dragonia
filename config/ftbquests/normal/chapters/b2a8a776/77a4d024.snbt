@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 253.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"conarm:leggings_core\"},Damage:0s}",
+	tasks: [{
+		uid: "572c52cc",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "conarm:leggings_core"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:potion_ring\",Count:1b,tag:{Potion:\"extraalchemy:learning_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "5f22a553",
+		type: "item",
+		items: [{
+			id: "extraalchemy:potion_ring",
+			tag: {
+				Potion: "extraalchemy:learning_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

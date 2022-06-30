@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 342.0d,
+	description: "{id:\"harvestcraft:stuffedeggplantitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "af144d48",
+		type: "item",
+		items: [{
+			item: "harvestcraft:stuffedeggplantitem"
+		}],
+		consume_items: true
+	}]
+}

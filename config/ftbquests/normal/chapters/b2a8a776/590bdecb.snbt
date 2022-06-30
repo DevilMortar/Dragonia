@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:ring_mind_control\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3e618375",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_mind_control"
+		}],
+		consume_items: true
+	}]
+}

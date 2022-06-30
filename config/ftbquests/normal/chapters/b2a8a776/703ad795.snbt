@@ -1,0 +1,20 @@
+{
+	x: 14.0d,
+	y: 263.0d,
+	description: "{id:\"xreliquary:potion_essence\",Count:1b,tag:{effects:[{duration:7500,potency:2,name:\"minecraft:health_boost\"}]},Damage:0s}",
+	tasks: [{
+		uid: "1a1c3e1d",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion_essence",
+			tag: {
+				effects: [{
+					duration: 7500,
+					potency: 2,
+					name: "minecraft:health_boost"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

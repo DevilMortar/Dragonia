@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"endstone\"},Damage:0s}",
+	tasks: [{
+		uid: "52f4af26",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "endstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

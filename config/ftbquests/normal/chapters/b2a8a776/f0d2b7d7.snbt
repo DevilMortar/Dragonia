@@ -1,0 +1,20 @@
+{
+	x: 34.0d,
+	y: 262.0d,
+	description: "{id:\"xreliquary:potion_essence\",Count:1b,tag:{effects:[{duration:1500,potency:0,name:\"minecraft:absorption\"}]},Damage:0s}",
+	tasks: [{
+		uid: "cdf25783",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion_essence",
+			tag: {
+				effects: [{
+					duration: 1500,
+					potency: 0,
+					name: "minecraft:absorption"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

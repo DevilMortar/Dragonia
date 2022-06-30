@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 323.0d,
+	description: "{id:\"aether_legacy:moa_egg\",Count:1b,tag:{typeId:0},Damage:0s}",
+	tasks: [{
+		uid: "92dd6401",
+		type: "item",
+		items: [{
+			id: "aether_legacy:moa_egg",
+			tag: {
+				typeId: 0
+			}
+		}],
+		consume_items: true
+	}]
+}

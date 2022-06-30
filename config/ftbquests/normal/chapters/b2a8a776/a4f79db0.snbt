@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 170.0d,
+	description: "{id:\"dungeontactics:mithril_battleaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "85873bb4",
+		type: "item",
+		items: [{
+			item: "dungeontactics:mithril_battleaxe"
+		}],
+		consume_items: true
+	}]
+}

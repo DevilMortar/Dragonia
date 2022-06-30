@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 57.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:explode\"},Damage:0s}",
+	tasks: [{
+		uid: "ba4fe339",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:explode"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 188.0d,
+	description: "{id:\"iceandfire:silver_hoe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f9bb9675",
+		type: "item",
+		items: [{
+			item: "iceandfire:silver_hoe"
+		}],
+		consume_items: true
+	}]
+}

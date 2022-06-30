@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 108.0d,
+	description: "{id:\"ebwizardry:blank_scroll\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8b260ea9",
+		type: "item",
+		items: [{
+			item: "ebwizardry:blank_scroll"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 278.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"potioncore:explode\"},Damage:0s}",
+	tasks: [{
+		uid: "f7c46600",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "potioncore:explode"
+			}
+		}],
+		consume_items: true
+	}]
+}

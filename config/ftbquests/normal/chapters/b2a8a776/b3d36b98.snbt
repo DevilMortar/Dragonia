@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 334.0d,
+	description: "{id:\"harvestcraft:plumitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f93f48ed",
+		type: "item",
+		items: [{
+			item: "harvestcraft:plumitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 367.0d,
+	description: "{id:\"quark:purpur_block_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2216ec21",
+		type: "item",
+		items: [{
+			item: "quark:purpur_block_wall"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 345.0d,
+	description: "{id:\"harvestcraft:raspberrypieitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "384b2e7a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:raspberrypieitem"
+		}],
+		consume_items: true
+	}]
+}

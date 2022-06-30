@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 214.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"firewood\"},Damage:0s}",
+	tasks: [{
+		uid: "e140564c",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "firewood"
+			}
+		}],
+		consume_items: true
+	}]
+}

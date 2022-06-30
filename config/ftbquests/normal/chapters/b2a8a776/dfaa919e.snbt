@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 84.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/donkey\"},Damage:0s}",
+	tasks: [{
+		uid: "4e5f3ad6",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/donkey"
+			}
+		}],
+		consume_items: true
+	}]
+}

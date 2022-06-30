@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 121.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"sponge\"},Damage:0s}",
+	tasks: [{
+		uid: "bfc4d2a3",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "sponge"
+			}
+		}],
+		consume_items: true
+	}]
+}

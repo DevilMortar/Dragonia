@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 230.0d,
+	description: "{id:\"tconstruct:bow_string\",Count:1b,tag:{Material:\"vine\"},Damage:0s}",
+	tasks: [{
+		uid: "f18a80d3",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_string",
+			tag: {
+				Material: "vine"
+			}
+		}],
+		consume_items: true
+	}]
+}

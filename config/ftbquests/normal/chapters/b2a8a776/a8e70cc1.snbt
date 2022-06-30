@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 78.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/villager\"},Damage:0s}",
+	tasks: [{
+		uid: "3a23d60c",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/villager"
+			}
+		}],
+		consume_items: true
+	}]
+}

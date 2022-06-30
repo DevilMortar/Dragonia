@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:mirror_essentia\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "de4bc455",
+		type: "item",
+		items: [{
+			item: "thaumcraft:mirror_essentia"
+		}],
+		consume_items: true
+	}]
+}

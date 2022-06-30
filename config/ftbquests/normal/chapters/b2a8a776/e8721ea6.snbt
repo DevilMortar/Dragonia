@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 200.0d,
+	description: "{id:\"heroicarmory:pkmnhonedgeshiny\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c1269ea8",
+		type: "item",
+		items: [{
+			item: "heroicarmory:pkmnhonedgeshiny"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 186.0d,
+	description: "{id:\"extraalchemy:potion_ring\",Count:1b,tag:{Potion:\"extraalchemy:learning_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "c06a4b53",
+		type: "item",
+		items: [{
+			id: "extraalchemy:potion_ring",
+			tag: {
+				Potion: "extraalchemy:learning_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

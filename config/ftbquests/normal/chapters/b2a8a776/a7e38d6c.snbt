@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 214.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"cactus\"},Damage:0s}",
+	tasks: [{
+		uid: "4b19b1ae",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "cactus"
+			}
+		}],
+		consume_items: true
+	}]
+}

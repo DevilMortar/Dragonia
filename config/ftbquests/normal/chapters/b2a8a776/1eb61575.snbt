@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 79.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"netherex:entity/nethermite\"},Damage:0s}",
+	tasks: [{
+		uid: "1686b04c",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "netherex:entity/nethermite"
+			}
+		}],
+		consume_items: true
+	}]
+}

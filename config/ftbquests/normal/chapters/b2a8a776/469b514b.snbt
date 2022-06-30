@@ -1,0 +1,22 @@
+{
+	x: 19.0d,
+	y: 273.0d,
+	description: "{ForgeCaps:{Parent:{Size:4,Items:[]}},id:\"spartanweaponry:quiver_arrow\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "061fdbd7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 4,
+					Items: []
+				}
+			},
+			id: "spartanweaponry:quiver_arrow",
+			tag: {
+				ClientInventory: []
+			}
+		}],
+		consume_items: true
+	}]
+}

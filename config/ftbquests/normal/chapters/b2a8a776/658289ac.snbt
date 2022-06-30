@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 257.0d,
+	description: "{id:\"qualitytools:emerald_amulet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "39fc7df8",
+		type: "item",
+		items: [{
+			item: "qualitytools:emerald_amulet"
+		}],
+		consume_items: true
+	}]
+}

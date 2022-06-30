@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 339.0d,
+	description: "{id:\"harvestcraft:plumjuiceitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8a48fef8",
+		type: "item",
+		items: [{
+			item: "harvestcraft:plumjuiceitem"
+		}],
+		consume_items: true
+	}]
+}

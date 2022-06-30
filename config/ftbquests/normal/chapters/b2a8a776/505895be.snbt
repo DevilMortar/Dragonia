@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 313.0d,
+	description: "{id:\"thaumicaugmentation:research_notes\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a9068c47",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:research_notes"
+		}],
+		consume_items: true
+	}]
+}

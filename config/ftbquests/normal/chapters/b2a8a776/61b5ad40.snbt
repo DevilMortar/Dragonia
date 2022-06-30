@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 308.0d,
+	description: "{id:\"thaumicaugmentation:augment_builder_power\",Count:1b,tag:{id:\"thaumicaugmentation:strength_overworld\"},Damage:0s}",
+	tasks: [{
+		uid: "87b774aa",
+		type: "item",
+		items: [{
+			id: "thaumicaugmentation:augment_builder_power",
+			tag: {
+				id: "thaumicaugmentation:strength_overworld"
+			}
+		}],
+		consume_items: true
+	}]
+}

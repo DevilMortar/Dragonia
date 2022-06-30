@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 179.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"minecraft:long_strength\"},Damage:0s}",
+	tasks: [{
+		uid: "81eff1cf",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "minecraft:long_strength"
+			}
+		}],
+		consume_items: true
+	}]
+}

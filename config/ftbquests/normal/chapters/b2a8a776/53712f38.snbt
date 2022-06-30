@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:potion_ring\",Count:1b,tag:{Potion:\"extraalchemy:hurry_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "b3f54794",
+		type: "item",
+		items: [{
+			id: "extraalchemy:potion_ring",
+			tag: {
+				Potion: "extraalchemy:hurry_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

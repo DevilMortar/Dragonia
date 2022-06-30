@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 329.0d,
+	description: "{id:\"moremobss:beigewool\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7c6b5b05",
+		type: "item",
+		items: [{
+			item: "moremobss:beigewool"
+		}],
+		consume_items: true
+	}]
+}

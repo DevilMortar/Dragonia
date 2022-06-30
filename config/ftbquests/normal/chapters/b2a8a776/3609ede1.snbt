@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 76.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ebwizardry:chests/dungeon_additions\"},Damage:0s}",
+	tasks: [{
+		uid: "452235ac",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ebwizardry:chests/dungeon_additions"
+			}
+		}],
+		consume_items: true
+	}]
+}

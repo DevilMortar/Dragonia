@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:ration_iron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "227004a9",
+		type: "item",
+		items: [{
+			item: "dungeontactics:ration_iron"
+		}],
+		consume_items: true
+	}]
+}

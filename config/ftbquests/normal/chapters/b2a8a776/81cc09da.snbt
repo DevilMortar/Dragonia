@@ -1,0 +1,18 @@
+{
+	x: 17.0d,
+	y: 129.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"evil\",npcType:\"faction.archer.elite\"},Damage:0s}",
+	tasks: [{
+		uid: "4a4068ec",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "evil",
+				npcType: "faction.archer.elite"
+			}
+		}],
+		consume_items: true
+	}]
+}

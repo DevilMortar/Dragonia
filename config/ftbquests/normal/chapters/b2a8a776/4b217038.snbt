@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 426.0d,
+	description: "{id:\"tcomplement:chisel_head\",Count:1b,tag:{Material:\"jungle_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "0a65a071",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel_head",
+			tag: {
+				Material: "jungle_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

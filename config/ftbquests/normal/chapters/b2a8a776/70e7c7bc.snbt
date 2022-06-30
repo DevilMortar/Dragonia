@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:vindalooitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "35bfa3b6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:vindalooitem"
+		}],
+		consume_items: true
+	}]
+}

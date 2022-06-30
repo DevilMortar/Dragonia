@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 108.0d,
+	description: "{id:\"ebwizardry:advanced_healing_wand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "93b52f86",
+		type: "item",
+		items: [{
+			item: "ebwizardry:advanced_healing_wand"
+		}],
+		consume_items: true
+	}]
+}

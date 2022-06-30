@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:bigcatclaw\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7ea4131b",
+		type: "item",
+		items: [{
+			item: "mocreatures:bigcatclaw"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 42.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"potioncore:strong_hunger\"},Damage:0s}",
+	tasks: [{
+		uid: "9372cff9",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "potioncore:strong_hunger"
+			}
+		}],
+		consume_items: true
+	}]
+}

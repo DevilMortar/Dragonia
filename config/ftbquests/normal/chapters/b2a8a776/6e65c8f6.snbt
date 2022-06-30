@@ -1,0 +1,22 @@
+{
+	x: 0.0d,
+	y: 267.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{lingering:1b,effects:[{duration:750,potency:0,name:\"minecraft:hunger\"}],hasPotion:1b},Damage:0s}",
+	tasks: [{
+		uid: "c0b5c6a2",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				lingering: 1b,
+				effects: [{
+					duration: 750,
+					potency: 0,
+					name: "minecraft:hunger"
+				}],
+				hasPotion: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

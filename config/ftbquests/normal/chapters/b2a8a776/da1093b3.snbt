@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:peanutbutterbananasandwichitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a8ec318a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:peanutbutterbananasandwichitem"
+		}],
+		consume_items: true
+	}]
+}

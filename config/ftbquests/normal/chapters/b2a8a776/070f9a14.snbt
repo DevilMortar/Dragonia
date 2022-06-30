@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 368.0d,
+	description: "{id:\"quark:glass_item_frame\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f25bf70a",
+		type: "item",
+		items: [{
+			item: "quark:glass_item_frame"
+		}],
+		consume_items: true
+	}]
+}

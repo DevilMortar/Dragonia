@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 170.0d,
+	description: "{id:\"dungeontactics:master_cestus_roar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "37f84c7b",
+		type: "item",
+		items: [{
+			item: "dungeontactics:master_cestus_roar"
+		}],
+		consume_items: true
+	}]
+}

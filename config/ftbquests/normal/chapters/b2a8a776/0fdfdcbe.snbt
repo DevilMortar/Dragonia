@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 344.0d,
+	description: "{id:\"harvestcraft:jaffaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "29c2678d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:jaffaitem"
+		}],
+		consume_items: true
+	}]
+}

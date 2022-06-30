@@ -1,0 +1,18 @@
+{
+	x: 11.0d,
+	y: 130.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"gremlin\",npcType:\"faction.leader\"},Damage:0s}",
+	tasks: [{
+		uid: "81e9c912",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "gremlin",
+				npcType: "faction.leader"
+			}
+		}],
+		consume_items: true
+	}]
+}

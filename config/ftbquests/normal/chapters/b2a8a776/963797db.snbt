@@ -1,0 +1,61 @@
+{
+	x: 29.0d,
+	y: 243.0d,
+	description: "{id:\"tconstruct:broadsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:550,HarvestLevel:0,Attack:6.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:550,HarvestLevel:0,Attack:6.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"firewood\",\"firewood\",\"firewood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"autosmelt\",color:-3386624,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"autosmelt\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "97008935",
+		type: "item",
+		items: [{
+			id: "tconstruct:broadsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 550,
+					HarvestLevel: 0,
+					Attack: 6.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 550,
+					HarvestLevel: 0,
+					Attack: 6.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"firewood",
+						"firewood",
+						"firewood"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "autosmelt",
+					color: -3386624,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"autosmelt",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

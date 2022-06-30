@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 258.0d,
+	description: "{id:\"xreliquary:glacial_staff\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d68f82b4",
+		type: "item",
+		items: [{
+			item: "xreliquary:glacial_staff"
+		}],
+		consume_items: true
+	}]
+}

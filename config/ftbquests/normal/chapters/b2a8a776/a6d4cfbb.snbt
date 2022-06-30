@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:rotmgswordofthecolossus\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6a87c143",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rotmgswordofthecolossus"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 326.0d,
+	description: "{id:\"aether_legacy:cooked_enchanted_cockatrice\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e87aea32",
+		type: "item",
+		items: [{
+			item: "aether_legacy:cooked_enchanted_cockatrice"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 400.0d,
+	description: "{id:\"chisel:planks-jungle\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "f1392f04",
+		type: "item",
+		items: [{
+			item: "chisel:planks-jungle 1 1"
+		}],
+		consume_items: true
+	}]
+}

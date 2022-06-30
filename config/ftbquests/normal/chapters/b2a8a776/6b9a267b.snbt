@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 94.0d,
+	description: "{id:\"atum:limestone_brick_small\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e77b6fa6",
+		type: "item",
+		items: [{
+			item: "atum:limestone_brick_small"
+		}],
+		consume_items: true
+	}]
+}

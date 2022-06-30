@@ -1,0 +1,21 @@
+{
+	x: 16.0d,
+	y: 262.0d,
+	description: "{id:\"xreliquary:magazine\",Count:1b,tag:{effects:[{duration:1,potency:0,name:\"minecraft:saturation\"}]},Damage:1s}",
+	tasks: [{
+		uid: "b2c1eaaa",
+		type: "item",
+		items: [{
+			id: "xreliquary:magazine",
+			tag: {
+				effects: [{
+					duration: 1,
+					potency: 0,
+					name: "minecraft:saturation"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

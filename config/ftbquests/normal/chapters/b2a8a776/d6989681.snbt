@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 175.0d,
+	description: "{id:\"dungeontactics:fish_muscle_cooked\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ec7192db",
+		type: "item",
+		items: [{
+			item: "dungeontactics:fish_muscle_cooked"
+		}],
+		consume_items: true
+	}]
+}

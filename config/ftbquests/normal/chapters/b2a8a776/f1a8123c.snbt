@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 330.0d,
+	description: "{id:\"harvestcraft:parsnipitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c41850ba",
+		type: "item",
+		items: [{
+			item: "harvestcraft:parsnipitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 306.0d,
+	description: "{id:\"storagedrawers:framingtable\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "79706b29",
+		type: "item",
+		items: [{
+			item: "storagedrawers:framingtable"
+		}],
+		consume_items: true
+	}]
+}

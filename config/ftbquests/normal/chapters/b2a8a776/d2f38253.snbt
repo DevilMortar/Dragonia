@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 296.0d,
+	description: "{id:\"spartanweaponry:greatsword_invar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "87e747e6",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:greatsword_invar"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 179.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:recall_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "de51c5d3",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:recall_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

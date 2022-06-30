@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 154.0d,
+	description: "{id:\"bibliocraft:lampgold\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "365c4fb1",
+		type: "item",
+		items: [{
+			item: "bibliocraft:lampgold 1 5"
+		}],
+		consume_items: true
+	}]
+}

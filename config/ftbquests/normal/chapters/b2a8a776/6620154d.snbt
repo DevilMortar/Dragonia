@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 164.0d,
+	description: "{id:\"thaumcraft:crimson_robe_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "88f889e6",
+		type: "item",
+		items: [{
+			item: "thaumcraft:crimson_robe_chest"
+		}],
+		consume_items: true
+	}]
+}

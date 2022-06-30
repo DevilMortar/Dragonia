@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 84.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:chests/abandoned_mineshaft\"},Damage:0s}",
+	tasks: [{
+		uid: "848df8fe",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:chests/abandoned_mineshaft"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 214.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"blueslime\"},Damage:0s}",
+	tasks: [{
+		uid: "c9a9ecc4",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "blueslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

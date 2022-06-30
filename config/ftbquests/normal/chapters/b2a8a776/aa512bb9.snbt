@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 278.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"potioncore:perplexity\"},Damage:0s}",
+	tasks: [{
+		uid: "b01e7cfc",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "potioncore:perplexity"
+			}
+		}],
+		consume_items: true
+	}]
+}

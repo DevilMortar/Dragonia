@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 88.0d,
+	description: "{id:\"reccomplex:inventory_generation_component_tag\",Count:1b,tag:{itemCollectionKey:\"ForestChest\"},Damage:0s}",
+	tasks: [{
+		uid: "dc04f794",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_component_tag",
+			tag: {
+				itemCollectionKey: "ForestChest"
+			}
+		}],
+		consume_items: true
+	}]
+}

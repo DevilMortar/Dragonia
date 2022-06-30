@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 307.0d,
+	description: "{id:\"thaumicaugmentation:stairs_eldritch_tile\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f7662ded",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:stairs_eldritch_tile"
+		}],
+		consume_items: true
+	}]
+}

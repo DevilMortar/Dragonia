@@ -1,0 +1,67 @@
+{
+	x: 24.0d,
+	y: 244.0d,
+	description: "{id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:459,HarvestLevel:0,Attack:7.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:459,HarvestLevel:0,Attack:7.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"magmaslime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"flammable\",color:-27123,level:1},{identifier:\"superheat\",color:-27123,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"flammable\",\"superheat\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "c223ee15",
+		type: "item",
+		items: [{
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.1f,
+					FreeModifiers: 3,
+					Durability: 459,
+					HarvestLevel: 0,
+					Attack: 7.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.1f,
+					FreeModifiers: 3,
+					Durability: 459,
+					HarvestLevel: 0,
+					Attack: 7.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"magmaslime",
+						"magmaslime",
+						"magmaslime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "flammable",
+					color: -27123,
+					level: 1
+				},
+				{
+					identifier: "superheat",
+					color: -27123,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"flammable",
+					"superheat",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

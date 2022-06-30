@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 111.0d,
+	description: "{id:\"ebwizardry:battlemage_chestplate_healing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1b1c49f0",
+		type: "item",
+		items: [{
+			item: "ebwizardry:battlemage_chestplate_healing"
+		}],
+		consume_items: true
+	}]
+}

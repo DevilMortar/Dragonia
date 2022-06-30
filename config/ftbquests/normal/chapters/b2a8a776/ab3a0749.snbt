@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 109.0d,
+	description: "{id:\"ebwizardry:smoke_bomb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "66bd3e8f",
+		type: "item",
+		items: [{
+			item: "ebwizardry:smoke_bomb"
+		}],
+		consume_items: true
+	}]
+}

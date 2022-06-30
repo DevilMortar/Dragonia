@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 332.0d,
+	description: "{id:\"harvestcraft:amaranthitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "55a4ed32",
+		type: "item",
+		items: [{
+			item: "harvestcraft:amaranthitem"
+		}],
+		consume_items: true
+	}]
+}

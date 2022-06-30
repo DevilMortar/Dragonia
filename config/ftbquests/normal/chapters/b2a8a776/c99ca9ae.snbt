@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 307.0d,
+	description: "{id:\"thaumicaugmentation:arcane_terraformer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ecd15fe8",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:arcane_terraformer"
+		}],
+		consume_items: true
+	}]
+}

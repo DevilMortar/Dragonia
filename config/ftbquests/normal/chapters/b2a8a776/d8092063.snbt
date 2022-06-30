@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 150.0d,
+	description: "{id:\"atum:nuits_duality\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "862142c4",
+		type: "item",
+		items: [{
+			item: "atum:nuits_duality"
+		}],
+		consume_items: true
+	}]
+}

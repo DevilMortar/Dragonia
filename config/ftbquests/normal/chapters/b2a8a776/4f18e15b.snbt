@@ -1,0 +1,76 @@
+{
+	x: 21.0d,
+	y: 250.0d,
+	description: "{id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:820,HarvestLevel:4,Attack:10.72f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:820,HarvestLevel:4,Attack:10.72f},Special:{Categories:[\"tool\",\"projectile\",\"no_melee\"]},TinkerData:{Materials:[\"wood\",\"manyullyn\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"insatiable\",color:-6202120,level:1},{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"insatiable\",\"coldblooded\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a6f720c3",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.02f,
+					FreeModifiers: 3,
+					Durability: 820,
+					HarvestLevel: 4,
+					Attack: 10.72f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.02f,
+					FreeModifiers: 3,
+					Durability: 820,
+					HarvestLevel: 4,
+					Attack: 10.72f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"projectile",
+						"no_melee"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"manyullyn",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "insatiable",
+					color: -6202120,
+					level: 1
+				},
+				{
+					identifier: "coldblooded",
+					color: -6202120,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"insatiable",
+					"coldblooded",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

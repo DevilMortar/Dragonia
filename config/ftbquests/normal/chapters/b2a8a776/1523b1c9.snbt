@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 330.0d,
+	description: "{id:\"harvestcraft:gingeritem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c4103933",
+		type: "item",
+		items: [{
+			item: "harvestcraft:gingeritem"
+		}],
+		consume_items: true
+	}]
+}

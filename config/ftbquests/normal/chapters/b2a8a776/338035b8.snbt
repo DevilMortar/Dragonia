@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 188.0d,
+	description: "{id:\"iceandfire:armor_silver_metal_leggings\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02c9894c",
+		type: "item",
+		items: [{
+			item: "iceandfire:armor_silver_metal_leggings"
+		}],
+		consume_items: true
+	}]
+}

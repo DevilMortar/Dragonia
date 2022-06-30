@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 354.0d,
+	description: "{id:\"harvestcraft:festivalbreaditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eefe63bd",
+		type: "item",
+		items: [{
+			item: "harvestcraft:festivalbreaditem"
+		}],
+		consume_items: true
+	}]
+}

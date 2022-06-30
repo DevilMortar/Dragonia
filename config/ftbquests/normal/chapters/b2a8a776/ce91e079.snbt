@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:caltrops\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "67f7d50c",
+		type: "item",
+		items: [{
+			item: "dungeontactics:caltrops"
+		}],
+		consume_items: true
+	}]
+}

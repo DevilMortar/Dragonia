@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 414.0d,
+	description: "{id:\"chisel:planks-birch\",Count:1b,Damage:7s}",
+	tasks: [{
+		uid: "50f96425",
+		type: "item",
+		items: [{
+			item: "chisel:planks-birch 1 7"
+		}],
+		consume_items: true
+	}]
+}

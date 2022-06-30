@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 335.0d,
+	description: "{id:\"harvestcraft:apricot_sapling\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "34b8e427",
+		type: "item",
+		items: [{
+			item: "harvestcraft:apricot_sapling"
+		}],
+		consume_items: true
+	}]
+}

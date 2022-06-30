@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 146.0d,
+	description: "{id:\"ancientwarfarevehicle:ammo_napalm_shot_10\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1555578d",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:ammo_napalm_shot_10"
+		}],
+		consume_items: true
+	}]
+}

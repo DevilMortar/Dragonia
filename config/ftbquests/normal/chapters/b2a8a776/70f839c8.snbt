@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 354.0d,
+	description: "{id:\"harvestcraft:chorusfruitsoupitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c79b8494",
+		type: "item",
+		items: [{
+			item: "harvestcraft:chorusfruitsoupitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 57.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:strong_diamond_skin\"},Damage:0s}",
+	tasks: [{
+		uid: "c75ff279",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:strong_diamond_skin"
+			}
+		}],
+		consume_items: true
+	}]
+}

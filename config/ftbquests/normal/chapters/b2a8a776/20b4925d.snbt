@@ -1,0 +1,18 @@
+{
+	x: 38.0d,
+	y: 19.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"minecraft:chicken\"}},Damage:0s}",
+	tasks: [{
+		uid: "20f2db1a",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:chicken"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

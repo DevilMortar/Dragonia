@@ -1,0 +1,18 @@
+{
+	x: 14.0d,
+	y: 139.0d,
+	description: "{id:\"ancientwarfarestructure:protection_flag\",Count:1b,tag:{topColor:15685463,name:\"orc\",bottomColor:4210752},Damage:0s}",
+	tasks: [{
+		uid: "d95cc601",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:protection_flag",
+			tag: {
+				topColor: 15685463,
+				name: "orc",
+				bottomColor: 4210752
+			}
+		}],
+		consume_items: true
+	}]
+}

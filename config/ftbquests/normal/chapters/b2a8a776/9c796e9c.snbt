@@ -1,0 +1,21 @@
+{
+	x: 28.0d,
+	y: 261.0d,
+	description: "{id:\"xreliquary:magazine\",Count:1b,tag:{effects:[{duration:500,potency:1,name:\"minecraft:mining_fatigue\"}]},Damage:1s}",
+	tasks: [{
+		uid: "601cbb9b",
+		type: "item",
+		items: [{
+			id: "xreliquary:magazine",
+			tag: {
+				effects: [{
+					duration: 500,
+					potency: 1,
+					name: "minecraft:mining_fatigue"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

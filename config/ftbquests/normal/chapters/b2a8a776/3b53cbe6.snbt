@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 65.0d,
+	description: "{id:\"biomesoplenty:ash_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2a7cbec3",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:ash_block"
+		}],
+		consume_items: true
+	}]
+}

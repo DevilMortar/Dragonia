@@ -1,0 +1,66 @@
+{
+	x: 9.0d,
+	y: 246.0d,
+	description: "{id:\"tconstruct:frypan\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.0f,FreeModifiers:3,Durability:520,HarvestLevel:3,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.0f,FreeModifiers:3,Durability:520,HarvestLevel:3,Attack:9.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"dragonbone\",\"dragonbone\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"fractured2\",color:-4738403,level:1},{identifier:\"splintering2\",color:-4738403,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"fractured2\",\"splintering2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "9e220cc3",
+		type: "item",
+		items: [{
+			id: "tconstruct:frypan",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.0f,
+					FreeModifiers: 3,
+					Durability: 520,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.0f,
+					FreeModifiers: 3,
+					Durability: 520,
+					HarvestLevel: 3,
+					Attack: 9.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dragonbone",
+						"dragonbone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "fractured2",
+					color: -4738403,
+					level: 1
+				},
+				{
+					identifier: "splintering2",
+					color: -4738403,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"fractured2",
+					"splintering2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

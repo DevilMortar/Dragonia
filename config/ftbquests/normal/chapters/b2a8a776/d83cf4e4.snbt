@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 326.0d,
+	description: "{id:\"apotheosis:hellshelf\",Count:1b,tag:{ench:[{lvl:10s,id:130}]},Damage:0s}",
+	tasks: [{
+		uid: "bb52e7b5",
+		type: "item",
+		items: [{
+			id: "apotheosis:hellshelf",
+			tag: {
+				ench: [{
+					lvl: 10s,
+					id: 130
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

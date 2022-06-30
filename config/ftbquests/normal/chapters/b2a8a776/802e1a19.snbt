@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 60.0d,
+	description: "{id:\"aquaculture:neptunium_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e9f65f0f",
+		type: "item",
+		items: [{
+			item: "aquaculture:neptunium_shovel"
+		}],
+		consume_items: true
+	}]
+}

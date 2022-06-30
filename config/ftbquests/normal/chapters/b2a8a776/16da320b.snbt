@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 258.0d,
+	description: "{id:\"xreliquary:angelic_feather\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1308b949",
+		type: "item",
+		items: [{
+			item: "xreliquary:angelic_feather"
+		}],
+		consume_items: true
+	}]
+}

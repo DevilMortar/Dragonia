@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 376.0d,
+	description: "{id:\"quark:stone_marble_bricks_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e0ccf791",
+		type: "item",
+		items: [{
+			item: "quark:stone_marble_bricks_wall"
+		}],
+		consume_items: true
+	}]
+}

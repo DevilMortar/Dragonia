@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 331.0d,
+	description: "{id:\"harvestcraft:soybeanseeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "325704c4",
+		type: "item",
+		items: [{
+			item: "harvestcraft:soybeanseeditem"
+		}],
+		consume_items: true
+	}]
+}

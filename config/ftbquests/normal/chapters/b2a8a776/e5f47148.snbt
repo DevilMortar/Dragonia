@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 426.0d,
+	description: "{id:\"tcomplement:chisel_head\",Count:1b,tag:{Material:\"dragonsteel_ice\"},Damage:0s}",
+	tasks: [{
+		uid: "ddfe54e7",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel_head",
+			tag: {
+				Material: "dragonsteel_ice"
+			}
+		}],
+		consume_items: true
+	}]
+}

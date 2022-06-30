@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:skyroot_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f67fc748",
+		type: "item",
+		items: [{
+			item: "aether_legacy:skyroot_sword"
+		}],
+		consume_items: true
+	}]
+}

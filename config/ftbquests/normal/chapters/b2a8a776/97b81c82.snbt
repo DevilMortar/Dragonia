@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 307.0d,
+	description: "{id:\"thaumicaugmentation:impetus_drainer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "62640236",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:impetus_drainer"
+		}],
+		consume_items: true
+	}]
+}

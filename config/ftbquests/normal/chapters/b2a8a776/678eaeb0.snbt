@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 322.0d,
+	description: "{id:\"aether_legacy:zanite_pickaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b42170d9",
+		type: "item",
+		items: [{
+			item: "aether_legacy:zanite_pickaxe"
+		}],
+		consume_items: true
+	}]
+}

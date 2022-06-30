@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 341.0d,
+	description: "{id:\"harvestcraft:refriedbeansitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2c911ee0",
+		type: "item",
+		items: [{
+			item: "harvestcraft:refriedbeansitem"
+		}],
+		consume_items: true
+	}]
+}

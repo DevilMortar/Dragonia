@@ -1,0 +1,17 @@
+{
+	x: 22.0d,
+	y: 122.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"medic\",npcType:\"combat\"},Damage:0s}",
+	tasks: [{
+		uid: "37137c69",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "medic",
+				npcType: "combat"
+			}
+		}],
+		consume_items: true
+	}]
+}

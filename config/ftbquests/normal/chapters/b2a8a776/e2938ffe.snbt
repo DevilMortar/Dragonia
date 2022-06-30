@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 356.0d,
+	description: "{id:\"harvestcraft:nopalessaladitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d278e983",
+		type: "item",
+		items: [{
+			item: "harvestcraft:nopalessaladitem"
+		}],
+		consume_items: true
+	}]
+}

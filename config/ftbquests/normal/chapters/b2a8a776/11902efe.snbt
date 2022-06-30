@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 95.0d,
+	description: "{id:\"atum:carved_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9cf79320",
+		type: "item",
+		items: [{
+			item: "atum:carved_wall"
+		}],
+		consume_items: true
+	}]
+}

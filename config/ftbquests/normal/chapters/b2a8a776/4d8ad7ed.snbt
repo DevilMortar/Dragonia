@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 314.0d,
+	description: "{id:\"tcomplement:manyullyn_leggings\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f5e86529",
+		type: "item",
+		items: [{
+			item: "tcomplement:manyullyn_leggings"
+		}],
+		consume_items: true
+	}]
+}

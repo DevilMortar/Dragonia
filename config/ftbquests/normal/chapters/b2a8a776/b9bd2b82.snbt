@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 15.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extraalchemy:gravity_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "37a5c7ac",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extraalchemy:gravity_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

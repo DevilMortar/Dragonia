@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 364.0d,
+	description: "{id:\"quark:jungle_button\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "875e8bde",
+		type: "item",
+		items: [{
+			item: "quark:jungle_button"
+		}],
+		consume_items: true
+	}]
+}

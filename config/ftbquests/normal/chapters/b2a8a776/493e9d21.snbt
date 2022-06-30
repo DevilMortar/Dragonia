@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 228.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"knightslime\"},Damage:0s}",
+	tasks: [{
+		uid: "46616957",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "knightslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 179.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:freezing\"},Damage:0s}",
+	tasks: [{
+		uid: "a5401de2",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:freezing"
+			}
+		}],
+		consume_items: true
+	}]
+}

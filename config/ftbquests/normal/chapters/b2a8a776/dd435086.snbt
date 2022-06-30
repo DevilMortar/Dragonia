@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 75.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"aether_legacy:entities/moa\"},Damage:0s}",
+	tasks: [{
+		uid: "da9957bf",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "aether_legacy:entities/moa"
+			}
+		}],
+		consume_items: true
+	}]
+}

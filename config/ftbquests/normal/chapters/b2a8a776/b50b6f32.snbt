@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 231.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"weezer\"},Damage:0s}",
+	tasks: [{
+		uid: "b259c2b6",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "weezer"
+			}
+		}],
+		consume_items: true
+	}]
+}

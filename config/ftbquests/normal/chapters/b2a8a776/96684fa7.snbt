@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 387.0d,
+	description: "{id:\"chisel:energizedvoidstone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "747a9c6f",
+		type: "item",
+		items: [{
+			item: "chisel:energizedvoidstone"
+		}],
+		consume_items: true
+	}]
+}

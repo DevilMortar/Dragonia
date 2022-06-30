@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 325.0d,
+	description: "{id:\"aether_legacy:white_cape\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "79513f8b",
+		type: "item",
+		items: [{
+			item: "aether_legacy:white_cape"
+		}],
+		consume_items: true
+	}]
+}

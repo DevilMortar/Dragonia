@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 291.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"potioncore:magic_shield\"},Damage:0s}",
+	tasks: [{
+		uid: "df212dab",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "potioncore:magic_shield"
+			}
+		}],
+		consume_items: true
+	}]
+}

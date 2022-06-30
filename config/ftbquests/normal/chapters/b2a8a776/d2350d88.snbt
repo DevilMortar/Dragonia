@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 179.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:dislocation_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "609126c4",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:dislocation_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 369.0d,
+	description: "{id:\"quark:fire_stone_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f018a72a",
+		type: "item",
+		items: [{
+			item: "quark:fire_stone_slab"
+		}],
+		consume_items: true
+	}]
+}

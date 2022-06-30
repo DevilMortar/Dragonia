@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 367.0d,
+	description: "{id:\"quark:soul_sandstone_smooth_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "046c7543",
+		type: "item",
+		items: [{
+			item: "quark:soul_sandstone_smooth_slab"
+		}],
+		consume_items: true
+	}]
+}

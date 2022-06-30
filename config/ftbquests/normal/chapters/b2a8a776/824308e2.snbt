@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 348.0d,
+	description: "{id:\"harvestcraft:maplecandiedbaconitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5f19a5cd",
+		type: "item",
+		items: [{
+			item: "harvestcraft:maplecandiedbaconitem"
+		}],
+		consume_items: true
+	}]
+}

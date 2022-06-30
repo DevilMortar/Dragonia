@@ -1,0 +1,20 @@
+{
+	x: 26.0d,
+	y: 236.0d,
+	description: "{id:\"tconstruct:toolforge\",Count:1b,tag:{textureBlock:{id:\"chisel:blocksteel\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "ed048349",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "chisel:blocksteel",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

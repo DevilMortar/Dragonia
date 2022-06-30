@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:dart_shooter\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "c8e084b8",
+		type: "item",
+		items: [{
+			item: "aether_legacy:dart_shooter 1 1"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"ardite\"},Damage:0s}",
+	tasks: [{
+		uid: "17accc7e",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "ardite"
+			}
+		}],
+		consume_items: true
+	}]
+}

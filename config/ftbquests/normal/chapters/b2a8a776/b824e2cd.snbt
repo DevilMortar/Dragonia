@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 203.0d,
+	description: "{id:\"heroicarmory:abcmexcalibur\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b81dbd29",
+		type: "item",
+		items: [{
+			item: "heroicarmory:abcmexcalibur"
+		}],
+		consume_items: true
+	}]
+}

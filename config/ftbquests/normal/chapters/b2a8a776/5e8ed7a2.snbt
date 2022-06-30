@@ -1,0 +1,21 @@
+{
+	x: 33.0d,
+	y: 264.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{effects:[{duration:1750,potency:0,name:\"minecraft:night_vision\"}],hasPotion:1b},Damage:0s}",
+	tasks: [{
+		uid: "86206558",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				effects: [{
+					duration: 1750,
+					potency: 0,
+					name: "minecraft:night_vision"
+				}],
+				hasPotion: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

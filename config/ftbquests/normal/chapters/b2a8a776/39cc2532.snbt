@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 287.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"extraalchemy:fuse_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "d8dc59c4",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "extraalchemy:fuse_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

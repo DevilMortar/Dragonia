@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 326.0d,
+	description: "{id:\"charm:barrel\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "a5a0c887",
+		type: "item",
+		items: [{
+			item: "charm:barrel 1 5"
+		}],
+		consume_items: true
+	}]
+}

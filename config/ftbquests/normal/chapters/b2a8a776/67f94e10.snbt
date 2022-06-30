@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 68.0d,
+	description: "{id:\"biomesoplenty:redwood_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "688c106b",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:redwood_stairs"
+		}],
+		consume_items: true
+	}]
+}

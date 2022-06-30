@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:naanitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9260db80",
+		type: "item",
+		items: [{
+			item: "harvestcraft:naanitem"
+		}],
+		consume_items: true
+	}]
+}

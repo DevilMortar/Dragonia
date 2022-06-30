@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 357.0d,
+	description: "{id:\"harvestcraft:groundmuttonitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8dcb53ed",
+		type: "item",
+		items: [{
+			item: "harvestcraft:groundmuttonitem"
+		}],
+		consume_items: true
+	}]
+}

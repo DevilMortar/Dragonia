@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 163.0d,
+	description: "{id:\"thaumcraft:bottle_taint\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ad121a85",
+		type: "item",
+		items: [{
+			item: "thaumcraft:bottle_taint"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 33.0d,
+	y: 23.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"mocreatures:blackbear\"}},Damage:0s}",
+	tasks: [{
+		uid: "50b65619",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "mocreatures:blackbear"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

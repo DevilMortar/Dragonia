@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 210.0d,
+	description: "{id:\"tconstruct:materials\",Count:1b,Damage:13s}",
+	tasks: [{
+		uid: "1793eb2e",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials 1 13"
+		}],
+		consume_items: true
+	}]
+}

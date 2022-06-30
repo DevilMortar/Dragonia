@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 201.0d,
+	description: "{id:\"heroicarmory:skyrimglasswarhammer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bdf4cb35",
+		type: "item",
+		items: [{
+			item: "heroicarmory:skyrimglasswarhammer"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 60.0d,
+	description: "{id:\"aquaculture:admin_fishing_rod\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ede941d3",
+		type: "item",
+		items: [{
+			item: "aquaculture:admin_fishing_rod"
+		}],
+		consume_items: true
+	}]
+}

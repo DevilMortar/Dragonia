@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 49.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:unluck\"},Damage:0s}",
+	tasks: [{
+		uid: "5870021b",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:unluck"
+			}
+		}],
+		consume_items: true
+	}]
+}

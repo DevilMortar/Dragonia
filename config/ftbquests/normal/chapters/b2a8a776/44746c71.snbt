@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 184.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"netherex:frigid_health\"},Damage:0s}",
+	tasks: [{
+		uid: "72c651f2",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "netherex:frigid_health"
+			}
+		}],
+		consume_items: true
+	}]
+}

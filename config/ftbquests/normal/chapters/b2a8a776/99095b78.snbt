@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 352.0d,
+	description: "{id:\"harvestcraft:buttercookieitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "65938295",
+		type: "item",
+		items: [{
+			item: "harvestcraft:buttercookieitem"
+		}],
+		consume_items: true
+	}]
+}

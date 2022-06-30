@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 135.0d,
+	description: "{id:\"ancientwarfarenpc:iron_spear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4ec19e93",
+		type: "item",
+		items: [{
+			item: "ancientwarfarenpc:iron_spear"
+		}],
+		consume_items: true
+	}]
+}

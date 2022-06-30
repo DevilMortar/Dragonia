@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:wrought_axe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "17e1ccdc",
+		type: "item",
+		items: [{
+			item: "mowziesmobs:wrought_axe"
+		}],
+		consume_items: true
+	}]
+}

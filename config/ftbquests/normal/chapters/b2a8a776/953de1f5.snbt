@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 201.0d,
+	description: "{id:\"heroicarmory:terrarialeadbroadsword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "45231d6b",
+		type: "item",
+		items: [{
+			item: "heroicarmory:terrarialeadbroadsword"
+		}],
+		consume_items: true
+	}]
+}

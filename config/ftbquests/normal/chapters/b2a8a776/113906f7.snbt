@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 271.0d,
+	description: "{id:\"spartanweaponry:halberd_gold\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "baa061d5",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:halberd_gold"
+		}],
+		consume_items: true
+	}]
+}

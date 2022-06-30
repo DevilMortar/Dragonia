@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 142.0d,
+	description: "{id:\"ancientwarfarestructure:structure_builder_world_gen\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02dbb151",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:structure_builder_world_gen"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 320.0d,
+	description: "{id:\"aether_legacy:aercloud\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "b1d2a146",
+		type: "item",
+		items: [{
+			item: "aether_legacy:aercloud 1 1"
+		}],
+		consume_items: true
+	}]
+}

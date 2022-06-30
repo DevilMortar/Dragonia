@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 67.0d,
+	description: "{id:\"biomesoplenty:planks_0\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "4552a6f1",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:planks_0 1 6"
+		}],
+		consume_items: true
+	}]
+}

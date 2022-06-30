@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 39.0d,
+	description: "{id:\"minecraft:beetroot_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1d1c8b63",
+		type: "item",
+		items: [{
+			item: "minecraft:beetroot_seeds"
+		}],
+		consume_items: true
+	}]
+}

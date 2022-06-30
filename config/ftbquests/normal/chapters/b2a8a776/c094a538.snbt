@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 223.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"blueslime\"},Damage:0s}",
+	tasks: [{
+		uid: "4554a2af",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "blueslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

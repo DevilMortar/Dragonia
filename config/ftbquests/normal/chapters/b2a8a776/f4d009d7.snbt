@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 315.0d,
+	description: "{id:\"tcomplement:scorched_stairs_road\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3f0729be",
+		type: "item",
+		items: [{
+			item: "tcomplement:scorched_stairs_road"
+		}],
+		consume_items: true
+	}]
+}

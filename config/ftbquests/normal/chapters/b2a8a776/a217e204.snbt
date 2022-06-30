@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 116.0d,
+	description: "{id:\"ancientspellcraft:devoritium_axe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f4537332",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:devoritium_axe"
+		}],
+		consume_items: true
+	}]
+}

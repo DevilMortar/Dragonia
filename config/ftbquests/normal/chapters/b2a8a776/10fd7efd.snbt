@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 352.0d,
+	description: "{id:\"harvestcraft:crackersandcheeseitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "df0a717a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:crackersandcheeseitem"
+		}],
+		consume_items: true
+	}]
+}

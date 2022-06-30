@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 93.0d,
+	description: "{id:\"sereneseasons:season_sensor_spring\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d640ced6",
+		type: "item",
+		items: [{
+			item: "sereneseasons:season_sensor_spring"
+		}],
+		consume_items: true
+	}]
+}

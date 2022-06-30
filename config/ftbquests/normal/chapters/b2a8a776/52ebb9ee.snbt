@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 148.0d,
+	description: "{id:\"ancientwarfarevehicle:vehicle_upgrade_turret_pitch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fcc1673b",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:vehicle_upgrade_turret_pitch"
+		}],
+		consume_items: true
+	}]
+}

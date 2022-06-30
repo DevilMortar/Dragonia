@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:atfightkingsword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "addf6bd0",
+		type: "item",
+		items: [{
+			item: "heroicarmory:atfightkingsword"
+		}],
+		consume_items: true
+	}]
+}

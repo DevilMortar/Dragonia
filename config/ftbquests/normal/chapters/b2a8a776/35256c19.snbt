@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 356.0d,
+	description: "{id:\"harvestcraft:pambitsboxitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f546766f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pambitsboxitem"
+		}],
+		consume_items: true
+	}]
+}

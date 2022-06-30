@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 359.0d,
+	description: "{id:\"harvestcraft:toastedwesternitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "81f6e5c1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:toastedwesternitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,68 @@
+{
+	x: 25.0d,
+	y: 381.0d,
+	description: "{id:\"tcomplement:chisel\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:2081,HarvestLevel:3,Attack:5.1f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:2081,HarvestLevel:3,Attack:5.1f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\",\"chisel\"]},TinkerData:{Materials:[\"knightslime\",\"knightslime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"unnatural\",color:-946192,level:1},{identifier:\"crumbling\",color:-946192,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"unnatural\",\"crumbling\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "fe2ab274",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.8f,
+					FreeModifiers: 3,
+					Durability: 2081,
+					HarvestLevel: 3,
+					Attack: 5.1f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.8f,
+					FreeModifiers: 3,
+					Durability: 2081,
+					HarvestLevel: 3,
+					Attack: 5.1f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe",
+						"chisel"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"knightslime",
+						"knightslime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "unnatural",
+					color: -946192,
+					level: 1
+				},
+				{
+					identifier: "crumbling",
+					color: -946192,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"unnatural",
+					"crumbling",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

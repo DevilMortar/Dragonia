@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 189.0d,
+	description: "{id:\"iceandfire:witherbone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4ebd9a56",
+		type: "item",
+		items: [{
+			item: "iceandfire:witherbone"
+		}],
+		consume_items: true
+	}]
+}

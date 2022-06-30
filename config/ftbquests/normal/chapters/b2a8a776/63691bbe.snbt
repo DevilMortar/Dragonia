@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 316.0d,
+	description: "{id:\"toroquest:royal_chestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1d3485ee",
+		type: "item",
+		items: [{
+			item: "toroquest:royal_chestplate"
+		}],
+		consume_items: true
+	}]
+}

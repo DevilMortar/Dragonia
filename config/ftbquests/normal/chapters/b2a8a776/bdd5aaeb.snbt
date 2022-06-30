@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 374.0d,
+	description: "{id:\"quark:bark_birch_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "951eadcc",
+		type: "item",
+		items: [{
+			item: "quark:bark_birch_wall"
+		}],
+		consume_items: true
+	}]
+}

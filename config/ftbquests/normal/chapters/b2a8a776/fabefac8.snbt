@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 186.0d,
+	description: "{id:\"iceandfire:fire_lily\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c9fd163e",
+		type: "item",
+		items: [{
+			item: "iceandfire:fire_lily"
+		}],
+		consume_items: true
+	}]
+}

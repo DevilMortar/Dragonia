@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 317.0d,
+	description: "{id:\"travelersbackpack:travelers_backpack\",Count:1b,Damage:29s}",
+	tasks: [{
+		uid: "c3fcfaaa",
+		type: "item",
+		items: [{
+			item: "travelersbackpack:travelers_backpack 1 29"
+		}],
+		consume_items: true
+	}]
+}

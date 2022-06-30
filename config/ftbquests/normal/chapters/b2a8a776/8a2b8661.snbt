@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 224.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"sponge\"},Damage:0s}",
+	tasks: [{
+		uid: "420b4360",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "sponge"
+			}
+		}],
+		consume_items: true
+	}]
+}

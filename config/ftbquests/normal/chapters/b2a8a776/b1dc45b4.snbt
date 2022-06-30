@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 151.0d,
+	description: "{id:\"atum:desert_boots_iron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f3eb05f4",
+		type: "item",
+		items: [{
+			item: "atum:desert_boots_iron"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 17.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:strong_explode\"},Damage:0s}",
+	tasks: [{
+		uid: "8ecf7825",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:strong_explode"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 288.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"extraalchemy:concentration_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "1e284310",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "extraalchemy:concentration_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

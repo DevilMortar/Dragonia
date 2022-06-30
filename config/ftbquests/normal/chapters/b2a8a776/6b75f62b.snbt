@@ -1,0 +1,73 @@
+{
+	x: 1.0d,
+	y: 248.0d,
+	description: "{id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:420,HarvestLevel:3,Attack:3.23f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:420,HarvestLevel:3,Attack:3.23f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"endstone\",\"endstone\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"enderference\",\"alien\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a8899a40",
+		type: "item",
+		items: [{
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.23f,
+					DrawSpeed: 0.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -1.0f,
+					Durability: 420,
+					HarvestLevel: 3,
+					Attack: 3.23f,
+					Range: 0.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.23f,
+					DrawSpeed: 0.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -1.0f,
+					Durability: 420,
+					HarvestLevel: 3,
+					Attack: 3.23f,
+					Range: 0.4f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"launcher"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"endstone",
+						"endstone",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "enderference",
+					color: -2041712,
+					level: 1
+				},
+				{
+					identifier: "alien",
+					color: -2041712,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"enderference",
+					"alien",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

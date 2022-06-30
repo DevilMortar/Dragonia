@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 190.0d,
+	description: "{id:\"iceandfire:hippocampus_slapper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ec680c99",
+		type: "item",
+		items: [{
+			item: "iceandfire:hippocampus_slapper"
+		}],
+		consume_items: true
+	}]
+}

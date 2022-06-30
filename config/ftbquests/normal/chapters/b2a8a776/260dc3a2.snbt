@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 287.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"extraalchemy:recall_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "82b1a4c6",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "extraalchemy:recall_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

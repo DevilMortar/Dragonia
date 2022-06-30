@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 85.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/polar_bear\"},Damage:0s}",
+	tasks: [{
+		uid: "35a4504d",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/polar_bear"
+			}
+		}],
+		consume_items: true
+	}]
+}

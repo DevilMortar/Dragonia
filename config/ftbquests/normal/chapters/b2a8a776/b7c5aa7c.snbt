@@ -1,0 +1,18 @@
+{
+	x: 2.0d,
+	y: 138.0d,
+	description: "{id:\"ancientwarfarestructure:altar_long_cloth\",Count:1b,tag:{color:2263842,customData:\"nogg\",unlocalizedNamePart:\"faction\"},Damage:0s}",
+	tasks: [{
+		uid: "82848e46",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:altar_long_cloth",
+			tag: {
+				color: 2263842,
+				customData: "nogg",
+				unlocalizedNamePart: "faction"
+			}
+		}],
+		consume_items: true
+	}]
+}

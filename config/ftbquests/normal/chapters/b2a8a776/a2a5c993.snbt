@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 79.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"netherex:entity/ghast/ghast_queen\"},Damage:0s}",
+	tasks: [{
+		uid: "e0199347",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "netherex:entity/ghast/ghast_queen"
+			}
+		}],
+		consume_items: true
+	}]
+}

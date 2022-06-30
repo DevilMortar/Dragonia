@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 362.0d,
+	description: "{id:\"quark:elder_prismarine\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "a04bfc83",
+		type: "item",
+		items: [{
+			item: "quark:elder_prismarine 1 1"
+		}],
+		consume_items: true
+	}]
+}

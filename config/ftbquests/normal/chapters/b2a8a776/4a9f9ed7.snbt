@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 172.0d,
+	description: "{id:\"dungeontactics:bomb_frag\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2af697b4",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bomb_frag"
+		}],
+		consume_items: true
+	}]
+}

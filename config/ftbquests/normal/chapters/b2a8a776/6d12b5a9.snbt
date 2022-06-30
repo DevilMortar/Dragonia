@@ -1,0 +1,18 @@
+{
+	x: 37.0d,
+	y: 24.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"mocreatures:silverskeleton\"}},Damage:0s}",
+	tasks: [{
+		uid: "ef49511e",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "mocreatures:silverskeleton"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

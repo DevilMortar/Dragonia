@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 90.0d,
+	description: "{id:\"rustic:log\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "21d2b345",
+		type: "item",
+		items: [{
+			item: "rustic:log 1 1"
+		}],
+		consume_items: true
+	}]
+}

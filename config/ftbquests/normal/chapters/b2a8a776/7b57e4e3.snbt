@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 196.0d,
+	description: "{id:\"ftbquests:lootcrate\",Count:1b,tag:{type:\"spelunker\"},Damage:0s}",
+	tasks: [{
+		uid: "e553b517",
+		type: "item",
+		items: [{
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "spelunker"
+			}
+		}],
+		consume_items: true
+	}]
+}

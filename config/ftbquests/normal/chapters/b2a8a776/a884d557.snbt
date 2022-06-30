@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 162.0d,
+	description: "{id:\"thaumcraft:phial\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d96ff624",
+		type: "item",
+		items: [{
+			item: "thaumcraft:phial"
+		}],
+		consume_items: true
+	}]
+}

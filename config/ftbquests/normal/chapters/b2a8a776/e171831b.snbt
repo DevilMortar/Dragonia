@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 270.0d,
+	description: "{id:\"skewers:skewer_chicken_cooked\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ea5497ef",
+		type: "item",
+		items: [{
+			item: "skewers:skewer_chicken_cooked"
+		}],
+		consume_items: true
+	}]
+}

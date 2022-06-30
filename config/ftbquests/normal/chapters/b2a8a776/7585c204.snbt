@@ -1,0 +1,57 @@
+{
+	x: 11.0d,
+	y: 133.0d,
+	description: "{id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:4.0f,FreeModifiers:3,Durability:513,Defense:13.0f},Stats:{Toughness:4.0f,FreeModifiers:3,Durability:513,Defense:13.0f},TinkerData:{Materials:[\"ardite\",\"ardite\",\"ardite\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"subterranean_armor\",color:-3063280,level:1},{identifier:\"petravidity_armor\",color:-3063280,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"subterranean_armor\",\"petravidity_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "725ed919",
+		type: "item",
+		items: [{
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 4.0f,
+					FreeModifiers: 3,
+					Durability: 513,
+					Defense: 13.0f
+				},
+				Stats: {
+					Toughness: 4.0f,
+					FreeModifiers: 3,
+					Durability: 513,
+					Defense: 13.0f
+				},
+				TinkerData: {
+					Materials: [
+						"ardite",
+						"ardite",
+						"ardite"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "subterranean_armor",
+					color: -3063280,
+					level: 1
+				},
+				{
+					identifier: "petravidity_armor",
+					color: -3063280,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"subterranean_armor",
+					"petravidity_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

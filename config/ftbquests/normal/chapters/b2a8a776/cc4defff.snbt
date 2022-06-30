@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 107.0d,
+	description: "{id:\"ebwizardry:birch_bookshelf\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bc3d8daa",
+		type: "item",
+		items: [{
+			item: "ebwizardry:birch_bookshelf"
+		}],
+		consume_items: true
+	}]
+}

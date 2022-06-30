@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 349.0d,
+	description: "{id:\"harvestcraft:scallopcookeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8cda090a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:scallopcookeditem"
+		}],
+		consume_items: true
+	}]
+}

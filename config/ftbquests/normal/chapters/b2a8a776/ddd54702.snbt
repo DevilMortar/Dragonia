@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 110.0d,
+	description: "{id:\"ebwizardry:sage_boots_lightning\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "83ef7e30",
+		type: "item",
+		items: [{
+			item: "ebwizardry:sage_boots_lightning"
+		}],
+		consume_items: true
+	}]
+}

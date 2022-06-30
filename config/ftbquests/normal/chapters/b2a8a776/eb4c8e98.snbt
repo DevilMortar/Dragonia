@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 149.0d,
+	description: "{id:\"atum:iron_greatsword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9e19324c",
+		type: "item",
+		items: [{
+			item: "atum:iron_greatsword"
+		}],
+		consume_items: true
+	}]
+}

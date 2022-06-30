@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 203.0d,
+	description: "{id:\"levelup2:skillbook\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6d981303",
+		type: "item",
+		items: [{
+			item: "levelup2:skillbook"
+		}],
+		consume_items: true
+	}]
+}

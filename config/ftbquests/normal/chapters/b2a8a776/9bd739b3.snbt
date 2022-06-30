@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:potion_ring\",Count:1b,tag:{Potion:\"extraalchemy:crumbling_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "67429bbe",
+		type: "item",
+		items: [{
+			id: "extraalchemy:potion_ring",
+			tag: {
+				Potion: "extraalchemy:crumbling_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

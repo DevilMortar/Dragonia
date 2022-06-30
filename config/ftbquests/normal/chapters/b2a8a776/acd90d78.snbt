@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 147.0d,
+	description: "{id:\"ancientwarfarevehicle:ammo_pebble_shot_30\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "da6261f1",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:ammo_pebble_shot_30"
+		}],
+		consume_items: true
+	}]
+}

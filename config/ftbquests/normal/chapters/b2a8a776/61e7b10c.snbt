@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 160.0d,
+	description: "{id:\"thaumcraft:tallow\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "96b04df4",
+		type: "item",
+		items: [{
+			item: "thaumcraft:tallow"
+		}],
+		consume_items: true
+	}]
+}

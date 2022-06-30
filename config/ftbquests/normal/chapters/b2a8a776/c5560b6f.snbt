@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 298.0d,
+	description: "{id:\"spartanweaponry:hammer_lead\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7aa3104b",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:hammer_lead"
+		}],
+		consume_items: true
+	}]
+}

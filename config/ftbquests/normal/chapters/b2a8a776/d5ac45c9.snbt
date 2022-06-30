@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 275.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"extraalchemy:sails_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "a590a088",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "extraalchemy:sails_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

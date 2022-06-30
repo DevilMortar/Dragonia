@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 230.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"desert_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "4212fbc0",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "desert_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

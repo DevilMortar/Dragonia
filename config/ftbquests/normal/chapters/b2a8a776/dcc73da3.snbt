@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 98.0d,
+	description: "{id:\"atum:radiant_beacon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "477dcc90",
+		type: "item",
+		items: [{
+			item: "atum:radiant_beacon"
+		}],
+		consume_items: true
+	}]
+}

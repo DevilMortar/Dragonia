@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 323.0d,
+	description: "{id:\"aether_legacy:gravitite_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6437c443",
+		type: "item",
+		items: [{
+			item: "aether_legacy:gravitite_helmet"
+		}],
+		consume_items: true
+	}]
+}

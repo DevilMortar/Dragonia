@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 190.0d,
+	description: "{id:\"iceandfire:deathworm_chitin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cce099fc",
+		type: "item",
+		items: [{
+			item: "iceandfire:deathworm_chitin"
+		}],
+		consume_items: true
+	}]
+}

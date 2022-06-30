@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 93.0d,
+	description: "{id:\"rustic:tomato\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7cf1ad8b",
+		type: "item",
+		items: [{
+			item: "rustic:tomato"
+		}],
+		consume_items: true
+	}]
+}

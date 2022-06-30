@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 294.0d,
+	description: "{id:\"spartanweaponry:boomerang_tin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1dc2510f",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:boomerang_tin"
+		}],
+		consume_items: true
+	}]
+}

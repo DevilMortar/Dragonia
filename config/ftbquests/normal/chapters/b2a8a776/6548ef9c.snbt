@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 198.0d,
+	description: "{id:\"heroicarmory:sclethe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e696624b",
+		type: "item",
+		items: [{
+			item: "heroicarmory:sclethe"
+		}],
+		consume_items: true
+	}]
+}

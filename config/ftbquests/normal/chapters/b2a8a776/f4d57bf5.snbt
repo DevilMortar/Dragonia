@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 229.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"weezer\"},Damage:0s}",
+	tasks: [{
+		uid: "a51fe1de",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "weezer"
+			}
+		}],
+		consume_items: true
+	}]
+}

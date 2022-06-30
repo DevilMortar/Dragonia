@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 207.0d,
+	description: "{id:\"netherex:obsidian_boat\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "33af1d7a",
+		type: "item",
+		items: [{
+			item: "netherex:obsidian_boat"
+		}],
+		consume_items: true
+	}]
+}

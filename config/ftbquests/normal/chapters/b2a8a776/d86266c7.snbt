@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 382.0d,
+	description: "{id:\"chisel:block_charcoal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f9217da1",
+		type: "item",
+		items: [{
+			item: "chisel:block_charcoal"
+		}],
+		consume_items: true
+	}]
+}

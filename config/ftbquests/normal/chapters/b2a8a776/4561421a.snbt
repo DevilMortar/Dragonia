@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 345.0d,
+	description: "{id:\"harvestcraft:raspberryyogurtitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "35eec879",
+		type: "item",
+		items: [{
+			item: "harvestcraft:raspberryyogurtitem"
+		}],
+		consume_items: true
+	}]
+}

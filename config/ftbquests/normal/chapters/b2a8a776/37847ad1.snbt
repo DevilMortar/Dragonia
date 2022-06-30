@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 307.0d,
+	description: "{id:\"thaumicaugmentation:capstone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c20091fe",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:capstone"
+		}],
+		consume_items: true
+	}]
+}

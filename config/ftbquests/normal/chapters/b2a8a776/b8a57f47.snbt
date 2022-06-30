@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 127.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"gnome\",npcType:\"faction.archer\"},Damage:0s}",
+	tasks: [{
+		uid: "b1f7daed",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "gnome",
+				npcType: "faction.archer"
+			}
+		}],
+		consume_items: true
+	}]
+}

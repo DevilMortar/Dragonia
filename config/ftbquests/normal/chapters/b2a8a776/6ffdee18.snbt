@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 303.0d,
+	description: "{id:\"spartanfire:glaive_ice_dragonsteel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b1e745fc",
+		type: "item",
+		items: [{
+			item: "spartanfire:glaive_ice_dragonsteel"
+		}],
+		consume_items: true
+	}]
+}

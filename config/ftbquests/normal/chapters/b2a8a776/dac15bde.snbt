@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 150.0d,
+	description: "{id:\"atum:stoneguard_shield\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c4b7c8ab",
+		type: "item",
+		items: [{
+			item: "atum:stoneguard_shield"
+		}],
+		consume_items: true
+	}]
+}

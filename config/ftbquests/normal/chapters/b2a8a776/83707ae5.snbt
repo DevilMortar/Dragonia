@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 323.0d,
+	description: "{id:\"aether_legacy:valkyrie_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bcfe3af2",
+		type: "item",
+		items: [{
+			item: "aether_legacy:valkyrie_boots"
+		}],
+		consume_items: true
+	}]
+}

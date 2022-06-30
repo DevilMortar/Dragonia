@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 256.0d,
+	description: "{id:\"primitivemobs:camouflage_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b2196064",
+		type: "item",
+		items: [{
+			item: "primitivemobs:camouflage_helmet"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 374.0d,
+	description: "{id:\"quark:lit_lamp\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2c23fd1b",
+		type: "item",
+		items: [{
+			item: "quark:lit_lamp"
+		}],
+		consume_items: true
+	}]
+}

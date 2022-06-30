@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 9.0d,
+	description: "{id:\"minecraft:iron_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e0e6f446",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_shovel"
+		}],
+		consume_items: true
+	}]
+}

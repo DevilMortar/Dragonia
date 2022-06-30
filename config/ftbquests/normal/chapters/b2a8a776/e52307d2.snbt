@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 68.0d,
+	description: "{id:\"biomesoplenty:ebony_fence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "529ea3b6",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:ebony_fence"
+		}],
+		consume_items: true
+	}]
+}

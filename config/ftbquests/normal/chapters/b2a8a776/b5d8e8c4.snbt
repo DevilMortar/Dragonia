@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 161.0d,
+	description: "{id:\"thaumcraft:morphic_resonator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f7e750f7",
+		type: "item",
+		items: [{
+			item: "thaumcraft:morphic_resonator"
+		}],
+		consume_items: true
+	}]
+}

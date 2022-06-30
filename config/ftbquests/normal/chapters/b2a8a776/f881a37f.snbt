@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 206.0d,
+	description: "{id:\"netherex:gloomy_nether_brick_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2f0a9f20",
+		type: "item",
+		items: [{
+			item: "netherex:gloomy_nether_brick_wall"
+		}],
+		consume_items: true
+	}]
+}

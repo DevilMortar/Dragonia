@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 174.0d,
+	description: "{id:\"dungeontactics:taser\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c4db4b7f",
+		type: "item",
+		items: [{
+			item: "dungeontactics:taser"
+		}],
+		consume_items: true
+	}]
+}

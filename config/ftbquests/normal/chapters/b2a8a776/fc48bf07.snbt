@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 208.0d,
+	description: "{id:\"tconstruct:book\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "80c14ff8",
+		type: "item",
+		items: [{
+			item: "tconstruct:book"
+		}],
+		consume_items: true
+	}]
+}

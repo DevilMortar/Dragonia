@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 182.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"potioncore:unluck\"},Damage:0s}",
+	tasks: [{
+		uid: "08bc5fe2",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "potioncore:unluck"
+			}
+		}],
+		consume_items: true
+	}]
+}

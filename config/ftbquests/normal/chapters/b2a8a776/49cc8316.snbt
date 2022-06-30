@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 316.0d,
+	description: "{id:\"toroquest:toro_armor_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "14e45289",
+		type: "item",
+		items: [{
+			item: "toroquest:toro_armor_boots"
+		}],
+		consume_items: true
+	}]
+}

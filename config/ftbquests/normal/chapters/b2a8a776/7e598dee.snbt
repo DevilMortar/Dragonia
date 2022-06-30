@@ -1,0 +1,17 @@
+{
+	x: 29.0d,
+	y: 106.0d,
+	description: "{id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"ironberryjuice\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "635cca99",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "ironberryjuice",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

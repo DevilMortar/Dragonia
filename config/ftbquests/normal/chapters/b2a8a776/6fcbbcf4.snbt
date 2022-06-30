@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 136.0d,
+	description: "{id:\"ancientwarfarestructure:brazier_flame\",Count:1b,tag:{lit:0b},Damage:0s}",
+	tasks: [{
+		uid: "11e3e127",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:brazier_flame",
+			tag: {
+				lit: 0b
+			}
+		}],
+		consume_items: true
+	}]
+}

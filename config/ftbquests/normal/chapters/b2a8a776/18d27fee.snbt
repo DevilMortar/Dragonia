@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 148.0d,
+	description: "{id:\"atum:palm_stick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c1f1ca6a",
+		type: "item",
+		items: [{
+			item: "atum:palm_stick"
+		}],
+		consume_items: true
+	}]
+}

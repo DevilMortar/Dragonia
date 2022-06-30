@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 357.0d,
+	description: "{id:\"harvestcraft:bolognasandwichitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8595abd4",
+		type: "item",
+		items: [{
+			item: "harvestcraft:bolognasandwichitem"
+		}],
+		consume_items: true
+	}]
+}

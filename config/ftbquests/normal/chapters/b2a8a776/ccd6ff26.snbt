@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 14.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extraalchemy:return_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "cb4e1825",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extraalchemy:return_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 116.0d,
+	description: "{id:\"ancientspellcraft:ancient_mana_flask\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2c0fbd18",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:ancient_mana_flask"
+		}],
+		consume_items: true
+	}]
+}

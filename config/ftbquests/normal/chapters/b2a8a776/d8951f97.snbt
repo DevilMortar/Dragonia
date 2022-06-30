@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 175.0d,
+	description: "{id:\"dungeontactics:iron_cluster\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8019da09",
+		type: "item",
+		items: [{
+			item: "dungeontactics:iron_cluster"
+		}],
+		consume_items: true
+	}]
+}

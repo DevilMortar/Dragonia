@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 47.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"extraalchemy:crumbling_long\"},Damage:0s}",
+	tasks: [{
+		uid: "9739aa96",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "extraalchemy:crumbling_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

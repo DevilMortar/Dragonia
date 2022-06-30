@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 172.0d,
+	description: "{id:\"dungeontactics:incindiberry\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8e59afa0",
+		type: "item",
+		items: [{
+			item: "dungeontactics:incindiberry"
+		}],
+		consume_items: true
+	}]
+}

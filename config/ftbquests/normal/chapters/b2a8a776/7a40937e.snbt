@@ -1,0 +1,60 @@
+{
+	x: 7.0d,
+	y: 246.0d,
+	description: "{id:\"tconstruct:frypan\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:288,HarvestLevel:1,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:288,HarvestLevel:1,Attack:5.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"silver\",\"silver\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"holy\",color:-3019530,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"holy\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a230636b",
+		type: "item",
+		items: [{
+			id: "tconstruct:frypan",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 288,
+					HarvestLevel: 1,
+					Attack: 5.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 288,
+					HarvestLevel: 1,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"silver",
+						"silver"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "holy",
+					color: -3019530,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"holy",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

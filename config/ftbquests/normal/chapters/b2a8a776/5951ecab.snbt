@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 151.0d,
+	description: "{id:\"atum:cloth_scrap\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d282504e",
+		type: "item",
+		items: [{
+			item: "atum:cloth_scrap"
+		}],
+		consume_items: true
+	}]
+}

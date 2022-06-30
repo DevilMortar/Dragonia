@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 110.0d,
+	description: "{id:\"ebwizardry:wizard_boots_healing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4eea8f8a",
+		type: "item",
+		items: [{
+			item: "ebwizardry:wizard_boots_healing"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,7 +1,0 @@
-{
-	title: "Legendary Quest",
-	icon: "iceandfire:dragonbone_sword_fire",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

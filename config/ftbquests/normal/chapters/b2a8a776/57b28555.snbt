@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 51.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:dispel\"},Damage:0s}",
+	tasks: [{
+		uid: "e6ddd4d0",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:dispel"
+			}
+		}],
+		consume_items: true
+	}]
+}

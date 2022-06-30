@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 115.0d,
+	description: "{id:\"ancientspellcraft:charm_wand_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4ab73590",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:charm_wand_upgrade"
+		}],
+		consume_items: true
+	}]
+}

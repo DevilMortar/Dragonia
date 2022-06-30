@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 202.0d,
+	description: "{id:\"heroicarmory:terrariaenchantedsword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "36b2b8c5",
+		type: "item",
+		items: [{
+			item: "heroicarmory:terrariaenchantedsword"
+		}],
+		consume_items: true
+	}]
+}

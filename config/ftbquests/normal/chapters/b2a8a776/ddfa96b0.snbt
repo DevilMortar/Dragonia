@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 224.0d,
+	description: "{id:\"tconstruct:tough_tool_rod\",Count:1b,tag:{Material:\"cobalt\"},Damage:0s}",
+	tasks: [{
+		uid: "fafef386",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_tool_rod",
+			tag: {
+				Material: "cobalt"
+			}
+		}],
+		consume_items: true
+	}]
+}

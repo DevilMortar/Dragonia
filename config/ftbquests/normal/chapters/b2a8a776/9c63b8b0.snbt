@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 60.0d,
+	description: "{id:\"minecraft:record_strad\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f9a26954",
+		type: "item",
+		items: [{
+			item: "minecraft:record_strad"
+		}],
+		consume_items: true
+	}]
+}

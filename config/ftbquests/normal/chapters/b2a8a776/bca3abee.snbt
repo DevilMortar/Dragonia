@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 169.0d,
+	description: "{id:\"mocreatures:scorphelmetcave\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4b3ccf45",
+		type: "item",
+		items: [{
+			item: "mocreatures:scorphelmetcave"
+		}],
+		consume_items: true
+	}]
+}

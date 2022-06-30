@@ -1,0 +1,18 @@
+{
+	x: 11.0d,
+	y: 125.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"amazon\",npcType:\"faction.trader\"},Damage:0s}",
+	tasks: [{
+		uid: "41752828",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "amazon",
+				npcType: "faction.trader"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 231.0d,
+	description: "{id:\"tconstruct:arrow_shaft\",Count:1b,tag:{Material:\"reed\"},Damage:0s}",
+	tasks: [{
+		uid: "2c83b706",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_shaft",
+			tag: {
+				Material: "reed"
+			}
+		}],
+		consume_items: true
+	}]
+}

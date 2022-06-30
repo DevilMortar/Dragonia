@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:rotmgarchonsword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a8c55c70",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rotmgarchonsword"
+		}],
+		consume_items: true
+	}]
+}

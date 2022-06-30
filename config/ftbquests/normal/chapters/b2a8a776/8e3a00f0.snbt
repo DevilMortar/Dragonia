@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 148.0d,
+	description: "{id:\"atum:loot_emerald_idol\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "383026a8",
+		type: "item",
+		items: [{
+			item: "atum:loot_emerald_idol"
+		}],
+		consume_items: true
+	}]
+}

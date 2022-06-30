@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:ginseng\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "067a71b0",
+		type: "item",
+		items: [{
+			item: "rustic:ginseng"
+		}],
+		consume_items: true
+	}]
+}

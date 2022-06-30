@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 90.0d,
+	description: "{id:\"rustic:table_spruce\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f4e80459",
+		type: "item",
+		items: [{
+			item: "rustic:table_spruce"
+		}],
+		consume_items: true
+	}]
+}

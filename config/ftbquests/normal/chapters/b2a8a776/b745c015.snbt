@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 56.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:strong_iron_skin\"},Damage:0s}",
+	tasks: [{
+		uid: "29934168",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:strong_iron_skin"
+			}
+		}],
+		consume_items: true
+	}]
+}

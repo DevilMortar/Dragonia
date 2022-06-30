@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 181.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:push_long\"},Damage:0s}",
+	tasks: [{
+		uid: "8a8da6da",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:push_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

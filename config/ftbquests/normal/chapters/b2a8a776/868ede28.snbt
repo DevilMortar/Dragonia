@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 208.0d,
+	description: "{id:\"tconstruct:soil\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "20399b2b",
+		type: "item",
+		items: [{
+			item: "tconstruct:soil"
+		}],
+		consume_items: true
+	}]
+}

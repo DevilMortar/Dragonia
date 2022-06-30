@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 173.0d,
+	description: "{id:\"dungeontactics:studded_leggings\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "24961da8",
+		type: "item",
+		items: [{
+			item: "dungeontactics:studded_leggings"
+		}],
+		consume_items: true
+	}]
+}

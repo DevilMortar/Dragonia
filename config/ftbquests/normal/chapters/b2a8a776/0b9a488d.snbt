@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 57.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:disorganization\"},Damage:0s}",
+	tasks: [{
+		uid: "3d8d1b92",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:disorganization"
+			}
+		}],
+		consume_items: true
+	}]
+}

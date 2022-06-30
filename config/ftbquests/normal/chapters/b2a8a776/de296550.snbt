@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 166.0d,
+	description: "{id:\"mocreatures:kittybed_cyan\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9d710642",
+		type: "item",
+		items: [{
+			item: "mocreatures:kittybed_cyan"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 136.0d,
+	description: "{id:\"ancientwarfarestructure:sound_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a8a7ce61",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:sound_block"
+		}],
+		consume_items: true
+	}]
+}

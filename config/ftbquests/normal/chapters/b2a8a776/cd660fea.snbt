@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 347.0d,
+	description: "{id:\"harvestcraft:silkentofuitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c5be0dfb",
+		type: "item",
+		items: [{
+			item: "harvestcraft:silkentofuitem"
+		}],
+		consume_items: true
+	}]
+}

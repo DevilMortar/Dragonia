@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 107.0d,
+	description: "{id:\"ebwizardry:grand_crystal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c95e520e",
+		type: "item",
+		items: [{
+			item: "ebwizardry:grand_crystal"
+		}],
+		consume_items: true
+	}]
+}

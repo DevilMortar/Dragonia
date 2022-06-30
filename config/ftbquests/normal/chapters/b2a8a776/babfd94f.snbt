@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 111.0d,
+	description: "{id:\"ebwizardry:battlemage_chestplate_lightning\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cf6aefc7",
+		type: "item",
+		items: [{
+			item: "ebwizardry:battlemage_chestplate_lightning"
+		}],
+		consume_items: true
+	}]
+}

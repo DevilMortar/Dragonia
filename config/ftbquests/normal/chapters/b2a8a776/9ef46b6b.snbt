@@ -1,0 +1,18 @@
+{
+	x: 11.0d,
+	y: 21.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"dungeonsmod:mimic\"}},Damage:0s}",
+	tasks: [{
+		uid: "b81d2f3d",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "dungeonsmod:mimic"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 273.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0296d72c",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:arrow_diamond"
+		}],
+		consume_items: true
+	}]
+}

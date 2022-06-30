@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 212.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"tconstruct:cross_guard\"},Damage:0s}",
+	tasks: [{
+		uid: "e9fbedbd",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:cross_guard"
+			}
+		}],
+		consume_items: true
+	}]
+}

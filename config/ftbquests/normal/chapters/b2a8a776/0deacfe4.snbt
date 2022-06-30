@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 226.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"stone\"},Damage:0s}",
+	tasks: [{
+		uid: "bc6d5097",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "stone"
+			}
+		}],
+		consume_items: true
+	}]
+}

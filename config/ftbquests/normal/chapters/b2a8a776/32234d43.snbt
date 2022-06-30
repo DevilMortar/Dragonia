@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 164.0d,
+	description: "{id:\"thaumcraft:grapple_gun_spool\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "af90d8c8",
+		type: "item",
+		items: [{
+			item: "thaumcraft:grapple_gun_spool"
+		}],
+		consume_items: true
+	}]
+}

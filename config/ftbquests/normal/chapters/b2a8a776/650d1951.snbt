@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 119.0d,
+	description: "{id:\"ancientwarfareautomation:torque_distributor\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "43fd5e25",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:torque_distributor 1 2"
+		}],
+		consume_items: true
+	}]
+}

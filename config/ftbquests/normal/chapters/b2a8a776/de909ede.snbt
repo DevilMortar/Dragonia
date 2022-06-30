@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 206.0d,
+	description: "{id:\"netherex:basalt_pillar_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e4cc8ec7",
+		type: "item",
+		items: [{
+			item: "netherex:basalt_pillar_wall"
+		}],
+		consume_items: true
+	}]
+}

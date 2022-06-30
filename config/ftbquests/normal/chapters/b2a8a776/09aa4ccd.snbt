@@ -1,0 +1,21 @@
+{
+	x: 5.0d,
+	y: 260.0d,
+	description: "{id:\"xreliquary:bullet\",Count:1b,tag:{effects:[{duration:150,potency:0,name:\"minecraft:blindness\"}]},Damage:1s}",
+	tasks: [{
+		uid: "d43c35cf",
+		type: "item",
+		items: [{
+			id: "xreliquary:bullet",
+			tag: {
+				effects: [{
+					duration: 150,
+					potency: 0,
+					name: "minecraft:blindness"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

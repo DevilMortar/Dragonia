@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 119.0d,
+	description: "{id:\"ancientwarfareautomation:torque_junction\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ba1e971c",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:torque_junction"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:blackpaellaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "200367ae",
+		type: "item",
+		items: [{
+			item: "harvestcraft:blackpaellaitem"
+		}],
+		consume_items: true
+	}]
+}

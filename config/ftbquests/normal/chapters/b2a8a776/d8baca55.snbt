@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 136.0d,
+	description: "{id:\"ancientwarfarenpc:town_hall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "707471bf",
+		type: "item",
+		items: [{
+			item: "ancientwarfarenpc:town_hall"
+		}],
+		consume_items: true
+	}]
+}

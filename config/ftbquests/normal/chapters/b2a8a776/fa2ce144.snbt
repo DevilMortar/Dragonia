@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:jam_on_toast\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cd1505cd",
+		type: "item",
+		items: [{
+			item: "dungeontactics:jam_on_toast"
+		}],
+		consume_items: true
+	}]
+}

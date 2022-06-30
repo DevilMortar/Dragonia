@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 323.0d,
+	description: "{id:\"aether_legacy:obsidian_chestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "16ebdadb",
+		type: "item",
+		items: [{
+			item: "aether_legacy:obsidian_chestplate"
+		}],
+		consume_items: true
+	}]
+}

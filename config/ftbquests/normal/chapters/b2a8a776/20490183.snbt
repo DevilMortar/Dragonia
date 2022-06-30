@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 121.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"silver\"},Damage:0s}",
+	tasks: [{
+		uid: "efcb7b65",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "silver"
+			}
+		}],
+		consume_items: true
+	}]
+}

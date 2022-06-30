@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 90.0d,
+	description: "{id:\"rustic:table_olive\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "76cf04b5",
+		type: "item",
+		items: [{
+			item: "rustic:table_olive"
+		}],
+		consume_items: true
+	}]
+}

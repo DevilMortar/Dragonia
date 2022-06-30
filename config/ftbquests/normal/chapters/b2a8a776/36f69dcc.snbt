@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 284.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:teleport_surface\"},Damage:0s}",
+	tasks: [{
+		uid: "3d09e2fc",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:teleport_surface"
+			}
+		}],
+		consume_items: true
+	}]
+}

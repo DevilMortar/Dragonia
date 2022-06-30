@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 172.0d,
+	description: "{id:\"dungeontactics:steel_shield\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "defa5df9",
+		type: "item",
+		items: [{
+			item: "dungeontactics:steel_shield"
+		}],
+		consume_items: true
+	}]
+}

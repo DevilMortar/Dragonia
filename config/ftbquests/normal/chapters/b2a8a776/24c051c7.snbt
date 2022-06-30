@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 305.0d,
+	description: "{id:\"spartanshields:shield_tc_void\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "54deeedd",
+		type: "item",
+		items: [{
+			item: "spartanshields:shield_tc_void"
+		}],
+		consume_items: true
+	}]
+}

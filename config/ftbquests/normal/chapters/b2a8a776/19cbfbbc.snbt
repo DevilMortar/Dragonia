@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 303.0d,
+	description: "{id:\"spartanfire:crossbow_fire_dragonsteel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d66e510e",
+		type: "item",
+		items: [{
+			item: "spartanfire:crossbow_fire_dragonsteel"
+		}],
+		consume_items: true
+	}]
+}

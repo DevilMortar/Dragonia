@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 50.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:diamond_skin\"},Damage:0s}",
+	tasks: [{
+		uid: "f665f74d",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:diamond_skin"
+			}
+		}],
+		consume_items: true
+	}]
+}

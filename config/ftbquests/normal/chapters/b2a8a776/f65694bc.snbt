@@ -1,0 +1,76 @@
+{
+	x: 27.0d,
+	y: 250.0d,
+	description: "{id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:1500,HarvestLevel:4,Attack:19.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:1500,HarvestLevel:4,Attack:19.0f},Special:{Categories:[\"tool\",\"projectile\",\"no_melee\"]},TinkerData:{Materials:[\"wood\",\"dragonsteel_fire\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"flame2\",color:-3359804,level:1},{identifier:\"sharp\",color:-3359804,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"flame2\",\"sharp\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b6ec7c30",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 1500,
+					HarvestLevel: 4,
+					Attack: 19.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 1500,
+					HarvestLevel: 4,
+					Attack: 19.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"projectile",
+						"no_melee"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"dragonsteel_fire",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "flame2",
+					color: -3359804,
+					level: 1
+				},
+				{
+					identifier: "sharp",
+					color: -3359804,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"flame2",
+					"sharp",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

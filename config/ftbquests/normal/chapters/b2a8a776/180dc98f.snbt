@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 199.0d,
+	description: "{id:\"heroicarmory:rsironbattleaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "879b488f",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rsironbattleaxe"
+		}],
+		consume_items: true
+	}]
+}

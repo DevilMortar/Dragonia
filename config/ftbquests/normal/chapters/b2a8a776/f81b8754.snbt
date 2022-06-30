@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 358.0d,
+	description: "{id:\"harvestcraft:pumpkincheesecakeitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fa9f42c9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pumpkincheesecakeitem"
+		}],
+		consume_items: true
+	}]
+}

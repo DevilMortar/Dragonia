@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 173.0d,
+	description: "{id:\"dungeontactics:bone_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0ef4ab49",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bone_boots"
+		}],
+		consume_items: true
+	}]
+}

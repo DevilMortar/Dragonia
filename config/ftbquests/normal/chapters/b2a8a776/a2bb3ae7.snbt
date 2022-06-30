@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 307.0d,
+	description: "{id:\"thaumicaugmentation:impetus_gate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d07dd185",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:impetus_gate"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 96.0d,
+	description: "{id:\"atum:porphyry_brick_tiled\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ac995ac4",
+		type: "item",
+		items: [{
+			item: "atum:porphyry_brick_tiled"
+		}],
+		consume_items: true
+	}]
+}

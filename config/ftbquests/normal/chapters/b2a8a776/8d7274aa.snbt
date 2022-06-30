@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"quark:strong_resilience\"},Damage:0s}",
+	tasks: [{
+		uid: "84d8aff6",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "quark:strong_resilience"
+			}
+		}],
+		consume_items: true
+	}]
+}

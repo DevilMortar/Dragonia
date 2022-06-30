@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 433.0d,
+	description: "{id:\"chisel:factory\",Count:1b,Damage:14s}",
+	tasks: [{
+		uid: "0b454e69",
+		type: "item",
+		items: [{
+			item: "chisel:factory 1 14"
+		}],
+		consume_items: true
+	}]
+}

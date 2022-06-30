@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 193.0d,
+	description: "{id:\"iceandfire:armor_sapphire_leggings\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6b47eafe",
+		type: "item",
+		items: [{
+			item: "iceandfire:armor_sapphire_leggings"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 114.0d,
+	description: "{id:\"ebwizardry:charm_sixth_sense\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1a4ca421",
+		type: "item",
+		items: [{
+			item: "ebwizardry:charm_sixth_sense"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 229.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"jungle_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "ecbb43a9",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "jungle_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

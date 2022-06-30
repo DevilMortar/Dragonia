@@ -1,0 +1,20 @@
+{
+	x: 22.0d,
+	y: 162.0d,
+	description: "{id:\"thaumcraft:phial\",Count:1b,tag:{Aspects:[{amount:10,key:\"terra\"}]},Damage:1s}",
+	tasks: [{
+		uid: "ed530a6a",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "terra"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

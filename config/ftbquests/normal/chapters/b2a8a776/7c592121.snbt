@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 257.0d,
+	description: "{id:\"randomloot:golden_case\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "57af7a8f",
+		type: "item",
+		items: [{
+			item: "randomloot:golden_case"
+		}],
+		consume_items: true
+	}]
+}

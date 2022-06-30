@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 109.0d,
+	description: "{id:\"ebwizardry:astral_diamond\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d14e6f0f",
+		type: "item",
+		items: [{
+			item: "ebwizardry:astral_diamond"
+		}],
+		consume_items: true
+	}]
+}

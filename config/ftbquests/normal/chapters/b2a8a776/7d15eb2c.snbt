@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 341.0d,
+	description: "{id:\"harvestcraft:vegetarianlettucewrapitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "87329289",
+		type: "item",
+		items: [{
+			item: "harvestcraft:vegetarianlettucewrapitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 15.0d,
+	y: 24.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"mocreatures:pandabear\"}},Damage:0s}",
+	tasks: [{
+		uid: "e25543c6",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "mocreatures:pandabear"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

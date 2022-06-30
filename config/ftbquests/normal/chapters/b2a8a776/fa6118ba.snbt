@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 305.0d,
+	description: "{id:\"storagedrawers:basicdrawers\",Count:1b,tag:{material:\"jungle\"},Damage:0s}",
+	tasks: [{
+		uid: "344e54cd",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "jungle"
+			}
+		}],
+		consume_items: true
+	}]
+}

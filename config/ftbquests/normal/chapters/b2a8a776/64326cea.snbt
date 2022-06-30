@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 166.0d,
+	description: "{id:\"mocreatures:mocwoodplank\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7fc2a5aa",
+		type: "item",
+		items: [{
+			item: "mocreatures:mocwoodplank"
+		}],
+		consume_items: true
+	}]
+}

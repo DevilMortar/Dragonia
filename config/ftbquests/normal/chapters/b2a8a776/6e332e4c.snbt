@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 356.0d,
+	description: "{id:\"harvestcraft:lycheeteaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "131aae29",
+		type: "item",
+		items: [{
+			item: "harvestcraft:lycheeteaitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 218.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"wood\"},Damage:0s}",
+	tasks: [{
+		uid: "92afccc7",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "wood"
+			}
+		}],
+		consume_items: true
+	}]
+}

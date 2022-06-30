@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 146.0d,
+	description: "{id:\"ancientwarfarevehicle:turret_components\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f0629cbe",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:turret_components"
+		}],
+		consume_items: true
+	}]
+}

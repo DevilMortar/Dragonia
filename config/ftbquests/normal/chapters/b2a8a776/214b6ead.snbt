@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 356.0d,
+	description: "{id:\"harvestcraft:shrimpcocktailitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c5704020",
+		type: "item",
+		items: [{
+			item: "harvestcraft:shrimpcocktailitem"
+		}],
+		consume_items: true
+	}]
+}

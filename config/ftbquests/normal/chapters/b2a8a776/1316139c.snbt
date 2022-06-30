@@ -1,0 +1,71 @@
+{
+	x: 20.0d,
+	y: 251.0d,
+	description: "{id:\"tconstruct:shuriken\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1440,HarvestLevel:4,Attack:4.6f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1440,HarvestLevel:4,Attack:4.6f},Special:{Categories:[\"tool\",\"projectile\",\"no_melee\"]},TinkerData:{Materials:[\"ardite\",\"ardite\",\"ardite\",\"ardite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"stonebound\",color:-3063280,level:1},{identifier:\"petramor\",color:-3063280,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"stonebound\",\"petramor\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "54fe7144",
+		type: "item",
+		items: [{
+			id: "tconstruct:shuriken",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 1440,
+					HarvestLevel: 4,
+					Attack: 4.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 1440,
+					HarvestLevel: 4,
+					Attack: 4.6f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"projectile",
+						"no_melee"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ardite",
+						"ardite",
+						"ardite",
+						"ardite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "stonebound",
+					color: -3063280,
+					level: 1
+				},
+				{
+					identifier: "petramor",
+					color: -3063280,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"stonebound",
+					"petramor",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

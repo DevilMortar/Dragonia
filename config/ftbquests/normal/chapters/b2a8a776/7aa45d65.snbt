@@ -1,0 +1,18 @@
+{
+	x: 13.0d,
+	y: 311.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"biomesoplenty:snowy_forest\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ac7af81d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "biomesoplenty:snowy_forest"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

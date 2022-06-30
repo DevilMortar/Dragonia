@@ -7,5 +7,10 @@
 		items: [{
 			item: "iceandfire:ice_dragon_blood"
 		}]
+	}],
+	rewards: [{
+		uid: "e7fb5c5e",
+		type: "ftbmoney:money",
+		ftb_money: 30L
 	}]
 }

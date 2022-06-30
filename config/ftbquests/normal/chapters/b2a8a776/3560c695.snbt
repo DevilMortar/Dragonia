@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 270.0d,
+	description: "{id:\"skewers:skewer_mutton_cooked\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "555fb793",
+		type: "item",
+		items: [{
+			item: "skewers:skewer_mutton_cooked"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 268.0d,
+	description: "{id:\"xreliquary:fertile_lilypad\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c01916b4",
+		type: "item",
+		items: [{
+			item: "xreliquary:fertile_lilypad"
+		}],
+		consume_items: true
+	}]
+}

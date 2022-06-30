@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 116.0d,
+	description: "{id:\"ancientspellcraft:devoritium_door\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e5f5a3b4",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:devoritium_door"
+		}],
+		consume_items: true
+	}]
+}

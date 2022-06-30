@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 298.0d,
+	description: "{id:\"spartanweaponry:throwing_axe_lead\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "df1a0bf2",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:throwing_axe_lead"
+		}],
+		consume_items: true
+	}]
+}

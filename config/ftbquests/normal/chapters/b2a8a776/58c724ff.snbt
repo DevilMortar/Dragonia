@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:charm_toxic\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1b66ecad",
+		type: "item",
+		items: [{
+			item: "dungeontactics:charm_toxic"
+		}],
+		consume_items: true
+	}]
+}

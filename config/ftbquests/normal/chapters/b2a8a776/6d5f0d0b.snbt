@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 291.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"potioncore:strong_magic_inhibition\"},Damage:0s}",
+	tasks: [{
+		uid: "8e7af51a",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "potioncore:strong_magic_inhibition"
+			}
+		}],
+		consume_items: true
+	}]
+}

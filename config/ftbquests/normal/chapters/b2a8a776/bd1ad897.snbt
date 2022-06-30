@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 363.0d,
+	description: "{id:\"quark:smoker\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8cef4001",
+		type: "item",
+		items: [{
+			item: "quark:smoker"
+		}],
+		consume_items: true
+	}]
+}

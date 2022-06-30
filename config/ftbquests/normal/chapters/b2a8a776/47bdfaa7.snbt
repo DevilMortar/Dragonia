@@ -1,0 +1,21 @@
+{
+	x: 26.0d,
+	y: 262.0d,
+	description: "{id:\"xreliquary:magazine\",Count:1b,tag:{effects:[{duration:100,potency:3,name:\"xreliquary:cure_potion\"}]},Damage:1s}",
+	tasks: [{
+		uid: "a10a67b4",
+		type: "item",
+		items: [{
+			id: "xreliquary:magazine",
+			tag: {
+				effects: [{
+					duration: 100,
+					potency: 3,
+					name: "xreliquary:cure_potion"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 149.0d,
+	description: "{id:\"atum:dagger_poison\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4b3010d9",
+		type: "item",
+		items: [{
+			item: "atum:dagger_poison"
+		}],
+		consume_items: true
+	}]
+}

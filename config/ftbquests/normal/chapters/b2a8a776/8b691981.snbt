@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:stonequartz_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "075dd1a9",
+		type: "item",
+		items: [{
+			item: "dungeontactics:stonequartz_ore"
+		}],
+		consume_items: true
+	}]
+}

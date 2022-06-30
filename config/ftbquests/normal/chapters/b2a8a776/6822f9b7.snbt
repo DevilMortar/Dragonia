@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 228.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"cobalt\"},Damage:0s}",
+	tasks: [{
+		uid: "4ef7dcbb",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "cobalt"
+			}
+		}],
+		consume_items: true
+	}]
+}

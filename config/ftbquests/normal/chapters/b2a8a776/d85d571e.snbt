@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 90.0d,
+	description: "{id:\"rustic:gargoyle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2379131a",
+		type: "item",
+		items: [{
+			item: "rustic:gargoyle"
+		}],
+		consume_items: true
+	}]
+}

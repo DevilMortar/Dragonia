@@ -1,0 +1,61 @@
+{
+	x: 18.0d,
+	y: 245.0d,
+	description: "{id:\"tconstruct:rapier\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:344,HarvestLevel:1,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:344,HarvestLevel:1,Attack:5.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"silver\",\"silver\",\"silver\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"holy\",color:-3019530,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"holy\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "12949134",
+		type: "item",
+		items: [{
+			id: "tconstruct:rapier",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 344,
+					HarvestLevel: 1,
+					Attack: 5.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 344,
+					HarvestLevel: 1,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"silver",
+						"silver",
+						"silver"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "holy",
+					color: -3019530,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"holy",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 347.0d,
+	description: "{id:\"harvestcraft:leekbaconsoupitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c310a138",
+		type: "item",
+		items: [{
+			item: "harvestcraft:leekbaconsoupitem"
+		}],
+		consume_items: true
+	}]
+}

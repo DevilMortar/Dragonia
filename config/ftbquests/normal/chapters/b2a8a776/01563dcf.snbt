@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 139.0d,
+	description: "{id:\"ancientwarfarestructure:loot_basket\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "164fc82e",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:loot_basket"
+		}],
+		consume_items: true
+	}]
+}

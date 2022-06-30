@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 171.0d,
+	description: "{id:\"dungeontactics:steel_club\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "85b942b8",
+		type: "item",
+		items: [{
+			item: "dungeontactics:steel_club"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 52.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"charm:decay\"},Damage:0s}",
+	tasks: [{
+		uid: "897cddae",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "charm:decay"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:crushing_tub\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3ecabe0f",
+		type: "item",
+		items: [{
+			item: "rustic:crushing_tub"
+		}],
+		consume_items: true
+	}]
+}

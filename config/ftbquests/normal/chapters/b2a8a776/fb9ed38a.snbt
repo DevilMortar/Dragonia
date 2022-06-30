@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 59.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"toroquest:strong_royalty\"},Damage:0s}",
+	tasks: [{
+		uid: "5784a5f7",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "toroquest:strong_royalty"
+			}
+		}],
+		consume_items: true
+	}]
+}

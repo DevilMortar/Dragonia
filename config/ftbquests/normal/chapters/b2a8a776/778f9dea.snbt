@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:charm_experience_tome\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "820a33cb",
+		type: "item",
+		items: [{
+			item: "ebwizardry:charm_experience_tome"
+		}],
+		consume_items: true
+	}]
+}

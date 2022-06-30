@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 152.0d,
+	description: "{id:\"atum:wolf_pelt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1ebc7bab",
+		type: "item",
+		items: [{
+			item: "atum:wolf_pelt"
+		}],
+		consume_items: true
+	}]
+}

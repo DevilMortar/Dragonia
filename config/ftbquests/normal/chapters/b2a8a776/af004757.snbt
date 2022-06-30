@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 180.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:pyper_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "9b5756c9",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:pyper_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

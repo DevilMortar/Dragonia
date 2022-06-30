@@ -1,0 +1,18 @@
+{
+	x: 14.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"mowziesmobs:barakoaya\"}},Damage:0s}",
+	tasks: [{
+		uid: "5ae733b2",
+		type: "item",
+		items: [{
+			id: "mowziesmobs:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "mowziesmobs:barakoaya"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

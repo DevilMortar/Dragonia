@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 87.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"thaumicaugmentation:entity/autocaster_eldritch\"},Damage:0s}",
+	tasks: [{
+		uid: "6e1360a6",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "thaumicaugmentation:entity/autocaster_eldritch"
+			}
+		}],
+		consume_items: true
+	}]
+}

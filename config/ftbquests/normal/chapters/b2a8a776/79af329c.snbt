@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 203.0d,
+	description: "{id:\"heroicarmory:swtheinquisitorlightsaber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "00a4aca2",
+		type: "item",
+		items: [{
+			item: "heroicarmory:swtheinquisitorlightsaber"
+		}],
+		consume_items: true
+	}]
+}

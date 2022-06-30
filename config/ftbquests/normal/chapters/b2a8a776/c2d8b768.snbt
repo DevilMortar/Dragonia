@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:ostrichraw\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1725bf1d",
+		type: "item",
+		items: [{
+			item: "mocreatures:ostrichraw"
+		}],
+		consume_items: true
+	}]
+}

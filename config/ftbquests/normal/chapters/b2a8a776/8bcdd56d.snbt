@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:strong_revival\"},Damage:0s}",
+	tasks: [{
+		uid: "40869aba",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:strong_revival"
+			}
+		}],
+		consume_items: true
+	}]
+}

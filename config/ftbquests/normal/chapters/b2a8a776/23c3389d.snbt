@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 89.0d,
+	description: "{id:\"rustic:chandelier_gold\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "01c1dcf5",
+		type: "item",
+		items: [{
+			item: "rustic:chandelier_gold"
+		}],
+		consume_items: true
+	}]
+}

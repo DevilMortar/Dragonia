@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: 93.0d,
+	description: "{id:\"rustic:elixir\",Count:1b,tag:{ElixirEffects:[{Effect:\"rustic:ironskin\",Duration:1800,Amplifier:1}]},Damage:0s}",
+	tasks: [{
+		uid: "a03b7eab",
+		type: "item",
+		items: [{
+			id: "rustic:elixir",
+			tag: {
+				ElixirEffects: [{
+					Effect: "rustic:ironskin",
+					Duration: 1800,
+					Amplifier: 1
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

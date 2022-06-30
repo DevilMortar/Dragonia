@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 216.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"magmaslime\"},Damage:0s}",
+	tasks: [{
+		uid: "15614636",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "magmaslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 362.0d,
+	description: "{id:\"quark:acacia_pressure_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b84ad713",
+		type: "item",
+		items: [{
+			item: "quark:acacia_pressure_plate"
+		}],
+		consume_items: true
+	}]
+}

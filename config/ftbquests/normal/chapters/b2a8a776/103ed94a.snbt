@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 118.0d,
+	description: "{id:\"ancientwarfareautomation:warehouse_storage\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "56cd156b",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:warehouse_storage 1 2"
+		}],
+		consume_items: true
+	}]
+}

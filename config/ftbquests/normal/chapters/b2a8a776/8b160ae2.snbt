@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:mob_remover\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5a143208",
+		type: "item",
+		items: [{
+			item: "mowziesmobs:mob_remover"
+		}],
+		consume_items: true
+	}]
+}

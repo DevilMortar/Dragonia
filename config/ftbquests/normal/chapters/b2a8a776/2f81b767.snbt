@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 342.0d,
+	description: "{id:\"harvestcraft:eggplantparmitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "21558154",
+		type: "item",
+		items: [{
+			item: "harvestcraft:eggplantparmitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 208.0d,
+	description: "{id:\"netherex:orange_salamander_hide_chestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d70b861",
+		type: "item",
+		items: [{
+			item: "netherex:orange_salamander_hide_chestplate"
+		}],
+		consume_items: true
+	}]
+}

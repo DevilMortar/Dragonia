@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 257.0d,
+	description: "{id:\"randomloot:heavy_legs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "23d6af74",
+		type: "item",
+		items: [{
+			item: "randomloot:heavy_legs"
+		}],
+		consume_items: true
+	}]
+}

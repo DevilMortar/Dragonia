@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 300.0d,
+	description: "{id:\"spartanfire:throwing_knife_jungle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "603e508c",
+		type: "item",
+		items: [{
+			item: "spartanfire:throwing_knife_jungle"
+		}],
+		consume_items: true
+	}]
+}

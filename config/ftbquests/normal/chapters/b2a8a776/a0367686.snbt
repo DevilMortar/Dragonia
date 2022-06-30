@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 171.0d,
+	description: "{id:\"dungeontactics:silver_cestus\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f5ee85ac",
+		type: "item",
+		items: [{
+			item: "dungeontactics:silver_cestus"
+		}],
+		consume_items: true
+	}]
+}

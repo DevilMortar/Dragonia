@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 280.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"quark:long_danger_sight\"},Damage:0s}",
+	tasks: [{
+		uid: "29f19b1a",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "quark:long_danger_sight"
+			}
+		}],
+		consume_items: true
+	}]
+}

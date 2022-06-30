@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 415.0d,
+	description: "{id:\"chisel:prismarine1\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e70671fc",
+		type: "item",
+		items: [{
+			item: "chisel:prismarine1"
+		}],
+		consume_items: true
+	}]
+}

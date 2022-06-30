@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 184.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"charm:decay\"},Damage:0s}",
+	tasks: [{
+		uid: "f152344b",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "charm:decay"
+			}
+		}],
+		consume_items: true
+	}]
+}

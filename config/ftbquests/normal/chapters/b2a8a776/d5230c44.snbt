@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 295.0d,
+	description: "{id:\"spartanweaponry:pike_steel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9af89fb3",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:pike_steel"
+		}],
+		consume_items: true
+	}]
+}

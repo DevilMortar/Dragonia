@@ -1,0 +1,20 @@
+{
+	x: 12.0d,
+	y: 134.0d,
+	description: "{id:\"conarm:armorforge\",Count:1b,tag:{textureBlock:{id:\"thaumcraft:metal_brass\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "43f1b78d",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "thaumcraft:metal_brass",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

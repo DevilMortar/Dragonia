@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 184.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"netherex:sorrow\"},Damage:0s}",
+	tasks: [{
+		uid: "55b0144e",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "netherex:sorrow"
+			}
+		}],
+		consume_items: true
+	}]
+}

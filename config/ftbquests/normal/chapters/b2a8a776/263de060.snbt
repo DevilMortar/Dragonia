@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 403.0d,
+	description: "{id:\"chisel:blocknickel\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "46151663",
+		type: "item",
+		items: [{
+			item: "chisel:blocknickel 1 5"
+		}],
+		consume_items: true
+	}]
+}

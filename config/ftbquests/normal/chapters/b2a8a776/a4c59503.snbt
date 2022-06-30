@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 96.0d,
+	description: "{id:\"atum:ceramic_yellow\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "488db5d6",
+		type: "item",
+		items: [{
+			item: "atum:ceramic_yellow"
+		}],
+		consume_items: true
+	}]
+}

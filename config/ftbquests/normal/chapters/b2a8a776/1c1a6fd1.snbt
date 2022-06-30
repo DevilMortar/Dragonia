@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 73.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"Holy\"},Damage:0s}",
+	tasks: [{
+		uid: "78768848",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "Holy"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 257.0d,
+	description: "{id:\"randomloot:random_anvil\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "5bbd0e91",
+		type: "item",
+		items: [{
+			item: "randomloot:random_anvil 1 1"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 120.0d,
+	description: "{id:\"ancientwarfarenpc:bard_instrument\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "638d8ef4",
+		type: "item",
+		items: [{
+			item: "ancientwarfarenpc:bard_instrument 1 3"
+		}],
+		consume_items: true
+	}]
+}

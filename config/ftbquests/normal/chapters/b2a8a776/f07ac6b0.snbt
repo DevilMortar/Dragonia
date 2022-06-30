@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 321.0d,
+	description: "{id:\"aether_legacy:chest_mimic\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fec2ea6f",
+		type: "item",
+		items: [{
+			item: "aether_legacy:chest_mimic"
+		}],
+		consume_items: true
+	}]
+}

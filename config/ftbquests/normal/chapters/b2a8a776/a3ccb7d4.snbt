@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 372.0d,
+	description: "{id:\"quark:enderdragon_scale\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b8e58fae",
+		type: "item",
+		items: [{
+			item: "quark:enderdragon_scale"
+		}],
+		consume_items: true
+	}]
+}

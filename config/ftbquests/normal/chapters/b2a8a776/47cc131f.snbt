@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 112.0d,
+	description: "{id:\"ebwizardry:ring_fire_melee\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "76f54e0c",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_fire_melee"
+		}],
+		consume_items: true
+	}]
+}

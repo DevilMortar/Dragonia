@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:slimepieitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ffa9b1f1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:slimepieitem"
+		}],
+		consume_items: true
+	}]
+}

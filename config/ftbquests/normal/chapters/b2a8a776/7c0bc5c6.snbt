@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 366.0d,
+	description: "{id:\"quark:bark\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "502a620b",
+		type: "item",
+		items: [{
+			item: "quark:bark 1 1"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 372.0d,
+	description: "{id:\"quark:gold_button\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "baa59763",
+		type: "item",
+		items: [{
+			item: "quark:gold_button"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 359.0d,
+	description: "{id:\"harvestcraft:springfieldcashewchickenitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2261bcd5",
+		type: "item",
+		items: [{
+			item: "harvestcraft:springfieldcashewchickenitem"
+		}],
+		consume_items: true
+	}]
+}

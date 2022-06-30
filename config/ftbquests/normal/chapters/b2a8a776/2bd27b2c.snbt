@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 259.0d,
+	description: "{id:\"xreliquary:twilight_cloak\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "47d6fbbb",
+		type: "item",
+		items: [{
+			item: "xreliquary:twilight_cloak"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 334.0d,
+	description: "{id:\"harvestcraft:olive_sapling\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "89fb499f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:olive_sapling"
+		}],
+		consume_items: true
+	}]
+}

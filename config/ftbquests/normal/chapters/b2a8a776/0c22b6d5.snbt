@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 150.0d,
+	description: "{id:\"atum:shus_swiftness\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d80a6332",
+		type: "item",
+		items: [{
+			item: "atum:shus_swiftness"
+		}],
+		consume_items: true
+	}]
+}

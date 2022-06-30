@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 303.0d,
+	description: "{id:\"spartanfire:witherbone_handle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0ca30183",
+		type: "item",
+		items: [{
+			item: "spartanfire:witherbone_handle"
+		}],
+		consume_items: true
+	}]
+}

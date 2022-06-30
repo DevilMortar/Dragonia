@@ -1,0 +1,18 @@
+{
+	x: 5.0d,
+	y: 132.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"dwarf\",npcType:\"faction.soldier.elite\"},Damage:0s}",
+	tasks: [{
+		uid: "f67db58f",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "dwarf",
+				npcType: "faction.soldier.elite"
+			}
+		}],
+		consume_items: true
+	}]
+}

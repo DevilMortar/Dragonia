@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 223.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"weezer\"},Damage:0s}",
+	tasks: [{
+		uid: "7610e361",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "weezer"
+			}
+		}],
+		consume_items: true
+	}]
+}

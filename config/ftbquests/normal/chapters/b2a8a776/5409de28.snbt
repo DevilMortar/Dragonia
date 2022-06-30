@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"mowziesmobs:poison_resist\"},Damage:0s}",
+	tasks: [{
+		uid: "49b2ee77",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "mowziesmobs:poison_resist"
+			}
+		}],
+		consume_items: true
+	}]
+}

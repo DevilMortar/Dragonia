@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 111.0d,
+	description: "{id:\"ebwizardry:battlemage_leggings\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "82f5b4af",
+		type: "item",
+		items: [{
+			item: "ebwizardry:battlemage_leggings"
+		}],
+		consume_items: true
+	}]
+}

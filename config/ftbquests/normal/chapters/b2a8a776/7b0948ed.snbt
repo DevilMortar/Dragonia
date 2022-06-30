@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:smelter_basic\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ac373aca",
+		type: "item",
+		items: [{
+			item: "thaumcraft:smelter_basic"
+		}],
+		consume_items: true
+	}]
+}

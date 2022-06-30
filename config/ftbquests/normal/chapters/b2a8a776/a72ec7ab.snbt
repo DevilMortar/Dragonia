@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:kittylitter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2254847d",
+		type: "item",
+		items: [{
+			item: "mocreatures:kittylitter"
+		}],
+		consume_items: true
+	}]
+}

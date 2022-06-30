@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 340.0d,
+	description: "{id:\"harvestcraft:fishsandwichitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c456f069",
+		type: "item",
+		items: [{
+			item: "harvestcraft:fishsandwichitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 112.0d,
+	description: "{id:\"ebwizardry:ring_battlemage\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7d29f851",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_battlemage"
+		}],
+		consume_items: true
+	}]
+}

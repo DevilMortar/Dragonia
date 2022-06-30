@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 119.0d,
+	description: "{id:\"ancientwarfareautomation:auto_crafting\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5d1a0b1f",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:auto_crafting"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"slime\"},Damage:0s}",
+	tasks: [{
+		uid: "bc512a77",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "slime"
+			}
+		}],
+		consume_items: true
+	}]
+}

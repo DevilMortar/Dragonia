@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 149.0d,
+	description: "{id:\"atum:loot_emerald_scepter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9c77579c",
+		type: "item",
+		items: [{
+			item: "atum:loot_emerald_scepter"
+		}],
+		consume_items: true
+	}]
+}

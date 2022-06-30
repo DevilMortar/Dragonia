@@ -1,0 +1,18 @@
+{
+	x: 12.0d,
+	y: 131.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"vyncan\",npcType:\"faction.leader.elite\"},Damage:0s}",
+	tasks: [{
+		uid: "e3d8a636",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "vyncan",
+				npcType: "faction.leader.elite"
+			}
+		}],
+		consume_items: true
+	}]
+}

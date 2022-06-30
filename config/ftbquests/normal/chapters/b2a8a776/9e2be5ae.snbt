@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 328.0d,
+	description: "{id:\"lost_aether:gale_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "96b7623a",
+		type: "item",
+		items: [{
+			item: "lost_aether:gale_wall"
+		}],
+		consume_items: true
+	}]
+}

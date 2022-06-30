@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 89.0d,
+	description: "{id:\"rustic:chair_birch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ed6d7d7b",
+		type: "item",
+		items: [{
+			item: "rustic:chair_birch"
+		}],
+		consume_items: true
+	}]
+}

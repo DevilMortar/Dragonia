@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 256.0d,
+	description: "{id:\"primitivemobs:goblin_mace\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ce2ff525",
+		type: "item",
+		items: [{
+			item: "primitivemobs:goblin_mace"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 84.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/ender_dragon\"},Damage:0s}",
+	tasks: [{
+		uid: "b4c3c727",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/ender_dragon"
+			}
+		}],
+		consume_items: true
+	}]
+}

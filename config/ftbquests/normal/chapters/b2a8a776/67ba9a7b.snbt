@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 68.0d,
+	description: "{id:\"biomesoplenty:hellbark_fence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ab0bc346",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:hellbark_fence"
+		}],
+		consume_items: true
+	}]
+}

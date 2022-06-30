@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 60.0d,
+	description: "{id:\"aquaculture:food\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ee60ecac",
+		type: "item",
+		items: [{
+			item: "aquaculture:food"
+		}],
+		consume_items: true
+	}]
+}

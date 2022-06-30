@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 349.0d,
+	description: "{id:\"harvestcraft:onionhamburgeritem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a233f625",
+		type: "item",
+		items: [{
+			item: "harvestcraft:onionhamburgeritem"
+		}],
+		consume_items: true
+	}]
+}

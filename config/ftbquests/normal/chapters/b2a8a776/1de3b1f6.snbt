@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 349.0d,
+	description: "{id:\"harvestcraft:venisonrawitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a012ff76",
+		type: "item",
+		items: [{
+			item: "harvestcraft:venisonrawitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,68 @@
+{
+	x: 31.0d,
+	y: 381.0d,
+	description: "{id:\"tcomplement:chisel\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:2668,HarvestLevel:4,Attack:3.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:2668,HarvestLevel:4,Attack:3.6f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\",\"chisel\"]},TinkerData:{Materials:[\"ardite\",\"ardite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"petramor\",color:-3063280,level:1},{identifier:\"stonebound\",color:-3063280,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"petramor\",\"stonebound\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "7bc9347a",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 2668,
+					HarvestLevel: 4,
+					Attack: 3.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 2668,
+					HarvestLevel: 4,
+					Attack: 3.6f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe",
+						"chisel"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ardite",
+						"ardite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "petramor",
+					color: -3063280,
+					level: 1
+				},
+				{
+					identifier: "stonebound",
+					color: -3063280,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"petramor",
+					"stonebound",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

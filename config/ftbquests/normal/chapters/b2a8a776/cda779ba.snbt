@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 271.0d,
+	description: "{id:\"spartanweaponry:rapier_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ec59557c",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:rapier_stone"
+		}],
+		consume_items: true
+	}]
+}

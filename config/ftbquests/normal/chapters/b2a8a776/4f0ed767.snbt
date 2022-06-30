@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 335.0d,
+	description: "{id:\"harvestcraft:coconut_sapling\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "67ef9519",
+		type: "item",
+		items: [{
+			item: "harvestcraft:coconut_sapling"
+		}],
+		consume_items: true
+	}]
+}

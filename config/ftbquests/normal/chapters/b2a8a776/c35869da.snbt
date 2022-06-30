@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 222.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"knightslime\"},Damage:0s}",
+	tasks: [{
+		uid: "6b95ae04",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "knightslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

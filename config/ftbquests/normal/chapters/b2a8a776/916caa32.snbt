@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 338.0d,
+	description: "{id:\"harvestcraft:calamaricookeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d1052ec1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:calamaricookeditem"
+		}],
+		consume_items: true
+	}]
+}

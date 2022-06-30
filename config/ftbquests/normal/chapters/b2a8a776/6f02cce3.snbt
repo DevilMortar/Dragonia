@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 175.0d,
+	description: "{id:\"dungeontactics:bottled_milk\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b8592c1b",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bottled_milk"
+		}],
+		consume_items: true
+	}]
+}

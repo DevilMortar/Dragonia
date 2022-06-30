@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 77.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/endermite\"},Damage:0s}",
+	tasks: [{
+		uid: "0bff1e3b",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/endermite"
+			}
+		}],
+		consume_items: true
+	}]
+}

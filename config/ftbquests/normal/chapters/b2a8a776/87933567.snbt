@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 370.0d,
+	description: "{id:\"quark:obsidian_pressure_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8f12ac83",
+		type: "item",
+		items: [{
+			item: "quark:obsidian_pressure_plate"
+		}],
+		consume_items: true
+	}]
+}

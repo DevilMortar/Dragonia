@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 253.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"tconstruct:sharpening_kit\"},Damage:0s}",
+	tasks: [{
+		uid: "085b7426",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:sharpening_kit"
+			}
+		}],
+		consume_items: true
+	}]
+}

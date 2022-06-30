@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 118.0d,
+	description: "{id:\"ancientwarfareautomation:tree_farm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d821ef1a",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:tree_farm"
+		}],
+		consume_items: true
+	}]
+}

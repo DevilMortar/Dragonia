@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"pigiron\"},Damage:0s}",
+	tasks: [{
+		uid: "ce53d7d6",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "pigiron"
+			}
+		}],
+		consume_items: true
+	}]
+}

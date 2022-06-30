@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 316.0d,
+	description: "{id:\"toroquest:spicy_chicken\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bd29b650",
+		type: "item",
+		items: [{
+			item: "toroquest:spicy_chicken"
+		}],
+		consume_items: true
+	}]
+}

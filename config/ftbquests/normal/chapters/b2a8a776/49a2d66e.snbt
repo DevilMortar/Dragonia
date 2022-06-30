@@ -1,0 +1,67 @@
+{
+	x: 36.0d,
+	y: 243.0d,
+	description: "{id:\"tconstruct:broadsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:157,HarvestLevel:1,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:157,HarvestLevel:1,Attack:4.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"hellish\",color:-4698289,level:1},{identifier:\"aridiculous\",color:-4698289,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"hellish\",\"aridiculous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "40d63b9c",
+		type: "item",
+		items: [{
+			id: "tconstruct:broadsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.5f,
+					FreeModifiers: 3,
+					Durability: 157,
+					HarvestLevel: 1,
+					Attack: 4.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.5f,
+					FreeModifiers: 3,
+					Durability: 157,
+					HarvestLevel: 1,
+					Attack: 4.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"netherrack",
+						"netherrack",
+						"netherrack"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "hellish",
+					color: -4698289,
+					level: 1
+				},
+				{
+					identifier: "aridiculous",
+					color: -4698289,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"hellish",
+					"aridiculous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

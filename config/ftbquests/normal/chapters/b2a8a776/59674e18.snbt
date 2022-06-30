@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 208.0d,
+	description: "{id:\"netherex:congealed_magma_cream\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2a309cbc",
+		type: "item",
+		items: [{
+			item: "netherex:congealed_magma_cream"
+		}],
+		consume_items: true
+	}]
+}

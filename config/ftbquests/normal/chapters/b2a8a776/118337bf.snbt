@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 58.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"netherex:freezing\"},Damage:0s}",
+	tasks: [{
+		uid: "4e49f335",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "netherex:freezing"
+			}
+		}],
+		consume_items: true
+	}]
+}

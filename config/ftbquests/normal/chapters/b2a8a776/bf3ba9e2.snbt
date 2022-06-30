@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 106.0d,
+	description: "{id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"manyullyn\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "f86cb485",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "manyullyn",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

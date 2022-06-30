@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 90.0d,
+	description: "{id:\"rustic:table_acacia\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f2b77148",
+		type: "item",
+		items: [{
+			item: "rustic:table_acacia"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 182.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"potioncore:resistance\"},Damage:0s}",
+	tasks: [{
+		uid: "d8dbbdb4",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "potioncore:resistance"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:fur\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9a88bbe2",
+		type: "item",
+		items: [{
+			item: "mocreatures:fur"
+		}],
+		consume_items: true
+	}]
+}

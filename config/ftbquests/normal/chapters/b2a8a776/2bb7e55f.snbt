@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 117.0d,
+	description: "{id:\"ancientwarfare:research_note\",Count:1b,tag:{researchName:\"gunpowder\"},Damage:0s}",
+	tasks: [{
+		uid: "03dca578",
+		type: "item",
+		items: [{
+			id: "ancientwarfare:research_note",
+			tag: {
+				researchName: "gunpowder"
+			}
+		}],
+		consume_items: true
+	}]
+}

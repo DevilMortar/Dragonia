@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:fishnetfull\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "faa7bac3",
+		type: "item",
+		items: [{
+			item: "mocreatures:fishnetfull"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 174.0d,
+	description: "{id:\"dungeontactics:coin_cannon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f328ef8d",
+		type: "item",
+		items: [{
+			item: "dungeontactics:coin_cannon"
+		}],
+		consume_items: true
+	}]
+}

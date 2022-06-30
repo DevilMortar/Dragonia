@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 89.0d,
+	description: "{id:\"rustic:table_big_oak\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1b39f203",
+		type: "item",
+		items: [{
+			item: "rustic:table_big_oak"
+		}],
+		consume_items: true
+	}]
+}

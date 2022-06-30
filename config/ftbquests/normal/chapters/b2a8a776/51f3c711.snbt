@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 111.0d,
+	description: "{id:\"ebwizardry:warlock_hood_fire\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4e3285c2",
+		type: "item",
+		items: [{
+			item: "ebwizardry:warlock_hood_fire"
+		}],
+		consume_items: true
+	}]
+}

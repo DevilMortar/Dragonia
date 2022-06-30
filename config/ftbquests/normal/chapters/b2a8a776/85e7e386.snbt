@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 115.0d,
+	description: "{id:\"ancientspellcraft:charm_war_horn\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "be82611e",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:charm_war_horn"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 13.0d,
+	y: 268.0d,
+	description: "{id:\"xreliquary:tipped_arrow\",Count:1b,tag:{effects:[{duration:125,potency:1,name:\"minecraft:slowness\"}]},Damage:0s}",
+	tasks: [{
+		uid: "943c97b8",
+		type: "item",
+		items: [{
+			id: "xreliquary:tipped_arrow",
+			tag: {
+				effects: [{
+					duration: 125,
+					potency: 1,
+					name: "minecraft:slowness"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

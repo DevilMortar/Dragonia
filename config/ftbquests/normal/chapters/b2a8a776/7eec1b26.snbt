@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:bag_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "16ff3c3e",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bag_ore"
+		}],
+		consume_items: true
+	}]
+}

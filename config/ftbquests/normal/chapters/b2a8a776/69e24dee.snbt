@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 180.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:learning_long\"},Damage:0s}",
+	tasks: [{
+		uid: "1ae591f4",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:learning_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

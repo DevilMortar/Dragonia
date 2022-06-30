@@ -1,0 +1,18 @@
+{
+	x: 27.0d,
+	y: 139.0d,
+	description: "{id:\"ancientwarfarestructure:protection_flag\",Count:1b,tag:{topColor:15685463,name:\"zimba\",bottomColor:16776960},Damage:0s}",
+	tasks: [{
+		uid: "297211f0",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:protection_flag",
+			tag: {
+				topColor: 15685463,
+				name: "zimba",
+				bottomColor: 16776960
+			}
+		}],
+		consume_items: true
+	}]
+}

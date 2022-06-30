@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:tube_filter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "54058af6",
+		type: "item",
+		items: [{
+			item: "thaumcraft:tube_filter"
+		}],
+		consume_items: true
+	}]
+}

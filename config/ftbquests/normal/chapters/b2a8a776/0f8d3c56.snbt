@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 346.0d,
+	description: "{id:\"harvestcraft:caramelicecreamitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "786710de",
+		type: "item",
+		items: [{
+			item: "harvestcraft:caramelicecreamitem"
+		}],
+		consume_items: true
+	}]
+}

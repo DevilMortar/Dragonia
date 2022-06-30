@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 205.0d,
+	description: "{id:\"netherex:rime_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c82a81d1",
+		type: "item",
+		items: [{
+			item: "netherex:rime_block"
+		}],
+		consume_items: true
+	}]
+}

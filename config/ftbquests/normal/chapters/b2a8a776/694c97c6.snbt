@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 315.0d,
+	description: "{id:\"tombstone:decorative_grave_simple\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "8a19ee25",
+		type: "item",
+		items: [{
+			item: "tombstone:decorative_grave_simple 1 1"
+		}],
+		consume_items: true
+	}]
+}

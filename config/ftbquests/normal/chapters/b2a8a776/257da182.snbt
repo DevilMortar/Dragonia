@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 158.0d,
+	description: "{id:\"bibliocraft:armorstand\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "e9c6356b",
+		type: "item",
+		items: [{
+			item: "bibliocraft:armorstand 1 2"
+		}],
+		consume_items: true
+	}]
+}

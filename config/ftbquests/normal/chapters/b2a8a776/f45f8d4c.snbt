@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 160.0d,
+	description: "{id:\"thaumcraft:celestial_notes\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "e777d25d",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 5"
+		}],
+		consume_items: true
+	}]
+}

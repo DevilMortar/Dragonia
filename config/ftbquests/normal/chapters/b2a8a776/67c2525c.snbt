@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 198.0d,
+	description: "{id:\"heroicarmory:scorichalcum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a15769b8",
+		type: "item",
+		items: [{
+			item: "heroicarmory:scorichalcum"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 222.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"paper\"},Damage:0s}",
+	tasks: [{
+		uid: "48976ffd",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "paper"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 320.0d,
+	description: "{id:\"aether_legacy:zanite_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "88b87bed",
+		type: "item",
+		items: [{
+			item: "aether_legacy:zanite_ore"
+		}],
+		consume_items: true
+	}]
+}

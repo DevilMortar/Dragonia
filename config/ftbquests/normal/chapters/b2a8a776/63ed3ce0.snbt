@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 140.0d,
+	description: "{id:\"ancientwarfarestructure:stool\",Count:1b,tag:{variant:\"spruce\"},Damage:0s}",
+	tasks: [{
+		uid: "67c409ef",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:stool",
+			tag: {
+				variant: "spruce"
+			}
+		}],
+		consume_items: true
+	}]
+}

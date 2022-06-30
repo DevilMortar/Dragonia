@@ -1,0 +1,17 @@
+{
+	x: 23.0d,
+	y: 122.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"engineer\",npcType:\"combat\"},Damage:0s}",
+	tasks: [{
+		uid: "d3c3214d",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "engineer",
+				npcType: "combat"
+			}
+		}],
+		consume_items: true
+	}]
+}

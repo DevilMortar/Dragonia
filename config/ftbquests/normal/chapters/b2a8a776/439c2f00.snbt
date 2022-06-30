@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 52.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:strong_curse\"},Damage:0s}",
+	tasks: [{
+		uid: "4ac6bf08",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:strong_curse"
+			}
+		}],
+		consume_items: true
+	}]
+}

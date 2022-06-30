@@ -1,0 +1,18 @@
+{
+	x: 11.0d,
+	y: 139.0d,
+	description: "{id:\"ancientwarfarestructure:protection_flag\",Count:1b,tag:{topColor:15685463,name:\"elf\",bottomColor:6730342},Damage:0s}",
+	tasks: [{
+		uid: "af58f49b",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:protection_flag",
+			tag: {
+				topColor: 15685463,
+				name: "elf",
+				bottomColor: 6730342
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 74.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"aether_legacy:entities/bosses/slider\"},Damage:0s}",
+	tasks: [{
+		uid: "a1f9fe33",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "aether_legacy:entities/bosses/slider"
+			}
+		}],
+		consume_items: true
+	}]
+}

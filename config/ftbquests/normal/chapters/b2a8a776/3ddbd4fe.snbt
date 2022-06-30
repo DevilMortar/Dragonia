@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 356.0d,
+	description: "{id:\"harvestcraft:sundayhighteaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b907b923",
+		type: "item",
+		items: [{
+			item: "harvestcraft:sundayhighteaitem"
+		}],
+		consume_items: true
+	}]
+}

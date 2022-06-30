@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 94.0d,
+	description: "{id:\"atum:bone_torch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "271dc2cc",
+		type: "item",
+		items: [{
+			item: "atum:bone_torch"
+		}],
+		consume_items: true
+	}]
+}

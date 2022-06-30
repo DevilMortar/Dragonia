@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 315.0d,
+	description: "{id:\"tcomplement:scorched_stairs_cobble\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ae756913",
+		type: "item",
+		items: [{
+			item: "tcomplement:scorched_stairs_cobble"
+		}],
+		consume_items: true
+	}]
+}

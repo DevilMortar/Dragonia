@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:escargotitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b06bba60",
+		type: "item",
+		items: [{
+			item: "harvestcraft:escargotitem"
+		}],
+		consume_items: true
+	}]
+}

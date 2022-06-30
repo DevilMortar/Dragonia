@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 283.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:strong_resistance\"},Damage:0s}",
+	tasks: [{
+		uid: "a8c1a259",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:strong_resistance"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 141.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"magmaslime\"},Damage:0s}",
+	tasks: [{
+		uid: "0494f0d8",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "magmaslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

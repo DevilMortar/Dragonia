@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 116.0d,
+	description: "{id:\"ancientspellcraft:crystal_shard_ice\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8b30d6d6",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:crystal_shard_ice"
+		}],
+		consume_items: true
+	}]
+}

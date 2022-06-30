@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 161.0d,
+	description: "{id:\"thaumcraft:plate\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "1dafcc24",
+		type: "item",
+		items: [{
+			item: "thaumcraft:plate 1 1"
+		}],
+		consume_items: true
+	}]
+}

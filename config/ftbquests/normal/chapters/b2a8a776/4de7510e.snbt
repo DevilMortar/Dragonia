@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:ring_necromancy_melee\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "40b1ec18",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_necromancy_melee"
+		}],
+		consume_items: true
+	}]
+}

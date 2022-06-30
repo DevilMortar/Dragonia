@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:friedpecanokraitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ac111e43",
+		type: "item",
+		items: [{
+			item: "harvestcraft:friedpecanokraitem"
+		}],
+		consume_items: true
+	}]
+}

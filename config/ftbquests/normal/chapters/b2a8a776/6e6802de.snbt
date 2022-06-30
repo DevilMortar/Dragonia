@@ -1,0 +1,18 @@
+{
+	x: 22.0d,
+	y: 312.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"netherex:ruthless_sands\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d2aad97",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "netherex:ruthless_sands"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

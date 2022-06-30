@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 171.0d,
+	description: "{id:\"dungeontactics:wooden_club\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d837a91f",
+		type: "item",
+		items: [{
+			item: "dungeontactics:wooden_club"
+		}],
+		consume_items: true
+	}]
+}

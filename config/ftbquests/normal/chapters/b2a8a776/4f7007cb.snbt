@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 203.0d,
+	description: "{id:\"levelup2:surfaceore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "70ee5047",
+		type: "item",
+		items: [{
+			item: "levelup2:surfaceore"
+		}],
+		consume_items: true
+	}]
+}

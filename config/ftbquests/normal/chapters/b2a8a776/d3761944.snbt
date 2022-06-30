@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 53.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"minecraft:swiftness\"},Damage:0s}",
+	tasks: [{
+		uid: "9357f0c1",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "minecraft:swiftness"
+			}
+		}],
+		consume_items: true
+	}]
+}

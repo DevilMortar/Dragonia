@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 342.0d,
+	description: "{id:\"harvestcraft:blueberrymuffinitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f9673799",
+		type: "item",
+		items: [{
+			item: "harvestcraft:blueberrymuffinitem"
+		}],
+		consume_items: true
+	}]
+}

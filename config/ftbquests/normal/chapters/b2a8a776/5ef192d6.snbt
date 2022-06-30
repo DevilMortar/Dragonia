@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:marsh_mallow\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "16aae7be",
+		type: "item",
+		items: [{
+			item: "rustic:marsh_mallow"
+		}],
+		consume_items: true
+	}]
+}

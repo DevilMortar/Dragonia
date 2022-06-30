@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 277.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"potioncore:long_iron_skin\"},Damage:0s}",
+	tasks: [{
+		uid: "3c09d0d4",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "potioncore:long_iron_skin"
+			}
+		}],
+		consume_items: true
+	}]
+}

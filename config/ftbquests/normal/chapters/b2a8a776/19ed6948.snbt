@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"cobalt\"},Damage:0s}",
+	tasks: [{
+		uid: "6ea0578f",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "cobalt"
+			}
+		}],
+		consume_items: true
+	}]
+}

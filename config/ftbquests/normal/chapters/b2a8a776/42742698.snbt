@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 296.0d,
+	description: "{id:\"spartanweaponry:glaive_invar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "24532972",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:glaive_invar"
+		}],
+		consume_items: true
+	}]
+}

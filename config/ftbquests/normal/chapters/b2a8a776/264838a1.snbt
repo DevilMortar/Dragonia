@@ -1,0 +1,18 @@
+{
+	x: 14.0d,
+	y: 26.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"iceandfire:dread_lich\"}},Damage:0s}",
+	tasks: [{
+		uid: "5431bd70",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "iceandfire:dread_lich"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

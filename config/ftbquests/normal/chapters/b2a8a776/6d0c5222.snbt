@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:redvelvetcupcakeitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b9980989",
+		type: "item",
+		items: [{
+			item: "harvestcraft:redvelvetcupcakeitem"
+		}],
+		consume_items: true
+	}]
+}

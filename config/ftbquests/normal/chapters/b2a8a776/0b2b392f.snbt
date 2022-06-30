@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:brewing_barrel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bf61a60e",
+		type: "item",
+		items: [{
+			item: "rustic:brewing_barrel"
+		}],
+		consume_items: true
+	}]
+}

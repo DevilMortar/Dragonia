@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:charm_spell_discovery\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4220de7c",
+		type: "item",
+		items: [{
+			item: "ebwizardry:charm_spell_discovery"
+		}],
+		consume_items: true
+	}]
+}

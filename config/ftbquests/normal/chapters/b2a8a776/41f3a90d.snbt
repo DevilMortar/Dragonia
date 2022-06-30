@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 10.0d,
+	description: "{id:\"minecraft:stone_hoe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c57055f6",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_hoe"
+		}],
+		consume_items: true
+	}]
+}

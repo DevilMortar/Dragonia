@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 272.0d,
+	description: "{id:\"spartanweaponry:throwing_axe_iron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bf3b58a8",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:throwing_axe_iron"
+		}],
+		consume_items: true
+	}]
+}

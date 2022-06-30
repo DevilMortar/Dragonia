@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:enddiamond_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "660c2b6f",
+		type: "item",
+		items: [{
+			item: "dungeontactics:enddiamond_ore"
+		}],
+		consume_items: true
+	}]
+}

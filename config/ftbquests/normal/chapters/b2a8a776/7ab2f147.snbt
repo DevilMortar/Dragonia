@@ -1,0 +1,21 @@
+{
+	x: 34.0d,
+	y: 264.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{effects:[{duration:750,potency:0,name:\"minecraft:poison\"}],hasPotion:1b},Damage:0s}",
+	tasks: [{
+		uid: "6324653a",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				effects: [{
+					duration: 750,
+					potency: 0,
+					name: "minecraft:poison"
+				}],
+				hasPotion: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

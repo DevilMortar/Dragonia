@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 116.0d,
+	description: "{id:\"ancientwarfare:research_station\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "da5abf6e",
+		type: "item",
+		items: [{
+			item: "ancientwarfare:research_station"
+		}],
+		consume_items: true
+	}]
+}

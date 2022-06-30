@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 307.0d,
+	description: "{id:\"thaumicaugmentation:taint_flower\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f817cb58",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:taint_flower"
+		}],
+		consume_items: true
+	}]
+}

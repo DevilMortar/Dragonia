@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 174.0d,
+	description: "{id:\"dungeontactics:flight_goggles\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c629b2ea",
+		type: "item",
+		items: [{
+			item: "dungeontactics:flight_goggles"
+		}],
+		consume_items: true
+	}]
+}

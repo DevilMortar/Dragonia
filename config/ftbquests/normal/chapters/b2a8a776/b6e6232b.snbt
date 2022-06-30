@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 175.0d,
+	description: "{id:\"dungeontactics:fish_lava_cooked\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0b520609",
+		type: "item",
+		items: [{
+			item: "dungeontactics:fish_lava_cooked"
+		}],
+		consume_items: true
+	}]
+}

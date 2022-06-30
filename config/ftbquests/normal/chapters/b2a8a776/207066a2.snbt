@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 275.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"extraalchemy:crumbling_long\"},Damage:0s}",
+	tasks: [{
+		uid: "9894e39d",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "extraalchemy:crumbling_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 75.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ancientwarfare:inject/chests/abandoned_mineshaft\"},Damage:0s}",
+	tasks: [{
+		uid: "5ebfa781",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ancientwarfare:inject/chests/abandoned_mineshaft"
+			}
+		}],
+		consume_items: true
+	}]
+}

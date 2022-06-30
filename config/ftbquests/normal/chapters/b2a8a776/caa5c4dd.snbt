@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 43.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"potioncore:flight\"},Damage:0s}",
+	tasks: [{
+		uid: "cfd5bcc5",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "potioncore:flight"
+			}
+		}],
+		consume_items: true
+	}]
+}

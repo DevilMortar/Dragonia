@@ -1,0 +1,20 @@
+{
+	x: 12.0d,
+	y: 163.0d,
+	description: "{id:\"thaumcraft:phial\",Count:1b,tag:{Aspects:[{amount:10,key:\"aversio\"}]},Damage:1s}",
+	tasks: [{
+		uid: "785941fa",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "aversio"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

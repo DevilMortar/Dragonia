@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:horsearmorcrystal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6714c904",
+		type: "item",
+		items: [{
+			item: "mocreatures:horsearmorcrystal"
+		}],
+		consume_items: true
+	}]
+}

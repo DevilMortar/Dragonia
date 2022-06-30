@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 377.0d,
+	description: "{id:\"quark:iron_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "441c384c",
+		type: "item",
+		items: [{
+			item: "quark:iron_plate"
+		}],
+		consume_items: true
+	}]
+}

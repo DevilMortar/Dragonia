@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 371.0d,
+	description: "{id:\"quark:acacia_trapdoor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "66ec9298",
+		type: "item",
+		items: [{
+			item: "quark:acacia_trapdoor"
+		}],
+		consume_items: true
+	}]
+}

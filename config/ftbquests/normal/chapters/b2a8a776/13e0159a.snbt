@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 80.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"thaumicaugmentation:entity/taint\"},Damage:0s}",
+	tasks: [{
+		uid: "a1519c89",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "thaumicaugmentation:entity/taint"
+			}
+		}],
+		consume_items: true
+	}]
+}

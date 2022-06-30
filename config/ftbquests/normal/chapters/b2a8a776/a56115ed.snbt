@@ -1,0 +1,18 @@
+{
+	x: 15.0d,
+	y: 139.0d,
+	description: "{id:\"ancientwarfarestructure:protection_flag\",Count:1b,tag:{topColor:15685463,name:\"barbarian\",bottomColor:8399616},Damage:0s}",
+	tasks: [{
+		uid: "a5fb7533",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:protection_flag",
+			tag: {
+				topColor: 15685463,
+				name: "barbarian",
+				bottomColor: 8399616
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,67 @@
+{
+	x: 9.0d,
+	y: 244.0d,
+	description: "{id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:21,HarvestLevel:1,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:16,HarvestLevel:1,Attack:3.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"cheap\",color:-6710887,level:1},{identifier:\"cheapskate\",color:-6710887,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"cheap\",\"cheapskate\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a84b61ce",
+		type: "item",
+		items: [{
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 21,
+					HarvestLevel: 1,
+					Attack: 3.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 16,
+					HarvestLevel: 1,
+					Attack: 3.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"stone",
+						"stone",
+						"stone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "cheap",
+					color: -6710887,
+					level: 1
+				},
+				{
+					identifier: "cheapskate",
+					color: -6710887,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"cheap",
+					"cheapskate",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

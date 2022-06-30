@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 78.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/snowman\"},Damage:0s}",
+	tasks: [{
+		uid: "68f06d87",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/snowman"
+			}
+		}],
+		consume_items: true
+	}]
+}

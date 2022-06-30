@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 90.0d,
+	description: "{id:\"rustic:leaves\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "163904da",
+		type: "item",
+		items: [{
+			item: "rustic:leaves"
+		}],
+		consume_items: true
+	}]
+}

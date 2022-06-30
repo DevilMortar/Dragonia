@@ -1,0 +1,20 @@
+{
+	x: 30.0d,
+	y: 263.0d,
+	description: "{id:\"xreliquary:potion_essence\",Count:1b,tag:{effects:[{duration:1,potency:0,name:\"minecraft:saturation\"}]},Damage:0s}",
+	tasks: [{
+		uid: "72949561",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion_essence",
+			tag: {
+				effects: [{
+					duration: 1,
+					potency: 0,
+					name: "minecraft:saturation"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

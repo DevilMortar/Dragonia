@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 46.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"quark:mining_fatigue\"},Damage:0s}",
+	tasks: [{
+		uid: "3c6ad066",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "quark:mining_fatigue"
+			}
+		}],
+		consume_items: true
+	}]
+}

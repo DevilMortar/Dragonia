@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 61.0d,
+	description: "{id:\"aquaculture:fish\",Count:1b,Damage:33s}",
+	tasks: [{
+		uid: "38eaa187",
+		type: "item",
+		items: [{
+			item: "aquaculture:fish 1 33"
+		}],
+		consume_items: true
+	}]
+}

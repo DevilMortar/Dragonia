@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 136.0d,
+	description: "{id:\"ancientwarfarestructure:totem_part\",Count:1b,tag:{variant:7b},Damage:0s}",
+	tasks: [{
+		uid: "6fd5ec62",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:totem_part",
+			tag: {
+				variant: 7b
+			}
+		}],
+		consume_items: true
+	}]
+}

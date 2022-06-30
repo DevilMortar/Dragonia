@@ -1,0 +1,18 @@
+{
+	x: 27.0d,
+	y: 123.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"norska\",npcType:\"faction.mounted_archer\"},Damage:0s}",
+	tasks: [{
+		uid: "098622a6",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "norska",
+				npcType: "faction.mounted_archer"
+			}
+		}],
+		consume_items: true
+	}]
+}

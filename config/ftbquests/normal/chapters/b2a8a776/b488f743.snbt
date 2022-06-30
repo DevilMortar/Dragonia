@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 361.0d,
+	description: "{id:\"harvestcraft:sardinerawitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9b140aba",
+		type: "item",
+		items: [{
+			item: "harvestcraft:sardinerawitem"
+		}],
+		consume_items: true
+	}]
+}

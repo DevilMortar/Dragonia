@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 264.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "88ab46a6",
+		type: "item",
+		items: [{
+			item: "xreliquary:potion"
+		}],
+		consume_items: true
+	}]
+}

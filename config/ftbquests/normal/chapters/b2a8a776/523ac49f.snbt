@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:stairs_arcane_brick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f3c4d08b",
+		type: "item",
+		items: [{
+			item: "thaumcraft:stairs_arcane_brick"
+		}],
+		consume_items: true
+	}]
+}

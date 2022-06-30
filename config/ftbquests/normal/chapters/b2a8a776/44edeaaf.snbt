@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 115.0d,
+	description: "{id:\"ancientspellcraft:cornucopia\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d7153a05",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:cornucopia"
+		}],
+		consume_items: true
+	}]
+}

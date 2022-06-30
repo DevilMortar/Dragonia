@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 296.0d,
+	description: "{id:\"spartanweaponry:saber_invar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fc4050b1",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:saber_invar"
+		}],
+		consume_items: true
+	}]
+}

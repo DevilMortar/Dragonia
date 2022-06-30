@@ -7,5 +7,10 @@
 		items: [{
 			item: "iceandfire:dragonsteel_ice_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "ccfa9844",
+		type: "ftbmoney:money",
+		ftb_money: 30L
 	}]
 }

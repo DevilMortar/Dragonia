@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 366.0d,
+	description: "{id:\"quark:pickarang\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "019ecc3f",
+		type: "item",
+		items: [{
+			item: "quark:pickarang"
+		}],
+		consume_items: true
+	}]
+}

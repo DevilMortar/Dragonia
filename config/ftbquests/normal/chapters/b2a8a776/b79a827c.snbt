@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 86.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"netherex:entity/pigtificate/pigtificate_hunter\"},Damage:0s}",
+	tasks: [{
+		uid: "0d66e91c",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "netherex:entity/pigtificate/pigtificate_hunter"
+			}
+		}],
+		consume_items: true
+	}]
+}

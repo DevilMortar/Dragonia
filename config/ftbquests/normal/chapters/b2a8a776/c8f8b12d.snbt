@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 301.0d,
+	description: "{id:\"spartanfire:longsword_jungle_venom\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d8f065e6",
+		type: "item",
+		items: [{
+			item: "spartanfire:longsword_jungle_venom"
+		}],
+		consume_items: true
+	}]
+}

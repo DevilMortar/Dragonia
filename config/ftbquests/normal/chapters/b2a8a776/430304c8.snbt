@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 17.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:chance\"},Damage:0s}",
+	tasks: [{
+		uid: "c0d0d216",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:chance"
+			}
+		}],
+		consume_items: true
+	}]
+}

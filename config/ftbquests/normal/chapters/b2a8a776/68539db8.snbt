@@ -1,0 +1,69 @@
+{
+	x: 18.0d,
+	y: 240.0d,
+	description: "{id:\"tconstruct:kama\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:1204,HarvestLevel:4,Attack:17.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:1204,HarvestLevel:4,Attack:17.0f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"dragonsteel_ice\",\"dragonsteel_ice\",\"dragonsteel_ice\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"sharp\",color:-4463363,level:1},{identifier:\"frost2\",color:-4463363,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"sharp\",\"frost2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4734306a",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 1204,
+					HarvestLevel: 4,
+					Attack: 17.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 1204,
+					HarvestLevel: 4,
+					Attack: 17.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dragonsteel_ice",
+						"dragonsteel_ice",
+						"dragonsteel_ice"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "sharp",
+					color: -4463363,
+					level: 1
+				},
+				{
+					identifier: "frost2",
+					color: -4463363,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"sharp",
+					"frost2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

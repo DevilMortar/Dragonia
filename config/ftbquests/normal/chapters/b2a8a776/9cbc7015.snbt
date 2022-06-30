@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:fence_ironwood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "13b83a8c",
+		type: "item",
+		items: [{
+			item: "rustic:fence_ironwood"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 18.0d,
+	y: 310.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"biomesoplenty:cold_desert\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1ac3e1cf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "biomesoplenty:cold_desert"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

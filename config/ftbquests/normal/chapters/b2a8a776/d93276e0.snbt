@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 15.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extraalchemy:beheading_long\"},Damage:0s}",
+	tasks: [{
+		uid: "024cfc73",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extraalchemy:beheading_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

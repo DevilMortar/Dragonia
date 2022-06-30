@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 356.0d,
+	description: "{id:\"harvestcraft:mushroomketchupitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a8f26a2c",
+		type: "item",
+		items: [{
+			item: "harvestcraft:mushroomketchupitem"
+		}],
+		consume_items: true
+	}]
+}

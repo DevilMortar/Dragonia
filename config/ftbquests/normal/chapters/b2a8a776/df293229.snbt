@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 208.0d,
+	description: "{id:\"netherex:orange_salamander_hide_leggings\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7463fdd7",
+		type: "item",
+		items: [{
+			item: "netherex:orange_salamander_hide_leggings"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 120.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"manyullyn\"},Damage:0s}",
+	tasks: [{
+		uid: "dbce84a2",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "manyullyn"
+			}
+		}],
+		consume_items: true
+	}]
+}

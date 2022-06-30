@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 198.0d,
+	description: "{id:\"heroicarmory:scglam\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8ad8fb40",
+		type: "item",
+		items: [{
+			item: "heroicarmory:scglam"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 230.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"slime\"},Damage:0s}",
+	tasks: [{
+		uid: "cee66709",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "slime"
+			}
+		}],
+		consume_items: true
+	}]
+}

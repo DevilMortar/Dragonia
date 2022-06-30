@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:diamond_gloves\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "be53bfe4",
+		type: "item",
+		items: [{
+			item: "aether_legacy:diamond_gloves"
+		}],
+		consume_items: true
+	}]
+}

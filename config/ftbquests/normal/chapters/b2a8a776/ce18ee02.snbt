@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 368.0d,
+	description: "{id:\"quark:biome_brick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "94535381",
+		type: "item",
+		items: [{
+			item: "quark:biome_brick"
+		}],
+		consume_items: true
+	}]
+}

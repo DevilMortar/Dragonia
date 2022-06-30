@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 86.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/vindication_illager\"},Damage:0s}",
+	tasks: [{
+		uid: "836a9fb0",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/vindication_illager"
+			}
+		}],
+		consume_items: true
+	}]
+}

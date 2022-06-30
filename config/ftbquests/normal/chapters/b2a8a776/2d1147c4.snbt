@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 325.0d,
+	description: "{id:\"aether_legacy:life_shard\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e4de392b",
+		type: "item",
+		items: [{
+			item: "aether_legacy:life_shard"
+		}],
+		consume_items: true
+	}]
+}

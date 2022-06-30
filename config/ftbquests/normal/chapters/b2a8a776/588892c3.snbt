@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 375.0d,
+	description: "{id:\"quark:stonebrick_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "964abd27",
+		type: "item",
+		items: [{
+			item: "quark:stonebrick_wall"
+		}],
+		consume_items: true
+	}]
+}

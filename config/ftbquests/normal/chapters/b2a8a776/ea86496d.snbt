@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 136.0d,
+	description: "{id:\"conarm:resist_mat_fire\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d4bcfdf",
+		type: "item",
+		items: [{
+			item: "conarm:resist_mat_fire"
+		}],
+		consume_items: true
+	}]
+}

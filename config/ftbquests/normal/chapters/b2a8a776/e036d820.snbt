@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 306.0d,
+	description: "{id:\"thaumicaugmentation:arcane_trapdoor_wood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a9a9a3a9",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:arcane_trapdoor_wood"
+		}],
+		consume_items: true
+	}]
+}

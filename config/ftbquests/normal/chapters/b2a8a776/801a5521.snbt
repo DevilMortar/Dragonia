@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 114.0d,
+	description: "{id:\"ebwizardry:charm_undead_helmets\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a75123e3",
+		type: "item",
+		items: [{
+			item: "ebwizardry:charm_undead_helmets"
+		}],
+		consume_items: true
+	}]
+}

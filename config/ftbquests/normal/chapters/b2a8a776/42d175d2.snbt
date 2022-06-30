@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 148.0d,
+	description: "{id:\"ancientwarfarevehicle:vehicle_upgrade_power\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d9dfdc8",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:vehicle_upgrade_power"
+		}],
+		consume_items: true
+	}]
+}

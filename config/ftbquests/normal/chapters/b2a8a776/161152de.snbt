@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 194.0d,
+	description: "{id:\"iceandfire:tide_red_leggings\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6915b249",
+		type: "item",
+		items: [{
+			item: "iceandfire:tide_red_leggings"
+		}],
+		consume_items: true
+	}]
+}

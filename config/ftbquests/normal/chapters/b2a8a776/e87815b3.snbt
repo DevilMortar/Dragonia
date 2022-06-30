@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 84.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:chests/igloo_chest\"},Damage:0s}",
+	tasks: [{
+		uid: "4c459f2d",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:chests/igloo_chest"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,68 @@
+{
+	x: 10.0d,
+	y: 237.0d,
+	description: "{id:\"tconstruct:pickaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:438,HarvestLevel:0,Attack:7.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:438,HarvestLevel:0,Attack:7.0f},Special:{Categories:[\"harvest\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"magmaslime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"flammable\",color:-27123,level:1},{identifier:\"superheat\",color:-27123,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"flammable\",\"superheat\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a4bde49a",
+		type: "item",
+		items: [{
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.1f,
+					FreeModifiers: 3,
+					Durability: 438,
+					HarvestLevel: 0,
+					Attack: 7.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.1f,
+					FreeModifiers: 3,
+					Durability: 438,
+					HarvestLevel: 0,
+					Attack: 7.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"magmaslime",
+						"magmaslime",
+						"magmaslime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "flammable",
+					color: -27123,
+					level: 1
+				},
+				{
+					identifier: "superheat",
+					color: -27123,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"flammable",
+					"superheat",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

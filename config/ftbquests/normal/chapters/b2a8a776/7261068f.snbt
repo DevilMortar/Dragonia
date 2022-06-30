@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 254.0d,
+	description: "{id:\"tconstruct:wood_rail\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b9049685",
+		type: "item",
+		items: [{
+			item: "tconstruct:wood_rail"
+		}],
+		consume_items: true
+	}]
+}

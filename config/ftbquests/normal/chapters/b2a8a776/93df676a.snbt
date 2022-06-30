@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 211.0d,
+	description: "{id:\"tconstruct:slime_dirt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cab2321e",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_dirt"
+		}],
+		consume_items: true
+	}]
+}

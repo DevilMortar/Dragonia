@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:broken_armor\"},Damage:0s}",
+	tasks: [{
+		uid: "5c41c29c",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:broken_armor"
+			}
+		}],
+		consume_items: true
+	}]
+}

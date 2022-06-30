@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 14.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extraalchemy:sinking_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "c9c64d7a",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extraalchemy:sinking_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

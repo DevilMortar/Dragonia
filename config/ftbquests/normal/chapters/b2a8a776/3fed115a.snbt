@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 290.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"potioncore:long_reach\"},Damage:0s}",
+	tasks: [{
+		uid: "8601a62e",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "potioncore:long_reach"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 231.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"dragonsteel_ice\"},Damage:0s}",
+	tasks: [{
+		uid: "06299d74",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "dragonsteel_ice"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:stairs_ancient\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8de41bf6",
+		type: "item",
+		items: [{
+			item: "thaumcraft:stairs_ancient"
+		}],
+		consume_items: true
+	}]
+}

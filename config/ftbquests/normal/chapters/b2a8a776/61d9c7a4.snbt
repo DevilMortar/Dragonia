@@ -1,0 +1,18 @@
+{
+	x: 37.0d,
+	y: 311.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"biomesoplenty:phantasmagoric_inferno\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0d52ae88",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "biomesoplenty:phantasmagoric_inferno"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

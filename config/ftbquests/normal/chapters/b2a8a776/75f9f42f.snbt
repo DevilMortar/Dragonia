@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 283.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:mining_fatigue\"},Damage:0s}",
+	tasks: [{
+		uid: "62ad8aa2",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:mining_fatigue"
+			}
+		}],
+		consume_items: true
+	}]
+}

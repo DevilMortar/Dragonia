@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:haystack\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e91a23a4",
+		type: "item",
+		items: [{
+			item: "mocreatures:haystack"
+		}],
+		consume_items: true
+	}]
+}

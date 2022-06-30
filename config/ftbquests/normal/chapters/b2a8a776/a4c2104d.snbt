@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 62.0d,
+	description: "{id:\"betternether:black_bush\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cfa4048a",
+		type: "item",
+		items: [{
+			item: "betternether:black_bush"
+		}],
+		consume_items: true
+	}]
+}

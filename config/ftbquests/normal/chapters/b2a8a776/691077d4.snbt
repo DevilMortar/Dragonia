@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:brazier\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a92bcdfc",
+		type: "item",
+		items: [{
+			item: "dungeontactics:brazier"
+		}],
+		consume_items: true
+	}]
+}

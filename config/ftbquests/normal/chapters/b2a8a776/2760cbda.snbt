@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 306.0d,
+	description: "{id:\"storagedrawers:customdrawers\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "66848e3f",
+		type: "item",
+		items: [{
+			item: "storagedrawers:customdrawers"
+		}],
+		consume_items: true
+	}]
+}

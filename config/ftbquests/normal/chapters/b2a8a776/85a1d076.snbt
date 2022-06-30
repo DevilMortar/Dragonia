@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 308.0d,
+	description: "{id:\"thaumicaugmentation:fracture_locator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4714b23e",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:fracture_locator"
+		}],
+		consume_items: true
+	}]
+}

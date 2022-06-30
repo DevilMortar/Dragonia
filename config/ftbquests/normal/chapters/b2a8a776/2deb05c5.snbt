@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 314.0d,
+	description: "{id:\"tcomplement:steel_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b2a6263b",
+		type: "item",
+		items: [{
+			item: "tcomplement:steel_boots"
+		}],
+		consume_items: true
+	}]
+}

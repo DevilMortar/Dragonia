@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 366.0d,
+	description: "{id:\"quark:horse_whistle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ed6706c2",
+		type: "item",
+		items: [{
+			item: "quark:horse_whistle"
+		}],
+		consume_items: true
+	}]
+}

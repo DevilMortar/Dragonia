@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 116.0d,
+	description: "{id:\"ancientwarfare:research_note\",Count:1b,tag:{researchName:\"animal_husbandry\"},Damage:0s}",
+	tasks: [{
+		uid: "4d9bf412",
+		type: "item",
+		items: [{
+			id: "ancientwarfare:research_note",
+			tag: {
+				researchName: "animal_husbandry"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 328.0d,
+	description: "{id:\"charm:nether_gold_deposit\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "58efb976",
+		type: "item",
+		items: [{
+			item: "charm:nether_gold_deposit"
+		}],
+		consume_items: true
+	}]
+}

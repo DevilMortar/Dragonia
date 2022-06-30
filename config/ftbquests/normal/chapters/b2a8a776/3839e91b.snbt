@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 359.0d,
+	description: "{id:\"harvestcraft:swedishmeatballsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "52e174c6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:swedishmeatballsitem"
+		}],
+		consume_items: true
+	}]
+}

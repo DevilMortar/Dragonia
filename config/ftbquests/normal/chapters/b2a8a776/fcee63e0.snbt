@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 90.0d,
+	description: "{id:\"rustic:painted_wood_yellow\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a6f0fa54",
+		type: "item",
+		items: [{
+			item: "rustic:painted_wood_yellow"
+		}],
+		consume_items: true
+	}]
+}

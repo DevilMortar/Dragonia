@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 60.0d,
+	description: "{id:\"minecraft:record_ward\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "abf111cb",
+		type: "item",
+		items: [{
+			item: "minecraft:record_ward"
+		}],
+		consume_items: true
+	}]
+}

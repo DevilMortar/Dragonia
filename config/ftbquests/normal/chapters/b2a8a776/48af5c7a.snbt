@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 171.0d,
+	description: "{id:\"dungeontactics:mithril_cestus\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4eea64ef",
+		type: "item",
+		items: [{
+			item: "dungeontactics:mithril_cestus"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 259.0d,
+	description: "{id:\"xreliquary:pyromancer_staff\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ac47ac44",
+		type: "item",
+		items: [{
+			item: "xreliquary:pyromancer_staff"
+		}],
+		consume_items: true
+	}]
+}

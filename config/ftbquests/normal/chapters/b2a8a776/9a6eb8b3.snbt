@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 280.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"minecraft:long_regeneration\"},Damage:0s}",
+	tasks: [{
+		uid: "1e4fb2df",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "minecraft:long_regeneration"
+			}
+		}],
+		consume_items: true
+	}]
+}

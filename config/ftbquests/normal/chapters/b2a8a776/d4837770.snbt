@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 58.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:dispel\"},Damage:0s}",
+	tasks: [{
+		uid: "a0564ca3",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:dispel"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 84.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/evocation_illager\"},Damage:0s}",
+	tasks: [{
+		uid: "32ce4676",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/evocation_illager"
+			}
+		}],
+		consume_items: true
+	}]
+}

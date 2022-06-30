@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 214.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"prismarine\"},Damage:0s}",
+	tasks: [{
+		uid: "c1a985c5",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "prismarine"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 201.0d,
+	description: "{id:\"heroicarmory:skyrimebonyblade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c33637c8",
+		type: "item",
+		items: [{
+			item: "heroicarmory:skyrimebonyblade"
+		}],
+		consume_items: true
+	}]
+}

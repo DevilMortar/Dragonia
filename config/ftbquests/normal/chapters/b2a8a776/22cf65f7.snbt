@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 85.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/squid\"},Damage:0s}",
+	tasks: [{
+		uid: "5d02818b",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/squid"
+			}
+		}],
+		consume_items: true
+	}]
+}

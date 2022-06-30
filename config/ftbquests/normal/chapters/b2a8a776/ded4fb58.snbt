@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:hidechest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2e843a44",
+		type: "item",
+		items: [{
+			item: "mocreatures:hidechest"
+		}],
+		consume_items: true
+	}]
+}

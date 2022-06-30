@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 326.0d,
+	description: "{id:\"charm:redstone_sand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "775049e1",
+		type: "item",
+		items: [{
+			item: "charm:redstone_sand"
+		}],
+		consume_items: true
+	}]
+}

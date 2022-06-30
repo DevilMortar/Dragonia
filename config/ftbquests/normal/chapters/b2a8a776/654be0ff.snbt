@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 206.0d,
+	description: "{id:\"netherex:brown_elder_mushroom_cap\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "86745eca",
+		type: "item",
+		items: [{
+			item: "netherex:brown_elder_mushroom_cap"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 72.0d,
+	description: "{id:\"biomesoplenty:mud_brick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "117b4cae",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:mud_brick"
+		}],
+		consume_items: true
+	}]
+}

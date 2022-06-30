@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 135.0d,
+	description: "{id:\"ancientwarfarenpc:golden_lance\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cc9859c0",
+		type: "item",
+		items: [{
+			item: "ancientwarfarenpc:golden_lance"
+		}],
+		consume_items: true
+	}]
+}

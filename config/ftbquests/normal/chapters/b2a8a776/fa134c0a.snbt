@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 116.0d,
+	description: "{id:\"ancientspellcraft:astral_diamond_shard\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "320e946c",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:astral_diamond_shard"
+		}],
+		consume_items: true
+	}]
+}

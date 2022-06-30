@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:blazingsoupitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4337d844",
+		type: "item",
+		items: [{
+			item: "harvestcraft:blazingsoupitem"
+		}],
+		consume_items: true
+	}]
+}

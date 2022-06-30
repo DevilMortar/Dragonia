@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 49.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:glowing\"},Damage:0s}",
+	tasks: [{
+		uid: "b63a27e7",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:glowing"
+			}
+		}],
+		consume_items: true
+	}]
+}

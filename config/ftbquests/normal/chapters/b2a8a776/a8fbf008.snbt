@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 303.0d,
+	description: "{id:\"spartanshields:shield_basic_gold\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d0630246",
+		type: "item",
+		items: [{
+			item: "spartanshields:shield_basic_gold"
+		}],
+		consume_items: true
+	}]
+}

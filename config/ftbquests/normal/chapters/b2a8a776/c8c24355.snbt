@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 184.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"potioncore:archery\"},Damage:0s}",
+	tasks: [{
+		uid: "5e5b92e6",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "potioncore:archery"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 17.0d,
+	y: 308.0d,
+	description: "{ForgeCaps:{Parent:{ownerLeast:0L,name:\"\",ownerMost:0L}},id:\"thaumicaugmentation:key\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "2f4bf059",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					ownerLeast: 0L,
+					name: "",
+					ownerMost: 0L
+				}
+			},
+			id: "thaumicaugmentation:key",
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

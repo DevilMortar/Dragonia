@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 165.0d,
+	description: "{id:\"thaumcraft:crimson_praetor_helm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "df8439e2",
+		type: "item",
+		items: [{
+			item: "thaumcraft:crimson_praetor_helm"
+		}],
+		consume_items: true
+	}]
+}

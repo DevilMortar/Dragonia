@@ -1,0 +1,22 @@
+{
+	x: 15.0d,
+	y: 258.0d,
+	description: "{ForgeCaps:{Parent:{Size:2,TotalAmounts:[0],Items:[]}},id:\"xreliquary:ender_staff\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0fe018ca",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 2,
+					TotalAmounts: [
+						0
+					],
+					Items: []
+				}
+			},
+			id: "xreliquary:ender_staff"
+		}],
+		consume_items: true
+	}]
+}

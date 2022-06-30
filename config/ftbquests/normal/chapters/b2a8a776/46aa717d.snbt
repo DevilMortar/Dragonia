@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:horsesaddle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "67e45ab9",
+		type: "item",
+		items: [{
+			item: "mocreatures:horsesaddle"
+		}],
+		consume_items: true
+	}]
+}

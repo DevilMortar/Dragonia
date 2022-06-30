@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"obsidian\"},Damage:0s}",
+	tasks: [{
+		uid: "3f2ab9f9",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "obsidian"
+			}
+		}],
+		consume_items: true
+	}]
+}

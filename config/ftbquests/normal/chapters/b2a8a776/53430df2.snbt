@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 213.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"tcomplement:chisel_head\"},Damage:0s}",
+	tasks: [{
+		uid: "e25e9d4a",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tcomplement:chisel_head"
+			}
+		}],
+		consume_items: true
+	}]
+}

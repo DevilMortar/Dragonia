@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:potion_ring\",Count:1b,tag:{Potion:\"minecraft:water_breathing\"},Damage:0s}",
+	tasks: [{
+		uid: "52b2512d",
+		type: "item",
+		items: [{
+			id: "extraalchemy:potion_ring",
+			tag: {
+				Potion: "minecraft:water_breathing"
+			}
+		}],
+		consume_items: true
+	}]
+}

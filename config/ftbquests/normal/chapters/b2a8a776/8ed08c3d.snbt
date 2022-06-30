@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 79.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"netherex:entity/salamander/orange_salamander\"},Damage:0s}",
+	tasks: [{
+		uid: "176ab056",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "netherex:entity/salamander/orange_salamander"
+			}
+		}],
+		consume_items: true
+	}]
+}

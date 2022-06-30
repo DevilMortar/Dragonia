@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 321.0d,
+	description: "{id:\"aether_legacy:holiday_leaves\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bf0d8c80",
+		type: "item",
+		items: [{
+			item: "aether_legacy:holiday_leaves"
+		}],
+		consume_items: true
+	}]
+}

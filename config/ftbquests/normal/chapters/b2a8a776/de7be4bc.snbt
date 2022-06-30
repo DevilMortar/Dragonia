@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 321.0d,
+	description: "{id:\"aether_legacy:present\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "26a0a030",
+		type: "item",
+		items: [{
+			item: "aether_legacy:present"
+		}],
+		consume_items: true
+	}]
+}

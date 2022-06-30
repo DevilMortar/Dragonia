@@ -1,0 +1,20 @@
+{
+	x: 9.0d,
+	y: 313.0d,
+	description: "{ForgeCaps:{Parent:{energy:{energy:0L}}},id:\"thaumicaugmentation:elytra_harness_augment\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "265a5606",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					energy: {
+						energy: 0L
+					}
+				}
+			},
+			id: "thaumicaugmentation:elytra_harness_augment"
+		}],
+		consume_items: true
+	}]
+}

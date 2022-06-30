@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 326.0d,
+	description: "{id:\"charm:variable_redstone_lamp\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "59913a8c",
+		type: "item",
+		items: [{
+			item: "charm:variable_redstone_lamp"
+		}],
+		consume_items: true
+	}]
+}

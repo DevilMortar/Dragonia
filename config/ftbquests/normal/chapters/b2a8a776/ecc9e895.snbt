@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 336.0d,
+	description: "{id:\"harvestcraft:guava_sapling\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f47301f6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:guava_sapling"
+		}],
+		consume_items: true
+	}]
+}

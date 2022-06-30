@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 117.0d,
+	description: "{id:\"ancientwarfare:research_note\",Count:1b,tag:{researchName:\"rocketry\"},Damage:0s}",
+	tasks: [{
+		uid: "efdb3077",
+		type: "item",
+		items: [{
+			id: "ancientwarfare:research_note",
+			tag: {
+				researchName: "rocketry"
+			}
+		}],
+		consume_items: true
+	}]
+}

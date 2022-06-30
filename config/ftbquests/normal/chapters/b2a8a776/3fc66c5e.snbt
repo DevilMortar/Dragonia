@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 109.0d,
+	description: "{id:\"ebwizardry:wizard_robe_necromancy\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "16b35b19",
+		type: "item",
+		items: [{
+			item: "ebwizardry:wizard_robe_necromancy"
+		}],
+		consume_items: true
+	}]
+}

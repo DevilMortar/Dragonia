@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 112.0d,
+	description: "{id:\"ebwizardry:ring_arcane_frost\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b4170c28",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_arcane_frost"
+		}],
+		consume_items: true
+	}]
+}

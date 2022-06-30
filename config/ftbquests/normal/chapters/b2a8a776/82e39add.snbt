@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 205.0d,
+	description: "{id:\"netherex:gloomy_netherrack\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "07b64605",
+		type: "item",
+		items: [{
+			item: "netherex:gloomy_netherrack"
+		}],
+		consume_items: true
+	}]
+}

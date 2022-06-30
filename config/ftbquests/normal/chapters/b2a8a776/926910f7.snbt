@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 258.0d,
+	description: "{id:\"xreliquary:mercy_cross\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "82e30092",
+		type: "item",
+		items: [{
+			item: "xreliquary:mercy_cross"
+		}],
+		consume_items: true
+	}]
+}

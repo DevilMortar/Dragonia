@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:moa_egg\",Count:1b,tag:{typeId:3},Damage:0s}",
+	tasks: [{
+		uid: "cba41252",
+		type: "item",
+		items: [{
+			id: "aether_legacy:moa_egg",
+			tag: {
+				typeId: 3
+			}
+		}],
+		consume_items: true
+	}]
+}

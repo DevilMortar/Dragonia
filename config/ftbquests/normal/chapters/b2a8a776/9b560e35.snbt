@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 41.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"extraalchemy:hurry_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "f293d6d5",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "extraalchemy:hurry_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 120.0d,
+	description: "{id:\"ancientwarfarenpc:wooden_shield\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4468d0a7",
+		type: "item",
+		items: [{
+			item: "ancientwarfarenpc:wooden_shield"
+		}],
+		consume_items: true
+	}]
+}

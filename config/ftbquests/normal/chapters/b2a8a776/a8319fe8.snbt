@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 203.0d,
+	description: "{id:\"heroicarmory:nhathame\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b09f104e",
+		type: "item",
+		items: [{
+			item: "heroicarmory:nhathame"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 358.0d,
+	description: "{id:\"harvestcraft:cookedtofuttonitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "321a24e4",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cookedtofuttonitem"
+		}],
+		consume_items: true
+	}]
+}

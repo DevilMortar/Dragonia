@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:sugarlump\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f4f94763",
+		type: "item",
+		items: [{
+			item: "mocreatures:sugarlump"
+		}],
+		consume_items: true
+	}]
+}

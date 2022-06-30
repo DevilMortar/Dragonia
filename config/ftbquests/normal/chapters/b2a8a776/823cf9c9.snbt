@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 376.0d,
+	description: "{id:\"quark:iron_plate_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a09ce261",
+		type: "item",
+		items: [{
+			item: "quark:iron_plate_stairs"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 389.0d,
+	description: "{id:\"chisel:obsidian\",Count:1b,Damage:13s}",
+	tasks: [{
+		uid: "ecc9d3f1",
+		type: "item",
+		items: [{
+			item: "chisel:obsidian 1 13"
+		}],
+		consume_items: true
+	}]
+}

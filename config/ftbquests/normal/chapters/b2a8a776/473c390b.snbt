@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 68.0d,
+	description: "{id:\"biomesoplenty:palm_fence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e3e4c265",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:palm_fence"
+		}],
+		consume_items: true
+	}]
+}

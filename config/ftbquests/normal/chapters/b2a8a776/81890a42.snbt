@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 372.0d,
+	description: "{id:\"quark:slate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bf7f6a23",
+		type: "item",
+		items: [{
+			item: "quark:slate"
+		}],
+		consume_items: true
+	}]
+}

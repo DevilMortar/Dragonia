@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 170.0d,
+	description: "{id:\"dungeontactics:golden_battleaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "76e7e392",
+		type: "item",
+		items: [{
+			item: "dungeontactics:golden_battleaxe"
+		}],
+		consume_items: true
+	}]
+}

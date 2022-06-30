@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 280.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"quark:long_haste\"},Damage:0s}",
+	tasks: [{
+		uid: "0bc7d95f",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "quark:long_haste"
+			}
+		}],
+		consume_items: true
+	}]
+}

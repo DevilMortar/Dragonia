@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 360.0d,
+	description: "{id:\"harvestcraft:meatfeastpizzaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aee56377",
+		type: "item",
+		items: [{
+			item: "harvestcraft:meatfeastpizzaitem"
+		}],
+		consume_items: true
+	}]
+}

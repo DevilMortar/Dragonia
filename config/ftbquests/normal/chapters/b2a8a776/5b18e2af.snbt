@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 257.0d,
+	description: "{id:\"randomloot:random_cluster\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e8727e7b",
+		type: "item",
+		items: [{
+			item: "randomloot:random_cluster"
+		}],
+		consume_items: true
+	}]
+}

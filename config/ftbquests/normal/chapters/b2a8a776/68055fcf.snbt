@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:dispel\"},Damage:0s}",
+	tasks: [{
+		uid: "bfcc5de5",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:dispel"
+			}
+		}],
+		consume_items: true
+	}]
+}

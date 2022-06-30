@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 134.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"firewood\"},Damage:0s}",
+	tasks: [{
+		uid: "64c0b3a4",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "firewood"
+			}
+		}],
+		consume_items: true
+	}]
+}

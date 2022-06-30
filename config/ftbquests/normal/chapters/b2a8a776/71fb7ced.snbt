@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 141.0d,
+	description: "{id:\"ancientwarfarestructure:wooden_post\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8539b1ba",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:wooden_post"
+		}],
+		consume_items: true
+	}]
+}

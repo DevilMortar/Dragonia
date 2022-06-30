@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 301.0d,
+	description: "{id:\"spartanfire:dagger_jungle_venom\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f544f850",
+		type: "item",
+		items: [{
+			item: "spartanfire:dagger_jungle_venom"
+		}],
+		consume_items: true
+	}]
+}

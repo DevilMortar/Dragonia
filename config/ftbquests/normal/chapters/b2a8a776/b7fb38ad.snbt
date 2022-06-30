@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 256.0d,
+	description: "{id:\"tconstruct:throwball\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "12e7a44f",
+		type: "item",
+		items: [{
+			item: "tconstruct:throwball"
+		}],
+		consume_items: true
+	}]
+}

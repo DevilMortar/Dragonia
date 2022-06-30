@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 313.0d,
+	description: "{id:\"tcomplement:materials\",Count:1b,Damage:20s}",
+	tasks: [{
+		uid: "2abaf293",
+		type: "item",
+		items: [{
+			item: "tcomplement:materials 1 20"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 353.0d,
+	description: "{id:\"harvestcraft:grilledcheesevegemitetoastitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "19dfcedc",
+		type: "item",
+		items: [{
+			item: "harvestcraft:grilledcheesevegemitetoastitem"
+		}],
+		consume_items: true
+	}]
+}

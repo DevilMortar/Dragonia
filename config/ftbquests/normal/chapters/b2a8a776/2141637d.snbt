@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:candy_cane_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f180e5d5",
+		type: "item",
+		items: [{
+			item: "aether_legacy:candy_cane_sword"
+		}],
+		consume_items: true
+	}]
+}

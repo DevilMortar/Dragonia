@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:horsetail\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "401410d1",
+		type: "item",
+		items: [{
+			item: "rustic:horsetail"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 362.0d,
+	description: "{id:\"vt:friedegg\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0683d96a",
+		type: "item",
+		items: [{
+			item: "vt:friedegg"
+		}],
+		consume_items: true
+	}]
+}

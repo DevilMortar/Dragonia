@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 138.0d,
+	description: "{id:\"ancientwarfarestructure:altar_long_cloth\",Count:1b,tag:{color:16720896,customData:\"demon\",unlocalizedNamePart:\"faction\"},Damage:0s}",
+	tasks: [{
+		uid: "c4f5dafa",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:altar_long_cloth",
+			tag: {
+				color: 16720896,
+				customData: "demon",
+				unlocalizedNamePart: "faction"
+			}
+		}],
+		consume_items: true
+	}]
+}

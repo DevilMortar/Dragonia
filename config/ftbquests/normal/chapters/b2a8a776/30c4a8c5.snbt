@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 356.0d,
+	description: "{id:\"harvestcraft:meringuecookieitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7c732ed1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:meringuecookieitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 39.0d,
+	y: 21.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"primitivemobs:blazing_juggernaut\"}},Damage:0s}",
+	tasks: [{
+		uid: "34a465d3",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "primitivemobs:blazing_juggernaut"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

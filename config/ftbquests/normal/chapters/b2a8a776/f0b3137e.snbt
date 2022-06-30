@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 136.0d,
+	description: "{id:\"ancientwarfarestructure:brazier_ember\",Count:1b,tag:{lit:1b},Damage:0s}",
+	tasks: [{
+		uid: "dc5b3923",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:brazier_ember",
+			tag: {
+				lit: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

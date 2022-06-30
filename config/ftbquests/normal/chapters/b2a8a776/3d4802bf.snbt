@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 55.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"extraalchemy:leech_long\"},Damage:0s}",
+	tasks: [{
+		uid: "f320601c",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "extraalchemy:leech_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

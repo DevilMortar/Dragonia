@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 316.0d,
+	description: "{id:\"toroquest:pickaxe_of_greed\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "108ff25c",
+		type: "item",
+		items: [{
+			item: "toroquest:pickaxe_of_greed"
+		}],
+		consume_items: true
+	}]
+}

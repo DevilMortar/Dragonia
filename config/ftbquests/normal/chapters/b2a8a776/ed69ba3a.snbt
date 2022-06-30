@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 203.0d,
+	description: "{id:\"megaloot:evolution_chamber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a9ad9fda",
+		type: "item",
+		items: [{
+			item: "megaloot:evolution_chamber"
+		}],
+		consume_items: true
+	}]
+}

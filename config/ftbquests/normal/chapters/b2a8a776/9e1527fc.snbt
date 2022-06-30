@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 90.0d,
+	description: "{id:\"rustic:vase\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b64c4101",
+		type: "item",
+		items: [{
+			item: "rustic:vase"
+		}],
+		consume_items: true
+	}]
+}

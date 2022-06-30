@@ -1,0 +1,18 @@
+{
+	x: 37.0d,
+	y: 22.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"atum:mummy\"}},Damage:0s}",
+	tasks: [{
+		uid: "2333f5dd",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "atum:mummy"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 230.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"pigiron\"},Damage:0s}",
+	tasks: [{
+		uid: "97e3b290",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "pigiron"
+			}
+		}],
+		consume_items: true
+	}]
+}

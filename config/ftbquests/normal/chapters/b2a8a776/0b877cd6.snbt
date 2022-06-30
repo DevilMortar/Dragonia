@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 50.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:disorganization\"},Damage:0s}",
+	tasks: [{
+		uid: "59a2522c",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:disorganization"
+			}
+		}],
+		consume_items: true
+	}]
+}

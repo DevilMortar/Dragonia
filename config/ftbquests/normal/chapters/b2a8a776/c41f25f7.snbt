@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 280.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"minecraft:long_swiftness\"},Damage:0s}",
+	tasks: [{
+		uid: "d877e07f",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "minecraft:long_swiftness"
+			}
+		}],
+		consume_items: true
+	}]
+}

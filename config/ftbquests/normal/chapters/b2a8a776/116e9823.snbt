@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 345.0d,
+	description: "{id:\"harvestcraft:pumpkinyogurtitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "291bdfc8",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pumpkinyogurtitem"
+		}],
+		consume_items: true
+	}]
+}

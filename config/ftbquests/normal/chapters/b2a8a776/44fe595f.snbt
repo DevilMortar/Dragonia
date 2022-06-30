@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 84.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/blaze\"},Damage:0s}",
+	tasks: [{
+		uid: "f44922bb",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/blaze"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 320.0d,
+	description: "{id:\"aether_legacy:holystone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "08b4d80a",
+		type: "item",
+		items: [{
+			item: "aether_legacy:holystone"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,64 @@
+{
+	x: 35.0d,
+	y: 240.0d,
+	description: "{id:\"tconstruct:hammer\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:2410,HarvestLevel:0,Attack:1.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:2410,HarvestLevel:0,Attack:1.8f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"slimey_blue\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d20eff62",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.03f,
+					FreeModifiers: 3,
+					Durability: 2410,
+					HarvestLevel: 0,
+					Attack: 1.8f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.03f,
+					FreeModifiers: 3,
+					Durability: 2410,
+					HarvestLevel: 0,
+					Attack: 1.8f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"blueslime",
+						"blueslime",
+						"blueslime",
+						"blueslime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "slimey_blue",
+					color: -9123641,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"slimey_blue",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

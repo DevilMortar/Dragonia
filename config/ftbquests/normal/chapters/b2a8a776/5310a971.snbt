@@ -1,0 +1,18 @@
+{
+	x: 23.0d,
+	y: 313.0d,
+	description: "{ForgeCaps:{Parent:{vis:0.0f}},id:\"thaumicaugmentation:augment_vis_battery\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f6eaa56e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					vis: 0.0f
+				}
+			},
+			id: "thaumicaugmentation:augment_vis_battery"
+		}],
+		consume_items: true
+	}]
+}

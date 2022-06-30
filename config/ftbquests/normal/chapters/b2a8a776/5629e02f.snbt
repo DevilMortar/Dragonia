@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:hungry_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a7f9ff6e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:hungry_chest"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 208.0d,
+	description: "{id:\"netherex:ghast_meat_cooked\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e53ba248",
+		type: "item",
+		items: [{
+			item: "netherex:ghast_meat_cooked"
+		}],
+		consume_items: true
+	}]
+}

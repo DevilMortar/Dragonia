@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 42.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"potioncore:wither\"},Damage:0s}",
+	tasks: [{
+		uid: "e571443a",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "potioncore:wither"
+			}
+		}],
+		consume_items: true
+	}]
+}

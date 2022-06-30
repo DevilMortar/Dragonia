@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 425.0d,
+	description: "{id:\"chisel:paper\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "7dbc6f9c",
+		type: "item",
+		items: [{
+			item: "chisel:paper 1 8"
+		}],
+		consume_items: true
+	}]
+}

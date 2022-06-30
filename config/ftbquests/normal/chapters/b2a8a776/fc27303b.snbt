@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 362.0d,
+	description: "{id:\"wolfarmor:leather_wolf_armor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1ecc8a31",
+		type: "item",
+		items: [{
+			item: "wolfarmor:leather_wolf_armor"
+		}],
+		consume_items: true
+	}]
+}

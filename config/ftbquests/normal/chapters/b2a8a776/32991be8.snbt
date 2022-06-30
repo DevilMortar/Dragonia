@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 181.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:beheading_long\"},Damage:0s}",
+	tasks: [{
+		uid: "27857ff0",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:beheading_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

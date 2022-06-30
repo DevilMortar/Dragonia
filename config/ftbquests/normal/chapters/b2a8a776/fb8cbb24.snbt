@@ -1,0 +1,22 @@
+{
+	x: 31.0d,
+	y: 266.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{lingering:1b,effects:[{duration:750,potency:0,name:\"minecraft:fire_resistance\"}],hasPotion:1b},Damage:0s}",
+	tasks: [{
+		uid: "c9daa156",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				lingering: 1b,
+				effects: [{
+					duration: 750,
+					potency: 0,
+					name: "minecraft:fire_resistance"
+				}],
+				hasPotion: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

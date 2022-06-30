@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 403.0d,
+	description: "{id:\"chisel:arcane_stone1\",Count:1b,Damage:10s}",
+	tasks: [{
+		uid: "68a02bc3",
+		type: "item",
+		items: [{
+			item: "chisel:arcane_stone1 1 10"
+		}],
+		consume_items: true
+	}]
+}

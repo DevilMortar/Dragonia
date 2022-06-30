@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 398.0d,
+	description: "{id:\"chisel:blockuranium\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "59bf5000",
+		type: "item",
+		items: [{
+			item: "chisel:blockuranium 1 1"
+		}],
+		consume_items: true
+	}]
+}

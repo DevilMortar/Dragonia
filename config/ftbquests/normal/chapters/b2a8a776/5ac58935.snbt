@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:invert\"},Damage:0s}",
+	tasks: [{
+		uid: "0220ae8c",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:invert"
+			}
+		}],
+		consume_items: true
+	}]
+}

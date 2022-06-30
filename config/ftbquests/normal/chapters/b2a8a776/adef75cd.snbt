@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 115.0d,
+	description: "{id:\"ancientspellcraft:charm_knowledge_orb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "051b9a13",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:charm_knowledge_orb"
+		}],
+		consume_items: true
+	}]
+}

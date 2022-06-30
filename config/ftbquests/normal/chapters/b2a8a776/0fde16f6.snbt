@@ -1,0 +1,20 @@
+{
+	x: 13.0d,
+	y: 134.0d,
+	description: "{id:\"conarm:armorforge\",Count:1b,tag:{textureBlock:{id:\"chisel:blocktin\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "3e27e3e8",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "chisel:blocktin",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

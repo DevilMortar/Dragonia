@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 205.0d,
+	description: "{id:\"netherex:icy_nether_brick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c307c376",
+		type: "item",
+		items: [{
+			item: "netherex:icy_nether_brick"
+		}],
+		consume_items: true
+	}]
+}

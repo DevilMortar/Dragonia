@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 151.0d,
+	description: "{id:\"atum:graverobbers_map\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "09022d71",
+		type: "item",
+		items: [{
+			item: "atum:graverobbers_map"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 375.0d,
+	description: "{id:\"quark:stained_clay_tiles_white_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "32238a15",
+		type: "item",
+		items: [{
+			item: "quark:stained_clay_tiles_white_stairs"
+		}],
+		consume_items: true
+	}]
+}

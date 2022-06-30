@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 414.0d,
+	description: "{id:\"chisel:sandstone-scribbles\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "c35986a4",
+		type: "item",
+		items: [{
+			item: "chisel:sandstone-scribbles 1 5"
+		}],
+		consume_items: true
+	}]
+}

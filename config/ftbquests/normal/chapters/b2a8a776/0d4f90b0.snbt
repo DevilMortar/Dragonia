@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 9.0d,
+	description: "{id:\"minecraft:stone_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b03ccbc2",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_shovel"
+		}],
+		consume_items: true
+	}]
+}

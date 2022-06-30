@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 255.0d,
+	description: "{id:\"tconstruct:dried_clay_slab\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "10e524f7",
+		type: "item",
+		items: [{
+			item: "tconstruct:dried_clay_slab 1 1"
+		}],
+		consume_items: true
+	}]
+}

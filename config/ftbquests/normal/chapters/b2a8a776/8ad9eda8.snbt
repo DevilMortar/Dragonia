@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 209.0d,
+	description: "{id:\"tconstruct:clear_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d7d82170",
+		type: "item",
+		items: [{
+			item: "tconstruct:clear_glass"
+		}],
+		consume_items: true
+	}]
+}

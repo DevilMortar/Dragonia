@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 330.0d,
+	description: "{id:\"harvestcraft:caulifloweritem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1e204fef",
+		type: "item",
+		items: [{
+			item: "harvestcraft:caulifloweritem"
+		}],
+		consume_items: true
+	}]
+}

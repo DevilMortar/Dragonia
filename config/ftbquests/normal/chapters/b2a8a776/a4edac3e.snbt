@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 295.0d,
+	description: "{id:\"spartanweaponry:halberd_steel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "677f67b6",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:halberd_steel"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 315.0d,
+	description: "{id:\"tombstone:grave_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "00753329",
+		type: "item",
+		items: [{
+			item: "tombstone:grave_plate"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 56.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:strong_mining_fatigue\"},Damage:0s}",
+	tasks: [{
+		uid: "ed5cae82",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:strong_mining_fatigue"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 14.0d,
+	y: 129.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"amazon\",npcType:\"faction.archer.elite\"},Damage:0s}",
+	tasks: [{
+		uid: "80b29b6f",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "amazon",
+				npcType: "faction.archer.elite"
+			}
+		}],
+		consume_items: true
+	}]
+}

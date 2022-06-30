@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 96.0d,
+	description: "{id:\"atum:porphyry_polished_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "56b36205",
+		type: "item",
+		items: [{
+			item: "atum:porphyry_polished_stairs"
+		}],
+		consume_items: true
+	}]
+}

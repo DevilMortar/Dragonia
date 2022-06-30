@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 173.0d,
+	description: "{id:\"dungeontactics:magic_powder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0793a60a",
+		type: "item",
+		items: [{
+			item: "dungeontactics:magic_powder"
+		}],
+		consume_items: true
+	}]
+}

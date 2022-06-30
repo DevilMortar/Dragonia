@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 300.0d,
+	description: "{id:\"spartanfire:throwing_axe_jungle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3369a806",
+		type: "item",
+		items: [{
+			item: "spartanfire:throwing_axe_jungle"
+		}],
+		consume_items: true
+	}]
+}

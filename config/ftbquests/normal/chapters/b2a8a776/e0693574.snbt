@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 118.0d,
+	description: "{id:\"ancientwarfareautomation:crop_farm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1f4cb0a3",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:crop_farm"
+		}],
+		consume_items: true
+	}]
+}

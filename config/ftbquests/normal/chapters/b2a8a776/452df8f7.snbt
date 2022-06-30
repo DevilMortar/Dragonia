@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 336.0d,
+	description: "{id:\"harvestcraft:durian_sapling\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fb3e5397",
+		type: "item",
+		items: [{
+			item: "harvestcraft:durian_sapling"
+		}],
+		consume_items: true
+	}]
+}

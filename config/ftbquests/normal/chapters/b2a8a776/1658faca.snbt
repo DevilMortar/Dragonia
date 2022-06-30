@@ -1,0 +1,18 @@
+{
+	x: 30.0d,
+	y: 23.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"thaumcraft:taintseed\"}},Damage:0s}",
+	tasks: [{
+		uid: "b9aa6b5a",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "thaumcraft:taintseed"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

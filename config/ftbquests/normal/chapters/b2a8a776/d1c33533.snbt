@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 296.0d,
+	description: "{id:\"spartanweaponry:crossbow_platinum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "508b65d7",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:crossbow_platinum"
+		}],
+		consume_items: true
+	}]
+}

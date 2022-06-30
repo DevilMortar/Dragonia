@@ -1,0 +1,71 @@
+{
+	x: 5.0d,
+	y: 251.0d,
+	description: "{id:\"tconstruct:shuriken\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:265,HarvestLevel:1,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:265,HarvestLevel:1,Attack:5.0f},Special:{Categories:[\"tool\",\"projectile\",\"no_melee\"]},TinkerData:{Materials:[\"bone\",\"bone\",\"bone\",\"bone\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"splintering\",color:-1186113,level:1},{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"splintering\",\"fractured\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2801856a",
+		type: "item",
+		items: [{
+			id: "tconstruct:shuriken",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 5.09f,
+					FreeModifiers: 3,
+					Durability: 265,
+					HarvestLevel: 1,
+					Attack: 3.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 5.09f,
+					FreeModifiers: 3,
+					Durability: 265,
+					HarvestLevel: 1,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"projectile",
+						"no_melee"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"bone",
+						"bone",
+						"bone",
+						"bone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "splintering",
+					color: -1186113,
+					level: 1
+				},
+				{
+					identifier: "fractured",
+					color: -1186113,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"splintering",
+					"fractured",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

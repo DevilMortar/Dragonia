@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 225.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"netherrack\"},Damage:0s}",
+	tasks: [{
+		uid: "3909e18a",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "netherrack"
+			}
+		}],
+		consume_items: true
+	}]
+}

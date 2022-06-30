@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 205.0d,
+	description: "{id:\"ancientwarfarevehicle:ammo_torpedo_15\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f3056460",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:ammo_torpedo_15"
+		}],
+		consume_items: true
+	}]
+}

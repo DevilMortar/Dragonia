@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 354.0d,
+	description: "{id:\"harvestcraft:mettbrotchenitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4e3959bc",
+		type: "item",
+		items: [{
+			item: "harvestcraft:mettbrotchenitem"
+		}],
+		consume_items: true
+	}]
+}

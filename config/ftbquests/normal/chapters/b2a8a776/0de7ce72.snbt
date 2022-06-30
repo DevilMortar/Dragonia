@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 183.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"potioncore:long_magic_inhibition\"},Damage:0s}",
+	tasks: [{
+		uid: "22c11dcc",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "potioncore:long_magic_inhibition"
+			}
+		}],
+		consume_items: true
+	}]
+}

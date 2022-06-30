@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"netherrack\"},Damage:0s}",
+	tasks: [{
+		uid: "c312009b",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "netherrack"
+			}
+		}],
+		consume_items: true
+	}]
+}

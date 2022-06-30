@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: 268.0d,
+	description: "{id:\"xreliquary:tipped_arrow\",Count:1b,tag:{effects:[{duration:1,potency:1,name:\"minecraft:instant_health\"}]},Damage:0s}",
+	tasks: [{
+		uid: "e113b5fb",
+		type: "item",
+		items: [{
+			id: "xreliquary:tipped_arrow",
+			tag: {
+				effects: [{
+					duration: 1,
+					potency: 1,
+					name: "minecraft:instant_health"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

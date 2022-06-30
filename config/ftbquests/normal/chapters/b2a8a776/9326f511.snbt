@@ -1,0 +1,74 @@
+{
+	x: 18.0d,
+	y: 249.0d,
+	description: "{id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.5f,Durability:168,HarvestLevel:1,Attack:6.2f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.5f,Durability:168,HarvestLevel:1,Attack:6.2f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"aquadynamic\",color:-8462660,level:1},{identifier:\"jagged\",color:-8462660,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"aquadynamic\",\"jagged\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "9181787b",
+		type: "item",
+		items: [{
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.5f,
+					DrawSpeed: 0.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -1.5f,
+					Durability: 168,
+					HarvestLevel: 1,
+					Attack: 6.2f,
+					Range: 0.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.5f,
+					DrawSpeed: 0.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -1.5f,
+					Durability: 168,
+					HarvestLevel: 1,
+					Attack: 6.2f,
+					Range: 0.4f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"launcher"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"prismarine",
+						"prismarine",
+						"prismarine",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "aquadynamic",
+					color: -8462660,
+					level: 1
+				},
+				{
+					identifier: "jagged",
+					color: -8462660,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"aquadynamic",
+					"jagged",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

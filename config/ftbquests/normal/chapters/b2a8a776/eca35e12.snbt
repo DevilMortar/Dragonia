@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 80.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"quark:chests/pirate_chest\"},Damage:0s}",
+	tasks: [{
+		uid: "7583a7ac",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "quark:chests/pirate_chest"
+			}
+		}],
+		consume_items: true
+	}]
+}

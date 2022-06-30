@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 186.0d,
+	description: "{id:\"extraalchemy:empty_ring\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3b0909d3",
+		type: "item",
+		items: [{
+			item: "extraalchemy:empty_ring"
+		}],
+		consume_items: true
+	}]
+}

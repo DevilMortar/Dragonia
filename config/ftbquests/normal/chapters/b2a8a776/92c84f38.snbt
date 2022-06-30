@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:turtleraw\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1e5d2492",
+		type: "item",
+		items: [{
+			item: "mocreatures:turtleraw"
+		}],
+		consume_items: true
+	}]
+}

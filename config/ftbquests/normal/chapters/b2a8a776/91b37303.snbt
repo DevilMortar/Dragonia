@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 107.0d,
+	description: "{id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"purifying_fluid\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "53c7e121",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "purifying_fluid",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

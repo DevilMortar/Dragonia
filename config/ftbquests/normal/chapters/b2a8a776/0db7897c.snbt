@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 111.0d,
+	description: "{id:\"ebwizardry:battlemage_chestplate_ice\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8769e47d",
+		type: "item",
+		items: [{
+			item: "ebwizardry:battlemage_chestplate_ice"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 112.0d,
+	description: "{id:\"ebwizardry:ring_fire_biome\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3942a8dc",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_fire_biome"
+		}],
+		consume_items: true
+	}]
+}

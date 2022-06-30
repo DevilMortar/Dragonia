@@ -1,0 +1,18 @@
+{
+	x: 37.0d,
+	y: 25.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"iceandfire:siren\"}},Damage:0s}",
+	tasks: [{
+		uid: "4f9c015f",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "iceandfire:siren"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

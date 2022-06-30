@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 326.0d,
+	description: "{id:\"charm:bookshelf_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "63d495a6",
+		type: "item",
+		items: [{
+			item: "charm:bookshelf_chest"
+		}],
+		consume_items: true
+	}]
+}

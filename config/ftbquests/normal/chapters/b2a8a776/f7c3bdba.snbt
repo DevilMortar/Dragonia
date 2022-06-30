@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 296.0d,
+	description: "{id:\"spartanweaponry:mace_invar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1f17020a",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:mace_invar"
+		}],
+		consume_items: true
+	}]
+}

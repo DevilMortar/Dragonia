@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 373.0d,
+	description: "{id:\"quark:sandy_bricks\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f2aaf1af",
+		type: "item",
+		items: [{
+			item: "quark:sandy_bricks"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 49.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:strong_hunger\"},Damage:0s}",
+	tasks: [{
+		uid: "e76c90f9",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:strong_hunger"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 196.0d,
+	description: "{id:\"heroicarmory:lotrmorgulblade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8ad4171c",
+		type: "item",
+		items: [{
+			item: "heroicarmory:lotrmorgulblade"
+		}],
+		consume_items: true
+	}]
+}

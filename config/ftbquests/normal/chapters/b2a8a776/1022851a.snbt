@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 270.0d,
+	description: "{id:\"scalinghealth:heartdust\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "feee4b63",
+		type: "item",
+		items: [{
+			item: "scalinghealth:heartdust"
+		}],
+		consume_items: true
+	}]
+}

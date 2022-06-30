@@ -1,0 +1,69 @@
+{
+	x: 20.0d,
+	y: 238.0d,
+	description: "{id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:393,HarvestLevel:3,Attack:3.73f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:393,HarvestLevel:3,Attack:3.73f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"enderference\",\"alien\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "9a4f904e",
+		type: "item",
+		items: [{
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.23f,
+					FreeModifiers: 3,
+					Durability: 393,
+					HarvestLevel: 3,
+					Attack: 3.73f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.23f,
+					FreeModifiers: 3,
+					Durability: 393,
+					HarvestLevel: 3,
+					Attack: 3.73f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"endstone",
+						"endstone",
+						"endstone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "enderference",
+					color: -2041712,
+					level: 1
+				},
+				{
+					identifier: "alien",
+					color: -2041712,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"enderference",
+					"alien",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

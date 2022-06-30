@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 150.0d,
+	description: "{id:\"atum:isis_healing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fb2834a1",
+		type: "item",
+		items: [{
+			item: "atum:isis_healing"
+		}],
+		consume_items: true
+	}]
+}

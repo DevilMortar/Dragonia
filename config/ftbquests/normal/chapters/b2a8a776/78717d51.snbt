@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 209.0d,
+	description: "{id:\"tconstruct:clear_stained_glass\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "c1dfe115",
+		type: "item",
+		items: [{
+			item: "tconstruct:clear_stained_glass 1 1"
+		}],
+		consume_items: true
+	}]
+}

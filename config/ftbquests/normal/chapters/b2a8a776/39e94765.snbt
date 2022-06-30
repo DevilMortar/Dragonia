@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 331.0d,
+	description: "{id:\"harvestcraft:artichokeitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1ebb1f1f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:artichokeitem"
+		}],
+		consume_items: true
+	}]
+}

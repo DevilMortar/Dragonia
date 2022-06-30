@@ -1,0 +1,74 @@
+{
+	x: 37.0d,
+	y: 249.0d,
+	description: "{id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:685,HarvestLevel:2,Attack:5.5f,Range:0.7f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:685,HarvestLevel:2,Attack:5.5f,Range:0.7f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"jungle_myrmex\",\"jungle_myrmex\",\"jungle_myrmex\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"poisonous\",color:-14255502,level:1},{identifier:\"hive_defender\",color:-14255502,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"poisonous\",\"hive_defender\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4dbd1220",
+		type: "item",
+		items: [{
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					DrawSpeed: 0.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 3.0f,
+					Durability: 685,
+					HarvestLevel: 2,
+					Attack: 5.5f,
+					Range: 0.7f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					DrawSpeed: 0.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 3.0f,
+					Durability: 685,
+					HarvestLevel: 2,
+					Attack: 5.5f,
+					Range: 0.7f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"launcher"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"jungle_myrmex",
+						"jungle_myrmex",
+						"jungle_myrmex",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "poisonous",
+					color: -14255502,
+					level: 1
+				},
+				{
+					identifier: "hive_defender",
+					color: -14255502,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"poisonous",
+					"hive_defender",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 277.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"potioncore:strong_step_up\"},Damage:0s}",
+	tasks: [{
+		uid: "01493b77",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "potioncore:strong_step_up"
+			}
+		}],
+		consume_items: true
+	}]
+}

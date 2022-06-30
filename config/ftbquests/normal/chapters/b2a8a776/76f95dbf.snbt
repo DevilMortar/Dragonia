@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 53.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"minecraft:long_invisibility\"},Damage:0s}",
+	tasks: [{
+		uid: "ce4e9c55",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "minecraft:long_invisibility"
+			}
+		}],
+		consume_items: true
+	}]
+}

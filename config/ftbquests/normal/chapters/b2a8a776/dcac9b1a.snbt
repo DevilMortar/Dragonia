@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 254.0d,
+	description: "{id:\"tconstruct:stone_torch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f904172f",
+		type: "item",
+		items: [{
+			item: "tconstruct:stone_torch"
+		}],
+		consume_items: true
+	}]
+}

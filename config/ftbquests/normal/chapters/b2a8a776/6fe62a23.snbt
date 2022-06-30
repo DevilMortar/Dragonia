@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 198.0d,
+	description: "{id:\"heroicarmory:scerlangblade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2c00bb35",
+		type: "item",
+		items: [{
+			item: "heroicarmory:scerlangblade"
+		}],
+		consume_items: true
+	}]
+}

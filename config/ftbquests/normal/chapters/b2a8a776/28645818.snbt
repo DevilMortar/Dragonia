@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 49.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:extension\"},Damage:0s}",
+	tasks: [{
+		uid: "2f657027",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:extension"
+			}
+		}],
+		consume_items: true
+	}]
+}

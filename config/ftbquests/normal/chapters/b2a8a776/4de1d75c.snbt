@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 94.0d,
+	description: "{id:\"atum:khnumite_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dd0b1b1a",
+		type: "item",
+		items: [{
+			item: "atum:khnumite_block"
+		}],
+		consume_items: true
+	}]
+}

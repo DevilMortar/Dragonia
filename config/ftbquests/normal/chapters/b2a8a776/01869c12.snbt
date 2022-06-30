@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:cashewbutteritem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d3d48201",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cashewbutteritem"
+		}],
+		consume_items: true
+	}]
+}

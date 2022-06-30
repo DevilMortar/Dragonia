@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 69.0d,
+	description: "{id:\"biomesoplenty:eucalyptus_door\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "368cbfed",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:eucalyptus_door"
+		}],
+		consume_items: true
+	}]
+}

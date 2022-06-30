@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 51.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:long_solid_core\"},Damage:0s}",
+	tasks: [{
+		uid: "58262fdd",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:long_solid_core"
+			}
+		}],
+		consume_items: true
+	}]
+}

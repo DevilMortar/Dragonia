@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 212.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"tconstruct:excavator_head\"},Damage:0s}",
+	tasks: [{
+		uid: "a38721f5",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:excavator_head"
+			}
+		}],
+		consume_items: true
+	}]
+}

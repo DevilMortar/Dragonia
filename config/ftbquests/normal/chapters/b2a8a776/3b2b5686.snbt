@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 352.0d,
+	description: "{id:\"harvestcraft:ironbrewitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "07dc4173",
+		type: "item",
+		items: [{
+			item: "harvestcraft:ironbrewitem"
+		}],
+		consume_items: true
+	}]
+}

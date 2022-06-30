@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 375.0d,
+	description: "{id:\"quark:soul_sandstone_bricks_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0e5692c7",
+		type: "item",
+		items: [{
+			item: "quark:soul_sandstone_bricks_stairs"
+		}],
+		consume_items: true
+	}]
+}

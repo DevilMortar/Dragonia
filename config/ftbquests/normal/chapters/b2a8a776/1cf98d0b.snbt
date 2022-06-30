@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 257.0d,
+	description: "{id:\"xreliquary:alkahestry_tome\",Count:1b,Damage:1001s}",
+	tasks: [{
+		uid: "8742f03f",
+		type: "item",
+		items: [{
+			item: "xreliquary:alkahestry_tome 1 1001"
+		}],
+		consume_items: true
+	}]
+}

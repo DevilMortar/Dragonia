@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 103.0d,
+	description: "{id:\"thaumcraft:pedestal_ancient\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "579de1f0",
+		type: "item",
+		items: [{
+			item: "thaumcraft:pedestal_ancient"
+		}],
+		consume_items: true
+	}]
+}

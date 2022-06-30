@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 68.0d,
+	description: "{id:\"biomesoplenty:pine_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8fc42bce",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:pine_stairs"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 68.0d,
+	description: "{id:\"biomesoplenty:pine_fence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "676185c4",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:pine_fence"
+		}],
+		consume_items: true
+	}]
+}

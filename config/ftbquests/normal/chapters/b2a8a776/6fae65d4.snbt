@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"flint\"},Damage:0s}",
+	tasks: [{
+		uid: "f125b5d0",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "flint"
+			}
+		}],
+		consume_items: true
+	}]
+}

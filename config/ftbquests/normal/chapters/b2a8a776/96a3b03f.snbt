@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 228.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"dragonbone\"},Damage:0s}",
+	tasks: [{
+		uid: "0993d276",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "dragonbone"
+			}
+		}],
+		consume_items: true
+	}]
+}

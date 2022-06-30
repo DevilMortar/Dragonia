@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 162.0d,
+	description: "{id:\"thaumcraft:label\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "98d371c3",
+		type: "item",
+		items: [{
+			item: "thaumcraft:label"
+		}],
+		consume_items: true
+	}]
+}

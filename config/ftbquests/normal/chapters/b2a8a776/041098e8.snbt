@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 373.0d,
+	description: "{id:\"quark:stone_jasper_bricks_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f8f06a61",
+		type: "item",
+		items: [{
+			item: "quark:stone_jasper_bricks_slab"
+		}],
+		consume_items: true
+	}]
+}

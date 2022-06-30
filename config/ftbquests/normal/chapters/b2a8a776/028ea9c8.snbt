@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:bag_book\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a4ac9a2a",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bag_book"
+		}],
+		consume_items: true
+	}]
+}

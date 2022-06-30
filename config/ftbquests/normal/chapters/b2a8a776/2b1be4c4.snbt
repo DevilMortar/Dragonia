@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 322.0d,
+	description: "{id:\"aether_legacy:zanite_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5b9dee3c",
+		type: "item",
+		items: [{
+			item: "aether_legacy:zanite_helmet"
+		}],
+		consume_items: true
+	}]
+}

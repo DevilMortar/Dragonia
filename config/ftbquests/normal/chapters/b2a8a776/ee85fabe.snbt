@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 427.0d,
+	description: "{id:\"chisel:bookshelf_spruce\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "7aebbe59",
+		type: "item",
+		items: [{
+			item: "chisel:bookshelf_spruce 1 8"
+		}],
+		consume_items: true
+	}]
+}

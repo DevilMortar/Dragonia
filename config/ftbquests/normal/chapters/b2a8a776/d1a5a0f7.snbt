@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:stabilizer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "646a1f37",
+		type: "item",
+		items: [{
+			item: "thaumcraft:stabilizer"
+		}],
+		consume_items: true
+	}]
+}

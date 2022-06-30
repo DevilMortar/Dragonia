@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 68.0d,
+	description: "{id:\"biomesoplenty:fir_fence_gate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "64ecaa6a",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:fir_fence_gate"
+		}],
+		consume_items: true
+	}]
+}

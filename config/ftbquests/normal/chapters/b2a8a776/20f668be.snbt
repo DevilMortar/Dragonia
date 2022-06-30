@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 46.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"quark:strong_resistance\"},Damage:0s}",
+	tasks: [{
+		uid: "812c43c7",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "quark:strong_resistance"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 362.0d,
+	description: "{id:\"vt:dynamite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "54d120df",
+		type: "item",
+		items: [{
+			item: "vt:dynamite"
+		}],
+		consume_items: true
+	}]
+}

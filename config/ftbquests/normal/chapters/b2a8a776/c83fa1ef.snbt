@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 256.0d,
+	description: "{id:\"primitivemobs:spider_egg\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9c24cfd5",
+		type: "item",
+		items: [{
+			item: "primitivemobs:spider_egg"
+		}],
+		consume_items: true
+	}]
+}

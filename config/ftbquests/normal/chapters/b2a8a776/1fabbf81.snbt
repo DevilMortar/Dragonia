@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:amuletghost\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3217e359",
+		type: "item",
+		items: [{
+			item: "mocreatures:amuletghost"
+		}],
+		consume_items: true
+	}]
+}

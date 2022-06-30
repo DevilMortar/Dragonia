@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 296.0d,
+	description: "{id:\"spartanweaponry:dagger_invar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c466c3c7",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:dagger_invar"
+		}],
+		consume_items: true
+	}]
+}

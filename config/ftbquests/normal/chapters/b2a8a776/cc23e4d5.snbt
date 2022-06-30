@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 186.0d,
+	description: "{id:\"iceandfire:frozen_splinters\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cf09fb41",
+		type: "item",
+		items: [{
+			item: "iceandfire:frozen_splinters"
+		}],
+		consume_items: true
+	}]
+}

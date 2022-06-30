@@ -1,0 +1,61 @@
+{
+	x: 11.0d,
+	y: 245.0d,
+	description: "{id:\"tconstruct:rapier\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:756,HarvestLevel:0,Attack:1.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:756,HarvestLevel:0,Attack:1.8f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"slimey_green\",color:-8206221,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"slimey_green\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "aee4afb9",
+		type: "item",
+		items: [{
+			id: "tconstruct:rapier",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.24f,
+					FreeModifiers: 3,
+					Durability: 756,
+					HarvestLevel: 0,
+					Attack: 1.8f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.24f,
+					FreeModifiers: 3,
+					Durability: 756,
+					HarvestLevel: 0,
+					Attack: 1.8f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"slime",
+						"slime",
+						"slime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "slimey_green",
+					color: -8206221,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"slimey_green",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

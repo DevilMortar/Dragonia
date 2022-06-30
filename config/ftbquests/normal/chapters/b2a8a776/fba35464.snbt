@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:zanite_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bb369bd2",
+		type: "item",
+		items: [{
+			item: "aether_legacy:zanite_sword"
+		}],
+		consume_items: true
+	}]
+}

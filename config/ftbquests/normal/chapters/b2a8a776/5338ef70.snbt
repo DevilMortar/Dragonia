@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 258.0d,
+	description: "{id:\"xreliquary:infernal_chalice\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b0895a61",
+		type: "item",
+		items: [{
+			item: "xreliquary:infernal_chalice"
+		}],
+		consume_items: true
+	}]
+}

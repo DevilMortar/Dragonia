@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 218.0d,
+	description: "{id:\"tconstruct:large_sword_blade\",Count:1b,tag:{Material:\"dragonbone\"},Damage:0s}",
+	tasks: [{
+		uid: "9b44dc19",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "dragonbone"
+			}
+		}],
+		consume_items: true
+	}]
+}

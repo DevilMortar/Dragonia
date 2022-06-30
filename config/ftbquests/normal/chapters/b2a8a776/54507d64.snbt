@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 10.0d,
+	description: "{id:\"minecraft:gunpowder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2a9fd1c1",
+		type: "item",
+		items: [{
+			item: "minecraft:gunpowder"
+		}],
+		consume_items: true
+	}]
+}

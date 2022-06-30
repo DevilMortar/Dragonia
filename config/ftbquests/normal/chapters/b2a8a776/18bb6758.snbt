@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 282.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:nausea\"},Damage:0s}",
+	tasks: [{
+		uid: "918774aa",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:nausea"
+			}
+		}],
+		consume_items: true
+	}]
+}

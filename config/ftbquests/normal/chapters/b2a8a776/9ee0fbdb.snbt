@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 203.0d,
+	description: "{id:\"megaloot:armor_chestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ef47748c",
+		type: "item",
+		items: [{
+			item: "megaloot:armor_chestplate"
+		}],
+		consume_items: true
+	}]
+}

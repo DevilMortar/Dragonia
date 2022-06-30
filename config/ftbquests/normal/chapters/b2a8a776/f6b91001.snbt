@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 114.0d,
+	description: "{id:\"ebwizardry:charm_growth\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3ddbaafc",
+		type: "item",
+		items: [{
+			item: "ebwizardry:charm_growth"
+		}],
+		consume_items: true
+	}]
+}

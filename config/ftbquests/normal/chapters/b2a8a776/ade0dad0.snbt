@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 363.0d,
+	description: "{id:\"quark:stone_andesite_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dd91b5e4",
+		type: "item",
+		items: [{
+			item: "quark:stone_andesite_wall"
+		}],
+		consume_items: true
+	}]
+}

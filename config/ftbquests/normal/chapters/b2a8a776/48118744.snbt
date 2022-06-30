@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 224.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"endstone\"},Damage:0s}",
+	tasks: [{
+		uid: "609c1430",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "endstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 88.0d,
+	description: "{id:\"reccomplex:artifact_generation_tag\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "70445021",
+		type: "item",
+		items: [{
+			item: "reccomplex:artifact_generation_tag"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 145.0d,
+	description: "{id:\"ancientwarfarevehicle:clay_casing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "86f63ebb",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:clay_casing"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 373.0d,
+	description: "{id:\"quark:stained_planks\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "02df5408",
+		type: "item",
+		items: [{
+			item: "quark:stained_planks 1 2"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 118.0d,
+	description: "{id:\"ancientwarfare:component\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "e645625d",
+		type: "item",
+		items: [{
+			item: "ancientwarfare:component 1 1"
+		}],
+		consume_items: true
+	}]
+}

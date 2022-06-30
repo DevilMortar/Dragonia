@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 257.0d,
+	description: "{id:\"randomloot:repair_station\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "92577729",
+		type: "item",
+		items: [{
+			item: "randomloot:repair_station"
+		}],
+		consume_items: true
+	}]
+}

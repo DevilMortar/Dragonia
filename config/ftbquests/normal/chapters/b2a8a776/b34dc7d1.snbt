@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 159.0d,
+	description: "{id:\"bibliocraft:bigbook\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c06c13d6",
+		type: "item",
+		items: [{
+			item: "bibliocraft:bigbook"
+		}],
+		consume_items: true
+	}]
+}

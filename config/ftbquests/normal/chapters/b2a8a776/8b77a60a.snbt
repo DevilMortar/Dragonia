@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 374.0d,
+	description: "{id:\"quark:world_stone_pavement\",Count:1b,Damage:7s}",
+	tasks: [{
+		uid: "4b051edf",
+		type: "item",
+		items: [{
+			item: "quark:world_stone_pavement 1 7"
+		}],
+		consume_items: true
+	}]
+}

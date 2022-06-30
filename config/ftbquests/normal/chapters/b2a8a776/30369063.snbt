@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 87.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"primitivemobs:entities/lily_lurker\"},Damage:0s}",
+	tasks: [{
+		uid: "1f545a90",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "primitivemobs:entities/lily_lurker"
+			}
+		}],
+		consume_items: true
+	}]
+}

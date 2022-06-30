@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 313.0d,
+	description: "{id:\"tcomplement:edibles\",Count:1b,Damage:11s}",
+	tasks: [{
+		uid: "457fa69d",
+		type: "item",
+		items: [{
+			item: "tcomplement:edibles 1 11"
+		}],
+		consume_items: true
+	}]
+}

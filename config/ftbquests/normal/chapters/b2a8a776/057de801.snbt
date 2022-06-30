@@ -1,0 +1,20 @@
+{
+	x: 28.0d,
+	y: 162.0d,
+	description: "{id:\"thaumcraft:phial\",Count:1b,tag:{Aspects:[{amount:10,key:\"lux\"}]},Damage:1s}",
+	tasks: [{
+		uid: "8020ae35",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "lux"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

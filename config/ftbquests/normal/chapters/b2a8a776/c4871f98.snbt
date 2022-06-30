@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 200.0d,
+	description: "{id:\"heroicarmory:skyrimironwarhammer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b95efb10",
+		type: "item",
+		items: [{
+			item: "heroicarmory:skyrimironwarhammer"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 109.0d,
+	description: "{id:\"ebwizardry:blast_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "30b9a35b",
+		type: "item",
+		items: [{
+			item: "ebwizardry:blast_upgrade"
+		}],
+		consume_items: true
+	}]
+}

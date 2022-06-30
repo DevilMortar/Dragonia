@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 53.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"minecraft:thick\"},Damage:0s}",
+	tasks: [{
+		uid: "6de492fb",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "minecraft:thick"
+			}
+		}],
+		consume_items: true
+	}]
+}

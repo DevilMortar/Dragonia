@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 169.0d,
+	description: "{id:\"mocreatures:elephantharness\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c25c6ef4",
+		type: "item",
+		items: [{
+			item: "mocreatures:elephantharness"
+		}],
+		consume_items: true
+	}]
+}

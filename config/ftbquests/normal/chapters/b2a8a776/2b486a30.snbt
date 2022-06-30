@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 329.0d,
+	description: "{id:\"harvestcraft:blackberryseeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2c11f32b",
+		type: "item",
+		items: [{
+			item: "harvestcraft:blackberryseeditem"
+		}],
+		consume_items: true
+	}]
+}

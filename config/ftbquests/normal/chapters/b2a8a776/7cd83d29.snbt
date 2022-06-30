@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 270.0d,
+	description: "{id:\"scalinghealth:difficultychanger\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "32c2990f",
+		type: "item",
+		items: [{
+			item: "scalinghealth:difficultychanger 1 1"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 212.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"tconstruct:tough_binding\"},Damage:0s}",
+	tasks: [{
+		uid: "ab06f8a7",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:tough_binding"
+			}
+		}],
+		consume_items: true
+	}]
+}

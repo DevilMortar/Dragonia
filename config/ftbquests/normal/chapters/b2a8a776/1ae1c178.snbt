@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 309.0d,
+	description: "{id:\"thaumicaugmentation:rift_jar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02eac573",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:rift_jar"
+		}],
+		consume_items: true
+	}]
+}

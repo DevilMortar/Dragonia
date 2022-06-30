@@ -1,0 +1,66 @@
+{
+	x: 17.0d,
+	y: 239.0d,
+	description: "{id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:4.03f,FreeModifiers:3,HarvestLevelShovel:0,Durability:964,HarvestLevel:0,Attack:4.8f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:4.03f,FreeModifiers:3,HarvestLevelShovel:0,Durability:964,HarvestLevel:0,Attack:4.8f},Special:{Categories:[\"harvest\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"slimey_blue\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d73b7ea7",
+		type: "item",
+		items: [{
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 0,
+					MiningSpeed: 4.03f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 0,
+					Durability: 964,
+					HarvestLevel: 0,
+					Attack: 4.8f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 0,
+					MiningSpeed: 4.03f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 0,
+					Durability: 964,
+					HarvestLevel: 0,
+					Attack: 4.8f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"blueslime",
+						"blueslime",
+						"blueslime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "slimey_blue",
+					color: -9123641,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"slimey_blue",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

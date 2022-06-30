@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 164.0d,
+	description: "{id:\"thaumcraft:elemental_sword\",Count:1b,tag:{infench:[{lvl:2s,id:5s}]},Damage:0s}",
+	tasks: [{
+		uid: "6ebe2807",
+		type: "item",
+		items: [{
+			id: "thaumcraft:elemental_sword",
+			tag: {
+				infench: [{
+					lvl: 2s,
+					id: 5s
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

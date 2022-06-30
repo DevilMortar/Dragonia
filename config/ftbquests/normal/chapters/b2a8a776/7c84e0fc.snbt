@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 334.0d,
+	description: "{id:\"harvestcraft:pamspiderweb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e53a93ed",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pamspiderweb"
+		}],
+		consume_items: true
+	}]
+}

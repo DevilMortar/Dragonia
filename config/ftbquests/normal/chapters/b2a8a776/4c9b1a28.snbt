@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 305.0d,
+	description: "{id:\"storagedrawers:keybutton\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "2db275c8",
+		type: "item",
+		items: [{
+			item: "storagedrawers:keybutton 1 1"
+		}],
+		consume_items: true
+	}]
+}

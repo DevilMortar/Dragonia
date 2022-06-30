@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 88.0d,
+	description: "{id:\"rustic:stone_pillar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c7d1f7b2",
+		type: "item",
+		items: [{
+			item: "rustic:stone_pillar"
+		}],
+		consume_items: true
+	}]
+}

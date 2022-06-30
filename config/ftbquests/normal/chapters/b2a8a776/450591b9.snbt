@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 200.0d,
+	description: "{id:\"heroicarmory:dszweilhander\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f5e6cd50",
+		type: "item",
+		items: [{
+			item: "heroicarmory:dszweilhander"
+		}],
+		consume_items: true
+	}]
+}

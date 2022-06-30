@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 283.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:reach\"},Damage:0s}",
+	tasks: [{
+		uid: "d261746f",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:reach"
+			}
+		}],
+		consume_items: true
+	}]
+}

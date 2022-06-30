@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 163.0d,
+	description: "{id:\"thaumcraft:thaumium_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "68b551d4",
+		type: "item",
+		items: [{
+			item: "thaumcraft:thaumium_sword"
+		}],
+		consume_items: true
+	}]
+}

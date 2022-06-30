@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 352.0d,
+	description: "{id:\"harvestcraft:chocovoxelsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d99a292e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:chocovoxelsitem"
+		}],
+		consume_items: true
+	}]
+}

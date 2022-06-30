@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 58.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:curse\"},Damage:0s}",
+	tasks: [{
+		uid: "94b41baa",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:curse"
+			}
+		}],
+		consume_items: true
+	}]
+}

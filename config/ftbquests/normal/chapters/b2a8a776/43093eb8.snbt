@@ -1,0 +1,76 @@
+{
+	x: 24.0d,
+	y: 250.0d,
+	description: "{id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.0f,FreeModifiers:3,Durability:300,HarvestLevel:3,Attack:8.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.0f,FreeModifiers:3,Durability:300,HarvestLevel:3,Attack:11.0f},Special:{Categories:[\"tool\",\"projectile\",\"no_melee\"]},TinkerData:{Materials:[\"wood\",\"dragonbone\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"splintering2\",color:-4738403,level:1},{identifier:\"fractured2\",color:-4738403,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"splintering2\",\"fractured2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "8cde1864",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.0f,
+					FreeModifiers: 3,
+					Durability: 300,
+					HarvestLevel: 3,
+					Attack: 8.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.0f,
+					FreeModifiers: 3,
+					Durability: 300,
+					HarvestLevel: 3,
+					Attack: 11.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"projectile",
+						"no_melee"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"dragonbone",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "splintering2",
+					color: -4738403,
+					level: 1
+				},
+				{
+					identifier: "fractured2",
+					color: -4738403,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"splintering2",
+					"fractured2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

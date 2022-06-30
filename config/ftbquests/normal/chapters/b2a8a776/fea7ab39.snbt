@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 231.0d,
+	description: "{id:\"tconstruct:arrow_shaft\",Count:1b,tag:{Material:\"dragonbone\"},Damage:0s}",
+	tasks: [{
+		uid: "9c5c3764",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_shaft",
+			tag: {
+				Material: "dragonbone"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 54.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"extraalchemy:cheat_death_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "bd1b93c0",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "extraalchemy:cheat_death_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

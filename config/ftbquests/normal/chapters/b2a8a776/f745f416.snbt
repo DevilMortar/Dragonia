@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 59.0d,
+	description: "{id:\"minecraft:elytra\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "85c94b42",
+		type: "item",
+		items: [{
+			item: "minecraft:elytra"
+		}],
+		consume_items: true
+	}]
+}

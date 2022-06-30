@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:potion_ring\",Count:1b,tag:{Potion:\"minecraft:weakness\"},Damage:0s}",
+	tasks: [{
+		uid: "14bbef84",
+		type: "item",
+		items: [{
+			id: "extraalchemy:potion_ring",
+			tag: {
+				Potion: "minecraft:weakness"
+			}
+		}],
+		consume_items: true
+	}]
+}

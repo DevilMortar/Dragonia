@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 77.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/husk\"},Damage:0s}",
+	tasks: [{
+		uid: "42557f71",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/husk"
+			}
+		}],
+		consume_items: true
+	}]
+}

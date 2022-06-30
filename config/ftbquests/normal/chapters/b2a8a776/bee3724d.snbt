@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 254.0d,
+	description: "{id:\"tconstruct:clay_cast\",Count:1b,tag:{PartType:\"conarm:armor_plate\"},Damage:0s}",
+	tasks: [{
+		uid: "5c1a9dc2",
+		type: "item",
+		items: [{
+			id: "tconstruct:clay_cast",
+			tag: {
+				PartType: "conarm:armor_plate"
+			}
+		}],
+		consume_items: true
+	}]
+}

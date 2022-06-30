@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:spumoniicecreamitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "782b4ed0",
+		type: "item",
+		items: [{
+			item: "harvestcraft:spumoniicecreamitem"
+		}],
+		consume_items: true
+	}]
+}

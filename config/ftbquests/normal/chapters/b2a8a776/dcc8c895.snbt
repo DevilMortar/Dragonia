@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 77.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/giant\"},Damage:0s}",
+	tasks: [{
+		uid: "29c2344c",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/giant"
+			}
+		}],
+		consume_items: true
+	}]
+}

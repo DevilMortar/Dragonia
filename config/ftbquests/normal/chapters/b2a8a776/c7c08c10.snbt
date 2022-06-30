@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 11.0d,
+	description: "{id:\"minecraft:lava_bucket\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "690396b5",
+		type: "item",
+		items: [{
+			item: "minecraft:lava_bucket"
+		}],
+		consume_items: true
+	}]
+}

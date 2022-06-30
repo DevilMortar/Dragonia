@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 212.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"tconstruct:shovel_head\"},Damage:0s}",
+	tasks: [{
+		uid: "86469a48",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:shovel_head"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 202.0d,
+	description: "{id:\"heroicarmory:terrariapurpleclubberfish\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "63c92f5d",
+		type: "item",
+		items: [{
+			item: "heroicarmory:terrariapurpleclubberfish"
+		}],
+		consume_items: true
+	}]
+}

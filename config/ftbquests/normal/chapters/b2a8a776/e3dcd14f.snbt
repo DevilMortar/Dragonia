@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 170.0d,
+	description: "{id:\"dungeontactics:master_knife_multistrike\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "23eaa97c",
+		type: "item",
+		items: [{
+			item: "dungeontactics:master_knife_multistrike"
+		}],
+		consume_items: true
+	}]
+}

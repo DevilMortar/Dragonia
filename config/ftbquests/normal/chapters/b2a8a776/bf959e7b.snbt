@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 300.0d,
+	description: "{id:\"spartanfire:rapier_jungle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "55c01bee",
+		type: "item",
+		items: [{
+			item: "spartanfire:rapier_jungle"
+		}],
+		consume_items: true
+	}]
+}

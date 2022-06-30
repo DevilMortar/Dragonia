@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:essentia_input\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bba52172",
+		type: "item",
+		items: [{
+			item: "thaumcraft:essentia_input"
+		}],
+		consume_items: true
+	}]
+}

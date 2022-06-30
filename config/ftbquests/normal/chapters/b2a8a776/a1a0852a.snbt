@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 336.0d,
+	description: "{id:\"harvestcraft:cinnamon_sapling\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "db30728e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cinnamon_sapling"
+		}],
+		consume_items: true
+	}]
+}

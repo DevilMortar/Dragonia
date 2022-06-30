@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 151.0d,
+	description: "{id:\"atum:anputs_hunger\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "68f475d9",
+		type: "item",
+		items: [{
+			item: "atum:anputs_hunger"
+		}],
+		consume_items: true
+	}]
+}

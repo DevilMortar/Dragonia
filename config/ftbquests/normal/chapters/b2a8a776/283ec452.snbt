@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 355.0d,
+	description: "{id:\"harvestcraft:pitepaltitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "da295103",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pitepaltitem"
+		}],
+		consume_items: true
+	}]
+}

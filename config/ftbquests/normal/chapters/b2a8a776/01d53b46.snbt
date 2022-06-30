@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 172.0d,
+	description: "{id:\"dungeontactics:stone_plate_chestpiece\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f5576b86",
+		type: "item",
+		items: [{
+			item: "dungeontactics:stone_plate_chestpiece"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 344.0d,
+	description: "{id:\"harvestcraft:peachcobbleritem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ee79f894",
+		type: "item",
+		items: [{
+			item: "harvestcraft:peachcobbleritem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 254.0d,
+	description: "{id:\"tconstruct:clay_cast\",Count:1b,tag:{PartType:\"tconstruct:sword_blade\"},Damage:0s}",
+	tasks: [{
+		uid: "24f97d59",
+		type: "item",
+		items: [{
+			id: "tconstruct:clay_cast",
+			tag: {
+				PartType: "tconstruct:sword_blade"
+			}
+		}],
+		consume_items: true
+	}]
+}

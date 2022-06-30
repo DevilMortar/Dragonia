@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 260.0d,
+	description: "{id:\"xreliquary:bullet\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "42f64a9d",
+		type: "item",
+		items: [{
+			item: "xreliquary:bullet 1 8"
+		}],
+		consume_items: true
+	}]
+}

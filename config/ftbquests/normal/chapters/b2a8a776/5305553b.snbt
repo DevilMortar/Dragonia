@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 259.0d,
+	description: "{id:\"xreliquary:shears_of_winter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b4919698",
+		type: "item",
+		items: [{
+			item: "xreliquary:shears_of_winter"
+		}],
+		consume_items: true
+	}]
+}

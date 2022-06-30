@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 52.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"charm:ender_sight\"},Damage:0s}",
+	tasks: [{
+		uid: "6e419451",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "charm:ender_sight"
+			}
+		}],
+		consume_items: true
+	}]
+}

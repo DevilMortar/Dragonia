@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 372.0d,
+	description: "{id:\"quark:polished_netherrack_bricks_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "981f10f3",
+		type: "item",
+		items: [{
+			item: "quark:polished_netherrack_bricks_wall"
+		}],
+		consume_items: true
+	}]
+}

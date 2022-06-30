@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 54.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"extraalchemy:dislocation_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "b7fec2c1",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "extraalchemy:dislocation_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

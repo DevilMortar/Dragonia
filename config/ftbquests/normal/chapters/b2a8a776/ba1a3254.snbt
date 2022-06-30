@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 186.0d,
+	description: "{id:\"iceandfire:nest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5747ea9b",
+		type: "item",
+		items: [{
+			item: "iceandfire:nest"
+		}],
+		consume_items: true
+	}]
+}

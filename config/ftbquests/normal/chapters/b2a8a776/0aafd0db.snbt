@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 340.0d,
+	description: "{id:\"harvestcraft:eggsaladitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "53aedfe0",
+		type: "item",
+		items: [{
+			item: "harvestcraft:eggsaladitem"
+		}],
+		consume_items: true
+	}]
+}

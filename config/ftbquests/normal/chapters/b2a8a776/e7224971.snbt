@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 187.0d,
+	description: "{id:\"iceandfire:dragonforge_fire_input\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4779d3bf",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonforge_fire_input"
+		}],
+		consume_items: true
+	}]
+}

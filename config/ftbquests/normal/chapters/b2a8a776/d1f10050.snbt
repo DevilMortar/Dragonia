@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 253.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"tconstruct:sign_head\"},Damage:0s}",
+	tasks: [{
+		uid: "9bfdbf0b",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:sign_head"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:potion_ring\",Count:1b,tag:{Potion:\"minecraft:strong_strength\"},Damage:0s}",
+	tasks: [{
+		uid: "e6717e78",
+		type: "item",
+		items: [{
+			id: "extraalchemy:potion_ring",
+			tag: {
+				Potion: "minecraft:strong_strength"
+			}
+		}],
+		consume_items: true
+	}]
+}

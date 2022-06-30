@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 179.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"minecraft:poison\"},Damage:0s}",
+	tasks: [{
+		uid: "c717d500",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "minecraft:poison"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 108.0d,
+	description: "{id:\"ebwizardry:novice_lightning_wand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c988e08b",
+		type: "item",
+		items: [{
+			item: "ebwizardry:novice_lightning_wand"
+		}],
+		consume_items: true
+	}]
+}

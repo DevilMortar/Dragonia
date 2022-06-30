@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 334.0d,
+	description: "{id:\"harvestcraft:vanillabeanitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e221b1f4",
+		type: "item",
+		items: [{
+			item: "harvestcraft:vanillabeanitem"
+		}],
+		consume_items: true
+	}]
+}

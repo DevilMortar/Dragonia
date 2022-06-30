@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 112.0d,
+	description: "{id:\"ebwizardry:ring_shattering\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8d7c674e",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_shattering"
+		}],
+		consume_items: true
+	}]
+}

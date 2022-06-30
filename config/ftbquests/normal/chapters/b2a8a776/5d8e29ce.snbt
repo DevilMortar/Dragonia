@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 76.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ebwizardry:chests/wizard_tower\"},Damage:0s}",
+	tasks: [{
+		uid: "73ad7484",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ebwizardry:chests/wizard_tower"
+			}
+		}],
+		consume_items: true
+	}]
+}

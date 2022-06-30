@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 338.0d,
+	description: "{id:\"harvestcraft:popcornitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f0102307",
+		type: "item",
+		items: [{
+			item: "harvestcraft:popcornitem"
+		}],
+		consume_items: true
+	}]
+}

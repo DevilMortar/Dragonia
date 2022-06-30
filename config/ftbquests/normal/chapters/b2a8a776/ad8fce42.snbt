@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 368.0d,
+	description: "{id:\"quark:paper_lantern\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5f16b196",
+		type: "item",
+		items: [{
+			item: "quark:paper_lantern"
+		}],
+		consume_items: true
+	}]
+}

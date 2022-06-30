@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 38.0d,
+	description: "{id:\"minecraft:netherbrick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7f038371",
+		type: "item",
+		items: [{
+			item: "minecraft:netherbrick"
+		}],
+		consume_items: true
+	}]
+}

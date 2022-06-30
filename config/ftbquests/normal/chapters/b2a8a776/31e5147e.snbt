@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 68.0d,
+	description: "{id:\"biomesoplenty:ethereal_fence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4409d3b5",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:ethereal_fence"
+		}],
+		consume_items: true
+	}]
+}

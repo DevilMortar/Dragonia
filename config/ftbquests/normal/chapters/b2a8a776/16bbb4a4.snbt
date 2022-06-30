@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 47.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"extraalchemy:pyper_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "f3390c27",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "extraalchemy:pyper_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

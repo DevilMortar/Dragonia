@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 321.0d,
+	description: "{id:\"aether_legacy:purple_flower\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "28fe8f8c",
+		type: "item",
+		items: [{
+			item: "aether_legacy:purple_flower"
+		}],
+		consume_items: true
+	}]
+}

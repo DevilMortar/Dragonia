@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 158.0d,
+	description: "{id:\"bibliocraft:maptool\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "45883b4f",
+		type: "item",
+		items: [{
+			item: "bibliocraft:maptool"
+		}],
+		consume_items: true
+	}]
+}

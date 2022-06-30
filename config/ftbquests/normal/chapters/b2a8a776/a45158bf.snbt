@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 223.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"weezer\"},Damage:0s}",
+	tasks: [{
+		uid: "b6f3cfa0",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "weezer"
+			}
+		}],
+		consume_items: true
+	}]
+}

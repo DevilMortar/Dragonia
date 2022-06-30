@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 349.0d,
+	description: "{id:\"harvestcraft:turkeyrawitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4fc5c7c5",
+		type: "item",
+		items: [{
+			item: "harvestcraft:turkeyrawitem"
+		}],
+		consume_items: true
+	}]
+}

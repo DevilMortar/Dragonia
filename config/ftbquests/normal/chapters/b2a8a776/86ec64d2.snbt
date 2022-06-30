@@ -1,0 +1,18 @@
+{
+	x: 28.0d,
+	y: 124.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"sarkonid\",npcType:\"faction.trader\"},Damage:0s}",
+	tasks: [{
+		uid: "d5f59c8c",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "sarkonid",
+				npcType: "faction.trader"
+			}
+		}],
+		consume_items: true
+	}]
+}

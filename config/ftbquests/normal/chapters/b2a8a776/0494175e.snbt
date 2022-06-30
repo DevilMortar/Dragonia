@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 41.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"extraalchemy:reincarnation_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "0a7bf0e4",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "extraalchemy:reincarnation_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

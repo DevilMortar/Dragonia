@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 104.0d,
+	description: "{id:\"thaumcraft:nitor_purple\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d2cf1b93",
+		type: "item",
+		items: [{
+			item: "thaumcraft:nitor_purple"
+		}],
+		consume_items: true
+	}]
+}

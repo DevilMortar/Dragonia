@@ -1,0 +1,21 @@
+{
+	x: 4.0d,
+	y: 232.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,tag:{textureBlock:{id:\"biomesoplenty:planks_0\",Count:1b,Damage:0s}},Damage:1s}",
+	tasks: [{
+		uid: "ad1d9057",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "biomesoplenty:planks_0",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

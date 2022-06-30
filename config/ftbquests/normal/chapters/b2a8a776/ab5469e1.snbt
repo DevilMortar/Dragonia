@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 94.0d,
+	description: "{id:\"atum:deadwood_torch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bb605ffa",
+		type: "item",
+		items: [{
+			item: "atum:deadwood_torch"
+		}],
+		consume_items: true
+	}]
+}

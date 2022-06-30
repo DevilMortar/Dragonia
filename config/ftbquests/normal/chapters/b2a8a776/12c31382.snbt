@@ -1,0 +1,51 @@
+{
+	x: 32.0d,
+	y: 132.0d,
+	description: "{id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:53,Defense:3.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:53,Defense:3.0f},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"ecological_armor\",color:-7444965,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"ecological_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "f9b08787",
+		type: "item",
+		items: [{
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 53,
+					Defense: 3.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 53,
+					Defense: 3.0f
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"wood",
+						"wood"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological_armor",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

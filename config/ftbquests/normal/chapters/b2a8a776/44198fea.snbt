@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 94.0d,
+	description: "{id:\"atum:large_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "51f92b25",
+		type: "item",
+		items: [{
+			item: "atum:large_stairs"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 207.0d,
+	description: "{id:\"netherex:wither_dust\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a4845474",
+		type: "item",
+		items: [{
+			item: "netherex:wither_dust"
+		}],
+		consume_items: true
+	}]
+}

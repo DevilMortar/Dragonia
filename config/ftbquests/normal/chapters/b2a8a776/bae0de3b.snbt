@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 316.0d,
+	description: "{id:\"tombstone:book_of_disenchantment\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ff33683d",
+		type: "item",
+		items: [{
+			item: "tombstone:book_of_disenchantment"
+		}],
+		consume_items: true
+	}]
+}

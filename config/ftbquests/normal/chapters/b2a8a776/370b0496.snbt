@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 354.0d,
+	description: "{id:\"harvestcraft:candiedpecansitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9e15558d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:candiedpecansitem"
+		}],
+		consume_items: true
+	}]
+}

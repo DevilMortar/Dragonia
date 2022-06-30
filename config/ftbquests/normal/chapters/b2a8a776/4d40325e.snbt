@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 104.0d,
+	description: "{ForgeCaps:{\"thaumicaugmentation:elytra_harness_augment\":{}},id:\"thaumcraft:banner_crimson_cult\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ca46a096",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"thaumicaugmentation:elytra_harness_augment": {}
+			},
+			id: "thaumcraft:banner_crimson_cult"
+		}],
+		consume_items: true
+	}]
+}

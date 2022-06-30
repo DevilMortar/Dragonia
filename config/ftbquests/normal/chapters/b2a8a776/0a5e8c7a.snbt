@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 119.0d,
+	description: "{id:\"ancientwarfareautomation:flywheel_storage\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dda15b31",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:flywheel_storage"
+		}],
+		consume_items: true
+	}]
+}

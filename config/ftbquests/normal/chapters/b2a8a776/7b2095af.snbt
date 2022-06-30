@@ -1,0 +1,22 @@
+{
+	x: 11.0d,
+	y: 92.0d,
+	description: "{id:\"rustic:fluid_bottle\",Count:1b,tag:{Fluid:{FluidName:\"ale\",Amount:1000,Tag:{Quality:0.75f}}},Damage:0s}",
+	tasks: [{
+		uid: "3c4ed1b0",
+		type: "item",
+		items: [{
+			id: "rustic:fluid_bottle",
+			tag: {
+				Fluid: {
+					FluidName: "ale",
+					Amount: 1000,
+					Tag: {
+						Quality: 0.75f
+					}
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,57 @@
+{
+	x: 31.0d,
+	y: 135.0d,
+	description: "{id:\"conarm:chestplate\",Count:1b,tag:{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:490,Defense:16.7f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:490,Defense:16.7f},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"pigiron\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"baconlicious_armor\",color:-1073509,level:1},{identifier:\"tasty_armor\",color:-1073509,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"baconlicious_armor\",\"tasty_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "d79d8fe7",
+		type: "item",
+		items: [{
+			id: "conarm:chestplate",
+			tag: {
+				StatsOriginal: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 490,
+					Defense: 16.7f
+				},
+				Stats: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 490,
+					Defense: 16.7f
+				},
+				TinkerData: {
+					Materials: [
+						"pigiron",
+						"pigiron",
+						"pigiron"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "baconlicious_armor",
+					color: -1073509,
+					level: 1
+				},
+				{
+					identifier: "tasty_armor",
+					color: -1073509,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"baconlicious_armor",
+					"tasty_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

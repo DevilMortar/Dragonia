@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 121.0d,
+	description: "{id:\"conarm:travel_cloak\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "14b049f4",
+		type: "item",
+		items: [{
+			item: "conarm:travel_cloak"
+		}],
+		consume_items: true
+	}]
+}

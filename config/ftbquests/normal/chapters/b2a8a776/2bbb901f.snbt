@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 84.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:chests/stronghold_library\"},Damage:0s}",
+	tasks: [{
+		uid: "cb8c64df",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:chests/stronghold_library"
+			}
+		}],
+		consume_items: true
+	}]
+}

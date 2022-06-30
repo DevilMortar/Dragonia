@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 321.0d,
+	description: "{id:\"aether_legacy:pillar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9bb48858",
+		type: "item",
+		items: [{
+			item: "aether_legacy:pillar"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 252.0d,
+	description: "{id:\"tconstruct:seared_stairs_brick_square\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "76ae188d",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_stairs_brick_square"
+		}],
+		consume_items: true
+	}]
+}

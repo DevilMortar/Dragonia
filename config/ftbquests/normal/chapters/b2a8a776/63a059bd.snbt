@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 201.0d,
+	description: "{id:\"heroicarmory:skyrimdawnbreaker\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6ed987a3",
+		type: "item",
+		items: [{
+			item: "heroicarmory:skyrimdawnbreaker"
+		}],
+		consume_items: true
+	}]
+}

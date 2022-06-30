@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 165.0d,
+	description: "{id:\"thaumcraft:golem\",Count:1b,tag:{props:72341268037894144L},Damage:0s}",
+	tasks: [{
+		uid: "9603cbca",
+		type: "item",
+		items: [{
+			id: "thaumcraft:golem",
+			tag: {
+				props: 72341268037894144L
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 319.0d,
+	description: "{id:\"zettaimagic:m_wand_apprentice_darkness\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4001e75b",
+		type: "item",
+		items: [{
+			item: "zettaimagic:m_wand_apprentice_darkness"
+		}],
+		consume_items: true
+	}]
+}

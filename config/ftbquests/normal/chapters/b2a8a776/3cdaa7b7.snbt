@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 218.0d,
+	description: "{id:\"tconstruct:large_sword_blade\",Count:1b,tag:{Material:\"flint\"},Damage:0s}",
+	tasks: [{
+		uid: "096008e2",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "flint"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 58.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:long_archery\"},Damage:0s}",
+	tasks: [{
+		uid: "1bb16e10",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:long_archery"
+			}
+		}],
+		consume_items: true
+	}]
+}

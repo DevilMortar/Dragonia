@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 283.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:strong_absorption\"},Damage:0s}",
+	tasks: [{
+		uid: "c3c83d4d",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:strong_absorption"
+			}
+		}],
+		consume_items: true
+	}]
+}

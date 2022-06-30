@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 109.0d,
+	description: "{id:\"ebwizardry:spark_bomb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7ac03568",
+		type: "item",
+		items: [{
+			item: "ebwizardry:spark_bomb"
+		}],
+		consume_items: true
+	}]
+}

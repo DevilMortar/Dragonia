@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 323.0d,
+	description: "{id:\"aether_legacy:valkyrie_leggings\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3cf8680d",
+		type: "item",
+		items: [{
+			item: "aether_legacy:valkyrie_leggings"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 146.0d,
+	description: "{id:\"ancientwarfarevehicle:minor_alloy\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0927fd31",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:minor_alloy"
+		}],
+		consume_items: true
+	}]
+}

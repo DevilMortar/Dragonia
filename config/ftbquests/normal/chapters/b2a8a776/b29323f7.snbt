@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 59.0d,
+	description: "{id:\"minecraft:birch_boat\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a6589da4",
+		type: "item",
+		items: [{
+			item: "minecraft:birch_boat"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 294.0d,
+	description: "{id:\"spartanweaponry:longbow_bronze\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dc19ed89",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:longbow_bronze"
+		}],
+		consume_items: true
+	}]
+}

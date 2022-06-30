@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:bag_mystery\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1da5789f",
+		type: "item",
+		items: [{
+			item: "dungeontactics:bag_mystery"
+		}],
+		consume_items: true
+	}]
+}

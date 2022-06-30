@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 19.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"quark:mining_fatigue\"},Damage:0s}",
+	tasks: [{
+		uid: "d67946f3",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "quark:mining_fatigue"
+			}
+		}],
+		consume_items: true
+	}]
+}

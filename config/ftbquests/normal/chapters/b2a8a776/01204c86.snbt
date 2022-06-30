@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 371.0d,
+	description: "{id:\"quark:hardened_clay_tiles_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "56432909",
+		type: "item",
+		items: [{
+			item: "quark:hardened_clay_tiles_stairs"
+		}],
+		consume_items: true
+	}]
+}

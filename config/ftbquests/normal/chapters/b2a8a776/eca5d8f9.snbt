@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 79.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"netherex:entity/pigtificate/pigtificate_armorsmith\"},Damage:0s}",
+	tasks: [{
+		uid: "2bd24ef5",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "netherex:entity/pigtificate/pigtificate_armorsmith"
+			}
+		}],
+		consume_items: true
+	}]
+}

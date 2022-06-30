@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 95.0d,
+	description: "{id:\"atum:alabaster_brick_carved\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9d792d9b",
+		type: "item",
+		items: [{
+			item: "atum:alabaster_brick_carved"
+		}],
+		consume_items: true
+	}]
+}

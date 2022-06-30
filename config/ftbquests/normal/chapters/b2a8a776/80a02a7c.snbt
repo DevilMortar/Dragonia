@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 70.0d,
+	description: "{id:\"biomesoplenty:sapling_1\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "341b940f",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:sapling_1"
+		}],
+		consume_items: true
+	}]
+}

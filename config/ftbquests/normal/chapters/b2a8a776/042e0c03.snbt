@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:sai\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "904f7c52",
+		type: "item",
+		items: [{
+			item: "mocreatures:sai"
+		}],
+		consume_items: true
+	}]
+}

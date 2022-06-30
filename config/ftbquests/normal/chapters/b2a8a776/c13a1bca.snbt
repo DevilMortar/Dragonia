@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 109.0d,
+	description: "{id:\"ebwizardry:attunement_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "356650cc",
+		type: "item",
+		items: [{
+			item: "ebwizardry:attunement_upgrade"
+		}],
+		consume_items: true
+	}]
+}

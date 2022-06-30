@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 44.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"potioncore:step_up\"},Damage:0s}",
+	tasks: [{
+		uid: "77c62e7f",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "potioncore:step_up"
+			}
+		}],
+		consume_items: true
+	}]
+}

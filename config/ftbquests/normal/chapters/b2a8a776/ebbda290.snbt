@@ -1,0 +1,69 @@
+{
+	x: 11.0d,
+	y: 241.0d,
+	description: "{id:\"tconstruct:excavator\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:35,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:28,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"harvest\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\",\"stone\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"cheap\",color:-6710887,level:1},{identifier:\"cheapskate\",color:-6710887,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"cheap\",\"cheapskate\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "35c597f9",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 35,
+					HarvestLevel: 1,
+					Attack: 3.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 28,
+					HarvestLevel: 1,
+					Attack: 3.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"stone",
+						"stone",
+						"stone",
+						"stone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "cheap",
+					color: -6710887,
+					level: 1
+				},
+				{
+					identifier: "cheapskate",
+					color: -6710887,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"cheap",
+					"cheapskate",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

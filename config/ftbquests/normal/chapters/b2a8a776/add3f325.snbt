@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 362.0d,
+	description: "{id:\"patchouli:guide_book\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bf6243bc",
+		type: "item",
+		items: [{
+			item: "patchouli:guide_book"
+		}],
+		consume_items: true
+	}]
+}

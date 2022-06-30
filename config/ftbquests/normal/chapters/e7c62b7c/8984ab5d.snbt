@@ -16,7 +16,7 @@
 			}
 		},
 		stat: "stat.jump",
-		value: 1000000
+		value: 100000
 	}],
 	rewards: [{
 		uid: "33fde242",

@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 86.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/zombie_pigman\"},Damage:0s}",
+	tasks: [{
+		uid: "f8401a91",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/zombie_pigman"
+			}
+		}],
+		consume_items: true
+	}]
+}

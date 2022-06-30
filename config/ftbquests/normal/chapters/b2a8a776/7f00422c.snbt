@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 181.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"potioncore:long_glowing\"},Damage:0s}",
+	tasks: [{
+		uid: "83406cd3",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "potioncore:long_glowing"
+			}
+		}],
+		consume_items: true
+	}]
+}

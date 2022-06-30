@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 357.0d,
+	description: "{id:\"harvestcraft:imagawayakiitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e53d50d0",
+		type: "item",
+		items: [{
+			item: "harvestcraft:imagawayakiitem"
+		}],
+		consume_items: true
+	}]
+}

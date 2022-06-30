@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 206.0d,
+	description: "{id:\"netherex:thornstalk\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5e7fde86",
+		type: "item",
+		items: [{
+			item: "netherex:thornstalk"
+		}],
+		consume_items: true
+	}]
+}

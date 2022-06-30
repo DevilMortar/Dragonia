@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 150.0d,
+	description: "{id:\"atum:montus_blast\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "66234bcc",
+		type: "item",
+		items: [{
+			item: "atum:montus_blast"
+		}],
+		consume_items: true
+	}]
+}

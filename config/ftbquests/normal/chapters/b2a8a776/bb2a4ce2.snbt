@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 204.0d,
+	description: "{id:\"mowziesmobs:ice_crystal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d1bc963f",
+		type: "item",
+		items: [{
+			item: "mowziesmobs:ice_crystal"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 299.0d,
+	description: "{id:\"spartanfire:throwing_axe_dragonbone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "71d5abeb",
+		type: "item",
+		items: [{
+			item: "spartanfire:throwing_axe_dragonbone"
+		}],
+		consume_items: true
+	}]
+}

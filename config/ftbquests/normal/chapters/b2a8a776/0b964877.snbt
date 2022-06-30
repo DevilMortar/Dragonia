@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:amulet_absorption\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5b613f38",
+		type: "item",
+		items: [{
+			item: "ebwizardry:amulet_absorption"
+		}],
+		consume_items: true
+	}]
+}

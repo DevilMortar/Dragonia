@@ -1,0 +1,18 @@
+{
+	x: 25.0d,
+	y: 26.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"netherex:nethermite\"}},Damage:0s}",
+	tasks: [{
+		uid: "8cb6dc8a",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "netherex:nethermite"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

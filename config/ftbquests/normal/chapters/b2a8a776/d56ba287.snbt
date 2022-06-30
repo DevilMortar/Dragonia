@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 279.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"charm:ender_sight\"},Damage:0s}",
+	tasks: [{
+		uid: "bd69124f",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "charm:ender_sight"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 175.0d,
+	description: "{id:\"dungeontactics:ironlinks\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a398dbe2",
+		type: "item",
+		items: [{
+			item: "dungeontactics:ironlinks"
+		}],
+		consume_items: true
+	}]
+}

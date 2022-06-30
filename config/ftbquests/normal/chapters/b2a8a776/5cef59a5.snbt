@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 271.0d,
+	description: "{id:\"spartanweaponry:greatsword_diamond\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c5585260",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:greatsword_diamond"
+		}],
+		consume_items: true
+	}]
+}

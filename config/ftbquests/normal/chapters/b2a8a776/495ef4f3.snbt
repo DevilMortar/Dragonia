@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 289.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"potioncore:absorption\"},Damage:0s}",
+	tasks: [{
+		uid: "ca586e15",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "potioncore:absorption"
+			}
+		}],
+		consume_items: true
+	}]
+}

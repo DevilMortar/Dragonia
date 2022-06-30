@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 316.0d,
+	description: "{id:\"toroquest:fire_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c03f9476",
+		type: "item",
+		items: [{
+			item: "toroquest:fire_sword"
+		}],
+		consume_items: true
+	}]
+}

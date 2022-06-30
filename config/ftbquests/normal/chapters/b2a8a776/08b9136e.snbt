@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 285.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:strong_launch\"},Damage:0s}",
+	tasks: [{
+		uid: "f59793ae",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:strong_launch"
+			}
+		}],
+		consume_items: true
+	}]
+}

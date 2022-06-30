@@ -1,0 +1,43 @@
+{
+	x: 6.0d,
+	y: 136.0d,
+	description: "{id:\"ancientwarfarestructure:advanced_spawner\",Count:1b,tag:{spawnerSettings:{minDelay:200,spawnDelay:400,lightSensitive:0b,spawnGroups:[{settingsList:[{remainingSpawnCount:-1,hostile:1b,maxToSpawn:4,entityId:\"minecraft:pig\",minToSpawn:2}],groupWeight:1}],playerRange:16,respondToRedstone:0b,inventory:{Size:9,Items:[]},spawnRange:4,transparent:0b,maxDelay:400,xpToDrop:0,mobRange:4,debugMode:0b,maxNearbyMonsters:8}},Damage:0s}",
+	tasks: [{
+		uid: "cbfb4e56",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:advanced_spawner",
+			tag: {
+				spawnerSettings: {
+					minDelay: 200,
+					spawnDelay: 400,
+					lightSensitive: 0b,
+					spawnGroups: [{
+						settingsList: [{
+							remainingSpawnCount: -1,
+							hostile: 1b,
+							maxToSpawn: 4,
+							entityId: "minecraft:pig",
+							minToSpawn: 2
+						}],
+						groupWeight: 1
+					}],
+					playerRange: 16,
+					respondToRedstone: 0b,
+					inventory: {
+						Size: 9,
+						Items: []
+					},
+					spawnRange: 4,
+					transparent: 0b,
+					maxDelay: 400,
+					xpToDrop: 0,
+					mobRange: 4,
+					debugMode: 0b,
+					maxNearbyMonsters: 8
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

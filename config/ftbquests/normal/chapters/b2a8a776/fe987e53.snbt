@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 404.0d,
+	description: "{id:\"chisel:andesite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4ece92a3",
+		type: "item",
+		items: [{
+			item: "chisel:andesite"
+		}],
+		consume_items: true
+	}]
+}

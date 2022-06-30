@@ -1,0 +1,18 @@
+{
+	x: 4.0d,
+	y: 139.0d,
+	description: "{id:\"ancientwarfarestructure:protection_flag\",Count:1b,tag:{topColor:15685463,name:\"undead\",bottomColor:11711154},Damage:0s}",
+	tasks: [{
+		uid: "37ab2073",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:protection_flag",
+			tag: {
+				topColor: 15685463,
+				name: "undead",
+				bottomColor: 11711154
+			}
+		}],
+		consume_items: true
+	}]
+}

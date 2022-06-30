@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 120.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"blueslime\"},Damage:0s}",
+	tasks: [{
+		uid: "42ff5f1d",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "blueslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

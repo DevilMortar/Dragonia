@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 344.0d,
+	description: "{id:\"harvestcraft:limesmoothieitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "01fd2a3a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:limesmoothieitem"
+		}],
+		consume_items: true
+	}]
+}

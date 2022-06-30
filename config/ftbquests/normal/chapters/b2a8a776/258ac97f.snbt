@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 148.0d,
+	description: "{id:\"ancientwarfarevehicle:ammo_hwacha_rocket_flame\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "36d4e91a",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:ammo_hwacha_rocket_flame"
+		}],
+		consume_items: true
+	}]
+}

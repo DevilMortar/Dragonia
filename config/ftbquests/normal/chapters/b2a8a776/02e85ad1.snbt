@@ -1,0 +1,62 @@
+{
+	x: 33.0d,
+	y: 381.0d,
+	description: "{id:\"tcomplement:chisel\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:648,HarvestLevel:1,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:648,HarvestLevel:1,Attack:5.0f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\",\"chisel\"]},TinkerData:{Materials:[\"silver\",\"silver\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"holy\",color:-3019530,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"holy\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b64a5ceb",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 648,
+					HarvestLevel: 1,
+					Attack: 5.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 648,
+					HarvestLevel: 1,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe",
+						"chisel"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"silver",
+						"silver"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "holy",
+					color: -3019530,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"holy",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

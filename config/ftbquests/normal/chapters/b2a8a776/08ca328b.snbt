@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 323.0d,
+	description: "{id:\"aether_legacy:valkyrie_chestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f49ec2b1",
+		type: "item",
+		items: [{
+			item: "aether_legacy:valkyrie_chestplate"
+		}],
+		consume_items: true
+	}]
+}

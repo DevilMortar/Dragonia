@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 16.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:iron_skin\"},Damage:0s}",
+	tasks: [{
+		uid: "97551bfe",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:iron_skin"
+			}
+		}],
+		consume_items: true
+	}]
+}

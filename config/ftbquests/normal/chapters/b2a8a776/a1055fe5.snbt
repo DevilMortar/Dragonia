@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 343.0d,
+	description: "{id:\"harvestcraft:creamofavocadosoupitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e62ebcc1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:creamofavocadosoupitem"
+		}],
+		consume_items: true
+	}]
+}

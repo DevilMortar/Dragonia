@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 138.0d,
+	description: "{id:\"ancientwarfarestructure:altar_lectern\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "adc31b10",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:altar_lectern"
+		}],
+		consume_items: true
+	}]
+}

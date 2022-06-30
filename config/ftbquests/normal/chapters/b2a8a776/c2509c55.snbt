@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 362.0d,
+	description: "{id:\"vt:pad\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5c18fccb",
+		type: "item",
+		items: [{
+			item: "vt:pad"
+		}],
+		consume_items: true
+	}]
+}

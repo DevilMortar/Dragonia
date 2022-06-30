@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 97.0d,
+	description: "{id:\"atum:ceramic_slab_silver\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d9184d2c",
+		type: "item",
+		items: [{
+			item: "atum:ceramic_slab_silver"
+		}],
+		consume_items: true
+	}]
+}

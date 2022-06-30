@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:woolball\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c8637ab9",
+		type: "item",
+		items: [{
+			item: "mocreatures:woolball"
+		}],
+		consume_items: true
+	}]
+}

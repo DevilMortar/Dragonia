@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 222.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"dragonbone\"},Damage:0s}",
+	tasks: [{
+		uid: "0d4b25fc",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "dragonbone"
+			}
+		}],
+		consume_items: true
+	}]
+}

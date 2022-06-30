@@ -1,0 +1,21 @@
+{
+	x: 5.0d,
+	y: 265.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{effects:[{duration:500,potency:1,name:\"minecraft:wither\"}],hasPotion:1b},Damage:0s}",
+	tasks: [{
+		uid: "e42e2215",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				effects: [{
+					duration: 500,
+					potency: 1,
+					name: "minecraft:wither"
+				}],
+				hasPotion: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

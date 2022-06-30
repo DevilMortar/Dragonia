@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 89.0d,
+	description: "{id:\"rustic:apiary\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "565546a8",
+		type: "item",
+		items: [{
+			item: "rustic:apiary"
+		}],
+		consume_items: true
+	}]
+}

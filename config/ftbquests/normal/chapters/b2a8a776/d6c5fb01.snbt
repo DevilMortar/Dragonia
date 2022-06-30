@@ -1,0 +1,21 @@
+{
+	x: 8.0d,
+	y: 264.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{effects:[{duration:750,potency:0,name:\"minecraft:strength\"}],hasPotion:1b},Damage:0s}",
+	tasks: [{
+		uid: "aa0e622d",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				effects: [{
+					duration: 750,
+					potency: 0,
+					name: "minecraft:strength"
+				}],
+				hasPotion: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

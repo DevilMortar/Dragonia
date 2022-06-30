@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 174.0d,
+	description: "{id:\"dungeontactics:piston_glove_sticky\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "01c2165f",
+		type: "item",
+		items: [{
+			item: "dungeontactics:piston_glove_sticky"
+		}],
+		consume_items: true
+	}]
+}

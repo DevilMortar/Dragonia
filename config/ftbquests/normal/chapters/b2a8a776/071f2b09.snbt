@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 40.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"minecraft:poison\"},Damage:0s}",
+	tasks: [{
+		uid: "5c8542e9",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:poison"
+			}
+		}],
+		consume_items: true
+	}]
+}

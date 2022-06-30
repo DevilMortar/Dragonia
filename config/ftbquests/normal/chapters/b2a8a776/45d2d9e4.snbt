@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:vampire_blade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cfed7de4",
+		type: "item",
+		items: [{
+			item: "aether_legacy:vampire_blade"
+		}],
+		consume_items: true
+	}]
+}

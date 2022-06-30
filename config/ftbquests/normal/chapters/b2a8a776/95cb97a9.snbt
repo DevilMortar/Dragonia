@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 189.0d,
+	description: "{id:\"iceandfire:dragonarmor_gold\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5146fe6c",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonarmor_gold"
+		}],
+		consume_items: true
+	}]
+}

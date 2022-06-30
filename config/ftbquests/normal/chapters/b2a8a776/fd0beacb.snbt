@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 58.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"mowziesmobs:poison_resist\"},Damage:0s}",
+	tasks: [{
+		uid: "32bb5b67",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "mowziesmobs:poison_resist"
+			}
+		}],
+		consume_items: true
+	}]
+}

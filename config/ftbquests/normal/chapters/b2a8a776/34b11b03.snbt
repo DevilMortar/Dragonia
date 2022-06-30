@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 268.0d,
+	description: "{id:\"xreliquary:interdiction_torch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5df3449b",
+		type: "item",
+		items: [{
+			item: "xreliquary:interdiction_torch"
+		}],
+		consume_items: true
+	}]
+}

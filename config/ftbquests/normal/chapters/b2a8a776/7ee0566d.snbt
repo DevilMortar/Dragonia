@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 283.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:broken_magic_shield\"},Damage:0s}",
+	tasks: [{
+		uid: "e10e5640",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:broken_magic_shield"
+			}
+		}],
+		consume_items: true
+	}]
+}

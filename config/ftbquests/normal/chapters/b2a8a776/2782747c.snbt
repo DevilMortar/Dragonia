@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 313.0d,
+	description: "{ForgeCaps:{Parent:{slots:2}},id:\"thaumicaugmentation:elytra_harness\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f597c5a8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					slots: 2
+				}
+			},
+			id: "thaumicaugmentation:elytra_harness"
+		}],
+		consume_items: true
+	}]
+}

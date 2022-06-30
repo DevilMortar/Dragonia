@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:reptileplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bfa34d1e",
+		type: "item",
+		items: [{
+			item: "mocreatures:reptileplate"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 210.0d,
+	description: "{id:\"tconstruct:edible\",Count:1b,Damage:22s}",
+	tasks: [{
+		uid: "c4f61f72",
+		type: "item",
+		items: [{
+			item: "tconstruct:edible 1 22"
+		}],
+		consume_items: true
+	}]
+}

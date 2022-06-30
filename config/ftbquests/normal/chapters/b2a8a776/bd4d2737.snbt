@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 340.0d,
+	description: "{id:\"harvestcraft:nachoesitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "db5b206b",
+		type: "item",
+		items: [{
+			item: "harvestcraft:nachoesitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 353.0d,
+	description: "{id:\"harvestcraft:fiestacornsaladitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3b06055a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:fiestacornsaladitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 287.0d,
+	description: "{id:\"spartanweaponry:arrow_diamond_tipped\",Count:1b,tag:{Potion:\"extraalchemy:pacifism_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "dfe68913",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "extraalchemy:pacifism_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

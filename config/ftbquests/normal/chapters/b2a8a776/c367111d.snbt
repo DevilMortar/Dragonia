@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 307.0d,
+	description: "{id:\"thaumicaugmentation:void_recharge_pedestal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ca0d0c89",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:void_recharge_pedestal"
+		}],
+		consume_items: true
+	}]
+}

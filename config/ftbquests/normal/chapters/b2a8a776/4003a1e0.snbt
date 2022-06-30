@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 48.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"extraalchemy:pain_long\"},Damage:0s}",
+	tasks: [{
+		uid: "cfc7abb3",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "extraalchemy:pain_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

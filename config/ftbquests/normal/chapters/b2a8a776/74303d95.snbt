@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 141.0d,
+	description: "{id:\"ancientwarfarestructure:chair\",Count:1b,tag:{variant:\"acacia\"},Damage:0s}",
+	tasks: [{
+		uid: "cf65678f",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:chair",
+			tag: {
+				variant: "acacia"
+			}
+		}],
+		consume_items: true
+	}]
+}

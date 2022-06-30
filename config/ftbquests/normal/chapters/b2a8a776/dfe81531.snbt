@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 42.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"potioncore:levitation\"},Damage:0s}",
+	tasks: [{
+		uid: "39c8aa43",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "potioncore:levitation"
+			}
+		}],
+		consume_items: true
+	}]
+}

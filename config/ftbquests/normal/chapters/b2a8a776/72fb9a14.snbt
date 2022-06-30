@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 347.0d,
+	description: "{id:\"harvestcraft:bamboosteamedriceitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0a46d315",
+		type: "item",
+		items: [{
+			item: "harvestcraft:bamboosteamedriceitem"
+		}],
+		consume_items: true
+	}]
+}

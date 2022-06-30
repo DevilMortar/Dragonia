@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 328.0d,
+	description: "{id:\"charm:totem_of_returning\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "43814b83",
+		type: "item",
+		items: [{
+			item: "charm:totem_of_returning"
+		}],
+		consume_items: true
+	}]
+}

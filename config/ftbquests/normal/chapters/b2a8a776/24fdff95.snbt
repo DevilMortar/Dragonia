@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 316.0d,
+	description: "{id:\"tombstone:voodoo_poppet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e6ef8e84",
+		type: "item",
+		items: [{
+			item: "tombstone:voodoo_poppet"
+		}],
+		consume_items: true
+	}]
+}

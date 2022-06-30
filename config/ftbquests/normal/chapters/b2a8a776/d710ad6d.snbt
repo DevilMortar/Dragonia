@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 352.0d,
+	description: "{id:\"harvestcraft:sugarcookieitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2ca661ac",
+		type: "item",
+		items: [{
+			item: "harvestcraft:sugarcookieitem"
+		}],
+		consume_items: true
+	}]
+}

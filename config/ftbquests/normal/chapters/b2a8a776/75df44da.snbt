@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 185.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"quark:long_resistance\"},Damage:0s}",
+	tasks: [{
+		uid: "9c36d007",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "quark:long_resistance"
+			}
+		}],
+		consume_items: true
+	}]
+}

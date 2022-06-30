@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:wooden_chair\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4c66cbb9",
+		type: "item",
+		items: [{
+			item: "dungeontactics:wooden_chair"
+		}],
+		consume_items: true
+	}]
+}

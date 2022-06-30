@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 176.0d,
+	description: "{id:\"dungeontactics:charm_bleak\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "01d8b725",
+		type: "item",
+		items: [{
+			item: "dungeontactics:charm_bleak"
+		}],
+		consume_items: true
+	}]
+}

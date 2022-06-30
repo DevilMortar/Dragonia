@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 348.0d,
+	description: "{id:\"harvestcraft:maplesyrupwafflesitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6000e7c5",
+		type: "item",
+		items: [{
+			item: "harvestcraft:maplesyrupwafflesitem"
+		}],
+		consume_items: true
+	}]
+}

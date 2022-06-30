@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 149.0d,
+	description: "{id:\"atum:loot_emerald_ring\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "539ce0dd",
+		type: "item",
+		items: [{
+			item: "atum:loot_emerald_ring"
+		}],
+		consume_items: true
+	}]
+}

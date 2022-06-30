@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 257.0d,
+	description: "{id:\"randomloot:random_shard\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "04f767d6",
+		type: "item",
+		items: [{
+			item: "randomloot:random_shard"
+		}],
+		consume_items: true
+	}]
+}

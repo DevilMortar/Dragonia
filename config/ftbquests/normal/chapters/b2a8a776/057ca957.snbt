@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 356.0d,
+	description: "{id:\"harvestcraft:stuffedchilipeppersitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c24c4733",
+		type: "item",
+		items: [{
+			item: "harvestcraft:stuffedchilipeppersitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 69.0d,
+	description: "{id:\"biomesoplenty:mahogany_fence_gate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c961afa8",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:mahogany_fence_gate"
+		}],
+		consume_items: true
+	}]
+}

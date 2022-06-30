@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 168.0d,
+	description: "{id:\"mocreatures:chitinnether\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3454098b",
+		type: "item",
+		items: [{
+			item: "mocreatures:chitinnether"
+		}],
+		consume_items: true
+	}]
+}

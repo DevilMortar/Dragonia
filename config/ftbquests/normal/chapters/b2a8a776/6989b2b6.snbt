@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 283.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"potioncore:repair\"},Damage:0s}",
+	tasks: [{
+		uid: "c09b9ebe",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "potioncore:repair"
+			}
+		}],
+		consume_items: true
+	}]
+}

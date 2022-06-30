@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 46.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"charm:coffee\"},Damage:0s}",
+	tasks: [{
+		uid: "417a0b78",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "charm:coffee"
+			}
+		}],
+		consume_items: true
+	}]
+}

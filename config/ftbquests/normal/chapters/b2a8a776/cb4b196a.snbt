@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 347.0d,
+	description: "{id:\"harvestcraft:apricotsmoothieitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fcd3e505",
+		type: "item",
+		items: [{
+			item: "harvestcraft:apricotsmoothieitem"
+		}],
+		consume_items: true
+	}]
+}

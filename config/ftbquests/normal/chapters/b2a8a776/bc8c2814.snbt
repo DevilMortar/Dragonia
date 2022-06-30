@@ -1,0 +1,23 @@
+{
+	x: 7.0d,
+	y: 164.0d,
+	description: "{id:\"thaumcraft:elemental_pick\",Count:1b,tag:{infench:[{lvl:1s,id:4s},{lvl:2s,id:3s}]},Damage:0s}",
+	tasks: [{
+		uid: "389b3a7e",
+		type: "item",
+		items: [{
+			id: "thaumcraft:elemental_pick",
+			tag: {
+				infench: [{
+					lvl: 1s,
+					id: 4s
+				},
+				{
+					lvl: 2s,
+					id: 3s
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

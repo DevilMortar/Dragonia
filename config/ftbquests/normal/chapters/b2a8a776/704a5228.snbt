@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 171.0d,
+	description: "{id:\"dungeontactics:diamond_cutlass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1bbd10c8",
+		type: "item",
+		items: [{
+			item: "dungeontactics:diamond_cutlass"
+		}],
+		consume_items: true
+	}]
+}

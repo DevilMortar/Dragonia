@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 403.0d,
+	description: "{id:\"chisel:blockelectrum\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "3ab86281",
+		type: "item",
+		items: [{
+			item: "chisel:blockelectrum 1 4"
+		}],
+		consume_items: true
+	}]
+}

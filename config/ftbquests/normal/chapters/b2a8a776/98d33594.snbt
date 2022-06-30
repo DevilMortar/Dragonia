@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 79.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"primitivemobs:entities/goblin\"},Damage:0s}",
+	tasks: [{
+		uid: "f8decd78",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "primitivemobs:entities/goblin"
+			}
+		}],
+		consume_items: true
+	}]
+}

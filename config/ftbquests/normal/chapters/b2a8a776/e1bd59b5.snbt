@@ -1,0 +1,17 @@
+{
+	x: 27.0d,
+	y: 122.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"researcher\",npcType:\"worker\"},Damage:0s}",
+	tasks: [{
+		uid: "3408fc30",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "researcher",
+				npcType: "worker"
+			}
+		}],
+		consume_items: true
+	}]
+}

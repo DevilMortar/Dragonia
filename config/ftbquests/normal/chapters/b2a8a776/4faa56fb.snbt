@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 298.0d,
+	description: "{id:\"spartanweaponry:lance_lead\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8c07b83b",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:lance_lead"
+		}],
+		consume_items: true
+	}]
+}

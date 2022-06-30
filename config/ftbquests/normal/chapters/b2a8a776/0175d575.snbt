@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 218.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"desert_myrmex\"},Damage:0s}",
+	tasks: [{
+		uid: "1b949eaa",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "desert_myrmex"
+			}
+		}],
+		consume_items: true
+	}]
+}

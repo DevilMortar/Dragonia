@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 93.0d,
+	description: "{id:\"atum:weed\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c90a2308",
+		type: "item",
+		items: [{
+			item: "atum:weed"
+		}],
+		consume_items: true
+	}]
+}

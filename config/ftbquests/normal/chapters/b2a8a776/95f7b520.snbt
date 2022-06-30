@@ -1,0 +1,17 @@
+{
+	x: 25.0d,
+	y: 106.0d,
+	description: "{id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"hot_spring_water\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "8f99d5f4",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "hot_spring_water",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

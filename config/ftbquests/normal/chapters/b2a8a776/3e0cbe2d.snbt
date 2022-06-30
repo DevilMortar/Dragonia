@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 71.0d,
+	description: "{id:\"biomesoplenty:mushroom\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e10e6ce7",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:mushroom"
+		}],
+		consume_items: true
+	}]
+}

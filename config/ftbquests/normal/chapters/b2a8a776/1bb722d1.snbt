@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 366.0d,
+	description: "{id:\"quark:acacia_button\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ac3cc5a5",
+		type: "item",
+		items: [{
+			item: "quark:acacia_button"
+		}],
+		consume_items: true
+	}]
+}

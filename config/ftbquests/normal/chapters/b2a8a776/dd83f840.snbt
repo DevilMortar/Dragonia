@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 89.0d,
+	description: "{id:\"rustic:andesite_pillar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fab82c09",
+		type: "item",
+		items: [{
+			item: "rustic:andesite_pillar"
+		}],
+		consume_items: true
+	}]
+}

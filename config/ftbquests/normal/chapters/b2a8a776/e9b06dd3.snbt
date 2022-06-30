@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 80.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"thaumicaugmentation:block/loot_common\"},Damage:0s}",
+	tasks: [{
+		uid: "0b02301b",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "thaumicaugmentation:block/loot_common"
+			}
+		}],
+		consume_items: true
+	}]
+}

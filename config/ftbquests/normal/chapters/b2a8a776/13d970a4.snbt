@@ -1,0 +1,68 @@
+{
+	x: 10.0d,
+	y: 238.0d,
+	description: "{id:\"tconstruct:shovel\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:1204,HarvestLevel:4,Attack:17.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:1204,HarvestLevel:4,Attack:17.0f},Special:{Categories:[\"harvest\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"dragonsteel_fire\",\"dragonsteel_fire\",\"dragonsteel_fire\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"sharp\",color:-3359804,level:1},{identifier:\"flame2\",color:-3359804,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"sharp\",\"flame2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b99dadec",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 1204,
+					HarvestLevel: 4,
+					Attack: 17.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 1204,
+					HarvestLevel: 4,
+					Attack: 17.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dragonsteel_fire",
+						"dragonsteel_fire",
+						"dragonsteel_fire"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "sharp",
+					color: -3359804,
+					level: 1
+				},
+				{
+					identifier: "flame2",
+					color: -3359804,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"sharp",
+					"flame2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

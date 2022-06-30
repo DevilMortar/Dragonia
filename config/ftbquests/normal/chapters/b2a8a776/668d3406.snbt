@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 136.0d,
+	description: "{id:\"ancientwarfarestructure:drafting_station\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "503b54f3",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:drafting_station"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 188.0d,
+	description: "{id:\"iceandfire:dragonegg_bronze\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8e7bc2bd",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonegg_bronze"
+		}],
+		consume_items: true
+	}]
+}

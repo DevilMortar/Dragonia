@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 324.0d,
+	description: "{id:\"aether_legacy:lightning_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f4e80173",
+		type: "item",
+		items: [{
+			item: "aether_legacy:lightning_sword"
+		}],
+		consume_items: true
+	}]
+}

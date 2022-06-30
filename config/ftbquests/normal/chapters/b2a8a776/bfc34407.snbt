@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 56.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:long_recoil\"},Damage:0s}",
+	tasks: [{
+		uid: "7863e14d",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:long_recoil"
+			}
+		}],
+		consume_items: true
+	}]
+}

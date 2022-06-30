@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 327.0d,
+	description: "{id:\"charm:record_hal4\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1d329bb5",
+		type: "item",
+		items: [{
+			item: "charm:record_hal4"
+		}],
+		consume_items: true
+	}]
+}

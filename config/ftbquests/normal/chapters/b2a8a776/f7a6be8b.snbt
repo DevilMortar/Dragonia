@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:retort_advanced\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "37498cee",
+		type: "item",
+		items: [{
+			item: "rustic:retort_advanced"
+		}],
+		consume_items: true
+	}]
+}

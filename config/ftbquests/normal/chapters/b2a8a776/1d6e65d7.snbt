@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 373.0d,
+	description: "{id:\"quark:ender_watcher\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4447cb7b",
+		type: "item",
+		items: [{
+			item: "quark:ender_watcher"
+		}],
+		consume_items: true
+	}]
+}

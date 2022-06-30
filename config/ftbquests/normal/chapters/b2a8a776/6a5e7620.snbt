@@ -1,0 +1,21 @@
+{
+	x: 22.0d,
+	y: 234.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,tag:{textureBlock:{id:\"chisel:planks-acacia\",Count:1b,Damage:4s}},Damage:1s}",
+	tasks: [{
+		uid: "ec5e9d99",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "chisel:planks-acacia",
+					Count: 1b,
+					Damage: 4s
+				}
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

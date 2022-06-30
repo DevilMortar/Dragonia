@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 191.0d,
+	description: "{id:\"iceandfire:myrmex_jungle_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cbf3db14",
+		type: "item",
+		items: [{
+			item: "iceandfire:myrmex_jungle_helmet"
+		}],
+		consume_items: true
+	}]
+}

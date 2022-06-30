@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 328.0d,
+	description: "{id:\"lost_aether:light_gale_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9372818b",
+		type: "item",
+		items: [{
+			item: "lost_aether:light_gale_stone"
+		}],
+		consume_items: true
+	}]
+}

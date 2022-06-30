@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 151.0d,
+	description: "{id:\"atum:desert_helmet_diamond\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a055020b",
+		type: "item",
+		items: [{
+			item: "atum:desert_helmet_diamond"
+		}],
+		consume_items: true
+	}]
+}

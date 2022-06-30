@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 150.0d,
+	description: "{id:\"atum:nuits_vanishing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d9e6af6a",
+		type: "item",
+		items: [{
+			item: "atum:nuits_vanishing"
+		}],
+		consume_items: true
+	}]
+}

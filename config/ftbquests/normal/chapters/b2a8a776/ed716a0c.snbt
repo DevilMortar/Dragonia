@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 340.0d,
+	description: "{id:\"harvestcraft:caramelitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b7c3eed2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:caramelitem"
+		}],
+		consume_items: true
+	}]
+}

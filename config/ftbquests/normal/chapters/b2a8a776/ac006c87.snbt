@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 163.0d,
+	description: "{id:\"thaumcraft:scribing_tools\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f2b1338b",
+		type: "item",
+		items: [{
+			item: "thaumcraft:scribing_tools"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 309.0d,
+	description: "{ForgeCaps:{Parent:{}},id:\"thaumicaugmentation:impetus_linker\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "10036a4b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "thaumicaugmentation:impetus_linker"
+		}],
+		consume_items: true
+	}]
+}

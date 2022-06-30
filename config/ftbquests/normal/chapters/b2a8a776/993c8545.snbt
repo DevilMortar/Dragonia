@@ -1,0 +1,18 @@
+{
+	x: 39.0d,
+	y: 128.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"vampire\",npcType:\"faction.archer.elite\"},Damage:0s}",
+	tasks: [{
+		uid: "4ff8cf3f",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "vampire",
+				npcType: "faction.archer.elite"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 4.0d,
+	y: 260.0d,
+	description: "{id:\"xreliquary:bullet\",Count:1b,tag:{effects:[{duration:1500,potency:2,name:\"minecraft:absorption\"}]},Damage:1s}",
+	tasks: [{
+		uid: "70988dcd",
+		type: "item",
+		items: [{
+			id: "xreliquary:bullet",
+			tag: {
+				effects: [{
+					duration: 1500,
+					potency: 2,
+					name: "minecraft:absorption"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 10.0d,
+	description: "{id:\"minecraft:iron_hoe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1e7394f9",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_hoe"
+		}],
+		consume_items: true
+	}]
+}

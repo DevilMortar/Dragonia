@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 313.0d,
+	description: "{id:\"thaumicaugmentation:autocaster_placer\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "ad3bf35e",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:autocaster_placer 1 1"
+		}],
+		consume_items: true
+	}]
+}

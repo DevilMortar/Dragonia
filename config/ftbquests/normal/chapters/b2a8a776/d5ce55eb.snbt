@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 254.0d,
+	description: "{id:\"tconstruct:punji\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "31b67774",
+		type: "item",
+		items: [{
+			item: "tconstruct:punji"
+		}],
+		consume_items: true
+	}]
+}

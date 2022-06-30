@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 213.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"bone\"},Damage:0s}",
+	tasks: [{
+		uid: "a4b5677e",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "bone"
+			}
+		}],
+		consume_items: true
+	}]
+}

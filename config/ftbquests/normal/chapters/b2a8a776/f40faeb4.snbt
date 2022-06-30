@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 280.0d,
+	description: "{id:\"spartanweaponry:arrow_iron_tipped\",Count:1b,tag:{Potion:\"minecraft:water_breathing\"},Damage:0s}",
+	tasks: [{
+		uid: "561fa9e2",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_iron_tipped",
+			tag: {
+				Potion: "minecraft:water_breathing"
+			}
+		}],
+		consume_items: true
+	}]
+}

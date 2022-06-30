@@ -1,0 +1,21 @@
+{
+	x: 11.0d,
+	y: 234.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,tag:{textureBlock:{id:\"chisel:planks-jungle\",Count:1b,Damage:8s}},Damage:1s}",
+	tasks: [{
+		uid: "6c8deff1",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "chisel:planks-jungle",
+					Count: 1b,
+					Damage: 8s
+				}
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

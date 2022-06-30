@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 325.0d,
+	description: "{id:\"aether_legacy:zanite_trapdoor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a4b9000c",
+		type: "item",
+		items: [{
+			item: "aether_legacy:zanite_trapdoor"
+		}],
+		consume_items: true
+	}]
+}

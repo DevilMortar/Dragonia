@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 298.0d,
+	description: "{id:\"spartanweaponry:longsword_lead\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "095f5acf",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:longsword_lead"
+		}],
+		consume_items: true
+	}]
+}

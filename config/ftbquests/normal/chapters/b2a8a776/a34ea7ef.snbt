@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 184.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"charm:coffee\"},Damage:0s}",
+	tasks: [{
+		uid: "4313c9f7",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "charm:coffee"
+			}
+		}],
+		consume_items: true
+	}]
+}

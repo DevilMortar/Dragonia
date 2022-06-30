@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 356.0d,
+	description: "{id:\"harvestcraft:meringuerouladeitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9d29ec90",
+		type: "item",
+		items: [{
+			item: "harvestcraft:meringuerouladeitem"
+		}],
+		consume_items: true
+	}]
+}

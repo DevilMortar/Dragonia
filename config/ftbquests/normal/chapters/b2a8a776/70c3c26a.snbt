@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 230.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"wood\"},Damage:0s}",
+	tasks: [{
+		uid: "c95d33d7",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "wood"
+			}
+		}],
+		consume_items: true
+	}]
+}

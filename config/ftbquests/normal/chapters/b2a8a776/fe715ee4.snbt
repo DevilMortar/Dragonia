@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:lozmagicswordconcept\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8cf75a22",
+		type: "item",
+		items: [{
+			item: "heroicarmory:lozmagicswordconcept"
+		}],
+		consume_items: true
+	}]
+}

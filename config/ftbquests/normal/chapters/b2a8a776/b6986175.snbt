@@ -1,0 +1,18 @@
+{
+	x: 6.0d,
+	y: 312.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"atum:oasis\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9b5132b8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "atum:oasis"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

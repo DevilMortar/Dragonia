@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:alchemical_cauldron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4d80f039",
+		type: "item",
+		items: [{
+			item: "dungeontactics:alchemical_cauldron"
+		}],
+		consume_items: true
+	}]
+}

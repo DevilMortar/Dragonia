@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: 232.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,tag:{textureBlock:{id:\"betternether:reeds_block\",Count:1b,Damage:0s}},Damage:1s}",
+	tasks: [{
+		uid: "8ab35b85",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "betternether:reeds_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

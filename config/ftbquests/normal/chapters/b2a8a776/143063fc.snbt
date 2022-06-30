@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:stairs_olive\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d74d7691",
+		type: "item",
+		items: [{
+			item: "rustic:stairs_olive"
+		}],
+		consume_items: true
+	}]
+}

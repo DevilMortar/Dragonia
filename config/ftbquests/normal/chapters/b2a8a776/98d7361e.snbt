@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 38.0d,
+	description: "{id:\"minecraft:rabbit_foot\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a52fe421",
+		type: "item",
+		items: [{
+			item: "minecraft:rabbit_foot"
+		}],
+		consume_items: true
+	}]
+}

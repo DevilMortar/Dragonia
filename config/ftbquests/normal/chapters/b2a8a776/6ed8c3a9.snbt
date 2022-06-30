@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 372.0d,
+	description: "{id:\"quark:dark_oak_trapdoor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f89253e",
+		type: "item",
+		items: [{
+			item: "quark:dark_oak_trapdoor"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 331.0d,
+	description: "{id:\"harvestcraft:bellpepperitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d0dc95c3",
+		type: "item",
+		items: [{
+			item: "harvestcraft:bellpepperitem"
+		}],
+		consume_items: true
+	}]
+}

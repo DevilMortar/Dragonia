@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 335.0d,
+	description: "{id:\"harvestcraft:pistachioitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "36ef50e6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pistachioitem"
+		}],
+		consume_items: true
+	}]
+}

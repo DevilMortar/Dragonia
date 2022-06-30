@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 117.0d,
+	description: "{id:\"ancientwarfare:diamond_hammer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0e669e8c",
+		type: "item",
+		items: [{
+			item: "ancientwarfare:diamond_hammer"
+		}],
+		consume_items: true
+	}]
+}

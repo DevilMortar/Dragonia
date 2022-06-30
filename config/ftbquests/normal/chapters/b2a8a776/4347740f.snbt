@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 78.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/rabbit\"},Damage:0s}",
+	tasks: [{
+		uid: "de95dd8c",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/rabbit"
+			}
+		}],
+		consume_items: true
+	}]
+}

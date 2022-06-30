@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 194.0d,
+	description: "{id:\"iceandfire:troll_weapon.trunk_frost\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9206312a",
+		type: "item",
+		items: [{
+			item: "iceandfire:troll_weapon.trunk_frost"
+		}],
+		consume_items: true
+	}]
+}

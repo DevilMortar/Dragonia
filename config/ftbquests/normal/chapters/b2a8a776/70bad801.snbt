@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 170.0d,
+	description: "{id:\"dungeontactics:golden_glaive\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fcce9ebb",
+		type: "item",
+		items: [{
+			item: "dungeontactics:golden_glaive"
+		}],
+		consume_items: true
+	}]
+}

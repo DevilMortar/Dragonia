@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 352.0d,
+	description: "{id:\"harvestcraft:chickendinneritem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "26df5091",
+		type: "item",
+		items: [{
+			item: "harvestcraft:chickendinneritem"
+		}],
+		consume_items: true
+	}]
+}

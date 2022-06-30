@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 384.0d,
+	description: "{id:\"chisel:carpet_black\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "a51d39f0",
+		type: "item",
+		items: [{
+			item: "chisel:carpet_black 1 1"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 63.0d,
+	description: "{id:\"betternether:bone_slab_half\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d2a8e55b",
+		type: "item",
+		items: [{
+			item: "betternether:bone_slab_half"
+		}],
+		consume_items: true
+	}]
+}

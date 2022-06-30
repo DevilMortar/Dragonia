@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 346.0d,
+	description: "{id:\"harvestcraft:lemonjellyitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "99ecec97",
+		type: "item",
+		items: [{
+			item: "harvestcraft:lemonjellyitem"
+		}],
+		consume_items: true
+	}]
+}

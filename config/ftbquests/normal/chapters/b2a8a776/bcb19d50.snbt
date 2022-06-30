@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 12.0d,
+	description: "{id:\"minecraft:bone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cc7a1bad",
+		type: "item",
+		items: [{
+			item: "minecraft:bone"
+		}],
+		consume_items: true
+	}]
+}

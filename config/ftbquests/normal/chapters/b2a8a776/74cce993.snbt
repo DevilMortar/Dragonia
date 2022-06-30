@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 88.0d,
+	description: "{id:\"reccomplex:inventory_generation_component_tag\",Count:1b,tag:{itemCollectionKey:\"MesoStorageChest\"},Damage:0s}",
+	tasks: [{
+		uid: "647c1d8b",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_component_tag",
+			tag: {
+				itemCollectionKey: "MesoStorageChest"
+			}
+		}],
+		consume_items: true
+	}]
+}

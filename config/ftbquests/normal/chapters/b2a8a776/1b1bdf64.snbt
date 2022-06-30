@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 261.0d,
+	description: "{id:\"xreliquary:magazine\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "88090533",
+		type: "item",
+		items: [{
+			item: "xreliquary:magazine 1 6"
+		}],
+		consume_items: true
+	}]
+}

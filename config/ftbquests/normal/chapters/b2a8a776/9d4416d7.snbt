@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 51.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"potioncore:long_broken_armor\"},Damage:0s}",
+	tasks: [{
+		uid: "ae1bbe05",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "potioncore:long_broken_armor"
+			}
+		}],
+		consume_items: true
+	}]
+}

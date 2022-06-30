@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 299.0d,
+	description: "{id:\"spartanfire:lance_fire_dragonbone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d2059dfc",
+		type: "item",
+		items: [{
+			item: "spartanfire:lance_fire_dragonbone"
+		}],
+		consume_items: true
+	}]
+}

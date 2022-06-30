@@ -1,0 +1,17 @@
+{
+	x: 17.0d,
+	y: 122.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",npcType:\"priest\"},Damage:0s}",
+	tasks: [{
+		uid: "b8660487",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				npcType: "priest"
+			}
+		}],
+		consume_items: true
+	}]
+}

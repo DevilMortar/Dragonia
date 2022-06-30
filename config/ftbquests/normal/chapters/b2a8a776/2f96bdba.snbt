@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 372.0d,
+	description: "{id:\"quark:slime_bucket\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ce89da4f",
+		type: "item",
+		items: [{
+			item: "quark:slime_bucket"
+		}],
+		consume_items: true
+	}]
+}

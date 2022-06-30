@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 198.0d,
+	description: "{id:\"heroicarmory:sccocytus\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c6ca734e",
+		type: "item",
+		items: [{
+			item: "heroicarmory:sccocytus"
+		}],
+		consume_items: true
+	}]
+}

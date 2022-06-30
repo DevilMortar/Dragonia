@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 332.0d,
+	description: "{id:\"harvestcraft:elderberryitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b3992854",
+		type: "item",
+		items: [{
+			item: "harvestcraft:elderberryitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 328.0d,
+	description: "{id:\"ichunutil:compact_porkchop\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "28f6f5f3",
+		type: "item",
+		items: [{
+			item: "ichunutil:compact_porkchop"
+		}],
+		consume_items: true
+	}]
+}

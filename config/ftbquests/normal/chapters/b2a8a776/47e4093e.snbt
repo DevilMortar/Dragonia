@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 349.0d,
+	description: "{id:\"harvestcraft:turtlecookeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5a5cce8a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:turtlecookeditem"
+		}],
+		consume_items: true
+	}]
+}

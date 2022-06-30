@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 322.0d,
+	description: "{id:\"aether_legacy:skyroot_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f5f379de",
+		type: "item",
+		items: [{
+			item: "aether_legacy:skyroot_shovel"
+		}],
+		consume_items: true
+	}]
+}

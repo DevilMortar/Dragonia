@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 87.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"thaumicaugmentation:entity/eldritch_golem\"},Damage:0s}",
+	tasks: [{
+		uid: "60f422aa",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "thaumicaugmentation:entity/eldritch_golem"
+			}
+		}],
+		consume_items: true
+	}]
+}

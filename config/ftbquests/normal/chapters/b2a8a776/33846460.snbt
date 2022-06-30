@@ -1,0 +1,24 @@
+{
+	x: 39.0d,
+	y: 308.0d,
+	description: "{id:\"thaumicaugmentation:primal_cutter\",Count:1b,tag:{drawingDisabled:1b,infench:[{lvl:2s,id:5s},{lvl:1s,id:2s}]},Damage:0s}",
+	tasks: [{
+		uid: "ac9e48a8",
+		type: "item",
+		items: [{
+			id: "thaumicaugmentation:primal_cutter",
+			tag: {
+				drawingDisabled: 1b,
+				infench: [{
+					lvl: 2s,
+					id: 5s
+				},
+				{
+					lvl: 1s,
+					id: 2s
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

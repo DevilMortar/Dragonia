@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 210.0d,
+	description: "{id:\"tconstruct:ingots\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "03ee2aa3",
+		type: "item",
+		items: [{
+			item: "tconstruct:ingots 1 3"
+		}],
+		consume_items: true
+	}]
+}

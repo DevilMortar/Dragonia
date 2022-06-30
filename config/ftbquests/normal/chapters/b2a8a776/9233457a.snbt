@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 367.0d,
+	description: "{id:\"quark:magma_bricks\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8dc7e1b4",
+		type: "item",
+		items: [{
+			item: "quark:magma_bricks"
+		}],
+		consume_items: true
+	}]
+}

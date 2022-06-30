@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 357.0d,
+	description: "{id:\"harvestcraft:taiyakiitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d98a46be",
+		type: "item",
+		items: [{
+			item: "harvestcraft:taiyakiitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 298.0d,
+	description: "{id:\"spartanweaponry:throwing_axe_nickel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c4741740",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:throwing_axe_nickel"
+		}],
+		consume_items: true
+	}]
+}

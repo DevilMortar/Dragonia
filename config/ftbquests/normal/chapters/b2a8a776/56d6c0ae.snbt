@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 117.0d,
+	description: "{id:\"ancientwarfare:research_note\",Count:1b,tag:{researchName:\"construction\"},Damage:0s}",
+	tasks: [{
+		uid: "a222d442",
+		type: "item",
+		items: [{
+			id: "ancientwarfare:research_note",
+			tag: {
+				researchName: "construction"
+			}
+		}],
+		consume_items: true
+	}]
+}

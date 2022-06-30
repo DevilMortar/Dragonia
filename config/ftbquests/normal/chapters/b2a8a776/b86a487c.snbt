@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 84.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:chests/stronghold_crossing\"},Damage:0s}",
+	tasks: [{
+		uid: "0b17b865",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:chests/stronghold_crossing"
+			}
+		}],
+		consume_items: true
+	}]
+}

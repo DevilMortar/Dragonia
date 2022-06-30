@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:plank_greatwood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "205893dd",
+		type: "item",
+		items: [{
+			item: "thaumcraft:plank_greatwood"
+		}],
+		consume_items: true
+	}]
+}

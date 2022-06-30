@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:sharksword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "18220f99",
+		type: "item",
+		items: [{
+			item: "mocreatures:sharksword"
+		}],
+		consume_items: true
+	}]
+}

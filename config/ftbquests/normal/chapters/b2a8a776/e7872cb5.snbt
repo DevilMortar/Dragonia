@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 46.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"minecraft:night_vision\"},Damage:0s}",
+	tasks: [{
+		uid: "eb865ba0",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "minecraft:night_vision"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 359.0d,
+	description: "{id:\"harvestcraft:cantonesenoodlesitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "997a85b1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cantonesenoodlesitem"
+		}],
+		consume_items: true
+	}]
+}

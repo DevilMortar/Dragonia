@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 94.0d,
+	description: "{id:\"atum:diamond_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9b4ec317",
+		type: "item",
+		items: [{
+			item: "atum:diamond_ore"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 180.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:crumbling_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "b813430d",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:crumbling_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

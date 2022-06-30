@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 307.0d,
+	description: "{id:\"thaumicaugmentation:warded_button_arcane_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "47f375f8",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:warded_button_arcane_stone"
+		}],
+		consume_items: true
+	}]
+}

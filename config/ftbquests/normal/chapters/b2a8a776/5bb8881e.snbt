@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 118.0d,
+	description: "{id:\"ancientwarfareautomation:warehouse_stock_viewer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5dc0992d",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:warehouse_stock_viewer"
+		}],
+		consume_items: true
+	}]
+}

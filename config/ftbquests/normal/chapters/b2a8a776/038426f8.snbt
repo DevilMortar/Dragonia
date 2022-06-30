@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 167.0d,
+	description: "{id:\"mocreatures:reptilelegs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "53794154",
+		type: "item",
+		items: [{
+			item: "mocreatures:reptilelegs"
+		}],
+		consume_items: true
+	}]
+}

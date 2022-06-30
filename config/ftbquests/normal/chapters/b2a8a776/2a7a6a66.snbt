@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:ring_conjurer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9dbcc47f",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_conjurer"
+		}],
+		consume_items: true
+	}]
+}

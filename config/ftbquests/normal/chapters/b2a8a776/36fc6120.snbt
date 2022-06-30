@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 271.0d,
+	description: "{id:\"spartanweaponry:warhammer_iron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f4e9ce6d",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:warhammer_iron"
+		}],
+		consume_items: true
+	}]
+}

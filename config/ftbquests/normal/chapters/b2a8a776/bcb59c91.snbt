@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 121.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"endstone\"},Damage:0s}",
+	tasks: [{
+		uid: "757187c1",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "endstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

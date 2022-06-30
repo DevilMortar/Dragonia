@@ -1,0 +1,20 @@
+{
+	x: 24.0d,
+	y: 162.0d,
+	description: "{id:\"thaumcraft:phial\",Count:1b,tag:{Aspects:[{amount:10,key:\"aqua\"}]},Damage:1s}",
+	tasks: [{
+		uid: "e1f5fe01",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "aqua"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

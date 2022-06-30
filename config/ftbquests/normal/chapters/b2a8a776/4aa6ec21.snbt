@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 105.0d,
+	description: "{id:\"thaumcraft:jar_normal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9668f380",
+		type: "item",
+		items: [{
+			item: "thaumcraft:jar_normal"
+		}],
+		consume_items: true
+	}]
+}

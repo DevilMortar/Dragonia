@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 332.0d,
+	description: "{id:\"harvestcraft:jicamaseeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9e1a0b5a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:jicamaseeditem"
+		}],
+		consume_items: true
+	}]
+}

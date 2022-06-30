@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 39.0d,
+	description: "{id:\"minecraft:chorus_fruit\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "148f0f5d",
+		type: "item",
+		items: [{
+			item: "minecraft:chorus_fruit"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 47.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"extraalchemy:pyper_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "30c94f41",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "extraalchemy:pyper_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

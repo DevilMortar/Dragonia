@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 179.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:magnetism_normal\"},Damage:0s}",
+	tasks: [{
+		uid: "6f8ce057",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:magnetism_normal"
+			}
+		}],
+		consume_items: true
+	}]
+}

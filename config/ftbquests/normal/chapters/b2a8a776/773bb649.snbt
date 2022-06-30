@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 353.0d,
+	description: "{id:\"harvestcraft:liverandonionsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "81945835",
+		type: "item",
+		items: [{
+			item: "harvestcraft:liverandonionsitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 328.0d,
+	description: "{id:\"lost_aether:agility_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "45b330d4",
+		type: "item",
+		items: [{
+			item: "lost_aether:agility_boots"
+		}],
+		consume_items: true
+	}]
+}

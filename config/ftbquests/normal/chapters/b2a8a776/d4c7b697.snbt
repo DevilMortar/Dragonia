@@ -1,0 +1,23 @@
+{
+	x: 4.0d,
+	y: 164.0d,
+	description: "{id:\"thaumcraft:elemental_axe\",Count:1b,tag:{infench:[{lvl:1s,id:2s},{lvl:1s,id:0s}]},Damage:0s}",
+	tasks: [{
+		uid: "736130a4",
+		type: "item",
+		items: [{
+			id: "thaumcraft:elemental_axe",
+			tag: {
+				infench: [{
+					lvl: 1s,
+					id: 2s
+				},
+				{
+					lvl: 1s,
+					id: 0s
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

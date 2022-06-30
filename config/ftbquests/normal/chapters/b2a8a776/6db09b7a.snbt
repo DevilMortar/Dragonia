@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 313.0d,
+	description: "{id:\"thaumicaugmentation:obelisk_placer\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "92f8aa80",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:obelisk_placer 1 1"
+		}],
+		consume_items: true
+	}]
+}

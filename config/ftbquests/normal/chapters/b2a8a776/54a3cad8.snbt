@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 421.0d,
+	description: "{id:\"chisel:concrete_brown\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "de5f83d0",
+		type: "item",
+		items: [{
+			item: "chisel:concrete_brown 1 5"
+		}],
+		consume_items: true
+	}]
+}

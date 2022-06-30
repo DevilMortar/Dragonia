@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 119.0d,
+	description: "{id:\"ancientwarfareautomation:flywheel_controller\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "1119f665",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:flywheel_controller 1 2"
+		}],
+		consume_items: true
+	}]
+}

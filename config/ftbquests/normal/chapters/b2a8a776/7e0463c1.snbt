@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 152.0d,
+	description: "{id:\"atum:golden_date_enchanted\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "611053ec",
+		type: "item",
+		items: [{
+			item: "atum:golden_date_enchanted"
+		}],
+		consume_items: true
+	}]
+}

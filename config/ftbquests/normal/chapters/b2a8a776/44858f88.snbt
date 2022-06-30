@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 94.0d,
+	description: "{id:\"atum:lapis_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "81079bed",
+		type: "item",
+		items: [{
+			item: "atum:lapis_ore"
+		}],
+		consume_items: true
+	}]
+}

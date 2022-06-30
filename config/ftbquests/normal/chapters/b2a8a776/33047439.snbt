@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 353.0d,
+	description: "{id:\"harvestcraft:ramenitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bdffadf0",
+		type: "item",
+		items: [{
+			item: "harvestcraft:ramenitem"
+		}],
+		consume_items: true
+	}]
+}

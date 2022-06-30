@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 83.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"ancientwarfare:inject/chests/desert_pyramid\"},Damage:0s}",
+	tasks: [{
+		uid: "719d7a95",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "ancientwarfare:inject/chests/desert_pyramid"
+			}
+		}],
+		consume_items: true
+	}]
+}

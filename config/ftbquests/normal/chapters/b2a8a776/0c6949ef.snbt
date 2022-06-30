@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 115.0d,
+	description: "{id:\"ancientspellcraft:charm_power_orb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aaa336c9",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:charm_power_orb"
+		}],
+		consume_items: true
+	}]
+}

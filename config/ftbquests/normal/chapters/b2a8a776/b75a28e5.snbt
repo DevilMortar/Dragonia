@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 14.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extraalchemy:pyper_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "67b6a30e",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extraalchemy:pyper_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

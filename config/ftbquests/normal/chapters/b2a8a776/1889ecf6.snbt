@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 359.0d,
+	description: "{id:\"harvestcraft:buttertartitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2dc8113a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:buttertartitem"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 326.0d,
+	description: "{id:\"charm:cake_leaping\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e6be04b0",
+		type: "item",
+		items: [{
+			item: "charm:cake_leaping"
+		}],
+		consume_items: true
+	}]
+}

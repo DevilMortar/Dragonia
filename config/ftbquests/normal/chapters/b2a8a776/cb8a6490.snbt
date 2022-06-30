@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 166.0d,
+	description: "{id:\"disenchanter:disenchantmenttable\",Count:1b,Damage:9s}",
+	tasks: [{
+		uid: "6df1a4dd",
+		type: "item",
+		items: [{
+			item: "disenchanter:disenchantmenttable 1 9"
+		}],
+		consume_items: true
+	}]
+}

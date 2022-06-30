@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 108.0d,
+	description: "{id:\"ebwizardry:condenser_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "443b8bdc",
+		type: "item",
+		items: [{
+			item: "ebwizardry:condenser_upgrade"
+		}],
+		consume_items: true
+	}]
+}

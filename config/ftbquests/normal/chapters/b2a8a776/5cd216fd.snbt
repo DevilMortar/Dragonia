@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 206.0d,
+	description: "{id:\"netherex:smooth_basalt_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0207acc4",
+		type: "item",
+		items: [{
+			item: "netherex:smooth_basalt_stairs"
+		}],
+		consume_items: true
+	}]
+}

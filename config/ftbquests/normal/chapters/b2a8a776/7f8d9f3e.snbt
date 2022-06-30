@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 228.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"blueslime\"},Damage:0s}",
+	tasks: [{
+		uid: "b732c071",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "blueslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

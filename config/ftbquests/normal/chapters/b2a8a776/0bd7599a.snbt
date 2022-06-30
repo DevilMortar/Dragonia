@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 57.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:teleport_surface\"},Damage:0s}",
+	tasks: [{
+		uid: "dfa74f11",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:teleport_surface"
+			}
+		}],
+		consume_items: true
+	}]
+}

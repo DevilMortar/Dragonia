@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 78.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:entities/spider\"},Damage:0s}",
+	tasks: [{
+		uid: "be9ffbfe",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "minecraft:entities/spider"
+			}
+		}],
+		consume_items: true
+	}]
+}

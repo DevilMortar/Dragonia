@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 333.0d,
+	description: "{id:\"harvestcraft:pamdragonfruit\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "87f357d8",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pamdragonfruit"
+		}],
+		consume_items: true
+	}]
+}

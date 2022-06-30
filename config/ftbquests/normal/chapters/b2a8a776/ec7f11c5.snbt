@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 146.0d,
+	description: "{id:\"ancientwarfarevehicle:treated_wood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6045561a",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:treated_wood"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 259.0d,
+	description: "{id:\"xreliquary:infernal_tear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "734890e6",
+		type: "item",
+		items: [{
+			item: "xreliquary:infernal_tear"
+		}],
+		consume_items: true
+	}]
+}

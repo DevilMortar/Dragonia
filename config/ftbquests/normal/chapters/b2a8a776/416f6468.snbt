@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 273.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"minecraft:fire_resistance\"},Damage:0s}",
+	tasks: [{
+		uid: "010c46f4",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "minecraft:fire_resistance"
+			}
+		}],
+		consume_items: true
+	}]
+}

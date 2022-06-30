@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 192.0d,
+	description: "{id:\"iceandfire:hydra_heart\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "87caf6cc",
+		type: "item",
+		items: [{
+			item: "iceandfire:hydra_heart"
+		}],
+		consume_items: true
+	}]
+}

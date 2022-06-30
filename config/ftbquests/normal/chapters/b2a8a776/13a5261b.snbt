@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 150.0d,
+	description: "{id:\"atum:ras_fury\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "75bbd96c",
+		type: "item",
+		items: [{
+			item: "atum:ras_fury"
+		}],
+		consume_items: true
+	}]
+}

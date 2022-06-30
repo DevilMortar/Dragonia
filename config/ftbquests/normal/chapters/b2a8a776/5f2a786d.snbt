@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 102.0d,
+	description: "{id:\"thaumcraft:taint_crust\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "583b1776",
+		type: "item",
+		items: [{
+			item: "thaumcraft:taint_crust"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 374.0d,
+	description: "{id:\"quark:prismarine_dark_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a57108c4",
+		type: "item",
+		items: [{
+			item: "quark:prismarine_dark_slab"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 346.0d,
+	description: "{id:\"harvestcraft:cranberryjellysandwichitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a51134f9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cranberryjellysandwichitem"
+		}],
+		consume_items: true
+	}]
+}

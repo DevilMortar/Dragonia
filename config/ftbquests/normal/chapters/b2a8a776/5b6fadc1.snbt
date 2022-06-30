@@ -1,0 +1,18 @@
+{
+	x: 39.0d,
+	y: 22.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"atum:pharaoh\"}},Damage:0s}",
+	tasks: [{
+		uid: "1de2daab",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "atum:pharaoh"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 170.0d,
+	description: "{id:\"dungeontactics:master_cutlass_pierce\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c45ca221",
+		type: "item",
+		items: [{
+			item: "dungeontactics:master_cutlass_pierce"
+		}],
+		consume_items: true
+	}]
+}

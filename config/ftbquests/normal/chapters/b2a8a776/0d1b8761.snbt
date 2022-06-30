@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 10.0d,
+	description: "{id:\"minecraft:golden_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6e333783",
+		type: "item",
+		items: [{
+			item: "minecraft:golden_boots"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 62.0d,
+	description: "{id:\"betternether:stalagnate_bark\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c951bc0d",
+		type: "item",
+		items: [{
+			item: "betternether:stalagnate_bark"
+		}],
+		consume_items: true
+	}]
+}

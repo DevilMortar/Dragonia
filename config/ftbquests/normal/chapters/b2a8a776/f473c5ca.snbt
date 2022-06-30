@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 222.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"sponge\"},Damage:0s}",
+	tasks: [{
+		uid: "dde11f1e",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "sponge"
+			}
+		}],
+		consume_items: true
+	}]
+}

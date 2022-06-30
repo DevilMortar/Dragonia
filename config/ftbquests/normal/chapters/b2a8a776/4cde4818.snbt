@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 141.0d,
+	description: "{id:\"ancientwarfarestructure:golden_throne\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8b6ec39e",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:golden_throne"
+		}],
+		consume_items: true
+	}]
+}

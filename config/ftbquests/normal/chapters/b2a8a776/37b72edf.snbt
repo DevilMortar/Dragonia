@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 353.0d,
+	description: "{id:\"harvestcraft:chipsanddipitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8378827f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:chipsanddipitem"
+		}],
+		consume_items: true
+	}]
+}

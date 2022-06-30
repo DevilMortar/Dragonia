@@ -1,0 +1,70 @@
+{
+	x: 34.0d,
+	y: 242.0d,
+	description: "{id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:752,HarvestLevel:1,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:752,HarvestLevel:1,Attack:4.0f},Special:{Categories:[\"harvest\",\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"bone\",\"bone\",\"bone\",\"bone\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"splintering\",color:-1186113,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"fractured\",\"splintering\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "685b5ce0",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.09f,
+					FreeModifiers: 3,
+					Durability: 752,
+					HarvestLevel: 1,
+					Attack: 2.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.09f,
+					FreeModifiers: 3,
+					Durability: 752,
+					HarvestLevel: 1,
+					Attack: 4.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"bone",
+						"bone",
+						"bone",
+						"bone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "fractured",
+					color: -1186113,
+					level: 1
+				},
+				{
+					identifier: "splintering",
+					color: -1186113,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"fractured",
+					"splintering",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

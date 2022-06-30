@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 353.0d,
+	description: "{id:\"harvestcraft:steakfajitaitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bbc9bad7",
+		type: "item",
+		items: [{
+			item: "harvestcraft:steakfajitaitem"
+		}],
+		consume_items: true
+	}]
+}

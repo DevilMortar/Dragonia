@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 371.0d,
+	description: "{id:\"quark:glass_shards\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "0b815f34",
+		type: "item",
+		items: [{
+			item: "quark:glass_shards 1 3"
+		}],
+		consume_items: true
+	}]
+}

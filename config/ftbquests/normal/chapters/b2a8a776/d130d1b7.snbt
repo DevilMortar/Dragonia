@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 300.0d,
+	description: "{id:\"spartanfire:throwing_knife_ice_dragonbone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8736419c",
+		type: "item",
+		items: [{
+			item: "spartanfire:throwing_knife_ice_dragonbone"
+		}],
+		consume_items: true
+	}]
+}

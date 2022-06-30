@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:amulet_ice_immunity\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5a83553c",
+		type: "item",
+		items: [{
+			item: "ebwizardry:amulet_ice_immunity"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 184.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"potioncore:broken_armor\"},Damage:0s}",
+	tasks: [{
+		uid: "7ad711da",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "potioncore:broken_armor"
+			}
+		}],
+		consume_items: true
+	}]
+}

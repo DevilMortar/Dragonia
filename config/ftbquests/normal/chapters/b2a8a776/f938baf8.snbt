@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 79.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"netherex:entity/brute\"},Damage:0s}",
+	tasks: [{
+		uid: "4d42c036",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "netherex:entity/brute"
+			}
+		}],
+		consume_items: true
+	}]
+}

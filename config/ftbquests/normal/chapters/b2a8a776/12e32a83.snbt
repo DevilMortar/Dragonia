@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 340.0d,
+	description: "{id:\"harvestcraft:cocoapowderitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9221da09",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cocoapowderitem"
+		}],
+		consume_items: true
+	}]
+}

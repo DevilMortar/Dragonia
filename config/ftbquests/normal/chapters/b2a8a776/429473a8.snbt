@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 15.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extraalchemy:pull_strong\"},Damage:0s}",
+	tasks: [{
+		uid: "ace6a74c",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extraalchemy:pull_strong"
+			}
+		}],
+		consume_items: true
+	}]
+}

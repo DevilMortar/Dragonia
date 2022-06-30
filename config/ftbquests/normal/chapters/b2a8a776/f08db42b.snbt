@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 120.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"pigiron\"},Damage:0s}",
+	tasks: [{
+		uid: "9c3a5623",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "pigiron"
+			}
+		}],
+		consume_items: true
+	}]
+}

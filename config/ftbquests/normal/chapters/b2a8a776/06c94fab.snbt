@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 258.0d,
+	description: "{id:\"xreliquary:glowing_bread\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "99b04e63",
+		type: "item",
+		items: [{
+			item: "xreliquary:glowing_bread"
+		}],
+		consume_items: true
+	}]
+}

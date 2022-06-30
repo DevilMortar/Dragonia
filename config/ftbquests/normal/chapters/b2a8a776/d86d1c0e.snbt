@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 340.0d,
+	description: "{id:\"harvestcraft:fishlettucewrapitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "130638d8",
+		type: "item",
+		items: [{
+			item: "harvestcraft:fishlettucewrapitem"
+		}],
+		consume_items: true
+	}]
+}

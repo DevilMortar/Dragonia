@@ -1,0 +1,22 @@
+{
+	x: 8.0d,
+	y: 267.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{lingering:1b,effects:[{duration:3000,potency:2,name:\"minecraft:speed\"}],hasPotion:1b},Damage:0s}",
+	tasks: [{
+		uid: "5c5d164e",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				lingering: 1b,
+				effects: [{
+					duration: 3000,
+					potency: 2,
+					name: "minecraft:speed"
+				}],
+				hasPotion: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

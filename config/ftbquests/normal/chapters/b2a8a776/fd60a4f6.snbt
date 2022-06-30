@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 112.0d,
+	description: "{id:\"ebwizardry:ring_stormcloud\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d8ee5154",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_stormcloud"
+		}],
+		consume_items: true
+	}]
+}

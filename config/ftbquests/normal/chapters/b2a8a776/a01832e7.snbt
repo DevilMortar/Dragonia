@@ -1,0 +1,18 @@
+{
+	x: 25.0d,
+	y: 138.0d,
+	description: "{id:\"ancientwarfarestructure:altar_candle\",Count:1b,tag:{color:16777215,customData:\"empire\",unlocalizedNamePart:\"faction\"},Damage:0s}",
+	tasks: [{
+		uid: "87d59c48",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:altar_candle",
+			tag: {
+				color: 16777215,
+				customData: "empire",
+				unlocalizedNamePart: "faction"
+			}
+		}],
+		consume_items: true
+	}]
+}

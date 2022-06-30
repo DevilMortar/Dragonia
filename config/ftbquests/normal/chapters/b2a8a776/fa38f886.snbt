@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 148.0d,
+	description: "{id:\"ancientwarfarevehicle:vehicle_upgrade_reload\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f6d2092",
+		type: "item",
+		items: [{
+			item: "ancientwarfarevehicle:vehicle_upgrade_reload"
+		}],
+		consume_items: true
+	}]
+}

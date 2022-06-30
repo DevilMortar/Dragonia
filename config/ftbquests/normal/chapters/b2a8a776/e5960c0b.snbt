@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 152.0d,
+	description: "{id:\"atum:fish_skeletal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4c6d5767",
+		type: "item",
+		items: [{
+			item: "atum:fish_skeletal"
+		}],
+		consume_items: true
+	}]
+}

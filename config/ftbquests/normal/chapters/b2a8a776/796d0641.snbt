@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 208.0d,
+	description: "{id:\"netherex:blazed_amedian_axe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3aa943e7",
+		type: "item",
+		items: [{
+			item: "netherex:blazed_amedian_axe"
+		}],
+		consume_items: true
+	}]
+}

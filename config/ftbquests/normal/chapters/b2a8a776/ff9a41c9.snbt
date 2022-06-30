@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 231.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1db27892",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables"
+		}],
+		consume_items: true
+	}]
+}

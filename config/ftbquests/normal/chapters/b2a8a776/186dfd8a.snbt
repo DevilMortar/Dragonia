@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 73.0d,
+	description: "{id:\"biomesoplenty:filled_honeycomb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1cddd968",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:filled_honeycomb"
+		}],
+		consume_items: true
+	}]
+}

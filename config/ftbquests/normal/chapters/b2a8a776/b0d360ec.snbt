@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 79.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"netherex:entity/spinout\"},Damage:0s}",
+	tasks: [{
+		uid: "24ad0d1c",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "netherex:entity/spinout"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 390.0d,
+	description: "{id:\"chisel:voidstonerunic\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fccbe50f",
+		type: "item",
+		items: [{
+			item: "chisel:voidstonerunic"
+		}],
+		consume_items: true
+	}]
+}

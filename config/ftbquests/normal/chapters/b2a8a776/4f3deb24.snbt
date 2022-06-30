@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 335.0d,
+	description: "{id:\"harvestcraft:pamcoconut\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f3f13212",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pamcoconut"
+		}],
+		consume_items: true
+	}]
+}

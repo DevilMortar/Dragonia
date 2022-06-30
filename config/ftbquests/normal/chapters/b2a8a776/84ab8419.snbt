@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 255.0d,
+	description: "{id:\"tconstruct:slime_channel\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "e6f472ab",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_channel 1 4"
+		}],
+		consume_items: true
+	}]
+}

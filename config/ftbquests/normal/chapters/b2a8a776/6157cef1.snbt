@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 139.0d,
+	description: "{id:\"ancientwarfarestructure:goblin_totem_1\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c56641d5",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:goblin_totem_1"
+		}],
+		consume_items: true
+	}]
+}

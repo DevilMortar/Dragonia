@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 73.0d,
+	description: "{id:\"biomesoplenty:brown_dye\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "664dea3e",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:brown_dye"
+		}],
+		consume_items: true
+	}]
+}

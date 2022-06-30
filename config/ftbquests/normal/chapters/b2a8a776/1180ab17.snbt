@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 74.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"VillageLibrary\"},Damage:0s}",
+	tasks: [{
+		uid: "0147aa37",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "VillageLibrary"
+			}
+		}],
+		consume_items: true
+	}]
+}

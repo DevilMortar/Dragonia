@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 112.0d,
+	description: "{id:\"ebwizardry:ring_soulbinding\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "58a981f0",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_soulbinding"
+		}],
+		consume_items: true
+	}]
+}

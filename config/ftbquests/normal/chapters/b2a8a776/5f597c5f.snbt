@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 390.0d,
+	description: "{id:\"chisel:blocktin\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "50ae345b",
+		type: "item",
+		items: [{
+			item: "chisel:blocktin 1 5"
+		}],
+		consume_items: true
+	}]
+}

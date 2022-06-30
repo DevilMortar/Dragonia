@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 387.0d,
+	description: "{id:\"chisel:blocklead\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "5fd6cc0d",
+		type: "item",
+		items: [{
+			item: "chisel:blocklead 1 2"
+		}],
+		consume_items: true
+	}]
+}

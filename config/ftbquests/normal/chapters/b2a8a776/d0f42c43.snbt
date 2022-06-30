@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 274.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"extraalchemy:magnetism_long\"},Damage:0s}",
+	tasks: [{
+		uid: "ce350b3c",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "extraalchemy:magnetism_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

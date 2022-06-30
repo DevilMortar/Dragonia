@@ -1,0 +1,17 @@
+{
+	x: 28.0d,
+	y: 122.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"craftsman\",npcType:\"worker\"},Damage:0s}",
+	tasks: [{
+		uid: "027fcd1a",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "craftsman",
+				npcType: "worker"
+			}
+		}],
+		consume_items: true
+	}]
+}

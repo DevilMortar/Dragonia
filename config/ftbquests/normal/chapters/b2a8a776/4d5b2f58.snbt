@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 120.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"firewood\"},Damage:0s}",
+	tasks: [{
+		uid: "548bdb14",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "firewood"
+			}
+		}],
+		consume_items: true
+	}]
+}

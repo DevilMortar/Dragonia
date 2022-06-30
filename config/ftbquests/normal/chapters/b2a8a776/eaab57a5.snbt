@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 135.0d,
+	description: "{id:\"conarm:travel_night\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d436555c",
+		type: "item",
+		items: [{
+			item: "conarm:travel_night"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 5.0d,
+	y: 106.0d,
+	description: "{id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"cobalt\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "2a5c9d2d",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "cobalt",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

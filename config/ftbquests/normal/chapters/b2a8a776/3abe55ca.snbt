@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 149.0d,
+	description: "{id:\"atum:limestone_pickaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a7854d83",
+		type: "item",
+		items: [{
+			item: "atum:limestone_pickaxe"
+		}],
+		consume_items: true
+	}]
+}

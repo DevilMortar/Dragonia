@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 142.0d,
+	description: "{id:\"ancientwarfarestructure:gate_spawner\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f1bc0ae4",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:gate_spawner"
+		}],
+		consume_items: true
+	}]
+}

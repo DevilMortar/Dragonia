@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 342.0d,
+	description: "{id:\"harvestcraft:espressoitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6b5c2a69",
+		type: "item",
+		items: [{
+			item: "harvestcraft:espressoitem"
+		}],
+		consume_items: true
+	}]
+}

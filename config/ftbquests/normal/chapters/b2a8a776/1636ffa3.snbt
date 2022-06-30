@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 93.0d,
+	description: "{id:\"atum:fertile_soil\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8793a368",
+		type: "item",
+		items: [{
+			item: "atum:fertile_soil"
+		}],
+		consume_items: true
+	}]
+}

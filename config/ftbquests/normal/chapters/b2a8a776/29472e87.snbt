@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 252.0d,
+	description: "{id:\"tconstruct:seared_stairs_paver\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9fa983d1",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_stairs_paver"
+		}],
+		consume_items: true
+	}]
+}

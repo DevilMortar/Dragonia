@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:charm_haggler\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a6f74db0",
+		type: "item",
+		items: [{
+			item: "ebwizardry:charm_haggler"
+		}],
+		consume_items: true
+	}]
+}

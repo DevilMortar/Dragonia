@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 323.0d,
+	description: "{id:\"aether_legacy:white_apple\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f15fcdf0",
+		type: "item",
+		items: [{
+			item: "aether_legacy:white_apple"
+		}],
+		consume_items: true
+	}]
+}

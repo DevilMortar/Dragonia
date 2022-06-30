@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 307.0d,
+	description: "{id:\"thaumicaugmentation:pressure_plate_arcane_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fdd0991d",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:pressure_plate_arcane_stone"
+		}],
+		consume_items: true
+	}]
+}

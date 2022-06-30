@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 17.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"potioncore:long_climb\"},Damage:0s}",
+	tasks: [{
+		uid: "99184a94",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:long_climb"
+			}
+		}],
+		consume_items: true
+	}]
+}

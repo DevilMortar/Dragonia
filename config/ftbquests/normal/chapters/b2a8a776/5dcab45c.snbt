@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 370.0d,
+	description: "{id:\"quark:end_bricks_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a82849e4",
+		type: "item",
+		items: [{
+			item: "quark:end_bricks_slab"
+		}],
+		consume_items: true
+	}]
+}

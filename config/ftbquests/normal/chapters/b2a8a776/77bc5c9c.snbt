@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 21.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"biomesoplenty:wasp\"}},Damage:0s}",
+	tasks: [{
+		uid: "3c487313",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "biomesoplenty:wasp"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

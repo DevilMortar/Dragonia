@@ -7,5 +7,10 @@
 		items: [{
 			item: "iceandfire:dragonsteel_fire_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "36dd660a",
+		type: "ftbmoney:money",
+		ftb_money: 30L
 	}]
 }

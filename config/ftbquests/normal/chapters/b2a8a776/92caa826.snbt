@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 297.0d,
+	description: "{id:\"spartanweaponry:battleaxe_electrum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "079f404c",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:battleaxe_electrum"
+		}],
+		consume_items: true
+	}]
+}

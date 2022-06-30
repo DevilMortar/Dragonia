@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 197.0d,
+	description: "{id:\"heroicarmory:ffthemasamune\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "93ee16fe",
+		type: "item",
+		items: [{
+			item: "heroicarmory:ffthemasamune"
+		}],
+		consume_items: true
+	}]
+}

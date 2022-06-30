@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 334.0d,
+	description: "{id:\"harvestcraft:passionfruit_sapling\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "897c8455",
+		type: "item",
+		items: [{
+			item: "harvestcraft:passionfruit_sapling"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 353.0d,
+	description: "{id:\"harvestcraft:crispyricepuffcerealitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "919d4127",
+		type: "item",
+		items: [{
+			item: "harvestcraft:crispyricepuffcerealitem"
+		}],
+		consume_items: true
+	}]
+}

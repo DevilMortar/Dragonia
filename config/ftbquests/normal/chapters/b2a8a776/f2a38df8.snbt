@@ -1,0 +1,18 @@
+{
+	x: 12.0d,
+	y: 27.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"moremobss:treestalkeracacia\"}},Damage:0s}",
+	tasks: [{
+		uid: "9791028d",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "moremobss:treestalkeracacia"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,68 @@
+{
+	x: 16.0d,
+	y: 381.0d,
+	description: "{id:\"tcomplement:chisel\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:607,HarvestLevel:1,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:607,HarvestLevel:1,Attack:4.0f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\",\"chisel\"]},TinkerData:{Materials:[\"bone\",\"bone\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"splintering\",color:-1186113,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"fractured\",\"splintering\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "98015717",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.09f,
+					FreeModifiers: 3,
+					Durability: 607,
+					HarvestLevel: 1,
+					Attack: 2.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.09f,
+					FreeModifiers: 3,
+					Durability: 607,
+					HarvestLevel: 1,
+					Attack: 4.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe",
+						"chisel"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"bone",
+						"bone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "fractured",
+					color: -1186113,
+					level: 1
+				},
+				{
+					identifier: "splintering",
+					color: -1186113,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"fractured",
+					"splintering",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

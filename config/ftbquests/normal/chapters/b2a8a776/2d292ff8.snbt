@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 173.0d,
+	description: "{id:\"dungeontactics:golden_plate_chestpiece\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "58c6f631",
+		type: "item",
+		items: [{
+			item: "dungeontactics:golden_plate_chestpiece"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 9.0d,
+	y: 266.0d,
+	description: "{id:\"xreliquary:potion\",Count:1b,tag:{effects:[{duration:750,potency:0,name:\"minecraft:water_breathing\"}],hasPotion:1b,splash:1b},Damage:0s}",
+	tasks: [{
+		uid: "c0f2c88d",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion",
+			tag: {
+				effects: [{
+					duration: 750,
+					potency: 0,
+					name: "minecraft:water_breathing"
+				}],
+				hasPotion: 1b,
+				splash: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

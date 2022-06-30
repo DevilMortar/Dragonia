@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 10.0d,
+	description: "{id:\"minecraft:golden_hoe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "80e0b59a",
+		type: "item",
+		items: [{
+			item: "minecraft:golden_hoe"
+		}],
+		consume_items: true
+	}]
+}

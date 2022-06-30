@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 294.0d,
+	description: "{id:\"spartanweaponry:javelin_tin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2ce9f2e2",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:javelin_tin"
+		}],
+		consume_items: true
+	}]
+}

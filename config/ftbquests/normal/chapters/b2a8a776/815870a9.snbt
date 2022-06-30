@@ -1,0 +1,18 @@
+{
+	x: 33.0d,
+	y: 21.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"primitivemobs:filch_lizard\"}},Damage:0s}",
+	tasks: [{
+		uid: "5b52973b",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "primitivemobs:filch_lizard"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

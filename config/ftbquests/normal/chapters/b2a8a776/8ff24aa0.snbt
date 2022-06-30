@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 362.0d,
+	description: "{id:\"vt:darkoakbark\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "132a3f12",
+		type: "item",
+		items: [{
+			item: "vt:darkoakbark"
+		}],
+		consume_items: true
+	}]
+}

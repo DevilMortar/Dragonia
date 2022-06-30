@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 118.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"flint\"},Damage:0s}",
+	tasks: [{
+		uid: "18a3a188",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "flint"
+			}
+		}],
+		consume_items: true
+	}]
+}

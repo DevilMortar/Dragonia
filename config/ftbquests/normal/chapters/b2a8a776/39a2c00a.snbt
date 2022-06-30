@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 93.0d,
+	description: "{id:\"atum:poison_trap\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bd48b403",
+		type: "item",
+		items: [{
+			item: "atum:poison_trap"
+		}],
+		consume_items: true
+	}]
+}

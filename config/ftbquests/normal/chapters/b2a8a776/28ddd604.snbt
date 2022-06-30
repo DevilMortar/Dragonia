@@ -1,0 +1,20 @@
+{
+	x: 35.0d,
+	y: 263.0d,
+	description: "{id:\"xreliquary:potion_essence\",Count:1b,tag:{effects:[{duration:250,potency:0,name:\"minecraft:wither\"}]},Damage:0s}",
+	tasks: [{
+		uid: "e4d8a317",
+		type: "item",
+		items: [{
+			id: "xreliquary:potion_essence",
+			tag: {
+				effects: [{
+					duration: 250,
+					potency: 0,
+					name: "minecraft:wither"
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

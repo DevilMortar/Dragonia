@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 75.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ancientspellcraft:inject/as_shrine\"},Damage:0s}",
+	tasks: [{
+		uid: "90c91a8f",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ancientspellcraft:inject/as_shrine"
+			}
+		}],
+		consume_items: true
+	}]
+}

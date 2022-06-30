@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 223.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"ardite\"},Damage:0s}",
+	tasks: [{
+		uid: "cecfb396",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "ardite"
+			}
+		}],
+		consume_items: true
+	}]
+}

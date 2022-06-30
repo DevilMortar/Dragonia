@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 202.0d,
+	description: "{id:\"heroicarmory:terrariabloodbutcherer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "476a02a1",
+		type: "item",
+		items: [{
+			item: "heroicarmory:terrariabloodbutcherer"
+		}],
+		consume_items: true
+	}]
+}

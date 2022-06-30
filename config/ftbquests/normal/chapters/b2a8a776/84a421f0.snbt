@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 372.0d,
+	description: "{id:\"quark:midori_pillar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8f545327",
+		type: "item",
+		items: [{
+			item: "quark:midori_pillar"
+		}],
+		consume_items: true
+	}]
+}

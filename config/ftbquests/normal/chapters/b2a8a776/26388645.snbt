@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 91.0d,
+	description: "{id:\"rustic:wind_thistle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4ea61a80",
+		type: "item",
+		items: [{
+			item: "rustic:wind_thistle"
+		}],
+		consume_items: true
+	}]
+}

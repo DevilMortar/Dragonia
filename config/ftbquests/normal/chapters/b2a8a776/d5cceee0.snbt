@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 72.0d,
+	description: "{id:\"biomesoplenty:fleshchunk\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dfab72ae",
+		type: "item",
+		items: [{
+			item: "biomesoplenty:fleshchunk"
+		}],
+		consume_items: true
+	}]
+}

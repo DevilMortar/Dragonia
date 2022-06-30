@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 365.0d,
+	description: "{id:\"quark:spruce_button\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bd49a2a0",
+		type: "item",
+		items: [{
+			item: "quark:spruce_button"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 208.0d,
+	description: "{id:\"netherex:withered_amedian_pickaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0b437def",
+		type: "item",
+		items: [{
+			item: "netherex:withered_amedian_pickaxe"
+		}],
+		consume_items: true
+	}]
+}

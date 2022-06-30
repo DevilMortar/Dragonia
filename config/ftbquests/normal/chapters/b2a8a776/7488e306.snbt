@@ -1,0 +1,18 @@
+{
+	x: 24.0d,
+	y: 128.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"sealsker\",npcType:\"faction.civilian.male\"},Damage:0s}",
+	tasks: [{
+		uid: "6bf0ba70",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "sealsker",
+				npcType: "faction.civilian.male"
+			}
+		}],
+		consume_items: true
+	}]
+}

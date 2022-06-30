@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 321.0d,
+	description: "{id:\"aether_legacy:aerogel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "43606630",
+		type: "item",
+		items: [{
+			item: "aether_legacy:aerogel"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 358.0d,
+	description: "{id:\"harvestcraft:cherrycheesecake\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a9181073",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cherrycheesecake"
+		}],
+		consume_items: true
+	}]
+}

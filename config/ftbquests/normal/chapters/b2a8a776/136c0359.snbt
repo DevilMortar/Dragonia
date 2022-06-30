@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 76.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ancientwarfare:inject/chests/stronghold_corridor\"},Damage:0s}",
+	tasks: [{
+		uid: "1424fc8c",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ancientwarfare:inject/chests/stronghold_corridor"
+			}
+		}],
+		consume_items: true
+	}]
+}

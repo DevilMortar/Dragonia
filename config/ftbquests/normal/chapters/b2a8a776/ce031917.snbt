@@ -1,0 +1,18 @@
+{
+	x: 13.0d,
+	y: 127.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"witchbane\",npcType:\"faction.archer\"},Damage:0s}",
+	tasks: [{
+		uid: "e7b48af8",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "witchbane",
+				npcType: "faction.archer"
+			}
+		}],
+		consume_items: true
+	}]
+}

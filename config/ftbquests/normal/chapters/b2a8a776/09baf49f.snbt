@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 189.0d,
+	description: "{id:\"iceandfire:dragonbone_sword_ice\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b2e1468e",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonbone_sword_ice"
+		}],
+		consume_items: true
+	}]
+}

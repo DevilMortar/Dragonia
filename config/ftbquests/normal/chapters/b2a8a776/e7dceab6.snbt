@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 370.0d,
+	description: "{id:\"quark:stonebrick_mossy_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cd0e86cb",
+		type: "item",
+		items: [{
+			item: "quark:stonebrick_mossy_wall"
+		}],
+		consume_items: true
+	}]
+}

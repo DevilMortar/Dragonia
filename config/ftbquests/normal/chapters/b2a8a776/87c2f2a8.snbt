@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 366.0d,
+	description: "{id:\"quark:bark_acacia_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c27ce42a",
+		type: "item",
+		items: [{
+			item: "quark:bark_acacia_stairs"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 83.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"ebwizardry:entities/mob_additions\"},Damage:0s}",
+	tasks: [{
+		uid: "e02b0826",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "ebwizardry:entities/mob_additions"
+			}
+		}],
+		consume_items: true
+	}]
+}

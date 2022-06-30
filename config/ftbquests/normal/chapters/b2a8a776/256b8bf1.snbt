@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 60.0d,
+	description: "{id:\"minecraft:record_11\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "654ae81f",
+		type: "item",
+		items: [{
+			item: "minecraft:record_11"
+		}],
+		consume_items: true
+	}]
+}

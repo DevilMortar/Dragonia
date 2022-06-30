@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 200.0d,
+	description: "{id:\"heroicarmory:dsgreatswordofartorias\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3af385f6",
+		type: "item",
+		items: [{
+			item: "heroicarmory:dsgreatswordofartorias"
+		}],
+		consume_items: true
+	}]
+}

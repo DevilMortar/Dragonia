@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 62.0d,
+	description: "{id:\"betternether:stalagnate_planks_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aadaccf0",
+		type: "item",
+		items: [{
+			item: "betternether:stalagnate_planks_stairs"
+		}],
+		consume_items: true
+	}]
+}

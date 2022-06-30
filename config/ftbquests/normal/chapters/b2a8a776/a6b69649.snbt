@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 259.0d,
+	description: "{id:\"xreliquary:serpent_staff\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b6b069d1",
+		type: "item",
+		items: [{
+			item: "xreliquary:serpent_staff"
+		}],
+		consume_items: true
+	}]
+}

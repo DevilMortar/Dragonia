@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 128.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"witchbane\",npcType:\"faction.civilian.female\"},Damage:0s}",
+	tasks: [{
+		uid: "9fcd681f",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "witchbane",
+				npcType: "faction.civilian.female"
+			}
+		}],
+		consume_items: true
+	}]
+}

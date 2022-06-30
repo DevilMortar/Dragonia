@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 256.0d,
+	description: "{id:\"primitivemobs:wonder_sap\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "857ba73d",
+		type: "item",
+		items: [{
+			item: "primitivemobs:wonder_sap"
+		}],
+		consume_items: true
+	}]
+}

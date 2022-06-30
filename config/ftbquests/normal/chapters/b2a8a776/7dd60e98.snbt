@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 375.0d,
+	description: "{id:\"quark:soul_sandstone\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "33eca4d1",
+		type: "item",
+		items: [{
+			item: "quark:soul_sandstone 1 2"
+		}],
+		consume_items: true
+	}]
+}

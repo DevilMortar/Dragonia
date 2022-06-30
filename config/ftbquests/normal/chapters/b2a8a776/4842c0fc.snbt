@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 338.0d,
+	description: "{id:\"harvestcraft:grilledasparagusitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8dca64ba",
+		type: "item",
+		items: [{
+			item: "harvestcraft:grilledasparagusitem"
+		}],
+		consume_items: true
+	}]
+}

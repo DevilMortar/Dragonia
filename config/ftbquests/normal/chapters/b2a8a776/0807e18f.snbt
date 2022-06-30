@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 334.0d,
+	description: "{id:\"harvestcraft:passionfruititem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5b446971",
+		type: "item",
+		items: [{
+			item: "harvestcraft:passionfruititem"
+		}],
+		consume_items: true
+	}]
+}

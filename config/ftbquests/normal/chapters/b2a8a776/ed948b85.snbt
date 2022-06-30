@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 79.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"primitivemobs:entities/festive_creeper\"},Damage:0s}",
+	tasks: [{
+		uid: "4ef68915",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "primitivemobs:entities/festive_creeper"
+			}
+		}],
+		consume_items: true
+	}]
+}

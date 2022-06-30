@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 200.0d,
+	description: "{id:\"heroicarmory:skyrimelvensword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6bdf19df",
+		type: "item",
+		items: [{
+			item: "heroicarmory:skyrimelvensword"
+		}],
+		consume_items: true
+	}]
+}

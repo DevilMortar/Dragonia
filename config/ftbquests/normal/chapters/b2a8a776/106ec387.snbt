@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 138.0d,
+	description: "{id:\"ancientwarfarestructure:altar_candle\",Count:1b,tag:{dyeColor:7},Damage:0s}",
+	tasks: [{
+		uid: "21f22a57",
+		type: "item",
+		items: [{
+			id: "ancientwarfarestructure:altar_candle",
+			tag: {
+				dyeColor: 7
+			}
+		}],
+		consume_items: true
+	}]
+}

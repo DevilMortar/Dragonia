@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 224.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"prismarine\"},Damage:0s}",
+	tasks: [{
+		uid: "6df184ab",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "prismarine"
+			}
+		}],
+		consume_items: true
+	}]
+}

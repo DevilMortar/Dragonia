@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 364.0d,
+	description: "{id:\"quark:custom_chest_trap\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "8f105b19",
+		type: "item",
+		items: [{
+			item: "quark:custom_chest_trap 1 1"
+		}],
+		consume_items: true
+	}]
+}

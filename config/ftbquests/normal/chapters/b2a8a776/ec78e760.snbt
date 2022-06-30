@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 219.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"dragonsteel_fire\"},Damage:0s}",
+	tasks: [{
+		uid: "012a8f7c",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "dragonsteel_fire"
+			}
+		}],
+		consume_items: true
+	}]
+}

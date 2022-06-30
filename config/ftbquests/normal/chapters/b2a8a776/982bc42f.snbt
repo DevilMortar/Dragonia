@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 149.0d,
+	description: "{id:\"atum:loot_dirty_ring\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "df58a6c7",
+		type: "item",
+		items: [{
+			item: "atum:loot_dirty_ring"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 340.0d,
+	description: "{id:\"harvestcraft:cornmealitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eacac033",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cornmealitem"
+		}],
+		consume_items: true
+	}]
+}

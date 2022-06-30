@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 84.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"minecraft:chests/end_city_treasure\"},Damage:0s}",
+	tasks: [{
+		uid: "f4af0f7d",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "minecraft:chests/end_city_treasure"
+			}
+		}],
+		consume_items: true
+	}]
+}

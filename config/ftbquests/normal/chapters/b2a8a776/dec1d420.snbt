@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 273.0d,
+	description: "{id:\"spartanweaponry:arrow_wood_tipped\",Count:1b,tag:{Potion:\"minecraft:slowness\"},Damage:0s}",
+	tasks: [{
+		uid: "0f1ef94c",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:arrow_wood_tipped",
+			tag: {
+				Potion: "minecraft:slowness"
+			}
+		}],
+		consume_items: true
+	}]
+}

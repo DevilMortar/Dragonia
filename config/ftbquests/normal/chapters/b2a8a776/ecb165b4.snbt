@@ -1,0 +1,18 @@
+{
+	x: 5.0d,
+	y: 310.0d,
+	description: "{ForgeCaps:{Parent:{biome:\"minecraft:mesa_clear_rock\"}},id:\"thaumicaugmentation:biome_selector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b0e6b5c7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					biome: "minecraft:mesa_clear_rock"
+				}
+			},
+			id: "thaumicaugmentation:biome_selector"
+		}],
+		consume_items: true
+	}]
+}

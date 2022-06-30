@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 231.0d,
+	description: "{id:\"tconstruct:fletching\",Count:1b,tag:{Material:\"slimeleaf_purple\"},Damage:0s}",
+	tasks: [{
+		uid: "bb1670f4",
+		type: "item",
+		items: [{
+			id: "tconstruct:fletching",
+			tag: {
+				Material: "slimeleaf_purple"
+			}
+		}],
+		consume_items: true
+	}]
+}

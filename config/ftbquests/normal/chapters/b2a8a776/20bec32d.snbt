@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 55.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"potioncore:saturation\"},Damage:0s}",
+	tasks: [{
+		uid: "173ba88f",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "potioncore:saturation"
+			}
+		}],
+		consume_items: true
+	}]
+}

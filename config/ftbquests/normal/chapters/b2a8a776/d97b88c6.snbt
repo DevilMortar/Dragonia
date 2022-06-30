@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 362.0d,
+	description: "{id:\"vt:junglebark\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "690ed7ad",
+		type: "item",
+		items: [{
+			item: "vt:junglebark"
+		}],
+		consume_items: true
+	}]
+}

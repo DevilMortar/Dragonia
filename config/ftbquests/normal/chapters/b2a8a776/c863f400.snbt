@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 179.0d,
+	description: "{id:\"extraalchemy:breakable_potion\",Count:1b,tag:{Potion:\"extraalchemy:sinking_long\"},Damage:0s}",
+	tasks: [{
+		uid: "f3fb3e90",
+		type: "item",
+		items: [{
+			id: "extraalchemy:breakable_potion",
+			tag: {
+				Potion: "extraalchemy:sinking_long"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 88.0d,
+	description: "{id:\"reccomplex:inventory_generation_component_tag\",Count:1b,tag:{itemCollectionKey:\"AirShrine\"},Damage:0s}",
+	tasks: [{
+		uid: "7e751b49",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_component_tag",
+			tag: {
+				itemCollectionKey: "AirShrine"
+			}
+		}],
+		consume_items: true
+	}]
+}

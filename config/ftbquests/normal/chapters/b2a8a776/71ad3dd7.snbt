@@ -1,0 +1,20 @@
+{
+	x: 20.0d,
+	y: 92.0d,
+	description: "{id:\"rustic:elixir\",Count:1b,tag:{ElixirEffects:[{Effect:\"minecraft:regeneration\",Duration:900,Amplifier:0}]},Damage:0s}",
+	tasks: [{
+		uid: "3b204702",
+		type: "item",
+		items: [{
+			id: "rustic:elixir",
+			tag: {
+				ElixirEffects: [{
+					Effect: "minecraft:regeneration",
+					Duration: 900,
+					Amplifier: 0
+				}]
+			}
+		}],
+		consume_items: true
+	}]
+}

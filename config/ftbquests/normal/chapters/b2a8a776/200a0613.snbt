@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 172.0d,
+	description: "{id:\"dungeontactics:mithril_shield\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "68ad0f78",
+		type: "item",
+		items: [{
+			item: "dungeontactics:mithril_shield"
+		}],
+		consume_items: true
+	}]
+}

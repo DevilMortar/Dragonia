@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 270.0d,
+	description: "{id:\"spartanweaponry:material\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f05b07cf",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:material"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 76.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ebwizardry:chests/jungle_dispenser_additions\"},Damage:0s}",
+	tasks: [{
+		uid: "8c31ca30",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ebwizardry:chests/jungle_dispenser_additions"
+			}
+		}],
+		consume_items: true
+	}]
+}

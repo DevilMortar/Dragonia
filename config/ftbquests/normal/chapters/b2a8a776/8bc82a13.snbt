@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 412.0d,
+	description: "{id:\"chisel:planks-oak\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "38fa94cf",
+		type: "item",
+		items: [{
+			item: "chisel:planks-oak 1 3"
+		}],
+		consume_items: true
+	}]
+}

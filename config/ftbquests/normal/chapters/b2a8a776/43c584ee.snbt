@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 343.0d,
+	description: "{id:\"harvestcraft:starfruityogurtitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8e85bb35",
+		type: "item",
+		items: [{
+			item: "harvestcraft:starfruityogurtitem"
+		}],
+		consume_items: true
+	}]
+}

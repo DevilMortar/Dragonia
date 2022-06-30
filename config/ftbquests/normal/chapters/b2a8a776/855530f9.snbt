@@ -1,0 +1,21 @@
+{
+	x: 15.0d,
+	y: 262.0d,
+	description: "{id:\"xreliquary:magazine\",Count:1b,tag:{effects:[{duration:450,potency:1,name:\"minecraft:resistance\"}]},Damage:1s}",
+	tasks: [{
+		uid: "fb928254",
+		type: "item",
+		items: [{
+			id: "xreliquary:magazine",
+			tag: {
+				effects: [{
+					duration: 450,
+					potency: 1,
+					name: "minecraft:resistance"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

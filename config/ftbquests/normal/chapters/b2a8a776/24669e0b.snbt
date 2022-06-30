@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 321.0d,
+	description: "{id:\"aether_legacy:berry_bush\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b0b504cb",
+		type: "item",
+		items: [{
+			item: "aether_legacy:berry_bush"
+		}],
+		consume_items: true
+	}]
+}

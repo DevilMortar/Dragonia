@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 10.0d,
+	description: "{id:\"minecraft:diamond_hoe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5eb33998",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_hoe"
+		}],
+		consume_items: true
+	}]
+}

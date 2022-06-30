@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 103.0d,
+	description: "{id:\"thaumcraft:candle_green\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7b65c96e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:candle_green"
+		}],
+		consume_items: true
+	}]
+}

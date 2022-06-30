@@ -1,0 +1,18 @@
+{
+	x: 3.0d,
+	y: 124.0d,
+	description: "{id:\"ancientwarfarenpc:npc_spawner\",Count:1b,tag:{npcSubtype:\"\",faction:\"coven\",npcType:\"faction.priest\"},Damage:0s}",
+	tasks: [{
+		uid: "a80cb0e6",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:npc_spawner",
+			tag: {
+				npcSubtype: "",
+				faction: "coven",
+				npcType: "faction.priest"
+			}
+		}],
+		consume_items: true
+	}]
+}

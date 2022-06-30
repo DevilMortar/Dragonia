@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 198.0d,
+	description: "{id:\"heroicarmory:scflamberge\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02e59474",
+		type: "item",
+		items: [{
+			item: "heroicarmory:scflamberge"
+		}],
+		consume_items: true
+	}]
+}

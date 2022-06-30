@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 169.0d,
+	description: "{id:\"mocreatures:scorpplatefrost\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "753ccc1d",
+		type: "item",
+		items: [{
+			item: "mocreatures:scorpplatefrost"
+		}],
+		consume_items: true
+	}]
+}

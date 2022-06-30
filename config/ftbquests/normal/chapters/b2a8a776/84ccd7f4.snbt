@@ -1,0 +1,18 @@
+{
+	x: 5.0d,
+	y: 22.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"primitivemobs:traveling_merchant\"}},Damage:0s}",
+	tasks: [{
+		uid: "28a0646c",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "primitivemobs:traveling_merchant"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

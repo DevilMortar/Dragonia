@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 122.0d,
+	description: "{id:\"ancientwarfarenpc:combat_order\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1d64ea20",
+		type: "item",
+		items: [{
+			item: "ancientwarfarenpc:combat_order"
+		}],
+		consume_items: true
+	}]
+}

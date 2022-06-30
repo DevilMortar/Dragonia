@@ -1,0 +1,65 @@
+{
+	x: 15.0d,
+	y: 251.0d,
+	description: "{id:\"tconstruct:shuriken\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:1350,HarvestLevel:0,Attack:2.8f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:1350,HarvestLevel:0,Attack:2.8f},Special:{Categories:[\"tool\",\"projectile\",\"no_melee\"]},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\",\"slime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"slimey_green\",color:-8206221,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"slimey_green\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "58bfc886",
+		type: "item",
+		items: [{
+			id: "tconstruct:shuriken",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 4.24f,
+					FreeModifiers: 3,
+					Durability: 1350,
+					HarvestLevel: 0,
+					Attack: 2.8f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 4.24f,
+					FreeModifiers: 3,
+					Durability: 1350,
+					HarvestLevel: 0,
+					Attack: 2.8f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"projectile",
+						"no_melee"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"slime",
+						"slime",
+						"slime",
+						"slime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "slimey_green",
+					color: -8206221,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"slimey_green",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

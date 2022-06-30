@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 223.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"dragonsteel_fire\"},Damage:0s}",
+	tasks: [{
+		uid: "40500b9f",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "dragonsteel_fire"
+			}
+		}],
+		consume_items: true
+	}]
+}

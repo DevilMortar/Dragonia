@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 84.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"iceandfire:cyclops_cave\"},Damage:0s}",
+	tasks: [{
+		uid: "5760c920",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "iceandfire:cyclops_cave"
+			}
+		}],
+		consume_items: true
+	}]
+}

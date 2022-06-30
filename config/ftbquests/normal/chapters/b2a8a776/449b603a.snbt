@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 199.0d,
+	description: "{id:\"heroicarmory:rssteelscimitar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "935f21be",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rssteelscimitar"
+		}],
+		consume_items: true
+	}]
+}

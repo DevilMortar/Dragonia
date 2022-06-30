@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 318.0d,
+	description: "{id:\"waystones:waystone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "feccc7bf",
+		type: "item",
+		items: [{
+			item: "waystones:waystone"
+		}],
+		consume_items: true
+	}]
+}

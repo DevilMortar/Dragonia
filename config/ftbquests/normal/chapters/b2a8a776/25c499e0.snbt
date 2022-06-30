@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:ring_blockwrangler\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e0b98d62",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_blockwrangler"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 75.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"ancientspellcraft:inject/as_wizard_tower\"},Damage:0s}",
+	tasks: [{
+		uid: "6b8292e7",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "ancientspellcraft:inject/as_wizard_tower"
+			}
+		}],
+		consume_items: true
+	}]
+}

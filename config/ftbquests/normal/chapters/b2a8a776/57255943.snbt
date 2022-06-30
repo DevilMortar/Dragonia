@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 339.0d,
+	description: "{id:\"harvestcraft:orangejuiceitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f9c7864d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:orangejuiceitem"
+		}],
+		consume_items: true
+	}]
+}

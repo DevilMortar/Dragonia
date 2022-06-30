@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 362.0d,
+	description: "{id:\"harvestcraft:hardenedleatherbootsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fed8606e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:hardenedleatherbootsitem"
+		}],
+		consume_items: true
+	}]
+}

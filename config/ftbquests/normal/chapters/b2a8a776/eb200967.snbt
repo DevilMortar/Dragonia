@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 334.0d,
+	description: "{id:\"harvestcraft:jackfruititem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d63481c6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:jackfruititem"
+		}],
+		consume_items: true
+	}]
+}

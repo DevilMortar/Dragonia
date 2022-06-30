@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 75.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"aether_legacy:entities/flying_cow\"},Damage:0s}",
+	tasks: [{
+		uid: "1078fb3a",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "aether_legacy:entities/flying_cow"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 95.0d,
+	description: "{id:\"atum:porphyry_brick_carved\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1648d8df",
+		type: "item",
+		items: [{
+			item: "atum:porphyry_brick_carved"
+		}],
+		consume_items: true
+	}]
+}

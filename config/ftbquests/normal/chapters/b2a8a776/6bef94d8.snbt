@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 320.0d,
+	description: "{id:\"zettaimagic:pact_teleport\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2c522681",
+		type: "item",
+		items: [{
+			item: "zettaimagic:pact_teleport"
+		}],
+		consume_items: true
+	}]
+}

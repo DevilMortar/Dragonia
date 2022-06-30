@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"magmaslime\"},Damage:0s}",
+	tasks: [{
+		uid: "787b935b",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "magmaslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

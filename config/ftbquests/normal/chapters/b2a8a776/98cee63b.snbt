@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 195.0d,
+	description: "{id:\"iceandfire:cockatrice_skull\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d3c7d39",
+		type: "item",
+		items: [{
+			item: "iceandfire:cockatrice_skull"
+		}],
+		consume_items: true
+	}]
+}

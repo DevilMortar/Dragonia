@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 113.0d,
+	description: "{id:\"ebwizardry:ring_interdiction\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "30fde5d0",
+		type: "item",
+		items: [{
+			item: "ebwizardry:ring_interdiction"
+		}],
+		consume_items: true
+	}]
+}

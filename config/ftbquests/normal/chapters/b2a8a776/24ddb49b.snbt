@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 149.0d,
+	description: "{id:\"atum:idol_of_labor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6e07ca64",
+		type: "item",
+		items: [{
+			item: "atum:idol_of_labor"
+		}],
+		consume_items: true
+	}]
+}

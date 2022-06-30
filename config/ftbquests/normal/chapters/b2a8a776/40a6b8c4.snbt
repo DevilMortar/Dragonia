@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 297.0d,
+	description: "{id:\"spartanweaponry:dagger_electrum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0314483b",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:dagger_electrum"
+		}],
+		consume_items: true
+	}]
+}

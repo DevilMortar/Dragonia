@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 165.0d,
+	description: "{id:\"thaumcraft:verdant_charm\",Count:1b,tag:{type:1b},Damage:0s}",
+	tasks: [{
+		uid: "c5cb9950",
+		type: "item",
+		items: [{
+			id: "thaumcraft:verdant_charm",
+			tag: {
+				type: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

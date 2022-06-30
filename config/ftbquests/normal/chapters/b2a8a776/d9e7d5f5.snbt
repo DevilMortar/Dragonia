@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 345.0d,
+	description: "{id:\"harvestcraft:gummybearsitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "75522af5",
+		type: "item",
+		items: [{
+			item: "harvestcraft:gummybearsitem"
+		}],
+		consume_items: true
+	}]
+}

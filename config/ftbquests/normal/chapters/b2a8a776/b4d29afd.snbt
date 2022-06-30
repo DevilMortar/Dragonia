@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 138.0d,
+	description: "{id:\"ancientwarfarestructure:altar_sun\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cc237c2f",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:altar_sun"
+		}],
+		consume_items: true
+	}]
+}

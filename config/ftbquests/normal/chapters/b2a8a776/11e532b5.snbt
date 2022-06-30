@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 192.0d,
+	description: "{id:\"iceandfire:amphithere_macuahuitl\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cdd97fe3",
+		type: "item",
+		items: [{
+			item: "iceandfire:amphithere_macuahuitl"
+		}],
+		consume_items: true
+	}]
+}

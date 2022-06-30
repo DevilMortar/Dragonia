@@ -1,0 +1,23 @@
+{
+	title: "10",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "gear",
+	can_repeat: true,
+	tasks: [{
+		uid: "574026cb",
+		type: "item",
+		items: [{
+			id: "ancientwarfarenpc:coin",
+			tag: {
+				metal: "gold"
+			}
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "17bd3d9e",
+		type: "ftbmoney:money",
+		ftb_money: 80L
+	}]
+}

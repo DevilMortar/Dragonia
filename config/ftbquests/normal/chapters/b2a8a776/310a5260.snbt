@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 115.0d,
+	description: "{id:\"ancientspellcraft:charm_seed_bag\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b39c31cb",
+		type: "item",
+		items: [{
+			item: "ancientspellcraft:charm_seed_bag"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 10.0d,
+	description: "{id:\"minecraft:chainmail_chestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a4670293",
+		type: "item",
+		items: [{
+			item: "minecraft:chainmail_chestplate"
+		}],
+		consume_items: true
+	}]
+}

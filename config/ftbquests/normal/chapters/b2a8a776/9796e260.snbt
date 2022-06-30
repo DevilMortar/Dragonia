@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 174.0d,
+	description: "{id:\"dungeontactics:pirate_hook\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7ec6282e",
+		type: "item",
+		items: [{
+			item: "dungeontactics:pirate_hook"
+		}],
+		consume_items: true
+	}]
+}

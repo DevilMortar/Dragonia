@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 87.0d,
+	description: "{id:\"reccomplex:inventory_generation_single_tag\",Count:1b,tag:{itemCollectionKey:\"zettaimagic:gameplay/imbuement_altar/ruined_spell_book_earth\"},Damage:0s}",
+	tasks: [{
+		uid: "41ab342b",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_single_tag",
+			tag: {
+				itemCollectionKey: "zettaimagic:gameplay/imbuement_altar/ruined_spell_book_earth"
+			}
+		}],
+		consume_items: true
+	}]
+}

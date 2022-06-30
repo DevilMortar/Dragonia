@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 363.0d,
+	description: "{id:\"quark:limestone\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "ff28e910",
+		type: "item",
+		items: [{
+			item: "quark:limestone 1 1"
+		}],
+		consume_items: true
+	}]
+}

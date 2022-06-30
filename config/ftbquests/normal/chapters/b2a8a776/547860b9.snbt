@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 93.0d,
+	description: "{id:\"atum:dead_grass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8d99bf2b",
+		type: "item",
+		items: [{
+			item: "atum:dead_grass"
+		}],
+		consume_items: true
+	}]
+}

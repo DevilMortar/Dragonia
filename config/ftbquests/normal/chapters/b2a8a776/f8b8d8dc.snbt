@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 261.0d,
+	description: "{id:\"xreliquary:bullet\",Count:1b,tag:{effects:[{duration:150,potency:0,name:\"minecraft:water_breathing\"}]},Damage:1s}",
+	tasks: [{
+		uid: "ed16cc54",
+		type: "item",
+		items: [{
+			id: "xreliquary:bullet",
+			tag: {
+				effects: [{
+					duration: 150,
+					potency: 0,
+					name: "minecraft:water_breathing"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

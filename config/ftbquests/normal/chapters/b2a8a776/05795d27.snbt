@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 319.0d,
+	description: "{id:\"zettaimagic:advanced_glove\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "770dba0e",
+		type: "item",
+		items: [{
+			item: "zettaimagic:advanced_glove"
+		}],
+		consume_items: true
+	}]
+}

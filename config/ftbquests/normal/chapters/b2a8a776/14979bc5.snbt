@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 177.0d,
+	description: "{id:\"dungeontactics:radio\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3ef33b6e",
+		type: "item",
+		items: [{
+			item: "dungeontactics:radio"
+		}],
+		consume_items: true
+	}]
+}

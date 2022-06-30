@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 74.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"WoodStorage\"},Damage:0s}",
+	tasks: [{
+		uid: "48f45dc2",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "WoodStorage"
+			}
+		}],
+		consume_items: true
+	}]
+}

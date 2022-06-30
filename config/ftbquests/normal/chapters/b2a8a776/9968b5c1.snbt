@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 332.0d,
+	description: "{id:\"harvestcraft:seaweeditem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cf56b42e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:seaweeditem"
+		}],
+		consume_items: true
+	}]
+}

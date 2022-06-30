@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 346.0d,
+	description: "{id:\"harvestcraft:watermelonjellyitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e3f352d8",
+		type: "item",
+		items: [{
+			item: "harvestcraft:watermelonjellyitem"
+		}],
+		consume_items: true
+	}]
+}

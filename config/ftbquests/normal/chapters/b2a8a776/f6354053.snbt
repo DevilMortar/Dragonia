@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 59.0d,
+	description: "{id:\"minecraft:record_blocks\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1e1d008f",
+		type: "item",
+		items: [{
+			item: "minecraft:record_blocks"
+		}],
+		consume_items: true
+	}]
+}

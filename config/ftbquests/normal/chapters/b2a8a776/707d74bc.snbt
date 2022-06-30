@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 305.0d,
+	description: "{id:\"storagedrawers:basicdrawers\",Count:1b,tag:{material:\"dark_oak\"},Damage:0s}",
+	tasks: [{
+		uid: "1f984640",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "dark_oak"
+			}
+		}],
+		consume_items: true
+	}]
+}

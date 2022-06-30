@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 425.0d,
+	description: "{id:\"tcomplement:chisel_head\",Count:1b,tag:{Material:\"paper\"},Damage:0s}",
+	tasks: [{
+		uid: "257a8650",
+		type: "item",
+		items: [{
+			id: "tcomplement:chisel_head",
+			tag: {
+				Material: "paper"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 328.0d,
+	description: "{id:\"lost_aether:phoenix_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "59eb9ca6",
+		type: "item",
+		items: [{
+			item: "lost_aether:phoenix_shovel"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 370.0d,
+	description: "{id:\"quark:root_dye\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "6af7b1c1",
+		type: "item",
+		items: [{
+			item: "quark:root_dye 1 2"
+		}],
+		consume_items: true
+	}]
+}

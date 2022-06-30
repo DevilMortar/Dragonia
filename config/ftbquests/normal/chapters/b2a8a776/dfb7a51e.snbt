@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 153.0d,
+	description: "{id:\"bibliocraft:lanterniron\",Count:1b,Damage:14s}",
+	tasks: [{
+		uid: "92e86ec4",
+		type: "item",
+		items: [{
+			item: "bibliocraft:lanterniron 1 14"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 44.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"potioncore:vulnerable\"},Damage:0s}",
+	tasks: [{
+		uid: "ea66d129",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "potioncore:vulnerable"
+			}
+		}],
+		consume_items: true
+	}]
+}

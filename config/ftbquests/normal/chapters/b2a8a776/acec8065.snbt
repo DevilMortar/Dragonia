@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 162.0d,
+	description: "{id:\"thaumcraft:chunk\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "8a557d47",
+		type: "item",
+		items: [{
+			item: "thaumcraft:chunk 1 4"
+		}],
+		consume_items: true
+	}]
+}

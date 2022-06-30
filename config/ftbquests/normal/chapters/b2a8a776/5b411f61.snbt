@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 350.0d,
+	description: "{id:\"harvestcraft:okracreoleitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3056c6a2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:okracreoleitem"
+		}],
+		consume_items: true
+	}]
+}

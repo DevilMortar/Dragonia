@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 294.0d,
+	description: "{id:\"spartanweaponry:crossbow_tin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c36cdbc4",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:crossbow_tin"
+		}],
+		consume_items: true
+	}]
+}

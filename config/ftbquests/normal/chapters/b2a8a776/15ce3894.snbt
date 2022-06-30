@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 74.0d,
+	description: "{id:\"reccomplex:inventory_generation_tag\",Count:1b,tag:{itemCollectionKey:\"VillageKitchen\"},Damage:0s}",
+	tasks: [{
+		uid: "77e8e1e2",
+		type: "item",
+		items: [{
+			id: "reccomplex:inventory_generation_tag",
+			tag: {
+				itemCollectionKey: "VillageKitchen"
+			}
+		}],
+		consume_items: true
+	}]
+}

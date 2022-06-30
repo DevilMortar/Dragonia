@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 347.0d,
+	description: "{id:\"harvestcraft:apricotglazedporkitem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "558fe4f1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:apricotglazedporkitem"
+		}],
+		consume_items: true
+	}]
+}
