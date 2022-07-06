@@ -1,0 +1,173 @@
+{
+	"biome": "biomesoplenty:fungi_forest",
+	"generationWeight": 4,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"blocks": {},
+	"entities": [
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "primitivemobs:harpy"
+		}, 
+		{
+			"spawnWeight": 25,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:trollager"
+		}, 
+		{
+			"spawnWeight": 30,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:support_creeper"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:blazing_juggernaut"
+		}, 
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 3,
+			"entity": "primitivemobs:skeleton_warrior"
+		}, 
+		{
+			"spawnWeight": 70,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:haunted_tool"
+		}, 
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:goblin"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:void_eye"
+		}, 
+		{
+			"spawnWeight": 20,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:bewitched_tome"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:festive_creeper"
+		}, 
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "multimob:dummy"
+		}, 
+		{
+			"spawnWeight": 20,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:treasure_slime"
+		}, 
+		{
+			"spawnWeight": 40,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:mother_spider"
+		}, 
+		{
+			"spawnWeight": 50,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:rocket_creeper"
+		}, 
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:bewitched_tome"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:trollager"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:festive_creeper"
+		}, 
+		{
+			"spawnWeight": 50,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 3,
+			"entity": "primitivemobs:goblin"
+		}, 
+		{
+			"spawnWeight": 40,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "primitivemobs:sheepman"
+		}, 
+		{
+			"spawnWeight": 4,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:lost_miner"
+		}, 
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "primitivemobs:dodo"
+		}, 
+		{
+			"spawnWeight": 25,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:traveling_merchant"
+		}, 
+		{
+			"spawnWeight": 50,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "multimob:dummy"
+		}, 
+		{
+			"spawnWeight": 50,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "multimob:dummy"
+		}, 
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:flame_spewer"
+		}, 
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "primitivemobs:flame_spewer"
+		}, 
+		{
+			"spawnWeight": 50,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "multimob:dummy"
+		}
+	],
+	"traits": [],
+	"subBiomes": []
+}
